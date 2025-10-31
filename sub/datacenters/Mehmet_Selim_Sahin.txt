@@ -1,8 +1,8 @@
-trojan://hd8xtbjk-jq3k-a53g-5k37-mg6scgm93zu0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://9nktr5x6-ah49-vxnu-59fw-jzcenr8lj1dx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://agiqvuxi-nskm-gj1z-fvdw-hjyacqvt8kui@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ys98pvsw-39gg-n43z-uhaf-8t5ulydsuopx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://3pii6est-nrqp-k66p-18p3-4f3atrhrplge@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ayscunw7-mt28-4rux-veu0-redveovk87ml@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1laG1ldCBTZWxpbSBTYWhpbiBcdTI1MDcgODQuNTQuMTMuMzAiLCJhZGQiOiI4NC41NC4xMy4zMCIsInBvcnQiOjIxMjY0LCJpZCI6ImJkY2Q5NGE1LTU3ZDYtNDcyNy1kNDBjLTVlYjMyZjI5NGVlZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 trojan://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?sni=www.sega.com&peer=www.sega.com&security=reality#TR 🇹🇷 ┇ TROJAN-TCP-REALITY - Mehmet Selim Sahin ┇ 176.98.41.45
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1laG1ldCBTZWxpbSBTYWhpbiBcdTI1MDcgMTkzLjMxLjExNi4xOTgiLCJhZGQiOiIxOTMuMzEuMTE2LjE5OCIsInBvcnQiOjI4MTI5LCJpZCI6IjZmNGQwZjliLTQyZGUtNGZlMC1lOWNjLTBmZTJiMWMwNTg4ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://iqrnnhj7-lbe8-b0t5-w4rv-9t7j5xmodv3c@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m3vxn27d-27wc-xq3n-90hb-6anv4ziildh5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://xemaij0y-vqnv-4v2a-k03w-17jnpj46u10u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y38f2ymm-f0s3-gkt8-w4nb-op5abotc5zr2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,8 +1,8 @@
-trojan://xa219kvi-h4y1-5wwg-ywlg-dhowv5etu42r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://wauu9lpe-zu4e-rfjp-0sq5-ukrcl6io49vo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1p4wg5a8-zeza-c33c-tvqy-nbl9l5c00d95@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@37.235.49.124:808#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.124
+trojan://rig5zyva-o0kv-v7lh-hlbt-zhfy2qkti35a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://gcqqvgo3-mqqb-gk6y-10yb-ysv7628pomqw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://abfcv5v8-461k-frgb-0553-g789k8hgqzn0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.152
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@37.235.49.124:808#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.124
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.168
-trojan://qu2ahkro-7jv3-puiv-x70u-lxmk5q7m3zew@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xsacimrg-90ox-pb4g-y9rv-dbj8j8knf3cv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://9ap6wf3w-odjw-3ql5-rptc-x6os8i5y7stq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ywfs5a5d-21jr-gbnk-g61m-nf32x9wf0a4u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://lj02rx7q-4jle-ruxj-skf7-qojrf21trl6w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://j4l6hr7l-nhtk-79cg-8ohk-71xyutbhikoc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://j337w9z3-zog4-mwx4-n9oz-8nw2em8w2nws@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f922f5f4-6ee1-4bd2-a1ee-6b9dc223e223@btmnwiknurwp.eu-central-1.clawcloudrun.com:80?type=xhttp&security=none&path=/ed?=2048#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Alibaba Cloud Singapore Private Limited ┇ 47.245.158.145
-trojan://yapiwnpk-e1pz-0ptl-gpn8-oe6owgnfyag2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://d58b0hk0-82pw-jxza-kik0-ickz7ot1xzat@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://g1e068bk-f00i-40vm-enis-33hx8pi21rcr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://ql6gojob-9ph8-xp3b-q0pk-eqgfegtxu6us@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4pjxwt5m-lc39-zx9i-qtl6-91n9j8dlky7i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://f922f5f4-6ee1-4bd2-a1ee-6b9dc223e223@btmnwiknurwp.eu-central-1.clawcloudrun.com:80?type=xhttp&security=none&path=/ed?=2048#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Alibaba Cloud Singapore Private Limited ┇ 47.245.156.232
+trojan://n86ff6xv-t3pd-23he-00pd-6ceqgwfoo2f7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m1knop3v-en2w-plui-5cde-o2f32y90hvnx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

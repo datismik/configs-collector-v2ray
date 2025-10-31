@@ -1,21 +1,21 @@
-trojan://vx4ip16b-4dmn-1bmz-zm8i-bgua2owl5od1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://4ipzyn65-qv0h-fmuq-kexd-15kanahcfx7w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://l6vsdy9k-j0lj-aw8r-2y8k-fhfunl0e64by@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://fcc3bc87-eb71-4e0a-a172-a8193c1f62c8@216.22.5.99:443?type=xhttp&security=none&path=/dsf#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.99
+trojan://94l3ol9v-gewe-an0m-7yzi-4y4zcfj8cpc5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://gcu6esep-gf4q-npr7-a3lv-cu1tqxdqx5sj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://brtux3hf-w0h8-z0cc-op9a-fiizkg8w70sq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://turboo-server@209.50.227.9:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 209.50.227.9
 vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?type=xhttp&security=none&path=/sdf#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.96
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQi1VU0EtV0RDIFx1MjUwNyAxOTIuOTYuMjA0LjI1MCIsImFkZCI6IjE5Mi45Ni4yMDQuMjUwIiwicG9ydCI6NDQzLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoidXNhLXdhc2hpbmd0b24ubHZ1ZnQuY29tIiwicGF0aCI6Ii93cyIsInRscyI6InRscyIsInNuaSI6InVzYS13YXNoaW5ndG9uLmx2dWZ0LmNvbSJ9
-vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.70
-vless://e15ad8b7-9ce6-4667-baac-38e064693cad@deu414.unboundaccess.org:443?type=tcp&security=reality&sni=www.screwfix.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKssj1lzhaQ8mULR4L6leE4-0WTAs#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-WDC ┇ 80.253.251.250
-vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@216.22.5.244:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.244
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@207.244.65.58:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 207.244.65.58
-vless://b1855905-34cd-44c1-a83a-127f64833a57@216.22.5.76:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.76
-vless://8dcd0c9f-4393-49e8-aef8-6eee570d1e5b@deu415.unboundaccess.org:443?type=tcp&security=reality&sni=www.screwfix.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-WDC ┇ 80.253.251.214
-vless://eb64d6b8-b3ed-48a2-9662-af2c65352215@ltu01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-WDC ┇ 195.66.25.169
+vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.70
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.166:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.196.166
-vless://e1c32bed-b458-4273-a953-a74eff15d54c@216.22.5.79:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.79
-vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@216.22.5.158:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.158
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.199.65:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.199.65
+vless://b1855905-34cd-44c1-a83a-127f64833a57@216.22.5.76:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.76
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@199.115.116.216:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 199.115.116.216
-trojan://aaykcdwt-qfr7-qtlw-ch9r-r2vjt4bzx4cj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jeaemdwu-v4th-42pz-4nqn-en2ykevt1cfu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@216.22.5.158:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.158
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQi1VU0EtV0RDIFx1MjUwNyAxOTIuOTYuMjA0LjI1MCIsImFkZCI6IjE5Mi45Ni4yMDQuMjUwIiwicG9ydCI6NDQzLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoidXNhLXdhc2hpbmd0b24ubHZ1ZnQuY29tIiwicGF0aCI6Ii93cyIsInRscyI6InRscyIsInNuaSI6InVzYS13YXNoaW5ndG9uLmx2dWZ0LmNvbSJ9
+vless://e1c32bed-b458-4273-a953-a74eff15d54c@216.22.5.79:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.79
+vless://fcc3bc87-eb71-4e0a-a172-a8193c1f62c8@216.22.5.99:443?type=xhttp&security=none&path=/dsf#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.99
+vless://eb64d6b8-b3ed-48a2-9662-af2c65352215@ltu01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-WDC ┇ 195.66.25.169
+vless://8dcd0c9f-4393-49e8-aef8-6eee570d1e5b@deu415.unboundaccess.org:443?type=tcp&security=reality&sni=www.screwfix.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-WDC ┇ 80.253.251.214
+vless://e15ad8b7-9ce6-4667-baac-38e064693cad@deu414.unboundaccess.org:443?type=tcp&security=reality&sni=www.screwfix.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKssj1lzhaQ8mULR4L6leE4-0WTAs#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-WDC ┇ 80.253.251.203
+vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@216.22.5.244:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.244
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.199.65:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.199.65
+trojan://jsfz007n-4v8g-231d-fob5-gml8lvif9ftk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1swxw33a-yvyh-u81z-h960-adrwkia2seb1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

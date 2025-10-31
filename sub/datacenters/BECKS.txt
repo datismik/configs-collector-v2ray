@@ -1,7 +1,7 @@
-trojan://5qfd2oyw-qnsz-1yrg-k0ba-irc6cekoag7u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://tmwqlfen-mbd6-jcwo-aawo-4pm4xxztj0di@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pa21mf3d-n0ot-3fhs-h1e0-x7w896d9fil8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pixik35b-u5nx-t7v1-2y5x-xfb6n3xkn3as@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://yr62qsk7-81ej-h5zf-49ho-2ic7utrx3i86@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1opadbsi-mkpu-i3is-pisi-n0qrg4y692h4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.29:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.29
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@141.193.27.247:8880?type=ws&security=none&path=/Telegram🇨🇦&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.247
-trojan://5j3ecnta-3k96-nkbh-0hsv-ljitptw9j50l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://37wjrhex-3r1c-qmn8-ne1u-2ocfq628phwr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://zg0xozo8-ponc-evov-l1jf-1xvqz9g1libv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://18ey0oy2-y3ry-pd46-rh4v-h2zy2opbeyjx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

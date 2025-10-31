@@ -1,7 +1,7 @@
-trojan://iv4xfu1f-6nf2-r54c-rx90-2ebcgscnrxu1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://wqoh9std-evk2-k7z1-3w8l-pej9h2itx88v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bxsn3a3l-4pkk-re6p-chc7-vosdrf4cl8up@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wmksrinn-t9jr-lou5-4dlk-2gc8ghsn0d6l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://h27k6csy-rd7p-rixv-05vi-by3bowvu11fn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hpffiemf-wz1g-82od-bfq8-f04mtxqv0jyl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@141.11.43.124:443?type=ws&security=tls&path=/X@节点狂魔/&sni=gaosir.unfeeling.sbs&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Streamline Servers Pty Ltd ┇ 141.11.43.124
 vless://71b2732c-851f-544b-b95a-b36ef08e5f5e@38.76.247.230:443?type=ws&security=tls&path=/vless&sni=38.76.247.230&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Streamline Servers Pty Ltd ┇ 38.76.247.230
-trojan://02cm25as-q5o8-rd74-pfyx-7zvrpa4jwxr0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4epso0o8-ll33-vn9n-iq2y-5chwytvbsuv1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://wo26w36d-lu9y-q8ek-g7mn-06wmr79em3fi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4d3z3p13-wv70-byzf-s518-wh3rlopkh1ak@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://p7iex5mx-lt0m-t55f-ub9t-npinpa66auq8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://4u32ay5u-cl1k-kfmi-kdj0-hvwgv3th2p0t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mpnq87aa-39fx-a9z5-54kk-1pkh8pe8l4hp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fnra9l02-cuyw-6om9-vuz5-qyqnt6wz2xja@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://xi0dekuq-ha7k-rmdj-8cks-eh0iexj5wq5k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://j4270ckl-cmsx-7ksf-uza3-3j28nael6vn0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@pics.floorshoping22.com:2087?type=grpc&security=tls&sni=pics.floorshoping22.com&fp=chrome#FR 🇫🇷 ┇ VLESS-GRPC-TLS - HEXATOM s.a.r.l. ┇ 185.163.125.81
-trojan://lto9k0lq-c2hy-izs8-k4a2-26b5zrbyl5vw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://exqwf0b3-oli7-lnrz-hl1h-jrnkuukrssaz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://nb5r2inh-k5jm-pn0j-os7m-ywip0k77sjtw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7t73prlz-4lf0-t4p0-bja9-jy2d5vmxs4oo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

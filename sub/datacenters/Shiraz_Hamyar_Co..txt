@@ -1,6 +1,6 @@
-trojan://2kv6qbpo-44n8-cu2v-qtaz-6lufl9e2zusx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://h4cx6x3u-9e4u-7iv2-v3fo-svwq64mnup29@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://y8ivi4y9-tdhj-m1e6-brve-3ki8e345vk3m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qljv0eml-vnr5-zb7p-lmfq-3cc356c2j3p0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://msdli481-k2tw-xij0-es7w-0jdnjhx9o1n7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9mhgzhbi-zo20-cyee-v8sa-odn0ewxk6b06@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5ba4673d-3877-40c9-ab88-3468dc55e1f4@tlo.mestershop.top:34916?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shiraz Hamyar Co. ┇ 178.173.148.182
-trojan://w3902ncv-r0xr-big0-e1pr-ave20n9430w3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://intj8pl0-rol1-4v22-f9rh-sz1i4qfqugy8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://2owaggon-p5h6-tu37-hw2i-548osb5pi693@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://oroc1p3s-gqqc-zm46-40r4-wxzo4u4rcpne@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

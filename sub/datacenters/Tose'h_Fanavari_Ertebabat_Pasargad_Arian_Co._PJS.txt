@@ -1,7 +1,7 @@
-trojan://3zfriea2-5pq1-y8o3-cygr-onfxkcm9xv1g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://jgcu8is5-4d43-imcr-ptiv-q7s03d3xe2yg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://feiagz53-okgy-490e-x1jc-2kfx31ma2ojc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?sni=gr1.grtj.sulindac.top&peer=gr1.grtj.sulindac.top&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 109.230.91.202
+trojan://6o1ymwol-qpai-lmfd-xxkh-ph1k5b6hpslk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://oilhwg1r-21ea-ixje-q558-d4w445eihry6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://so1zh33v-20au-honi-a0kx-bj37b6hfdts9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://512c8ed7-13dc-9d8d-039a-d0d47c84a0be@81.29.255.187:699?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 81.29.255.187
-trojan://66t48xvs-2dmx-6h69-8a5z-ehs0ph213vit@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pj8zekzo-2pqu-6t3i-0b0l-5s8bo3xhp1p5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?sni=gr1.grtj.sulindac.top&peer=gr1.grtj.sulindac.top&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 109.230.91.202
+trojan://sqraoe85-n3k6-itdy-8z18-t9xv3fz2psdl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ojij30ck-uqbx-swfu-l1fg-fm1xd3t9w1hq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

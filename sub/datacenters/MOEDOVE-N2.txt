@@ -1,7 +1,7 @@
-trojan://jjkpjta3-3l8b-l7un-p803-g2xr72r2ysa2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://i85780ed-4ul5-jbn5-qmlr-ja9hzd84l2h1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nmmy8hn5-5t85-dgq9-6lqy-81gro1rl8co1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qgbwzg49-ljli-32db-7l1z-9jp5mcmpbbb9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://6mstziq8-ugdk-oviy-y038-tl773hzyaxii@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6y6u8u6f-6l7v-8ctc-41r6-62grb4mx4r9t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ee317e25-4c44-4b3f-81fd-93420678bd34@45.87.102.244:21851?type=tcp&security=reality&sni=one-piece.com&fp=chrome&flow=xtls-rprx-vision&pbk=EcToF-48rTWeedF6qD5yUrJ3AC_Y3FrzGUE5UP5bg2A&sid=6ba85179e30d4fc2#HK 🇭🇰 ┇ VLESS-TCP-RLT - MOEDOVE-N2 ┇ 45.87.102.244
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjNmYmRlMi1jNmNhLTQ0YTYtOTQ0NS0xODBkYjkwNDY5ZDM@45.87.103.75:36002#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - MOEDOVE-N2 ┇ 45.87.103.75
-trojan://yeip8h7x-sdza-ogmv-juy6-who3lq3tt4n7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hwvxnzyf-n1hi-rtgb-1wym-v4a8uxlhvq8x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://lxzcyagu-u05k-dwh7-bqbg-6xdhxgroyhfz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://68kcuk5m-vcyn-ikes-q7io-cf0gurkq9e8e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

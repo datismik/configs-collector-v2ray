@@ -1,6 +1,6 @@
-trojan://qxu3lqi4-zu2y-bblj-e5fx-7o2fu9sk14pi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://y8ywmhql-w8uh-g0g4-ccb4-eakuz70uwbn5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fxfv04lh-g1o6-f92q-93sq-0fn1jhm0b3oy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Liberty Global B.V. ┇ 64.188.74.120
-trojan://2sf9k2a3-n7ia-gxk1-7tmb-1tznjrfghmq2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://re1pff63-bqci-v9rw-ckbo-6419g7ib2d6e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://vtn52o24-r4lb-z1g0-v9zt-uf4wwm2w5p7y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://6cy8jp8g-yi9n-lp1g-ojxu-bo9le4cc7ezy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://16ify7cw-2v4e-1nf7-ouzy-4s65ry8ttru2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?type=tcp&security=reality&sni=www.amd.com&fp=ios&flow=xtls-rprx-vision&pbk=UKUZheV6-Ddtby0JfuazU4kb5swl2w6yoBEloV6k1Wc&sid=baeddc986348#NL 🇳🇱 ┇ VLESS-TCP-RLT - Liberty Global B.V. ┇ 64.188.74.120
+trojan://e9eyiq3j-a20q-jtjv-12t0-8wtt33o6fyww@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1r4vcd4n-3pzr-mc1a-dbr9-kit563tfhkhe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

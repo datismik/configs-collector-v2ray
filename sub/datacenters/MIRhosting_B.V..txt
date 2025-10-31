@@ -1,7 +1,7 @@
-trojan://4ud3o01w-rhok-v7q4-39bb-fxw5r0d0h8z1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://ruvvwypg-neio-frtr-shwb-87e6xph2a70x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5gurxqb2-rihp-ax8q-q3o1-587g5vvnr2rb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - MIRhosting B.V. ┇ 217.196.101.89
+trojan://vuqepyzi-iaaq-13la-xi9e-ejl65isgauvh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://0h9pb2vh-krs6-c04w-qjde-ktoc6k90ohzm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pwxk4z5i-gw23-vx92-65iu-rj1m46s2moyn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://46e8ae7b-07cb-4c89-b95d-5ce04299b303@194.87.148.104:34920?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - MIRhosting B.V. ┇ 194.87.148.104
-trojan://zbtz59c0-dfb8-667k-as8i-j0g8abblbuv9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z4y21vta-wx1t-l62f-exva-vr0v8kir4sg1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - MIRhosting B.V. ┇ 217.196.101.89
+trojan://wob4b30b-svyk-cxoc-arr5-c9fua9e79dl2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hah2y1ak-op44-sleq-3tln-wqy6woo1line@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

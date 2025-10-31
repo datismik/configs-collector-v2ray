@@ -1,6 +1,6 @@
-trojan://yx74uah6-ogtw-4mrc-aoc3-uq0i4ma6u9ii@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://kok93h85-u6re-jegp-6bch-0sqwmn3t20zo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zi484sgg-tmfo-v1z3-0azs-4ymav50etaiy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://56zompkf-ettc-zkn8-1c0p-e1m7zp356ose@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://t4eq3uqg-iokx-2idv-qufu-2ww1ao47m5r6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6g5xniym-trc1-vmoy-r344-ovb3oynnbica@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@27.100.189.152:50000?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - KCTV JEJU BROADCASTING ┇ 27.100.189.152
-trojan://d8mvi0re-igro-4981-qeq3-v3ltf80b4b1f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gu85zqpe-y139-us26-74gw-1kwxpgg603db@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://iiz8ev6u-63rp-ipbh-tdco-3poamp1cy2ol@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0sntwapl-skad-gaa3-tpq6-qir2ngdg2q8g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

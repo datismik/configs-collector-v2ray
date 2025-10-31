@@ -1,22 +1,21 @@
-trojan://1435budn-2rll-hsgt-5qoy-66o4d39suark@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://m284xxop-ll6b-glzr-ar5m-028g3hz7v5zn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bld7bahi-hkjz-xxpb-38jj-lq9pimbkb7xx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c14e2d3c-2b46-41da-99c4-380d525f57de@213.165.55.47:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.55.47
-vless://01997b9d-a1f7-e188-981a-c665b723cfef@91.209.253.43:2096?type=ws&security=tls&path=/snippets&sni=kejiland.freewarp.eu.org&fp=chrome#SA 🇸🇦 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 91.209.253.43
-vless://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.230:443?type=xhttp&security=none&path=/f#SA 🇸🇦 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.61.230
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@91.209.253.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#SA 🇸🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.209.253.254
-vless://3037e6e7-ab28-4e47-bd1c-4cfda4092711@de-stream.srv.flexiblenet.org:8444?type=tcp&security=reality&sni=de-premium.fxccc.cc&fp=chrome&flow=xtls-rprx-vision&pbk=zj96A3uit1oY9lhDa6Tq6RQSt8nkOK9FvxsraIT1-2c&sid=cff755b6abaaac41#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.55.45
-vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?type=ws&security=none&path=/admin?ed=1024#SA 🇸🇦 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.56.47
-vless://2fb40048-c812-43ad-ba1a-3e442c92d632@213.165.56.10:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.56.10
-vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?type=tcp&security=none#SA 🇸🇦 ┇ VLESS-TCP-NTLS - ZEN-DPS ┇ 162.128.76.63
+trojan://22e2bqve-9gnq-ny6m-7uub-4hjarh6mfy8u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://99szuna1-3ozt-gk51-2675-3ufvsc45cgjd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6fgsuk2u-a74m-cecp-koye-sdu4xpltlp2j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.209.253.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#SA 🇸🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.209.253.29
-vless://45a1ffa2-ddc7-428c-9e25-9ab62e9496b3@sos.tsmrv.ir:6001?type=ws&security=none&path=/#SA 🇸🇦 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.55.234
+vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?type=tcp&security=none#SA 🇸🇦 ┇ VLESS-TCP-NTLS - ZEN-DPS ┇ 162.128.76.63
+vless://3037e6e7-ab28-4e47-bd1c-4cfda4092711@de-stream.srv.flexiblenet.org:8444?type=tcp&security=reality&sni=de-premium.fxccc.cc&fp=chrome&flow=xtls-rprx-vision&pbk=zj96A3uit1oY9lhDa6Tq6RQSt8nkOK9FvxsraIT1-2c&sid=cff755b6abaaac41#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.55.47
+vless://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.230:443?type=xhttp&security=none&path=/f#SA 🇸🇦 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.61.230
+vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@reloadserver-fin.parsgit.com:4220?type=httpupgrade&security=none&path=/tools.parspack.com/hp.shoushmobile.ir?ed=2095-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-#SA 🇸🇦 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 213.165.56.47
 vless://d692eb14-305b-4b73-b63e-e9900ba70736@ns.piche.pw:2052?type=httpupgrade&security=none&path=/salamkhoobichetorichekhabarachekaramikonirefighkhabariazmanemigirinamardye2tomandaridastibemabedi?#SA 🇸🇦 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 91.209.253.253
-vmess://eyJ2IjoiMiIsInBzIjoiU0EgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuNjEuMjEiLCJhZGQiOiIzOC41NC42MS4yMSIsInBvcnQiOjQ0MywiaWQiOiJiYjQyMDk5Ni0xODRkLTQ2Y2QtODgwOS1jY2Y3NzJmY2MzNDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
+vless://45a1ffa2-ddc7-428c-9e25-9ab62e9496b3@sos.tsmrv.ir:6001?type=ws&security=none&path=/#SA 🇸🇦 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.55.234
 trojan://3828095943467868160@156.244.11.62:443?sni=fit-bengal.dolphin109.quest&peer=fit-bengal.dolphin109.quest&security=tls#SA 🇸🇦 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 156.244.11.62
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@91.209.253.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#SA 🇸🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.209.253.254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDY0N2ZlZTU3NDFhZTk4@163.171.207.11:17397#SA 🇸🇦 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.207.11
 vless://bc97be20-96ae-4285-9329-d3c871e5cea7@rsr.fasssst.ru:8443?type=tcp&security=reality&sni=rsr.fasssst.ru&fp=chrome&flow=xtls-rprx-vision&pbk=3JK42e5cEL7MRi1CCvBXPw6keZZBV2rfWwFAv2BMYFU&sid=429998616b4cf322#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.60.21
+vless://01997b9d-a1f7-e188-981a-c665b723cfef@91.209.253.43:2096?type=ws&security=tls&path=/snippets&sni=kejiland.freewarp.eu.org&fp=chrome#SA 🇸🇦 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 91.209.253.43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@154.90.50.137:8080#SA 🇸🇦 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.50.137
+vless://2fb40048-c812-43ad-ba1a-3e442c92d632@213.165.56.10:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.56.10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOEJXYVk4RlloS2ZWTU9UOU4wSUlC@154.205.134.132:8443#SA 🇸🇦 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.134.132
-trojan://iun13mdg-bx55-6s4t-nbma-lhvldb9r6ev6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://95pkxcop-3b9h-nehc-8u0y-9mgjw1gwqc62@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiU0EgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuNjEuMjEiLCJhZGQiOiIzOC41NC42MS4yMSIsInBvcnQiOjQ0MywiaWQiOiJiYjQyMDk5Ni0xODRkLTQ2Y2QtODgwOS1jY2Y3NzJmY2MzNDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
+trojan://2t57toku-4j02-3pqx-oacr-lib10h9ttdtv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zvn0moiq-n764-e34l-7thn-r33fj7x8tvyy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

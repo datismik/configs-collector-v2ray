@@ -1,17 +1,17 @@
-trojan://10jypxnh-0a2i-v01c-3pf0-3ukfrw92069h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://g53wmxco-oapf-8qgc-snwx-lao74e3uvq1q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u3sc3fc0-ro56-5xg2-61w1-r0ro5in9m65s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://464ecede-36bd-4d11-8456-cf954877247b@slavefinbot.shanks02.shop:47541?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.223.109
-vless://33750dde-2801-4708-80be-680218439b01@195.238.240.53:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.53
-vless://8c5167d8-8520-4c85-9cd5-f0879f67efbb@ir17.drinfoo.com:896?type=ws&security=tls&path=/&sni=speedtest.net#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.67
-vless://6718b144-8aeb-4b91-a846-c44b04803610@103.215.223.192:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.223.192
-vless://02c0a435-b281-a9b3-8108-8713da0eb66f@195.238.240.47:8880?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.47
-vless://f8d153c5-e61b-4fdc-8781-44c51d19aa1e@ir3.drinfoo.com:883?type=ws&security=tls&path=/&sni=speedtest.net#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.64
-vless://33bed48e-78ad-4bba-9dcb-77587d7a184a@ir26.drinfoo.com:905?type=ws&security=tls&path=/&sni=speedtest.net&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.9
+trojan://9idnq0vu-5fqn-aatv-0xtp-g77lrn10wcc0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://llgarw3j-3tgx-fovl-k4ks-47x4dx6b8gg0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2tq88izo-2d7m-7bf0-pq84-pq21l5ybyb83@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a7705ab2-b3d8-4c44-a7fe-aee08145c5e6@xb8.fashi-pro.top:48348?type=ws&security=none&path=/fashi#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.223.184
+vless://f8d153c5-e61b-4fdc-8781-44c51d19aa1e@ir3.drinfoo.com:883?type=ws&security=tls&path=/&sni=speedtest.net#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.64
 vless://94d080f6-82f7-4bbe-acbb-5725bac3fbc5@ir12.drinfoo.com:891?type=ws&security=tls&path=/&sni=speedtest.net#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.66
-vless://33750dde-2801-4708-80be-680218439b01@195.238.240.126:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.126
+vless://33bed48e-78ad-4bba-9dcb-77587d7a184a@ir26.drinfoo.com:905?type=ws&security=tls&path=/&sni=speedtest.net&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.69
+vless://6718b144-8aeb-4b91-a846-c44b04803610@103.215.223.192:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.223.192
 vless://00dcdb5c-6aff-4da9-c15f-6d49e016e5e8@103.215.221.219:8443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.221.219
-trojan://4yrphct5-ixjh-dhum-mv3i-jekrom7707e5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8mfrunn2-eic3-j08n-tajr-izpkergmyaih@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://8c5167d8-8520-4c85-9cd5-f0879f67efbb@ir17.drinfoo.com:896?type=ws&security=tls&path=/&sni=speedtest.net#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.67
+vless://33750dde-2801-4708-80be-680218439b01@195.238.240.53:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.9
+vless://33750dde-2801-4708-80be-680218439b01@195.238.240.126:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.126
+vless://464ecede-36bd-4d11-8456-cf954877247b@slavefinbot.shanks02.shop:47541?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.223.109
+vless://02c0a435-b281-a9b3-8108-8713da0eb66f@195.238.240.47:8880?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.47
+trojan://6tajnn22-o2yr-0wen-7js2-rnqotm48z965@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6ikmqedd-g25f-44u7-5qbo-hbp0p2sji3qi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

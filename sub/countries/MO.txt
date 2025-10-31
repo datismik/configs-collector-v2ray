@@ -1,9 +1,9 @@
-trojan://c1ndxs9p-aj8k-qpqh-gi72-6pzlb894lo32@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://0uikpzq7-e0ss-j3g9-6a8b-jng66rxg19ku@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3y3dr23k-n9ir-lezn-lpj5-bu5cnj7nr6ac@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?sni=reooec.freetrade.link&peer=reooec.freetrade.link&security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.23
+trojan://m0awcwmz-qrws-qn1y-vgsc-hcmj91imkoy5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://jjsa5xv6-lcyw-evkk-j8fi-3uvufl01chww@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g75teswn-0b65-648u-erjs-cucee2p7uraw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.55:443?sni=reooec.freetrade.link&peer=reooec.freetrade.link&security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.55
 vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb21wYW5oaWEgZGUgVGVsZWNvbXVuaWNhY29lcyBkZSBNYWNhdSBTQVJMIFx1MjUwNyA0NS42NC4yMi4yMiIsImFkZCI6IjQ1LjY0LjIyLjIyIiwicG9ydCI6NDQzLCJpZCI6ImU1NWVkN2IyLWVkNGYtNDgwYy04Yjk5LTA4NDgyZGExZTRjNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiaGtibi5wZ3lwZ3lrbW9samtsai54eXoiLCJwYXRoIjoiL09CN2pUTTVjVFRyTCIsInRscyI6InRscyIsInNuaSI6ImhrYm4ucGd5cGd5a21vbGprbGoueHl6In0
+trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?sni=reooec.freetrade.link&peer=reooec.freetrade.link&security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.23
 vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb21wYW5oaWEgZGUgVGVsZWNvbXVuaWNhY29lcyBkZSBNYWNhdSBTQVJMIFx1MjUwNyA0NS42NC4yMi42IiwiYWRkIjoiNDUuNjQuMjIuNiIsInBvcnQiOjQ0MywiaWQiOiJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InAzLmNoaWd1YS50ayIsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwMy5jaGlndWEudGsifQ
-trojan://5buiolak-unn8-o7bj-p7dq-wpuxnreog82o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://99smgp78-2itm-e1cz-23br-60z8kl28n5n2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://mgybmqty-b61u-29i6-pemv-4pr6zzd1by18@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3mpqjfqc-f1s4-0fiw-zoze-qy01s6wqlhq3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

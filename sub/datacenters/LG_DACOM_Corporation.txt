@@ -1,11 +1,11 @@
-trojan://ugjpfav6-pf7p-97kl-xlze-asz79vvj3lqj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://duc42o5f-nrue-v3mr-lwi1-r84is9r7zlnu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0pj5uwff-2me3-q6zj-4ynm-tkf3v8mjwe55@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://70186b61-319d-42f2-9807-7df9594aa385@106.240.1.52:20443?type=ws&security=tls&path=/?ed=2560&sni=amedo.esslh.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.240.1.52
+trojan://bb52be1s-njb7-kdma-i4ea-rvixnz1t4ra6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://qz5nqy9x-fzai-a58y-gq2m-s47wk56mdcu8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://py50c6ld-d6p8-sk5b-lb8q-n1tba0yum3h2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@106.244.68.249:50000?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.244.68.249
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@27.255.82.134:57643#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - LG DACOM Corporation ┇ 27.255.82.134
-vless://948f6596-66f9-4707-aa92-3107a214ce53@112.223.212.219:10543?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 112.223.212.219
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p080.panda001.net:36379#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - LG DACOM Corporation ┇ 27.255.82.135
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@27.255.82.134:57643#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - LG DACOM Corporation ┇ 27.255.82.134
+vless://70186b61-319d-42f2-9807-7df9594aa385@106.240.1.52:20443?type=ws&security=tls&path=/?ed=2560&sni=amedo.esslh.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.240.1.52
+vless://948f6596-66f9-4707-aa92-3107a214ce53@112.223.212.219:10543?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 112.223.212.219
 vless://948f6596-66f9-4707-aa92-3107a214ce53@123.143.9.5:14041?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 123.143.9.5
-trojan://2ufkih19-220h-795s-xfkz-ae4dmsemeb28@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jg1mapxw-g7g9-lwra-aqg1-w4935rsus2wl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://b3hwyq3g-hg7v-vi3x-hx5q-b1dugtbc2wyv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2i3y3wwf-69jk-z16p-omkz-ope122ug8vdc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

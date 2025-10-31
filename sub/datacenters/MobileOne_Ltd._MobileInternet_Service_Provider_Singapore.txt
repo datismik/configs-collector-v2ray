@@ -1,7 +1,7 @@
-trojan://yd3bzvei-0y6e-5eaw-24rn-aj53lryr4lwx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://ftmlfm6w-79y4-an9i-g7w9-dm0hutexh0hb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fd9oxg59-d7sq-dh2q-h1up-9hd8iq3ihctc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bnbgljva-x1pz-csdf-8spu-soofrf6u6zaj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://crae2ax3-ug7a-jzi5-v982-w5ijr44lfchr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c9w4qj8o-8emt-cel4-ir7s-sj31vcdej4yj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ@112.199.240.56:8899#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - MobileOne Ltd. MobileInternet Service Provider Singapore ┇ 112.199.240.56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ@175.156.111.138:8899#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - MobileOne Ltd. MobileInternet Service Provider Singapore ┇ 175.156.111.138
-trojan://0qf6wv3m-dd8s-7xyk-e95i-1z20250f0b7e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6oynmhgq-jjxe-ezjl-me36-z4pfthf5vrer@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://tfansyqv-zpb9-ty8o-bhbm-e0yv29dnbfxr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0yh8sxgw-jzzr-1rqs-0jwc-kru65ru17pre@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,11 +1,11 @@
-trojan://v87jop6u-4h4p-7vdo-n9yf-a4cg5y5gu2u4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://vqpxnbr5-w99i-urd5-xc2h-5k8qy1phigcv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q9x9ucc6-qlmu-gvsy-4sta-1t023ogi6r0c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1bndresy-x1p4-hgtz-9m6s-04tcltie2h0z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://lnk2j66a-4p0c-b5x6-kern-46xm7uicugrp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wc1rjyey-l5gj-aw3t-dnrq-4frsthycao8e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@107.175.96.74:16899#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 107.175.96.74
 vless://51633696-7053-499e-add5-d8473eda3440@64.44.158.121:36800?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=NmvXICZbgkr6rRIFHW3btC48PS4WPqI1WMI0zMypRzs&sid=9fd097cb4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NEXEON ┇ 64.44.158.121
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5FWEVPTiBcdTI1MDcgMTA3LjE3NC4yMC4xMDMiLCJhZGQiOiJpci5mci5pci5zYW5nYXJzaGFrYW4uc2JzIiwicG9ydCI6NTI0NTgsImlkIjoiZDQxOWYxMTgtNTJkOC00MGViLWFhNDgtNDRkOTg3NzcxYzZjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@107.175.96.74:16899#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 107.175.96.74
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5FWEVPTiBcdTI1MDcgMTA3LjE3NC4yMC4xMDAiLCJhZGQiOiIxMDcuMTc0LjIwLjEwMCIsInBvcnQiOjMxODEwLCJpZCI6IjgwOWM1MzUwLWJlYzctNGY1Mi05NTE4LTVkMDIxNjIyOTJmOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@64.44.42.195:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 64.44.42.195
 ss://YWVzLTI1Ni1nY206d3JDYUd0clViemVScVFMZGM4S21rM05k@172.93.146.210:49126#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 172.93.146.210
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5FWEVPTiBcdTI1MDcgMTA3LjE3NC4yMC4xMDAiLCJhZGQiOiIxMDcuMTc0LjIwLjEwMCIsInBvcnQiOjMxODEwLCJpZCI6IjgwOWM1MzUwLWJlYzctNGY1Mi05NTE4LTVkMDIxNjIyOTJmOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://dkqoz88y-rg1k-9l2x-q0ag-pfeozjee0rb4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jgat8i87-be0s-ju4z-agpt-bh6flzyude87@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://wcjwzog7-pwr2-zeox-ljot-kzom0zlezlmt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jm2ltj34-wb4b-rtvt-4gk5-vwgulck0bbay@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

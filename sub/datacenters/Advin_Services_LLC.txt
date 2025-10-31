@@ -1,7 +1,7 @@
-trojan://qdan6jpw-ppms-i0fu-azpe-u7ku6f9iskko@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://hrz62dix-6qmx-onwd-gdl5-ydyx8ebagrny@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hv96lfgx-2rx6-b2z5-eiaa-fcqsebxogrwx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://adl6ddel-qidp-eblc-o3pg-9nfjpvalazt0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://5qabv3mh-11gq-cc6g-tgqe-xyfa2s50no9p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bhkz7xg2-zs2d-xl2h-xqgc-b9x27l6azbwa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6f786c4e-6402-4269-98d3-c383fb1708da@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODUzMzIxNi02NWE4LTRkMzAtOWQ0MC03ZTk1MjZjZGQxZjE@shadow-de01.gproxy.gratis:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.114
-trojan://npkgxynm-5zrb-ahff-n7b2-75rbv49hwaee@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j5r8nwnk-q262-2rkg-nhb4-0t04enntfhoj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://s539cq73-fpx8-656h-742c-m98zumaq2mmx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://byzbks7r-9rmh-cidw-8uqv-yb4399fe98vj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

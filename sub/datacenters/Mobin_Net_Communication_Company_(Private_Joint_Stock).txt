@@ -1,13 +1,13 @@
-trojan://c5jeozox-95uj-posj-1ktp-cno0hxixylge@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://g0a1pu8k-4mfl-fstr-ura6-mp2ie0s5qiij@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q9sgrvb2-pm2a-k8zm-df62-0rnyxybjb5w5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://21c77329-b3d9-4d12-8e74-70244f6fd00a@92.114.24.55:248?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.55
-vless://30d83cea-51a9-4799-84a6-3aec7005ca36@92.114.17.6:44736?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.17.6
-vless://fff37630-2460-449d-8cbe-604484e2eddd@92.114.24.54:580?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.54
+trojan://7033pbqp-1ks0-ola4-4oqc-512h4gjkl1ut@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://9a82iwhz-d8o1-5xr6-qokv-crciau7mbpyq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://haf2tf6w-1bp1-mgq2-2slm-bd8y1uz2zg7k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b2be6ead-0028-4bb3-b551-e2cf93ee33b2@pythonahi.ir:43744?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.71
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vYmluIE5ldCBDb21tdW5pY2F0aW9uIENvbXBhbnkgKFByaXZhdGUgSm9pbnQgU3RvY2spIFx1MjUwNyAxODguMjEzLjY3LjIxNCIsImFkZCI6IjE4OC4yMTMuNjcuMjE0IiwicG9ydCI6NTI0NjEsImlkIjoiYWVkNDRkMzctNzc0My00OGJkLThlOWUtNTBiMmY2NWRkMDlhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://fff37630-2460-449d-8cbe-604484e2eddd@92.114.24.54:580?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.54
 vless://c692a87c-fb69-48d4-bbd1-78d47afd3d1f@92.114.20.12:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.20.12
-vless://ef61e76c-1f6b-411a-9610-f4111f8ace90@92.114.20.23:12048?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.20.23
 vless://8ed580b9-4823-4cb0-9d75-ad51bae94da0@92.114.24.92:8989?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.92
-trojan://6eai8ldk-d5r6-zy0d-qz3d-mtou8uxj0khy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://87lpjw5w-kxjd-55fa-9fm4-xzhetkgnnzth@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://30d83cea-51a9-4799-84a6-3aec7005ca36@92.114.17.6:44736?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.17.6
+vless://ef61e76c-1f6b-411a-9610-f4111f8ace90@92.114.20.23:12048?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.20.23
+vless://21c77329-b3d9-4d12-8e74-70244f6fd00a@92.114.24.55:248?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobin Net Communication Company (Private Joint Stock) ┇ 92.114.24.55
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vYmluIE5ldCBDb21tdW5pY2F0aW9uIENvbXBhbnkgKFByaXZhdGUgSm9pbnQgU3RvY2spIFx1MjUwNyAxODguMjEzLjY3LjIxNCIsImFkZCI6IjE4OC4yMTMuNjcuMjE0IiwicG9ydCI6NTI0NjEsImlkIjoiYWVkNDRkMzctNzc0My00OGJkLThlOWUtNTBiMmY2NWRkMDlhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+trojan://ke8y623s-lns5-ye4w-jflh-l3wjdwuw2cxw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i4e22dnm-yyqk-ng9v-jawb-avl2jdlsvlhu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

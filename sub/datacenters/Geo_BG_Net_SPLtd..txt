@@ -1,6 +1,6 @@
-trojan://o6b0vkbc-t7vh-9e89-06uw-06vav5lzzp2w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://i58466bq-l0sj-xxc2-uj7o-e0sqemm46u4b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3ovnpl35-bnf2-39a9-da91-hm1vmi0ydym3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n4o807fx-xroz-7mxt-rynx-mcfm36rqe8ew@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://peso3knt-cw3u-z4s5-qxi1-ecp443bltsx5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8w6zhshf-jfbf-szkm-hof3-wcsynmkif157@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@188.124.64.173:16081?type=ws&security=tls&path=/?ed=2560&sni=happy.mianfeicf.lol#BG 🇧🇬 ┇ VLESS-WS-TLS - Geo BG Net SPLtd. ┇ 188.124.64.173
-trojan://k8wbudah-gfrk-mp69-xamp-tox6syqkjbix@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9tvomshh-wawi-my5r-o5kj-z2q5wnt39n5c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://6nm8kzj9-dj2m-7wbb-7gw0-wfyx4bp3vs19@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j3xptw8o-ef66-d6zz-b7cf-rfm0a2k3p2ll@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

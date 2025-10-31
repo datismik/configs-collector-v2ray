@@ -1,7 +1,7 @@
-trojan://nu4svkjg-k3p5-eg92-y6kz-3jb1r3vly6hb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://5tt4owqf-x45a-fl4i-late-457yngoer8jc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://meu2nvya-6kub-wrlk-tz0x-n523pkd155e6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@158.41.108.215:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Vorboss Limited ┇ 158.41.108.215
+trojan://jll8x0ut-no1q-ytev-cwb7-e76nzd8v4ghf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://v0unw6e9-nx84-slyl-i5z3-abqrhi6q6p8e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://sm9f9s8g-ta79-tvrl-cvta-i0ujc65z4s26@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@158.41.110.94:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Vorboss Limited ┇ 158.41.110.94
-trojan://moloohie-g8uu-n25k-wshk-v1a8njko4jzr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r0zojfbo-04gj-pr93-hrek-im5panx9dipv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@158.41.108.215:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Vorboss Limited ┇ 158.41.108.215
+trojan://5odp5rbb-m5it-1eu6-1r19-db4x44k6u4pt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://btbvbkra-91e5-79zg-57wq-dyijs8k3qt4e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

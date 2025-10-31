@@ -1,12 +1,12 @@
-trojan://g40ytfz0-exvk-a7en-zuce-0fre5eq1rou2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://lxolnh7y-qanp-5pzi-6kbe-d75h5c291as6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://173d4cqr-0mp9-y4we-65sy-nfwdpurt080d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d63c6d45-fb5e-47b9-8521-deab947271fb@193.24.208.228:46991?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Layer7 Networks GmbH ┇ 193.24.208.228
+trojan://mow2q91k-zv7d-v6hz-0sn3-unpzxftu12qf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://p7kvtrys-ibnj-j1y9-abkr-6bq8eqbiqr9v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cwqh45uq-ct48-1j9n-mgb6-2ll64gn9m6sp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://dff6aeff-54dd-4d04-ad68-c79fbf89f9f0@88.214.24.198:35443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=Fvm8Nk9_xIHnKlrqywijuK6FDWP7zSyNV_ap8qH__EQ&sid=cc024cc0b79b6bad#FR 🇫🇷 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 88.214.24.198
-vless://a7fc5384-cff7-4e71-af32-93734dac864f@193.24.209.127:52289?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Layer7 Networks GmbH ┇ 193.24.209.127
-vless://2129f46a-fff9-43df-b491-7206d274e06b@193.24.208.232:2083?type=tcp&security=reality&sni=docker.com&fp=firefox&pbk=EGxd2x_UwfdWlm1wIJSW96ZiADxVkfcrmhHHujeVZGk&sid=c692127d93#DE 🇩🇪 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 193.24.208.232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@fr09.giamping.com:8080#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Layer7 Networks GmbH ┇ 185.55.240.101
-vless://7738423e-132e-4e2a-bd2c-034b4740ad4d@sv2.tsteamu1.top:40002?type=xhttp&security=reality&sni=cafebazaar.ir&fp=chrome&pbk=0pgQetxCBR2ueOXv3LEh25yHGYDda6dBGvShz8JTknk&sid=4fe6a82ff811fa13#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Layer7 Networks GmbH ┇ 193.24.208.231
+vless://2129f46a-fff9-43df-b491-7206d274e06b@193.24.208.232:2083?type=tcp&security=reality&sni=docker.com&fp=firefox&pbk=EGxd2x_UwfdWlm1wIJSW96ZiADxVkfcrmhHHujeVZGk&sid=c692127d93#DE 🇩🇪 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 193.24.208.232
+vless://7453db5a-ca2c-4d60-a106-1a6618fd856d@193.24.209.127:36898?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Layer7 Networks GmbH ┇ 193.24.209.127
 vless://d6f4dbe6-3f05-47f5-aa17-4400fd611318@193.24.208.146:13683?type=tcp&security=reality&sni=server-11769.prod.hosts.ooklaserver.net&fp=chrome&flow=xtls-rprx-vision&pbk=v5Nvx93Oe6L16tm7W1cJZC696VcywoIuhMBNa1CYHh8&sid=982264#DE 🇩🇪 ┇ VLESS-TCP-RLT - Layer7 Networks GmbH ┇ 193.24.208.146
-trojan://s6533um2-r1p4-iqm0-rl9u-jtudxr4myawb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://78n2vezo-tl5z-ougi-mjbk-kb0z9wfgl8j3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://d63c6d45-fb5e-47b9-8521-deab947271fb@193.24.208.228:46991?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Layer7 Networks GmbH ┇ 193.24.208.228
+vless://7738423e-132e-4e2a-bd2c-034b4740ad4d@sv2.tsteamu1.top:40002?type=xhttp&security=reality&sni=cafebazaar.ir&fp=chrome&pbk=0pgQetxCBR2ueOXv3LEh25yHGYDda6dBGvShz8JTknk&sid=4fe6a82ff811fa13#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Layer7 Networks GmbH ┇ 193.24.208.231
+trojan://fzvnzu1r-u14x-tpvl-vlaj-jd86rhflpqju@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tchvuzol-nw9e-d2qr-vtxr-5crww120hmcx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

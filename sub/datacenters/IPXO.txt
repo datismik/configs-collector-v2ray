@@ -1,17 +1,17 @@
-trojan://ajseei7l-8xcq-0h5i-v354-psrhmwbwtove@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://kogcgbh7-5xj5-7u9h-yu37-5tq20908vq7l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://l2stbtk6-o7li-qcvj-1amg-f506qslphxuh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c14e2d3c-2b46-41da-99c4-380d525f57de@213.165.55.47:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.55.47
-vless://3037e6e7-ab28-4e47-bd1c-4cfda4092711@de-stream.srv.flexiblenet.org:8444?type=tcp&security=reality&sni=de-premium.fxccc.cc&fp=chrome&flow=xtls-rprx-vision&pbk=zj96A3uit1oY9lhDa6Tq6RQSt8nkOK9FvxsraIT1-2c&sid=cff755b6abaaac41#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.55.45
-vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?type=ws&security=none&path=/admin?ed=1024#SA 🇸🇦 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.56.47
-vless://8bebc39d-2744-4af4-8ffa-fdfdd442cd97@pq706rio.qdr8-tvg9u8bc98b6m2kk52agfme.portalofleg-ends.fun:2057?type=tcp&security=reality&sni=pcmag.com&fp=firefox&pbk=mfS1cJVYQV4GyjguwcG3KMxucq6JHWIjbzQ7U0Xaz0k&sid=84248f#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 185.212.113.27
-vless://2fb40048-c812-43ad-ba1a-3e442c92d632@213.165.56.10:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.56.10
+trojan://qfg0k68n-i5v8-1uuj-ka3f-tcsaif7z3bzw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://hu5d2pzb-6oqp-uttd-gjv6-17sknc39n2of@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://us6lze67-sa7z-rkjj-3e2g-hhxrp772drfm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://8fe5b6ab-2974-4f24-97c4-6f371dcf3d66@rss.optiping.ir:21934?type=tcp&security=reality&sni=chess.com&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA#US 🇺🇸 ┇ VLESS-TCP-RLT - IPXO ┇ 143.20.79.144
+vless://dad58782-ffd5-48bd-994c-7b82555c1384@143.20.156.251:10010?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - IPXO ┇ 143.20.156.251
+vless://3037e6e7-ab28-4e47-bd1c-4cfda4092711@de-stream.srv.flexiblenet.org:8444?type=tcp&security=reality&sni=de-premium.fxccc.cc&fp=chrome&flow=xtls-rprx-vision&pbk=zj96A3uit1oY9lhDa6Tq6RQSt8nkOK9FvxsraIT1-2c&sid=cff755b6abaaac41#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.55.47
+vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@reloadserver-fin.parsgit.com:4220?type=httpupgrade&security=none&path=/tools.parspack.com/hp.shoushmobile.ir?ed=2095-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-#SA 🇸🇦 ┇ VLESS-HTTPUPGRADE-NTLS - IPXO ┇ 213.165.56.47
 vless://45a1ffa2-ddc7-428c-9e25-9ab62e9496b3@sos.tsmrv.ir:6001?type=ws&security=none&path=/#SA 🇸🇦 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.55.234
 vless://ad055be7-3180-4689-b8d5-82a151074286@84.32.104.26:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.104.26
+vless://771ab910-7e59-459e-b4fe-468bccda2a42@auto.srv.dznn.net:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=0a6ba2716a409da6#RU 🇷🇺 ┇ VLESS-TCP-RLT - IPXO ┇ 45.151.70.51
 vless://bc97be20-96ae-4285-9329-d3c871e5cea7@rsr.fasssst.ru:8443?type=tcp&security=reality&sni=rsr.fasssst.ru&fp=chrome&flow=xtls-rprx-vision&pbk=3JK42e5cEL7MRi1CCvBXPw6keZZBV2rfWwFAv2BMYFU&sid=429998616b4cf322#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.60.21
-vless://8d73fe05-1b8b-490e-950b-62f92690ad5e@row.roverlow.com:8443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=lZrWXYyXQZMkRvegqyOBxslKaB3bOt4F4D_xRURuaz4&sid=64d1dca8560d94f1#AE 🇦🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 181.214.100.114
-vless://8fe5b6ab-2974-4f24-97c4-6f371dcf3d66@rss.optiping.ir:21934?type=tcp&security=reality&sni=chess.com&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA#US 🇺🇸 ┇ VLESS-TCP-RLT - IPXO ┇ 143.20.79.144
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElQWE8gXHUyNTA3IDY2LjIyNS4yMjguMTgiLCJhZGQiOiI2Ni4yMjUuMjI4LjE4IiwicG9ydCI6NTA3OTUsImlkIjoiYWZkOTE4OTItYWE0NS00Mzc0LWVlZTItODY5MmNjOTJkOGJmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-vless://dad58782-ffd5-48bd-994c-7b82555c1384@143.20.156.251:10010?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - IPXO ┇ 143.20.156.251
-trojan://kd0e9625-jcrl-6skh-65h1-52z3jw41pmpz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qt4t037z-djuq-gg5y-05dh-xhhe312gq89m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://2fb40048-c812-43ad-ba1a-3e442c92d632@213.165.56.10:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.56.10
+vless://8bebc39d-2744-4af4-8ffa-fdfdd442cd97@pq706rio.qdr8-tvg9u8bc98b6m2kk52agfme.portalofleg-ends.fun:2057?type=tcp&security=reality&sni=pcmag.com&fp=firefox&pbk=mfS1cJVYQV4GyjguwcG3KMxucq6JHWIjbzQ7U0Xaz0k&sid=84248f#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 185.212.113.26
+vless://8d73fe05-1b8b-490e-950b-62f92690ad5e@row.roverlow.com:8443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=lZrWXYyXQZMkRvegqyOBxslKaB3bOt4F4D_xRURuaz4&sid=64d1dca8560d94f1#AE 🇦🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 181.214.100.114
+trojan://e17e138i-u17a-bpwj-zbob-ve9xajxqm8p7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rr1deb70-o5gx-ol2q-4wb5-etkpcnmq99an@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

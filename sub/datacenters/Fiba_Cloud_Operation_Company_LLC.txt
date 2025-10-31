@@ -1,15 +1,15 @@
-trojan://93pezjue-owxu-e39x-7zpv-xmqfk8oat1et@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://cpl34mog-3xhn-uyyr-n6xh-b6r1wfa62dre@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nnzej28q-3pfq-s17k-nsna-0q2d58fhsvmz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://7df43d38-6bac-4b61-8c90-a78bf82fa519@203.202.232.199:4655?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 203.202.232.199
-vless://c2757f1f-80c0-4d5e-8d42-76727d51a6ee@216.9.225.43:6684?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 216.9.225.43
-vless://ce87782b-0306-a4ad-b26e-ae17462675c9@tr2.mehdikarimi3.ir:20202?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=UwOony0NNnBUIn_buD55ZD3JRwkK6qx0tLNK1gCIwE8&sid=fde4a59e1a6b2f11#TR 🇹🇷 ┇ VLESS-TCP-RLT - Fiba Cloud Operation Company, LLC ┇ 203.202.232.159
+trojan://b1nn1e2w-aa18-ihjv-kgn7-xu6yakwt1fkk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://arcimlv8-ist4-zj4w-bt99-klnkkmzqhigq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d39q37og-hgex-9dq6-cjq4-a0te5mgqsqn4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d7f40691-ef51-45ce-9a2c-051e2a1b0750@216.9.225.159:8000?type=tcp&security=tls&sni=tr-1.claudify.org&fp=randomized&flow=xtls-rprx-vision#TR 🇹🇷 ┇ VLESS-TCP-TLS - Fiba Cloud Operation Company, LLC ┇ 216.9.225.159
-vless://09cf3fe3-4556-462a-b39d-e47a64042210@tr1.wiz.lalash.ir:22776?type=tcp&security=none&path=/#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 79.110.50.192
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpybm52UzFVRmVOT0V2TThhQVZpcVpB@216.9.225.179:2020#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 216.9.225.179
+vless://c2757f1f-80c0-4d5e-8d42-76727d51a6ee@216.9.225.43:6684?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 216.9.225.43
+vless://09cf3fe3-4556-462a-b39d-e47a64042210@tr1.wiz.lalash.ir:22776?type=tcp&security=none&path=/#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 79.110.50.192
 vless://885a03bb-4797-3fd8-5446-c770066cb87e@216.9.225.51:4111?type=tcp&security=reality&sni=serverdlt1.goodshoes.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SLaKJrXI_5q7tPsYGffScpC1MEl75kMp-Z6M5KnvZwc&sid=cc30318af8ce0970#TR 🇹🇷 ┇ VLESS-TCP-RLT - Fiba Cloud Operation Company, LLC ┇ 216.9.225.51
-vless://b86192fc-d56e-4f18-a5c0-8b21d6be30bd@216.9.225.177:52555?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 216.9.225.177
+vless://7df43d38-6bac-4b61-8c90-a78bf82fa519@203.202.232.199:4655?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 203.202.232.199
+vless://ce87782b-0306-a4ad-b26e-ae17462675c9@tr2.mehdikarimi3.ir:20202?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=UwOony0NNnBUIn_buD55ZD3JRwkK6qx0tLNK1gCIwE8&sid=fde4a59e1a6b2f11#TR 🇹🇷 ┇ VLESS-TCP-RLT - Fiba Cloud Operation Company, LLC ┇ 203.202.232.159
 vless://b9dc54b4-d474-4087-96d0-81de47f4578d@203.202.232.252:4655?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 203.202.232.252
 vless://ba56e95b-10fe-43d3-aaa2-417b0df52adf@ww3.leperfume.ir:2090?type=xhttp&security=tls&path=/Bmarzvpn&sni=marz.leperfume.ir#TR 🇹🇷 ┇ VLESS-XHTTP-TLS - Fiba Cloud Operation Company, LLC ┇ 203.202.232.221
-trojan://qoq3eqkm-dyd9-b6g7-6oix-te7hhbhiq2nk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8azf5p6e-m0lf-6uaj-onhk-68m3zsfeh69a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://b86192fc-d56e-4f18-a5c0-8b21d6be30bd@216.9.225.177:52555?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 216.9.225.177
+trojan://d61b2rh1-kj65-m42s-li9r-o2nsp73ljhve@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1gksvkcq-ut6g-uma0-nrpw-4b3plttvn40m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

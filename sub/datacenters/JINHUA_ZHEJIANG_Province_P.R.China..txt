@@ -1,6 +1,6 @@
-trojan://weqbg4sh-o616-zwuj-gpug-3li6fda6143g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://7jkv2tw1-5mbe-h26y-7cm1-7xlyrf8txq6c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://thptbg3m-5ex3-kgmi-q3at-1b888upd9mk0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://u6xwxtur-qjhi-q6fs-rr19-pn8ce839432a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://3nuki030-jti7-usv7-e9b2-wcj72ifs4iwf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gfpw4549-aqjl-44cq-o10e-oxzccf4z5ou8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY@61.130.144.150:2333#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - JINHUA, ZHEJIANG Province, P.R.China. ┇ 61.130.144.150
-trojan://okbn9lwr-wfmv-ush1-wpac-cfg5ff9egytb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zgymjx1y-ai25-xvcx-7x71-c5gmc143tj3b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3z9p2oj1-9gx3-bfwd-jcsp-3c795rzgjl3h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gov0qbyr-wf52-pfll-9szw-z01pypohz1ab@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

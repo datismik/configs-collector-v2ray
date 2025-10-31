@@ -1,9 +1,9 @@
-trojan://2lbtwrgx-341u-1gbc-9dfx-p69l4oigzv3u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://x91n7v1i-c0cn-y8qg-iwzr-l273dowcm1fq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h23bvuur-igl6-2efj-o8wz-m9jlfn4s8ofn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f5d4ff78-a4b8-479d-acef-e8187734e89e@45.139.27.86:443?type=tcp&security=reality&sni=russia26.clearorbitllc.com&fp=firefox&flow=xtls-rprx-vision&pbk=QL4Ls4ekZBizQ1KW0Eyvdp0D4TP0oGARgWdF2qx-nX8&sid=d119#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kviktel LLC ┇ 45.139.27.86
+trojan://lvhlonap-xood-9az7-607n-hkte34qkqj92@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://dn0lnvi9-7x4f-1uvr-2j47-4otdwso7t9kk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fv2jhp8a-ouxf-76zf-gxdb-m1os3ln38jrd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?type=tcp&security=reality&sni=mega.io&fp=chrome&flow=xtls-rprx-vision&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&sid=2c709739f487#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kviktel LLC ┇ 194.55.235.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Kviktel LLC ┇ 45.139.24.24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Kviktel LLC ┇ 45.139.26.17
-vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?type=tcp&security=reality&sni=mega.io&fp=chrome&flow=xtls-rprx-vision&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&sid=2c709739f487#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kviktel LLC ┇ 194.55.235.202
-trojan://pjlivtfs-jt7r-xgky-1x96-k47zej5h75bd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yq6tq01o-dhw9-ofxe-yeml-7lzocz31r4oe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://f5d4ff78-a4b8-479d-acef-e8187734e89e@45.139.27.86:443?type=tcp&security=reality&sni=russia26.clearorbitllc.com&fp=firefox&flow=xtls-rprx-vision&pbk=QL4Ls4ekZBizQ1KW0Eyvdp0D4TP0oGARgWdF2qx-nX8&sid=d119#RU 🇷🇺 ┇ VLESS-TCP-RLT - Kviktel LLC ┇ 45.139.27.86
+trojan://j6qvfdg2-id09-twpv-3nw9-01iclgq6t2fm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://x98egdw8-3scf-87r0-n6zt-t4e1g9fbx2ky@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

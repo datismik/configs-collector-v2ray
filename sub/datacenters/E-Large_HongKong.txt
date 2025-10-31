@@ -1,6 +1,6 @@
-trojan://i58biwgg-en9q-myik-acrb-y48no5wuc8n3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://9jvgp05t-qyw0-8870-4d1a-txzxcp384vm7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cndefmoz-25p9-pz82-m7nn-6fhpehyncz1l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@main.opengate.wiki:2222#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - E-Large HongKong ┇ 213.176.17.138
-trojan://soxnu5sw-wbea-5342-tis3-zrugggk8u53h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0nldfyyv-v4q7-1dn3-zigx-kni24kj0a283@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://tlg4uk77-exx4-ytqx-k0x5-bwdi3d7l28do@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://xm1bykxc-habf-udz7-qs64-tzrpeolra3t9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7hdh9s6l-wfel-681g-qyug-ur7e4eegkajl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@fin.monkeyisland.life:443?type=tcp&security=reality&sni=fin.monkeyisland.life&fp=chrome&flow=xtls-rprx-vision&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&sid=08aa0813199a4c38#IR 🇮🇷 ┇ VLESS-TCP-RLT - E-Large HongKong ┇ 213.176.17.153
+trojan://bom6f398-v09j-2d5z-rout-71w549878kdf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qg2a295w-6ier-kfs0-vn24-b96ohmsuqoek@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

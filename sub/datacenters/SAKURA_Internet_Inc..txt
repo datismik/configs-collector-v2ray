@@ -1,70 +1,70 @@
-trojan://la5aek1g-jk2j-as84-kcgj-8ev6us5m1dqj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://3p8cwd1m-kycd-jbgy-guqj-u6mqwr9a9864@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e563cutr-wabw-50lb-zr8a-ne51c8r2rwx2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.132.158:2283?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.132.158
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.167.100.203
-trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.45.139
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.138.24
-trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:3296?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.130.66
-ss://YWVzLTEyOC1nY206MTAwODY@160.16.123.124:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 160.16.123.124
-trojan://253bc477d4e43c209f2d427272968280@160.16.87.174:3957?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.87.174
-trojan://253bc477d4e43c209f2d427272968280@153.121.39.240:1085?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.39.240
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.221.47
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.74.162
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.210.166
-trojan://bca467b8c15211d189008a93c7519d3b@160.16.214.6:1332?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.214.6
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.16.76.226:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 160.16.76.226
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.74.146
-trojan://253bc477d4e43c209f2d427272968280@160.16.57.238:449?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.57.238
-trojan://253bc477d4e43c209f2d427272968280@160.16.116.227:1331?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.116.227
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.138.58
-trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.63.16
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.144.90:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.144.90
+trojan://ur5g4klg-66ip-rq3f-qrsb-j84116d9cnm4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://ghku37o7-p7gb-au50-igu4-1cg4okd8a4hq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tv8lhahr-lspd-qgca-00n4-wto9yhv4eq6x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.51.214
+trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.215.49
+vless://2add6241-8fe8-3922-8347-da25e8ced601@153.121.55.126:50081?type=tcp&security=reality&sni=tesla.com&fp=random&flow=xtls-rprx-vision&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM#JP 🇯🇵 ┇ VLESS-TCP-RLT - SAKURA Internet Inc. ┇ 153.121.55.126
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp01a.roc-taiwan.net.ua:65011?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.146.108
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.16.76.226:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 160.16.76.226
+ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.43.183
+trojan://253bc477d4e43c209f2d427272968280@160.16.68.250:4451?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.68.250
+trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1572?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.196.59
+trojan://253bc477d4e43c209f2d427272968280@160.16.57.238:449?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.57.238
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.136.130:4452?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.136.130
+trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.125.148.41
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.16.79.228:443?type=ws&security=tls&path=/blue&sni=cc.ylks.xyz#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 160.16.79.228
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.125.42.51
+trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.203.108
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.135.40
 vless://5d711a41-6fe4-4ced-9eb2-e86474c17906@160.16.148.100:31738?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=aMur4VIL6x4K12L7FRxqcrqjLbhmu9viYfssGXS8gEI&sid=ee#JP 🇯🇵 ┇ VLESS-TCP-RLT - SAKURA Internet Inc. ┇ 160.16.148.100
+trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3294?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.73.102
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.221.47
+trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:4451?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.70.134
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.205.220
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp03a.roc-taiwan.net.ua:65013?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.134.182
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.150.202
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.144.90:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.144.90
 trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:449?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.236.32
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@153.121.45.101:443?type=ws&security=tls&path=/X@freecodes/?ed=2560&sni=gaosir.unfeeling.sbs&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 153.121.45.101
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.145.107
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:316?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.106.144
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:409?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.51.29
-vless://2add6241-8fe8-3922-8347-da25e8ced601@153.121.55.126:50081?type=tcp&security=reality&sni=tesla.com&fp=random&flow=xtls-rprx-vision&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM#JP 🇯🇵 ┇ VLESS-TCP-RLT - SAKURA Internet Inc. ┇ 153.121.55.126
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.135.40
-trojan://bca467b8c15211d189008a93c7519d3b@160.16.229.223:5041?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.229.223
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.136.130:4452?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.136.130
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.43.183
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.8.129
-trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:3160?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.231.103
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.250.108
-trojan://253bc477d4e43c209f2d427272968280@160.16.89.176:3160?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.89.176
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.107.37:2467?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.107.37
-trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3294?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.73.102
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.16.79.228:443?type=ws&security=tls&path=/blue&sni=cc.ylks.xyz#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 160.16.79.228
-trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.125.148.41
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@160.16.203.210:443?type=ws&security=tls&path=/Telegram@freecodes/?ed=2560&sni=gaosir.unfeeling.sbs&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 160.16.203.210
-trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:2173?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.72.33
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.120.4.221
-trojan://253bc477d4e43c209f2d427272968280@202.181.103.246:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 202.181.103.246
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.240.91:1331?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.240.91
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.124.55:24673?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.124.55
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.205.220
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.47.114
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4317?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.117.182
-trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.215.49
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.65.99:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.65.99
-trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1572?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.196.59
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.144.208:316?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.144.208
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.51.214
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.125.42.51
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:1331?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.131.243
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.82.176:64804?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.82.176
-trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.203.108
-trojan://253bc477d4e43c209f2d427272968280@160.16.81.84:1536?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.81.84
-vless://ef23ddd0-14c5-39c2-9880-af55ce892363@219.94.255.221:443?type=tcp&security=tls&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.255.221
-trojan://253bc477d4e43c209f2d427272968280@160.16.68.250:4451?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.68.250
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.47.114
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.145.107
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.138.58
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.240.91:1331?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.240.91
+trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:2173?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.72.33
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:316?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.106.144
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.250.108
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:5041?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.41.97
-trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:4451?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.70.134
+trojan://253bc477d4e43c209f2d427272968280@153.121.39.240:1085?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.39.240
+trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:3296?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.130.66
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.138.24
+trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.63.16
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.8.129
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@153.121.45.101:443?type=ws&security=tls&path=/X@freecodes/?ed=2560&sni=gaosir.unfeeling.sbs&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 153.121.45.101
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.56.122
-trojan://1jbox5t1-n9v4-h7h4-6g8z-dhgppqjd6213@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bd7uaaxl-sdbv-phv7-97pm-t7n2v1ze38kd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://bca467b8c15211d189008a93c7519d3b@160.16.214.6:1332?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.214.6
+ss://YWVzLTEyOC1nY206MTAwODY@160.16.123.124:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 160.16.123.124
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.144.208:316?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.144.208
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.82.176:64804?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.82.176
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4317?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.117.182
+trojan://253bc477d4e43c209f2d427272968280@160.16.87.174:3957?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.87.174
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.120.4.221
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.210.166
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.107.37:2467?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.107.37
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.124.55:24673?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.124.55
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.167.100.203
+trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.45.139
+trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:3160?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.231.103
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.65.99:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.65.99
+vless://ef23ddd0-14c5-39c2-9880-af55ce892363@219.94.255.221:443?type=tcp&security=tls&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.255.221
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.132.158:2283?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.132.158
+trojan://bca467b8c15211d189008a93c7519d3b@160.16.229.223:5041?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.229.223
+trojan://253bc477d4e43c209f2d427272968280@160.16.89.176:3160?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.89.176
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.74.146
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@160.16.203.210:443?type=ws&security=tls&path=/Telegram@freecodes/?ed=2560&sni=gaosir.unfeeling.sbs&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 160.16.203.210
+trojan://253bc477d4e43c209f2d427272968280@160.16.81.84:1536?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.81.84
+trojan://253bc477d4e43c209f2d427272968280@160.16.116.227:1331?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.116.227
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.74.162
+trojan://253bc477d4e43c209f2d427272968280@202.181.103.246:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 202.181.103.246
+trojan://0i6wluvn-ud5o-1as5-l8w5-ksj1k40rytft@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vnu4u2ut-dbb8-e1h7-rjia-cgtcfwaogv3j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,14 +1,14 @@
-trojan://ua3zu45i-bval-qviw-3hz7-9owf8n51ase9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://7sc6j4hn-oocl-zoku-gs7g-smsyvyd1vj4d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://frpob4oz-ig3c-nu8m-djs2-psim9ndggv1d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@152.89.160.115:33992#RS 🇷🇸 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 152.89.160.115
-ss://YWVzLTI1Ni1nY206M0NERU9LUUlJQVhJVzk0Rg@185.186.77.137:20025#RS 🇷🇸 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.186.77.137
-vless://e3109c18-8145-4cf2-b04a-ebdc09a8937f@2.56.172.50:600?type=tcp&security=tls&sni=marzban.negintel.xyz#RS 🇷🇸 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 2.56.172.50
+trojan://u0nd0u8h-rx69-o6jb-1o4s-7cl7nl1vqs2x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://lpigdalu-gv2l-fgyq-rizp-sxc4v7gfmy3m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ix0u3wd6-s42w-6bpu-n34q-a8brjqjzh4ze@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://d67b8913-cd31-536a-b4c9-9dcecd041d33@45.89.55.188:8880?type=grpc&security=none#RS 🇷🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.89.55.188
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.126.31:989#RS 🇷🇸 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.71.126.31
+vless://6d23644d-0100-4c50-abc5-0e9fc300b6c9@185.234.67.214:44030?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=ixAsWPXEc5_H2D6xhQSlkiy6WktAatjn98h49Fuzrl8&sid=0bd674#RS 🇷🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 185.234.67.214
 vless://96eb0aac-b747-4f3c-8c30-d2ff7ec7415c@38.180.17.232:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=h_qOyi3Y79o7yw9WaMZY1CxtDlu4f6F1bIxqYTH11R4&sid=3e#RS 🇷🇸 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 38.180.17.232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGRnT2owclhncGw@185.234.67.247:443#RS 🇷🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 185.234.67.247
-vless://d67b8913-cd31-536a-b4c9-9dcecd041d33@45.89.55.188:8880?type=grpc&security=none#RS 🇷🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.89.55.188
+vless://e3109c18-8145-4cf2-b04a-ebdc09a8937f@2.56.172.50:600?type=tcp&security=tls&sni=marzban.negintel.xyz#RS 🇷🇸 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 2.56.172.50
+ss://YWVzLTI1Ni1nY206M0NERU9LUUlJQVhJVzk0Rg@185.186.77.137:20025#RS 🇷🇸 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.186.77.137
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@152.89.160.115:33992#RS 🇷🇸 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 152.89.160.115
 vless://a730bb73-660e-54db-a4d3-49bc6a17822a@193.57.139.23:80?type=httpupgrade&security=none&path=/httpupgrade#RS 🇷🇸 ┇ VLESS-HTTPUPGRADE-NTLS - Pq Hosting Plus S.r.l. ┇ 193.57.139.23
-vless://6d23644d-0100-4c50-abc5-0e9fc300b6c9@185.234.67.214:44030?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=ixAsWPXEc5_H2D6xhQSlkiy6WktAatjn98h49Fuzrl8&sid=0bd674#RS 🇷🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 185.234.67.214
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.126.31:989#RS 🇷🇸 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.71.126.31
-trojan://xxbryqbh-9d95-adm4-90jb-3zrbect1ayq3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jkwbczmk-2yp3-qym2-q1hd-l5uew8xh1fd7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://5hi8tj6l-dmnm-rdc6-ylf7-30pr0yxshu2r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fe7atp0f-us0t-zyw7-yzl1-hg4jsc4jq17w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

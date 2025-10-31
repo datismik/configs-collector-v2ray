@@ -1,9 +1,9 @@
-trojan://0duaih2e-imhv-zn1t-ozdh-ts25o38cgz4h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://vxhr711s-cg53-a9im-30hr-icas4jouvigg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9rvkiqt5-p0ki-ib7k-l5zp-vbh7b25xctv1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f2g870tu-d3ni-bxp0-49i5-6rqxo8xfl04b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://ngvcpefm-t44l-7lsa-d9my-8eckptkx2wx9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pjhfd1cs-2nlk-xh52-sbh7-dwle15tb2rgy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://slch2024@199.68.156.195:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VISANET ┇ 199.68.156.195
+trojan://dns68@199.68.156.69:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VISANET ┇ 199.68.156.69
 trojan://slch2024@199.68.156.87:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VISANET ┇ 199.68.156.87
 trojan://dns68@199.68.156.68:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VISANET ┇ 199.68.156.68
-trojan://dns68@199.68.156.69:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VISANET ┇ 199.68.156.69
-trojan://slch2024@199.68.156.195:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VISANET ┇ 199.68.156.195
-trojan://fcedia70-frlt-kvrd-ct5b-9kkdl9ixix13@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xy4j8x93-y1jt-fnh9-rah1-1m6trut2fx0b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://fgrz5lq0-kw0m-0dlb-a86a-k6tqs2go8tia@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pon7hd79-2lyj-21gm-mwcs-pz1dcrl57xqt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

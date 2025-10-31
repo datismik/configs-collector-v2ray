@@ -1,6 +1,6 @@
-trojan://65415ox6-rtna-sqiw-kdsn-xbwbcd0k0f8z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://gn0qb2sv-ooih-s9h5-ybfd-7xmkjb7pwawb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://givupgio-y23t-o1vu-lgbj-86sqt8md51ld@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ww1k9vlz-cn8z-9z5y-20xq-ynz8rit12bu3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://h8q25cqp-qjxm-8oee-n31c-h29yl5fa5q59@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c8g3x1o1-62wp-8wad-534z-tsbyiz4n2ekb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2a0ce0d5-cd10-4f7a-9c86-cf20fb2a9ce3@166.88.142.46:10101?type=tcp&security=reality&sni=www.hongkongdisneyland.com&fp=ios&flow=xtls-rprx-vision&pbk=NZvgcP62A2MqgU6AQa_wSWW85BBc5wMIUQVNxbKBWR0&sid=f304b3aa#US 🇺🇸 ┇ VLESS-TCP-RLT - DARTNODE ┇ 166.88.142.46
-trojan://u7nnajea-kxf2-mbok-m7k1-y9dy1emyozcb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e4vjxfwm-x1mu-3p6r-2i0e-u86elcbfuws8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://lx3pl37d-afv1-o878-d7uq-d0f41wm9gsth@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t74oscab-ec6n-i9sb-v9kp-kpyi4se2ldz7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

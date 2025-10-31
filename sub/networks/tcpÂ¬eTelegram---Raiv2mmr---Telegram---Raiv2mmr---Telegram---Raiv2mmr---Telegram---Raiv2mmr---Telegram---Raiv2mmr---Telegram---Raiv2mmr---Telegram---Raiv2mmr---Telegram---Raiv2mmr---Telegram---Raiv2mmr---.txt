@@ -1,6 +1,6 @@
-trojan://2wm86kjm-tixr-gpo0-aqke-m4q9prxaoyis@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://q0mq65ux-fpy6-hfko-u33w-27xk8glfycjj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c8z47m4a-5ize-bptm-tky2-7p9hji3yk3bi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://18e4cqb4-fiwq-3ptd-7rzm-q3bvnchsjp6t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://45e8nvr7-lbfz-u1hw-5buw-eiags2fvx391@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cppq7ql4-8t0k-jc04-6kvj-eoik6sagatxc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e4722980-7e71-4676-95a8-ef028d796044@yde3.amiraizo.com:2565?type=tcpÂ¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---&security=none#XX 🏳️ ┇ VLESS-TCPÂ¬E=TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR----NTLS ┇ None
-trojan://ks6ae5qg-kzcy-9rxc-vm0u-49ytv843ww68@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z873lr0h-tm3d-nt1x-2dhw-y534t3c95e55@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://wsgltrn4-gloj-ywpi-0y7v-t5gem0wdl1ru@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l2rsnz70-7goq-pe86-bhoy-4u7255rignnx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

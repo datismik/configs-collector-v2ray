@@ -1,7 +1,7 @@
-trojan://j1xlzny2-09yr-49pl-9d8m-pmfuzp3peyk0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://vc6t9arj-t32w-qz5o-2axv-t2fe7w4aoikz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bmdhxmyb-woem-o580-vw5w-4ah3hsfgsont@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://95a0e2nu-vpms-3g0z-d0va-3uqnj8qpo3oa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://kb81jv5i-fz2h-kojb-qyn8-8m8b55uheq1i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c6rrl2qt-2opx-pz0p-kztw-eyajovpyrqzn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@104.152.210.36:25536?type=tcp&security=reality&sni=apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8#CA 🇨🇦 ┇ VLESS-TCP-RLT - RICAWEBSERVICES ┇ 104.152.210.36
 trojan://2add6241-8fe8-3922-8347-da25e8ced601@209.209.10.231:44445?sni=flb.aaaa.gay&peer=flb.aaaa.gay&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - RICAWEBSERVICES ┇ 209.209.10.231
-trojan://mqc9mo88-644k-xuxx-sa2v-nnlk3ifez43r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bohsj9zj-qlqf-8d9t-olu6-hydtzbz24266@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://stmrootq-8cgp-yyz9-6wik-t3pxokku5rnj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://oxfgwxom-v9b9-73e2-sg8t-h7c2anoit9cs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

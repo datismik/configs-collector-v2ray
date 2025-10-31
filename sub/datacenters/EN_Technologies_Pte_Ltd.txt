@@ -1,11 +1,11 @@
-trojan://76274l2k-2fz2-r06t-kak4-zk586iommel8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://dkcul5qv-holz-wgcu-51bm-if8om3cx5ju4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://scgwhtkg-ksp2-lygx-8mlr-03hg7omwr9v0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://3d558620-48a3-11f0-a79b-1239d0255272@sg3.6n6.net:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - EN Technologies Pte Ltd ┇ 103.253.24.216
-trojan://b1ac00e0-adc2-11ed-875a-1239d0255272@sg3.socifiles.com:443?sni=telewebion.com&peer=telewebion.com&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - EN Technologies Pte Ltd ┇ 103.253.24.44
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBFTiBUZWNobm9sb2dpZXMgUHRlIEx0ZCBcdTI1MDcgMTAzLjI1My4yNi4xMzQiLCJhZGQiOiIxMDMuMjUzLjI2LjEzNCIsInBvcnQiOjQ0MywiaWQiOiJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLCJhaWQiOjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93cyIsInRscyI6InRscyJ9
+trojan://wfok6xcj-xnzg-wrfb-ygtp-t4vh56nkzbbi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://qqb3vi2v-m8mh-uhdp-a87f-5n7853w6cshr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1avm4ytk-v8tf-nlye-c2b1-pxnwmjrzwoz2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBFTiBUZWNobm9sb2dpZXMgUHRlIEx0ZCBcdTI1MDcgMTAzLjI1My4yNi4yMCIsImFkZCI6IjEwMy4yNTMuMjYuMjAiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - EN Technologies Pte Ltd ┇ 103.253.24.212
 trojan://703790e0-4684-11f0-8851-1239d0255272@sg2.6n6.net:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - EN Technologies Pte Ltd ┇ 103.253.24.248
-trojan://bgtj37gd-b4tn-x1kn-hds2-8x16k0dautmf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qfewa1b1-s6h6-b9vq-lon7-roay10n61opj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://b1ac00e0-adc2-11ed-875a-1239d0255272@sg3.socifiles.com:443?sni=telewebion.com&peer=telewebion.com&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - EN Technologies Pte Ltd ┇ 103.253.24.44
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBFTiBUZWNobm9sb2dpZXMgUHRlIEx0ZCBcdTI1MDcgMTAzLjI1My4yNi4xMzQiLCJhZGQiOiIxMDMuMjUzLjI2LjEzNCIsInBvcnQiOjQ0MywiaWQiOiJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLCJhaWQiOjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93cyIsInRscyI6InRscyJ9
+trojan://3d558620-48a3-11f0-a79b-1239d0255272@sg3.6n6.net:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - EN Technologies Pte Ltd ┇ 103.253.24.216
+trojan://stlc2yvy-225d-gt4m-hdy9-m7x3ndzy0cpr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d9rmfj0h-zgl1-v478-wujg-rlyo3cpnqae1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

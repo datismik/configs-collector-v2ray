@@ -1,9 +1,9 @@
-trojan://mpa4ov5l-nv50-40bk-5npx-rhgqhnngazoo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://4zdmybwr-wkjk-ye8h-v5st-cd2a7ngsper5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://79458t4y-hha1-27tj-2dip-dwvtemftsctu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU3BhcnRhbiBIb3N0IEx0ZCBcdTI1MDcgMTA0LjE5NC4yMDYuMjI2IiwiYWRkIjoiMTA0LjE5NC4yMDYuMjI2IiwicG9ydCI6ODA4MywiaWQiOiIyMTNlMjIyYy04ZTBmLTExZWYtOGRjNC1mMjNjOTFjZmJiYzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+trojan://rxsm6o0l-z60r-vusc-stu3-y4dutiq62sbk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://8lpg94x4-cjls-dxoj-a6jb-nuzyrfdl9jhs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qqhimh0y-3jbl-7dpj-t1l7-wso87kvdnf01@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://47a91992-6b70-4bb8-8c5f-f9600e0ba2da@r1.xinyo.me:40801?sni=node.xinyo.vip&peer=node.xinyo.vip&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Spartan Host Ltd ┇ 45.150.167.220
-vless://82f6a148-5c4a-48f9-931a-e3b26777ffa2@45.150.165.121:7885?type=tcp&security=tls&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Spartan Host Ltd ┇ 45.150.165.121
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU3BhcnRhbiBIb3N0IEx0ZCBcdTI1MDcgMTA0LjE5NC4yMDYuMjMwIiwiYWRkIjoiNWU0NDc1YWMtc3Yyc2cwLXN3b3M4ZC0xdGUyYS5zdi5wbGViYWkubmV0IiwicG9ydCI6MTI4MSwiaWQiOiI1NzRkYjRiYy1lZjVlLTExZWYtYmQxYS1mMjNjOTEzYzhkMmIiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-trojan://dnxv9l6b-vvkd-t8hd-ndy2-ligyfcz5p5t9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://64ymcg12-iro1-sefi-fl9j-4wfa2v62r1r9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://82f6a148-5c4a-48f9-931a-e3b26777ffa2@45.150.165.121:7885?type=tcp&security=tls&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Spartan Host Ltd ┇ 45.150.165.121
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU3BhcnRhbiBIb3N0IEx0ZCBcdTI1MDcgMTA0LjE5NC4yMDYuMjI2IiwiYWRkIjoiMTA0LjE5NC4yMDYuMjI2IiwicG9ydCI6ODA4MywiaWQiOiIyMTNlMjIyYy04ZTBmLTExZWYtOGRjNC1mMjNjOTFjZmJiYzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+trojan://13exswky-jmtb-s98l-xod0-tvrmf4ayvv47@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bin8akg2-m8yc-zxcm-d38h-rsczybd59an6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

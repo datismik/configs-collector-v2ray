@@ -1,7 +1,7 @@
-trojan://7b4bf6ih-0efq-77ny-sym9-38nw52htpsn1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://y9uze4ej-qayj-qq83-p15b-jni4fdacb0px@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i2xc2eni-7opp-w8da-lqod-inz2106nrtfh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://29d509e4-97c6-41a4-affa-bee6457aac14@78.40.111.177:443?type=tcp&security=reality&sni=es.nosok-top.com&fp=chrome&flow=xtls-rprx-vision&pbk=m_bAqO_HICu18pgxQ_xUYzbxL1XyvF984N609-0Gyjg&sid=9c2378562188c3cb#ES 🇪🇸 ┇ VLESS-TCP-RLT - Ap Interactive Solutions Sl ┇ 78.40.111.177
+trojan://3ia3kl36-0k1o-6pru-dy5d-2nsz0c8yeh8p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://vmamgtnb-nyat-fc2t-heso-t5o5qg70d5iv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3dr6xm8o-j3t3-8fws-xwxs-6veoh56c4cod@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0282123d-51fe-477c-8e0f-1bca84625e49@ip-static-address.wizardxray.shop:700?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - Ap Interactive Solutions Sl ┇ 171.22.18.19
-trojan://la72vbq3-za5f-t8fp-86wq-x7ia45j8v8yx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5g6wiuxm-8kmw-eu97-j33k-ll4da2qi9cii@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://29d509e4-97c6-41a4-affa-bee6457aac14@78.40.111.177:443?type=tcp&security=reality&sni=es.nosok-top.com&fp=chrome&flow=xtls-rprx-vision&pbk=m_bAqO_HICu18pgxQ_xUYzbxL1XyvF984N609-0Gyjg&sid=9c2378562188c3cb#ES 🇪🇸 ┇ VLESS-TCP-RLT - Ap Interactive Solutions Sl ┇ 78.40.111.177
+trojan://nhq85c1y-6owv-tyk4-g82r-dhbgh64vzry9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jov7qoq7-jyu1-tu6b-9rkf-g41cc4qg6hbz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

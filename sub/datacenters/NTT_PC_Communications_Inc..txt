@@ -1,6 +1,6 @@
-trojan://k4fwt3js-2yzr-4tpk-xjcy-47bh71t2x2zs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://p9tdkk36-jacq-przn-iw7q-dlw6vpjvom48@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nt1psarr-ywau-l2xm-06s7-27gljlv0s495@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6qsm7doj-dnn8-yj7z-rnd9-uhqephhdg9xv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://lzrmbn2x-qv95-aaab-vf66-5q3oexnntwnh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dicv2nbo-6sfc-ryfo-h04p-v5yc1umrdr4m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs09.bolab.net:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - NTT PC Communications, Inc. ┇ 140.227.54.4
-trojan://c89w8yoe-6im6-vb1c-fae5-mxrsdhyqgttc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ri776x3k-rn65-bmbi-m3a7-tap575ngodru@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://h8rkwe0z-r82k-o5nz-4ttr-131c9nvb534q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rx4pu76k-u0gw-0m1y-ha82-hrxy7abgelb5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

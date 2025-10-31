@@ -1,6 +1,6 @@
-trojan://h8zuc4hx-yz3t-y4tw-zwwz-q0uazc78e6zt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://ebaqlwr2-65dp-znt4-t3t5-pin7xw15a1hx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mlbtqjxv-w9he-ruki-eayh-udstqywsu2vh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tka4nsi2-zjhu-5sk7-efsc-gmr9qcyk5fj3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://h78g7fts-4fdr-2gkf-nh3r-x4e2324o9jqt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l0vmfpqq-qisa-5tlp-qxgs-0hbywre4jlaf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a53d8305-4394-49ff-ac49-00a93be232c6@hlwy-v-20250403.hlwy2025.me:33040?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=48XapWp__ToHoLMmQrO5fn7wnDmvqkdROtxPnjALoH4#JP 🇯🇵 ┇ VLESS-TCP-RLT - Ducky Cloud Technologies Limited ┇ 45.192.243.53
-trojan://toply7e7-x16r-yj18-7e6g-zymlwczb7dvh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://li6pds2h-k9y3-vbhp-wn6x-bm2ejlvs2gbo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://e6ts8qxp-6qud-2xl3-3rpa-o6uovok6577a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bmdhxovx-efgy-qq5g-lmva-gu2es5cr2190@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://mxugwh2u-x1zl-41ut-ti6h-5xjuadst2080@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://w358a90k-2vkj-wu16-si68-yzw29oruce8j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pqzepucf-c6jq-ewmo-e32f-4n1qa2dmvt9o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hsmsy68r-xhuy-h5x1-t4o6-yprmzwoaswj8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://f3xsmmkq-36qv-k3pt-9jpr-g6r673dpstpl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z48hgsmn-wqa2-4b9a-9egj-juhkvgeydkp5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@103.127.248.51:443?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link#HK 🇭🇰 ┇ VLESS-WS-TLS - ADC GROUP CO.,LIMITED ┇ 103.127.248.51
-trojan://31gvw1n5-bkzp-3x7j-1tma-ebvhg9f0xs25@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8rj4oiu9-55vb-mkbp-cze5-6wwnvph5123e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://hspmc6wl-dqre-1z15-cklg-w68a3ncu5l6b@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9q3t7x81-e4rv-u7pg-xbek-tlfbdjip1iv5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

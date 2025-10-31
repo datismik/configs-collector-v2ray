@@ -1,9 +1,9 @@
-trojan://iaq86dbx-75dn-e2eh-nmsz-spxd42utdsam@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://tl0suj07-erco-9pbo-5vvf-3ss2i7kmea1d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yk890s0n-2thk-svp4-ryzb-brw3urc08ou6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.109:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.109
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.110
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.111:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.111
+trojan://3bvegfsd-10au-1efj-byrt-hbyw0bvhyt4x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://yh6y2nv3-2m7a-iiqg-6xzd-a2so41jbd8gq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p2fux6s3-z41r-n8j0-5fq1-0kmek6ip1inc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.112:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.112
-trojan://w3jia2f3-u79e-lv7a-gw8x-8bdmtmedcmlf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hd24tkyp-9yo1-e4kj-rdrv-rnz63fz3fbvt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.109:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.109
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.111:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.111
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.110
+trojan://6i3csmmn-kivf-p1nf-pcl1-ayc6ul7n63d4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cpnwmhck-7qdv-1zal-cr97-zu0fepuz4mmz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

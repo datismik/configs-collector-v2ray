@@ -1,10 +1,10 @@
-trojan://n3jx9654-c6qn-8k1k-zozh-2wzh6pdpl5ar@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://xgq2x2ix-l237-u4f3-i34w-hsm72a10ntlc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b7cmdlx6-9cyd-epml-kuzn-ibu4ptqh1amh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://siutb28x-qbv3-hhhf-uj5k-y43zx7894dot@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://xisjs8ja-r6z8-iex0-p8q1-8jzm3prnr370@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7mqb8a8b-kd9y-yokc-0pl1-440tyqqnm1bl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989#MT 🇲🇹 ┇ SHADOWSOCKS-TCP-NTLS - Melita Limited ┇ 171.22.254.17
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@193.227.99.217:2096?type=ws&security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo#MT 🇲🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 193.227.99.217
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#MT 🇲🇹 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.227.99.29
-vless://bb29c155-d55e-4c07-8403-0581e384f7a2@193.227.99.0:2087?type=grpc&security=tls&sni=a2.flcode.ir#MT 🇲🇹 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 193.227.99.0
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880?type=ws&security=none&path=/Channel id: @ShadowProxy66?ed=2560#MT 🇲🇹 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.227.99.234
-trojan://6j2kijxx-7494-9nuc-trgs-381qvqevfl2o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h4xjxqvp-k4s5-66x4-e18s-w30ul8plxr98@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@193.227.99.0:2087?type=grpc&security=tls&sni=a2.flcode.ir#MT 🇲🇹 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 193.227.99.0
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#MT 🇲🇹 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.227.99.29
+trojan://icebx31n-sp81-qr8s-xu1n-hteaau0jd9br@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zbeokjv8-c2z9-yhbo-req1-q1sjcn0trcrt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,9 +1,9 @@
-trojan://9kmlrmtw-35d7-bdq9-855r-eidm4zrv57si@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://u2tul9wf-ir71-c3qc-4tvq-yttr89okt983@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://x3h0muzq-mro1-0mzi-wr0k-tma6kftpz0hp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@149.104.29.121:443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LUCIDACLOUD LIMITED ┇ 149.104.29.121
-vless://287ca8c3-267f-4ba4-a48a-683c450d07f2@ae417f076abd.anondns.net:12123?type=tcp&security=reality&sni=mensura.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=9g0cEPuzLXB09WzYHsWmcP7rwHA2G1LAASqDd4ci1k8&sid=3704d2#HK 🇭🇰 ┇ VLESS-TCP-RLT - LUCIDACLOUD LIMITED ┇ 83.229.122.74
-trojan://Aimer@83.229.123.36:8443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LUCIDACLOUD LIMITED ┇ 83.229.123.36
+trojan://do0urydb-ay49-3mbd-amdc-aqeldhb09t8s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://zfvakh72-9sb9-c5w7-lpx2-47ztr4e2l3l7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g072a4gi-w7dr-988v-dvjf-bo9y0wckl0hl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTFVDSURBQ0xPVUQgTElNSVRFRCBcdTI1MDcgNDUuMTM2LjEyLjM3IiwiYWRkIjoiNDUuMTM2LjEyLjM3IiwicG9ydCI6MjA1MjEsImlkIjoiMDkwZDBiZDktZjljNC00YzNiLThhYWUtZmZhNjc4NzY1OTM1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://6xo2970d-m32t-7v94-rwab-4exp10wq8wtb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://eqm0sk15-4l31-o97r-gn2n-z979gldusg5r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://Aimer@149.104.29.121:443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LUCIDACLOUD LIMITED ┇ 149.104.29.121
+trojan://Aimer@83.229.123.36:8443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LUCIDACLOUD LIMITED ┇ 83.229.123.36
+vless://287ca8c3-267f-4ba4-a48a-683c450d07f2@ae417f076abd.anondns.net:12123?type=tcp&security=reality&sni=mensura.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=9g0cEPuzLXB09WzYHsWmcP7rwHA2G1LAASqDd4ci1k8&sid=3704d2#HK 🇭🇰 ┇ VLESS-TCP-RLT - LUCIDACLOUD LIMITED ┇ 83.229.122.74
+trojan://ji066xcd-4lyq-2v3x-dxhz-cj4lcu25sfe3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8gbslk4r-518g-moic-1hsv-yna7uwxyk33p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

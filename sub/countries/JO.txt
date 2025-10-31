@@ -1,13 +1,13 @@
-trojan://ki2wntf5-2qch-hres-iw2m-3ukyd4ws685z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://cy6jw5ef-a9z8-wct7-1eg3-awl7nmsitgdy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8m5ezxbi-6qax-91db-hbnw-k34zikha5xza@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@62.72.166.3:8880?type=ws&security=none&path=/Telegram🇨🇳#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.3
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?type=ws&security=none&path=/?ed=2560#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.20
+trojan://hdz0kzxa-ykpz-sve9-9pok-4s6015jgv8oj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://8u626cw7-i3ep-bem0-wuvw-k1ngjf5eoxib@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7lscyjgh-07lo-7ane-ga38-yap7xd58mbh6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.29
 trojan://NISHIKUITAN111@62.72.166.57:443?sni=za.ylks.xyz&peer=za.ylks.xyz&security=tls#JO 🇯🇴 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 62.72.166.57
 vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#JO 🇯🇴 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 62.72.166.15
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@62.72.166.251:8880?type=ws&security=none&path=/Telegram@WangCai2/?ed=2560#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.251
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:40006#JO 🇯🇴 ┇ SHADOWSOCKS-TCP-NTLS - Batelco Jordan ┇ 91.106.109.17
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@62.72.166.3:8880?type=ws&security=none&path=/Telegram🇨🇳#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.3
 vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?type=ws&security=tls&path=/Twitter苏小柠&sni=fq521.6789.cloudns.be&fp=chrome#JO 🇯🇴 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 62.72.166.67
-trojan://extc9e90-okp3-kg5h-t7gu-a8nytf5rqh9u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bprtp6mx-4t19-82dt-nfxe-v2x7qw1tie10@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?type=ws&security=none&path=/?ed=2560#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.20
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@62.72.166.251:8880?type=ws&security=none&path=/Telegram@WangCai2/?ed=2560#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.251
+trojan://mg1spro7-gvg8-mh4j-y5xp-ykwj9tom8brr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4g32x2c8-qm3n-z6fm-3ze8-ucywzjoq1vuy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

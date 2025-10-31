@@ -1,12 +1,12 @@
-trojan://a89eusfs-4jhw-aa5j-d87k-dlusajpyds6d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://7y92agov-4kqs-dslh-4cuk-eeugtfvqu6zk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8ruds8h5-hqr3-9944-gdb3-y1xinram8qif@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://4f614742-6ba2-4aa1-a69f-339aad2406ff@216.9.227.28:3036?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#TR 🇹🇷 ┇ VLESS-TCP-RLT - DC Host INC ┇ 216.9.227.28
-vless://ef487a93-d7d4-422a-81c1-764237b52bed@216.9.224.211:4003?type=tcp&security=reality&sni=soft98.4en1.net&fp=chrome&flow=xtls-rprx-vision&pbk=ugJy-HhAx5XAQC8BZ9dI9IBZr7FDMkEe-I-kklVnQyA&sid=e6da440fec1529ea#TR 🇹🇷 ┇ VLESS-TCP-RLT - DC Host INC ┇ 216.9.224.211
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gREMgSG9zdCBJTkMgXHUyNTA3IDEwMy44My44Ny4yMiIsImFkZCI6InRyMW5vZGVtcnoyLnRyYWluaHViLmlyIiwicG9ydCI6ODA4MCwiaWQiOiI5OTk5ZTUyNS0zMGZiLTRmZjEtODEzYS0xZjc3ZjgwYzg2MzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNTIifQ
-vless://6b3a7034-39ec-f057-377d-cf6af57b4db4@panel-tr.turkcloud.ir:8081?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - DC Host INC ┇ 216.9.227.118
+trojan://ws0rukw4-oi1j-lpvk-cu9e-632ugp72q6it@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://oa2fzm8j-2c4j-kisu-umxq-2bjtbahtuihk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jfvvxhwb-ivrk-wni1-7xqp-6yk6psozx6v4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b1860f14-f646-89a8-9295-7d50443724f8@turkiye.marzxxo.shop:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=qdAbPwxdT1Jd6gou8moNKiPocp5yGcan0JQpBUHTNgQ&sid=ce8b0dc11675f0a4#BG 🇧🇬 ┇ VLESS-GRPC-RLT - DC Host INC ┇ 82.115.211.253
-vless://ef8d692b-af11-40d8-b120-d4a4c98579ea@103.83.87.123:24118?type=xhttp&security=reality&path=/&sni=google.com&fp=chrome&pbk=qHdg5goIxKUXhHrUUJz-iakTqY9bRydB2K9hIDtbvHg&sid=aadb461f19fd6602#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - DC Host INC ┇ 103.83.87.123
+vless://6b3a7034-39ec-f057-377d-cf6af57b4db4@panel-tr.turkcloud.ir:8081?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - DC Host INC ┇ 216.9.227.118
 vless://bd75d06f-130c-4c28-9e94-d7e5f830b88b@trborna.hlewx.com:7005?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=UUqglkmGFicoalgiO94YaQxqJFJBbUQJ6DEIIvzR-k0#TR 🇹🇷 ┇ VLESS-TCP-RLT - DC Host INC ┇ 216.9.227.65
-trojan://e3ozamy0-0zwa-yi9c-w09e-1o79rhjmx4fe@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://28zzwtx7-7l5z-3c88-nzlr-a3tunex7ykko@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://ef487a93-d7d4-422a-81c1-764237b52bed@216.9.224.211:4003?type=tcp&security=reality&sni=soft98.4en1.net&fp=chrome&flow=xtls-rprx-vision&pbk=ugJy-HhAx5XAQC8BZ9dI9IBZr7FDMkEe-I-kklVnQyA&sid=e6da440fec1529ea#TR 🇹🇷 ┇ VLESS-TCP-RLT - DC Host INC ┇ 216.9.224.211
+vless://4f614742-6ba2-4aa1-a69f-339aad2406ff@216.9.227.28:3036?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#TR 🇹🇷 ┇ VLESS-TCP-RLT - DC Host INC ┇ 216.9.227.28
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gREMgSG9zdCBJTkMgXHUyNTA3IDEwMy44My44Ny4yMiIsImFkZCI6InRyMW5vZGVtcnoyLnRyYWluaHViLmlyIiwicG9ydCI6ODA4MCwiaWQiOiI5OTk5ZTUyNS0zMGZiLTRmZjEtODEzYS0xZjc3ZjgwYzg2MzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNTIifQ
+vless://ef8d692b-af11-40d8-b120-d4a4c98579ea@103.83.87.123:24118?type=xhttp&security=reality&path=/&sni=google.com&fp=chrome&pbk=qHdg5goIxKUXhHrUUJz-iakTqY9bRydB2K9hIDtbvHg&sid=aadb461f19fd6602#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - DC Host INC ┇ 103.83.87.123
+trojan://wjiiw8nf-txcu-vybx-vsxr-xteu9sm46g5h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://43o67xdc-toqv-zdtn-lqt7-0c1uw3nrggwy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

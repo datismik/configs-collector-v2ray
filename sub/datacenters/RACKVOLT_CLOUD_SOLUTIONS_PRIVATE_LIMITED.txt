@@ -1,8 +1,8 @@
-trojan://87qigt8c-x62q-fbzh-ccvl-9n8vt1508b8s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://kjad8wng-0to6-3ee4-wlqs-6f5sxupigefc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mibke9n4-q6ru-0hbt-mnct-96wjw0p07q87@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://4a2b03d3-93d7-41eb-9f91-992d781568bc@160.191.183.244:80?type=xhttp&security=reality&path=/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=KKzd7r0oeVE4KaUJddgSwrxThKDzKZajx_YZti0zVC4&sid=40#IN 🇮🇳 ┇ VLESS-XHTTP-RLT - RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED ┇ 160.191.183.244
-vless://4446438f-0165-46b7-a34a-78f9fa05b858@165.140.166.78:80?type=xhttp&security=reality&path=/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=dqlkA9vdT4i44_6BPI3svMo-27Yu_nqwCaKR9ua2NB8&sid=6ccf3547aa54#IN 🇮🇳 ┇ VLESS-XHTTP-RLT - RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED ┇ 165.140.166.78
+trojan://6kiiirty-vea7-jc6f-cwok-khslwcut6kgn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://zz1cpt21-80f7-ekwc-vsqh-l22jwhrvf24z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fecbx55n-vb5n-2w0e-9hj8-ieot7uzj417l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7925c9e1-70fe-40d4-a750-eada1f68370e@146.19.56.21:80?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED ┇ 146.19.56.21
-trojan://qcx3f30l-eoxg-xizf-aj06-sy1s20ga52dr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://i2cmil5c-1a8f-po1n-eglx-yev2m597j5hb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://4446438f-0165-46b7-a34a-78f9fa05b858@165.140.166.78:80?type=xhttp&security=reality&path=/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=dqlkA9vdT4i44_6BPI3svMo-27Yu_nqwCaKR9ua2NB8&sid=6ccf3547aa54#IN 🇮🇳 ┇ VLESS-XHTTP-RLT - RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED ┇ 165.140.166.78
+vless://4a2b03d3-93d7-41eb-9f91-992d781568bc@160.191.183.244:80?type=xhttp&security=reality&path=/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=KKzd7r0oeVE4KaUJddgSwrxThKDzKZajx_YZti0zVC4&sid=40#IN 🇮🇳 ┇ VLESS-XHTTP-RLT - RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED ┇ 160.191.183.244
+trojan://v8uxoe9r-5zfc-vlsl-pz1l-ti0dhaj7f758@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://s8mupfor-237r-342c-lcxa-32lypo87105m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

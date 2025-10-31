@@ -1,10 +1,10 @@
-trojan://33v1cs9f-sntp-psba-64zc-is250zdag4ti@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://wu5fqpjf-abz4-9uyi-l033-tp8yple7gcdt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fstr80jd-pukb-38q7-uzf0-rg6xlrkvkip7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9kbegiq6-pxgx-2me4-5u8b-oqmbk9kcn5cj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://jcndr2fu-wjv3-koou-gfep-bfhmehqptl7w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://39f4f9g6-abmp-lii4-p9sv-xpdq7kjb8m1g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VU1rZVl4ZXUxZWFLT0RsWWtyemw4@193.233.253.224:38264#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - DpkgSoft International Limited ┇ 193.233.253.224
-vless://7ba08646-09b3-4295-ac25-fff7f27b07da@noads.torprospeed.ir:223?type=tcp&security=reality&sni=cloudflare.com&fp=firefox&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&sid=c7f175a94bd79f8d#BG 🇧🇬 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 193.168.197.79
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VloxTDZVNjBrbHRvd0NYWVR0d21Z@91.108.245.111:23600#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - DpkgSoft International Limited ┇ 91.108.245.111
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#US 🇺🇸 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 77.239.109.216
 vless://1aa9177d-f535-495c-92a2-9b5c8b920d1a@89.23.123.243:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - DpkgSoft International Limited ┇ 89.23.123.243
-trojan://pbyaggma-i5am-odcb-1auc-1ueai1ptuvud@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yipm9sck-nuc0-ikbj-v1zu-kfx73kmgrp1e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://7ba08646-09b3-4295-ac25-fff7f27b07da@noads.torprospeed.ir:223?type=tcp&security=reality&sni=cloudflare.com&fp=firefox&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&sid=c7f175a94bd79f8d#BG 🇧🇬 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 193.168.197.79
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#US 🇺🇸 ┇ VLESS-TCP-RLT - DpkgSoft International Limited ┇ 77.239.109.216
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VloxTDZVNjBrbHRvd0NYWVR0d21Z@91.108.245.111:23600#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - DpkgSoft International Limited ┇ 91.108.245.111
+trojan://72m5yk32-l4ah-rjj1-2xi7-dqq2qd8s8hdw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2bm2811j-6gjt-x6n2-9gu4-qtjyh1f3cdaq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

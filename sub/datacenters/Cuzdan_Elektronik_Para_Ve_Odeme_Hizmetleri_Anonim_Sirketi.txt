@@ -1,7 +1,7 @@
-trojan://s1a8bw6f-2ir6-m058-v4g7-zrhv69kjzfr5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://rhkamjiy-nyvw-wu6c-cxe6-gtayfi3ftrnq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pq9655go-f3rs-la2a-tn2z-tptmd9yes3jn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hdfrdg9p-r75a-o21u-24ya-1jj8tpeclmma@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://8hysshc0-b07n-27wv-9xwk-0rxuu9je57dz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://b2k3cxu8-tzei-sky0-kye0-ig126r9cuhug@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c93c6014-d516-4a11-b204-a4a1bfa22dc4@dl5-tr4-cdn.fastfilecdn.org:2052?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Cuzdan Elektronik Para Ve Odeme Hizmetleri Anonim Sirketi ┇ 46.31.79.34
 vless://361931d8-36d6-4887-bea8-82ae64d53627@46.31.79.23:50168?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Cuzdan Elektronik Para Ve Odeme Hizmetleri Anonim Sirketi ┇ 46.31.79.23
-trojan://epkaxtft-cp9p-wfrb-g6xh-7v7285aji157@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uccv2kdo-2g51-lpl0-yy8g-jomv63j8wlyf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://valwf3w0-me1x-m3b5-mom6-vg890u399jul@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ydr6rzh5-1pg8-8185-7bzk-zhsdwhvj3469@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

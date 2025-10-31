@@ -1,20 +1,20 @@
-trojan://rsfgd18h-spwh-9h1t-f731-8n4hhjp091o0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://ghdp6a3i-a8hb-e9s9-1tne-4k4gx9sb5fn4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fvu6fvwo-talv-4wlm-xlgq-5wffbwzfmk44@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://46d968fc-b944-4456-b71c-e52707779538@91.225.219.139:443?type=grpc&security=reality&sni=freecurrencyrates.com&fp=chrome&pbk=-prrDVM_FkIt1qMv9CwKxtKeLWvDcqHRj3SafaEod20&sid=ef9562f77d304f77#MD 🇲🇩 ┇ VLESS-GRPC-RLT - Pq Hosting Plus S.r.l. ┇ 91.225.219.139
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - ''it Fruit'' S.r.l. ┇ 185.153.197.5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFUE9ET05JT1MyMDcw@45.142.214.123:8388#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.142.214.123
-vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=XsYCCmBu2xaOyGvjxzwjNmsqgsziY2vJ7N3JfQBDVXs&sid=e4ebe3ba#MD 🇲🇩 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.142.212.154
-vless://0878eb75-6121-6138-8f06-1aed31aeabe0@noads.saitsazs.ir:1443?type=tcp&security=reality&sni=refersion.com&fp=safari&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#MD 🇲🇩 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.142.212.217
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFUE9ET05JT1MyMDcx@45.67.229.222:443#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.67.229.222
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag@45.140.146.223:8388#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.140.146.223
-vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.67.206:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#MD 🇲🇩 ┇ VLESS-TCP-RLT - Foxcloud Communications Srl ┇ 194.156.67.206
+trojan://qkb4elr7-6hbj-v2a2-q9ro-frkb8cbdwyxg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://r15tgibd-em5g-bu4m-k09y-vlhiagdd1vl9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://557vfl6h-lm3a-qh65-vmni-dxqhb0p7n4oo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 45.153.124.90
+vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=XsYCCmBu2xaOyGvjxzwjNmsqgsziY2vJ7N3JfQBDVXs&sid=e4ebe3ba#MD 🇲🇩 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.142.212.154
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@194.33.40.114:33992#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Inovare-Prim SRL ┇ 194.33.40.114
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.5.253:990#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 176.123.5.253
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 192.121.87.89
 vless://d4a49f13-a77a-4783-ac0f-7fdb9ab4deb0@45.142.214.75:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#MD 🇲🇩 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.142.214.75
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#MD 🇲🇩 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.22.239
-trojan://oqmbjr0t-hgut-zcqc-j6t9-rht8ynmd453y@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://i5f7lcxv-xjm1-fh1e-qlmc-h0jwmt4d1f8w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://46d968fc-b944-4456-b71c-e52707779538@91.225.219.139:443?type=grpc&security=reality&sni=freecurrencyrates.com&fp=chrome&pbk=-prrDVM_FkIt1qMv9CwKxtKeLWvDcqHRj3SafaEod20&sid=ef9562f77d304f77#MD 🇲🇩 ┇ VLESS-GRPC-RLT - Pq Hosting Plus S.r.l. ┇ 91.225.219.139
+vless://0878eb75-6121-6138-8f06-1aed31aeabe0@noads.saitsazs.ir:1443?type=tcp&security=reality&sni=refersion.com&fp=safari&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#MD 🇲🇩 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.142.212.217
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@194.33.40.114:33992#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Inovare-Prim SRL ┇ 194.33.40.114
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.5.253:990#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 176.123.5.253
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag@45.140.146.223:8388#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.140.146.223
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - ''it Fruit'' S.r.l. ┇ 185.153.197.5
+vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.67.206:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#MD 🇲🇩 ┇ VLESS-TCP-RLT - Foxcloud Communications Srl ┇ 194.156.67.206
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFUE9ET05JT1MyMDcw@45.142.214.123:8388#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.142.214.123
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFUE9ET05JT1MyMDcx@45.67.229.222:443#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.67.229.222
+trojan://1ffkec8g-94vc-zor2-7el2-ahcmh2vc9hez@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ld5wdiid-567a-pbo0-m11h-u36fm0ijkjo7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

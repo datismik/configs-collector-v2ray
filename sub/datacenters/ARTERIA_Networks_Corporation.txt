@@ -1,6 +1,6 @@
-trojan://0nyib50t-23rv-xxua-9np7-cv8wtdb4tj8t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://ja3a5uri-8nfk-ok79-fqhs-00rlkbemgdgz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://eurxx5yq-hkg4-uiv8-14ve-kk1xy0z8f8v6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yexn32lm-96yk-9pvx-wvr9-0tl9i8ifzug2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://rqrtbjho-7nep-drkr-y8n9-7fmiu94ynndc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://b7f6a84t-jnqa-r9j6-mkjm-6ag588wtgtr3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@113.37.149.36:12553?type=ws&security=tls&path=Telegram@freecodes/?ed=2560&sni=gaosir.unfeeling.sbs&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - ARTERIA Networks Corporation ┇ 113.37.149.36
-trojan://snw4w23a-3vzy-ffkz-9a17-j3zuyssin72t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9ko2tjop-afg4-m51m-0ede-z5ixmu50q4hq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://zbh2g0rb-supr-sojk-d64s-hux0p1g3054c@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kbrq0zby-awth-c06t-63ho-wleejcthuto7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

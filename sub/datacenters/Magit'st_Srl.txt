@@ -1,7 +1,7 @@
-trojan://djdbclel-dyuo-eew4-vica-k4l9rdx27csc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://jyfgh1vy-3dlb-2pnl-99rz-m6v7ee5dh0mf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://p20uyree-gojg-he72-juyb-laku5qxtenp2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVGJWOExhc0J3NGI4TTB2RUlyell2@193.29.12.15:8443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Magit'st Srl ┇ 193.29.12.15
+trojan://o5r6pclw-fmey-fp1q-i5hg-7urg0sb225ug@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://lyhpjan5-gwu7-csdr-pv0t-rrd5eyvwnxus@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rlncwtlj-fweo-1d6j-wlkm-robc38kkaps5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUEd2akI4N3V4MW9wRGdoMlh2dGhW@193.29.12.4:8443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Magit'st Srl ┇ 193.29.12.4
-trojan://jbxvss94-bho3-zgfe-45ky-rhbxzn4n9dm1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vj7yyej9-96nr-rsvm-y64t-q6jfkheffzku@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVGJWOExhc0J3NGI4TTB2RUlyell2@193.29.12.15:8443#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - Magit'st Srl ┇ 193.29.12.15
+trojan://4hr0l9wb-r2fj-sr7m-d9q5-u198nf4m6un5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xi6i2nq7-t31y-8pnn-eol1-8ig6e8c729xr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

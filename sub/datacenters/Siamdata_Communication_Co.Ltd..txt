@@ -1,10 +1,10 @@
-trojan://o69ccfle-a454-560q-8hs6-fii5jmctsrqs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://sg3swrdz-y0ah-7khr-opob-us5hjo1qq2ys@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u0dluxsn-v3ib-bup2-82ti-ro3ackf6u9no@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE@103.117.150.85:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.150.85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE@103.117.148.22:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.148.22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@th.fastsoonlink.com:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.136.253.123
+trojan://obdbdjkl-fcrh-xgfx-1tj9-gbhu0npuhxe3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://aslue5sl-splo-ehs3-ugfa-thxfzuhetg01@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9x779fop-orbj-00te-rljl-ylu30zftfgmg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@45.144.167.46:19816?type=ws&security=tls&path=/lzjjjj666&sni=rs-hk.lzjnb.shop&fp=chrome#TH 🇹🇭 ┇ VLESS-WS-TLS - Siamdata Communication Co.,Ltd. ┇ 45.144.167.46
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@th-01.cloxynode.com:35515#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.150.54
-trojan://xrrt34vn-bv8j-l2wi-7s76-4z7on95vw1o6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g96rvjvu-4np4-lemi-uyg7-lz3wf0e582u6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE@103.117.150.85:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.150.85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@th.fastsoonlink.com:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.136.253.123
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE@103.117.148.22:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.148.22
+trojan://7gwipszy-2s4g-itj0-w25t-ls4qu8sk9rgd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d0z8erog-q1s1-p76p-3vgg-cpdkujg8qkk7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

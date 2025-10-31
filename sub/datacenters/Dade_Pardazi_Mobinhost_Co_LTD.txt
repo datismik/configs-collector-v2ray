@@ -1,13 +1,14 @@
-trojan://psv1m77p-vjkx-7f53-nzdf-grriguqnv9a0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://iitpbwt1-ab69-shgj-1gya-bbjqjujphrk8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6a483z2n-x4qs-aonm-gcn9-xlfz9xzwq1mg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://29de8865-a6e9-41c8-8926-b26d12a08bea@node11.upperboundnode.click:443?sni=node9.servernode.store&peer=node9.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.140
+trojan://q3sl2nz2-oe6w-ee60-mumc-qkazjqr85b7a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://rusp971u-95qq-lbaf-q2gt-tvj6822unrww@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ptogtxrn-i2jp-ipg1-0baw-eysjmgomlh0u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.110.155
-vless://10b1f4a3-63a7-46b4-f05a-023542f0dc11@87.107.144.71:54465?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.144.71
-vless://74f0dc16-cb28-4566-acea-6794f560466e@45.129.36.85:3500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 45.129.36.85
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 81.12.30.51
+vless://006e443a-49f1-4a09-a76a-e7eac23f9047@all2network.qwertyuiopasdfghhjkkllzxcvbnm.blackkwolff.com:443?type=httpupgrade&security=tls&path=/?ed=2560&sni=e5e82bb0ddbc6e7b.filmiranidownloadsitemoviesub.ir.&fp=randomized#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.110.150
+vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.153.243
+trojan://29de8865-a6e9-41c8-8926-b26d12a08bea@node11.upperboundnode.click:443?sni=node9.servernode.store&peer=node9.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.140
 vless://af311145-a785-4fd9-94ec-da2974de5739@87.107.110.254:9999?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.110.254
 trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@node11.starnode.online:8080?sni=node5.servernode.store&peer=node5.servernode.store&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Dade Pardazi Mobinhost Co LTD ┇ 62.220.127.154
-vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.153.243
-trojan://w2ukmhlo-z0jt-3ofp-48g1-b1zbmnkk6bqq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4tgw2p2q-45lw-6v2o-9w8z-7r9jvjukqaz2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://10b1f4a3-63a7-46b4-f05a-023542f0dc11@87.107.144.71:54465?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.144.71
+vless://74f0dc16-cb28-4566-acea-6794f560466e@45.129.36.85:3500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 45.129.36.85
+trojan://shevgapm-cpnx-g2nx-vlko-630z9v1k14dy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pu7sis3k-e826-bi01-95m2-f8i0zfghv5h4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

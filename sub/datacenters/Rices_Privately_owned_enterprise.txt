@@ -1,8 +1,8 @@
-trojan://0qjrs9pk-hmr7-txwj-2h9j-1vul973e9srj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://006u8kmz-t2tv-bqtc-b7hb-5b7f07swai29@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7igg50rb-ehnr-2p7s-vd4e-14z4h2pn16tj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cyf0kg9r-hzi1-kzsp-1adx-85y58d4s4wu2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://gweym80x-bb52-bfyj-un7r-6d3npvgl8mgs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oq1iw7gs-tu0b-nphe-eunb-2djdtsje8uw5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://113d5d7f-14ef-2a2e-6a3b-b52bc4f82432@ukraine.marzxo.biz:8090?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#UA 🇺🇦 ┇ VLESS-TCP-RLT - Rices Privately owned enterprise ┇ 185.243.99.16
 vless://58750ffe-ba34-4b1b-b965-d763a88fbcfc@ukraine.epiconline.ir:33727?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Rices Privately owned enterprise ┇ 185.243.99.83
 vless://67525da1-a606-4725-98f3-513c13904d9d@h.hafman.lol:11928?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Rices Privately owned enterprise ┇ 185.243.99.8
-vless://113d5d7f-14ef-2a2e-6a3b-b52bc4f82432@ukraine.marzxo.biz:8090?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#UA 🇺🇦 ┇ VLESS-TCP-RLT - Rices Privately owned enterprise ┇ 185.243.99.16
-trojan://acq28f5v-94xk-n0cb-cb4x-8xipf84v56mk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://49dg8fli-9qxf-j1es-xtkn-f55ix8irci19@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://6kjdmf2b-8zhc-ulpz-bj52-s9nd0uv6zvj4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qx14qng1-gd52-1u7j-xvuy-pdz2keyzssrh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,12 +1,12 @@
-trojan://rt97suqp-11to-75dz-u9la-1ium066yzkrx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://ujiy0c7p-jehn-v373-tg2s-nlg756slgpjn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o1d39d4o-zbso-8289-ehhh-s2lwklighrvb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://djnj2kf9-s0z3-mrbd-zdqk-v4k6ym8wjnbp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://6vs6xhge-b3z5-aqwr-0bm7-w2zrjjqmsj0w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://a1ejflux-wxdw-h7p8-9znz-jg8gw3mnp1q7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWYzZTA5ZjZjYzQ0NDEz@163.171.110.9:14066#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.110.9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.29
-ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw@31.40.212.221:20006#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 31.40.212.221
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.45.129
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - InterBS S.R.L. BAEHOST ┇ 131.255.4.219
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.32
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dGFMNENueUczU0g1RUVzN1BFNzVj@190.103.176.123:8443#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.123
-trojan://gus3x53s-tc9m-ic0p-oi47-58h5uyhvz9ew@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4wb7c2kn-jikh-3lbo-2zkg-oq5tgchmpvw4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.32
+ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw@31.40.212.221:20006#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 31.40.212.221
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - InterBS S.R.L. BAEHOST ┇ 131.255.4.219
+trojan://f441jnbl-9ywh-zbko-c9io-d8ag3d3468kx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dkontewt-36pk-vshp-att8-u5to1a5wby06@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

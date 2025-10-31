@@ -1,8 +1,8 @@
-trojan://mz6ap6x3-z5tm-qraz-si2c-b7s1ljt2b08j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://2x3h0y4u-q1tm-og6e-cfjs-cuo4ogudh5r8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mnusmu0y-m03d-upe8-qw9s-bxga1bbuhgrx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://vdc1vr5c-jaft-t12k-uegq-7gxmlyk39d4m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://9t1g0m9f-acw4-eh8o-ztrx-43xae4x4a85d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v9b306s2-xmyp-b1tj-249l-4amtqz6lhz3h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://Aimer@161.145.150.14:443?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CARRIER-AMER ┇ 161.145.150.14
 trojan://Aimer@161.145.150.29:2083?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CARRIER-AMER ┇ 161.145.150.29
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@161.145.150.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - CARRIER-AMER ┇ 161.145.150.77
-trojan://Aimer@161.145.150.14:443?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CARRIER-AMER ┇ 161.145.150.14
-trojan://8w8c5gua-x3i9-m6sk-z72u-s0s2x9hmkev5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://py00z9h9-p03q-6saa-8527-t3wuiqjzeklk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://9rk7me5r-ck7l-lryb-gxp6-busr3e4tt5fz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wrkqb5xf-iqb7-4cqr-kxde-it59b8f502cj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

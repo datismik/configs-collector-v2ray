@@ -1,8 +1,8 @@
-trojan://pr5ka2v2-gda0-i1en-e0z5-yj6sc8f02lnm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://w4fr5qlj-phgk-8bgg-z1sv-1q8dxfueqg0x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d6xijauo-h6ii-1mvo-jav1-u67cl7p2b39m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://isf4wu20-grvs-nxza-n7kn-0nou0o0kxam3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://4oa6ty0r-x4zn-e23v-k4kv-1vwlzxa2s3p8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://odvgpvte-m08r-zfe5-z1w0-avm1pcug140y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://dcc7c67e-4ecc-4136-b9a0-2d4f6fdd1227@185.194.177.26:443?type=tcp&security=reality&sni=de.nosok-top.com&fp=random&flow=xtls-rprx-vision&pbk=9l7RFWj9tc1kyaO0JjxjAPdjw_OzlrRDv5BLbY9o0QI&sid=9c2378562188c3cb#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 185.194.177.26
-vless://69cc5658-e452-478c-9e81-d5b5299cb924@profile.shop2wordgames.store:5222?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=hb50Ey2iq21OmTnP3OL-wBZqTnUDjaOPPrm7M2rk00A&sid=da#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 163.5.63.178
 vless://15eabfb4-3465-4b5b-a0ad-3fa88a4ae005@5.181.187.123:45101?type=tcp&security=reality&sni=t.me&fp=chrome&flow=xtls-rprx-vision&pbk=ubK8xQYhwjyr8vc-vm4ITg7zaX07l745gRBqeT7QIA8&sid=2ffb83f30b7ae51d#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 5.181.187.123
-trojan://17ft3pbx-58ux-sz75-rqug-x5aihztwv133@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q38xio3p-i961-1jwr-ew6l-ab545ri84jfw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://69cc5658-e452-478c-9e81-d5b5299cb924@profile.shop2wordgames.store:5222?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=hb50Ey2iq21OmTnP3OL-wBZqTnUDjaOPPrm7M2rk00A&sid=da#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 163.5.63.178
+trojan://s0v4b2qa-j3hi-i6ci-j0cu-8blgxivydhka@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0vppm6d3-o0lb-quiw-ubt5-c1d8tphtm0x0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

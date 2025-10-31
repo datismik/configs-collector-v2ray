@@ -1,8 +1,8 @@
-trojan://sgluymfh-o4gd-idnx-7x25-w86hk2lx8bk3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://1naejgk9-cehu-id1m-yug7-mksgvihb9vev@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tqlvt83j-11e8-wtbs-p3jp-0e496sad8qen@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?type=tcp&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685#IR 🇮🇷 ┇ VLESS-TCP-RLT - Giti Secure Cloud LLC ┇ 212.80.9.87
+trojan://jp1op8rb-kawx-q5dw-fnbr-vjsuvshfcgc8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://abt4tjp7-99a5-1a04-1syl-qwwe93qa9ij1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zybq96vv-780g-285z-t2jb-264kri84x4k5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://185dadce-77b8-48f8-b5d9-3d6b9580b5c3@212.80.9.180:41633?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 212.80.9.180
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 212.80.9.85
-trojan://hr77xrw7-5k3e-vj7u-h6bo-8dzg6e9ys41c@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t50kgdi4-lcaj-eid8-hy0k-jeqxahxzkf46@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?type=tcp&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685#IR 🇮🇷 ┇ VLESS-TCP-RLT - Giti Secure Cloud LLC ┇ 212.80.9.87
+trojan://emqx8lqi-z2la-hjmg-vj8h-zmyae5ntqasn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://a5glvsn2-if9j-2w6z-o6pf-wsjnscubqw41@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

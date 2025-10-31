@@ -1,7 +1,7 @@
-trojan://sc3iryae-eglp-lc6q-481g-nycwgmk5bznq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://vdxllg3a-ww3q-aivo-rqyb-7c4a1k28wcw7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7r8lab70-f4fa-pdff-35fn-6g07ur2trvi2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ao7hifsm-rj7y-qp8t-z12j-5k2ktvkh28uw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://xyh49u4x-zaf0-3kh2-kfcn-pf4j6kig0i1f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q9iiia1x-o4an-em0x-o31t-hbuq9fmpqipw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206NTBjV01yOUtia2VnREM5aEhaUE5Bdw@20.173.66.64:1080#QA 🇶🇦 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.173.66.64
 vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0#QA 🇶🇦 ┇ VLESS-TCP-RLT - Kaopu Cloud HK Limited ┇ 156.244.41.221
-trojan://hv6ko3p2-3syg-74c9-5dwy-nrxl5zfhnf0u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://d1sm5q05-pwgo-q44o-2rpo-68fc3n1f06i0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3rido1nx-41ip-jq6c-brfo-uagm3030dux2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xmc3ccqj-2zyk-s9wg-nxt4-lesm312cbstg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

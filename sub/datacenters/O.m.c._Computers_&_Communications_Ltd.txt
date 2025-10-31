@@ -1,11 +1,11 @@
-trojan://57e8d0u2-vxrp-o4ks-w28i-l9xngrj80efl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://8wb8egf4-z1jk-edw5-s05n-ev2hu9plxzuf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7gcnad3k-kb91-szs5-xq1r-te3omi2z0t4b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://6f83d534-5cbc-4c7b-9482-f4c428617731@israel-01.ptu.ink:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=_vPR5_NWghX038TY9DMQAf3dCTjGkpwqEVhVWQNsChY&sid=6f83ca929e5f2b66#IL 🇮🇱 ┇ VLESS-TCP-RLT - O.m.c. Computers & Communications Ltd ┇ 185.162.126.77
-ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - O.m.c. Computers & Communications Ltd ┇ 31.133.100.49
+trojan://25ffmiqs-a2vv-alwn-f3pf-c9aegp4iq3xq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://ptvqzoi3-xydu-mhk6-bnbs-y1ttkn6j1z6j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://21fxs5no-e8os-d5a0-4k1m-q7vgzbegqqrt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://22d6cb13-fdb2-447a-bd46-78365f8bbd09@212.80.205.244:8443?sni=joss.krikkrik.web.id&peer=joss.krikkrik.web.id&security=tls#IL 🇮🇱 ┇ TROJAN-TCP-TLS - O.m.c. Computers & Communications Ltd ┇ 212.80.205.244
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - O.m.c. Computers & Communications Ltd ┇ 83.229.73.120
 vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?type=xhttp&security=none&path=/xhttp#IL 🇮🇱 ┇ VLESS-XHTTP-NTLS - O.m.c. Computers & Communications Ltd ┇ 63.250.61.157
+vless://6f83d534-5cbc-4c7b-9482-f4c428617731@israel-01.ptu.ink:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=_vPR5_NWghX038TY9DMQAf3dCTjGkpwqEVhVWQNsChY&sid=6f83ca929e5f2b66#IL 🇮🇱 ┇ VLESS-TCP-RLT - O.m.c. Computers & Communications Ltd ┇ 185.162.126.77
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY@188.191.147.127:31348#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - O.m.c. Computers & Communications Ltd ┇ 188.191.147.127
-trojan://jmw0tlvu-yznj-bg6e-igcm-47jb5x9adde9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dhvq9iyl-nez9-kbxb-yxit-yengclq8prub@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - O.m.c. Computers & Communications Ltd ┇ 83.229.73.120
+ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - O.m.c. Computers & Communications Ltd ┇ 31.133.100.49
+trojan://oqkjtd7q-ssuu-ghxa-bm4c-9j6y5z3wtsg7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4gu5xwte-5pbv-z9wz-hico-dqn1g7w07q83@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

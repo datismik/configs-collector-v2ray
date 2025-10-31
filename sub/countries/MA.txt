@@ -1,9 +1,9 @@
-trojan://nvzcjzlt-do46-of96-bt09-2u3ysmj9j8f6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://zjyu45lz-5yy5-t4nz-o2fq-luk4gk5y73y7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zf4ie4dl-73p6-dz8f-21fc-euukgymn9mi0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.58:990#MA 🇲🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 188.214.157.58
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.70.207.97:990#MA 🇲🇦 ┇ SHADOWSOCKS-TCP-NTLS - HOSTOWEB ┇ 154.70.207.97
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.30:990#MA 🇲🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 188.214.157.30
+trojan://utzcqe18-4tvf-iosg-kvn1-t45widfk06yh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://60tce7mu-9uh4-2vg5-w1b5-hts2v209lgd8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://marzvsic-73dm-j8dc-yrjb-n8k2ractaw2z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206QTc1VVRIU1RRSzJRTFY5Qw@188.214.157.236:20014#MA 🇲🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 188.214.157.236
-trojan://rkx3rda6-q7rw-fkqt-zp3m-4x9v30d9z59i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4leczu8r-4iwg-7uo4-t9n5-ilr2kfztydzk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.30:990#MA 🇲🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 188.214.157.30
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.70.207.97:990#MA 🇲🇦 ┇ SHADOWSOCKS-TCP-NTLS - HOSTOWEB ┇ 154.70.207.97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.58:990#MA 🇲🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 188.214.157.58
+trojan://8bx231tf-5cjp-lbjn-mbeq-chlyv9ithbhj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://85vnaafc-suvz-ctah-57z8-j4bey7e8i784@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

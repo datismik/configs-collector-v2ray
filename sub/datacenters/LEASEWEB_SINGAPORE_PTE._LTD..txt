@@ -1,9 +1,9 @@
-trojan://tdpwdotl-4dk8-hz9r-1ic3-hrlibewn53yb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://uqvbo9w9-nwdo-357v-d9no-utf5y1xtiwr8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bwe9w7fz-yy5q-i0g4-cjpp-i0fxacjs77xl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xy4c8s26-k2ru-sgvl-33hu-4xdvkalwxvma@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://m40u2xpx-qfck-1v8h-4yhr-oro70ub5ier9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6ukjgzgy-2amt-uy56-qf85-69iz3om9hqiu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTEyOC1nY206ZjM0N2I2NDQtNWNlNy00OGIyLWJlMDctOTc0NzQ4MDVhOWFm@sg04.dns-node.top:45609#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB SINGAPORE PTE. LTD. ┇ 142.91.98.103
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBTSU5HQVBPUkUgUFRFLiBMVEQuIFx1MjUwNyAyMy4xMDguMTAwLjEwMSIsImFkZCI6IjIzLjEwOC4xMDAuMTAxIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBTSU5HQVBPUkUgUFRFLiBMVEQuIFx1MjUwNyAyMy4xMDguMTAwLjEwMyIsImFkZCI6IjIzLjEwOC4xMDAuMTAzIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0
 ss://YWVzLTEyOC1nY206MTAwOTVmMGQtNTJmNy00MTdlLThhY2YtOTM0NzgwYzVjNmNi@sg03.dns-node.top:45606#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB SINGAPORE PTE. LTD. ┇ 142.91.98.102
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBTSU5HQVBPUkUgUFRFLiBMVEQuIFx1MjUwNyAyMy4xMDguMTAwLjEwMSIsImFkZCI6IjIzLjEwOC4xMDAuMTAxIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0
-ss://YWVzLTEyOC1nY206ZjM0N2I2NDQtNWNlNy00OGIyLWJlMDctOTc0NzQ4MDVhOWFm@sg04.dns-node.top:45609#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB SINGAPORE PTE. LTD. ┇ 142.91.98.103
-trojan://ep4fx6bb-0xx3-myk8-hwn7-lndf49hdmry8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fduairqo-10k8-9mxn-a0tj-mbtlwg51qr42@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://kkqmurm7-l1f0-f9pt-4ycz-srdlm0hnf00d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gg1jzvj5-ud11-pz2t-uc84-e6ae9cm796f7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

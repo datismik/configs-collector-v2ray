@@ -1,10 +1,10 @@
-trojan://bgo56rrd-0eyg-am1e-7fsk-mzvvsohce3wa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://dm372f60-woyk-yo0c-5jon-868xbli3ma5b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yxjrneqy-2eni-gyzt-lxn4-0oa7jywg7cqf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://20fda433-1864-433b-b3dd-8f119fe4cafd@45.11.183.132:443?type=ws&security=tls&path=/?ed=2560security=tls&sni=happy.mianfeicf.lol&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - servinga GmbH ┇ 45.11.183.132
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgMTg1LjIxOS4yMjAuMjUiLCJhZGQiOiIxODUuMjE5LjIyMC4yNSIsInBvcnQiOjMwODI1LCJpZCI6IjE4MWEwZGQxLTc5NGYtNDBmMi1lZDg5LTY3ODUxZDRiMDI2MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
+trojan://mmatp11a-4u1j-ltzz-xx1z-5g2oxevgsyup@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://0g7z9coq-scr9-sq5n-zy0z-kmkwqq972zlp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8m0wbw9i-o75u-j4xn-cyd5-4d9eva30pj6o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgNzkuMTMyLjEzMy4zOCIsImFkZCI6Ijc5LjEzMi4xMzMuMzgiLCJwb3J0Ijo1NDQ1OCwiaWQiOiIzMWIwMjJmMi01NDQxLTRlOWEtZmZlNy00M2ZlZTdhYjA2ODgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgMTg1LjIxOS4yMjEuMTI4IiwiYWRkIjoiMTg1LjIxOS4yMjEuMTI4IiwicG9ydCI6MjI3OTMsImlkIjoiNWM5NDAzMWItNDhjOC00Mjc2LWQ4YjUtODBmYTNlODlkYTM4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgMTg1LjIxOS4yMjEuMTI4IiwiYWRkIjoiMTg1LjIxOS4yMjEuMTI4IiwicG9ydCI6NDAzNDgsImlkIjoiYTdhNGRmMDItNTVmZi00OWQwLWExM2MtZDcxZjdkMDU2MDZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgMTg1LjIxOS4yMjAuMjUiLCJhZGQiOiIxODUuMjE5LjIyMC4yNSIsInBvcnQiOjMwODI1LCJpZCI6IjE4MWEwZGQxLTc5NGYtNDBmMi1lZDg5LTY3ODUxZDRiMDI2MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vless://ecfbff92-a62c-4b51-912e-17d7fd8d52d5@63.251.122.76:12790?type=tcp¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---&security=none#ES 🇪🇸 ┇ VLESS-TCP¬E=TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR---TELEGRAM---@RAIV2MMR----NTLS - servinga GmbH ┇ 63.251.122.76
-trojan://llswtaca-8cbf-b3v3-xce9-cs8jli4gvn3f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1qjzvtnx-ddcb-0dqh-iznz-6l3fn3uvi7lb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://20fda433-1864-433b-b3dd-8f119fe4cafd@45.11.183.132:443?type=ws&security=tls&path=/?ed=2560security=tls&sni=happy.mianfeicf.lol&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS - servinga GmbH ┇ 45.11.183.132
+trojan://142f03jl-gaej-71hh-jszq-s8nvoeqb9sd4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zgwugzll-6hjs-jn7u-3gv1-3qoj35v661e0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

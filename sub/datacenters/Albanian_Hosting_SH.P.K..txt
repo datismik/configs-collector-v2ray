@@ -1,12 +1,12 @@
-trojan://8r4d6h1g-hn6n-2ama-mc0g-uqn7hyu3efre@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://pl0ha8ig-3dv5-l802-pl7e-n0atxsf1vyvz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qn3vtr51-erdn-vkyg-pxtb-9c7ar2i6h5o9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f2a4624b-4efc-4409-bf2f-c7ec5f77503a@al.spirako.com:443?type=tcp&security=reality&sni=spirako.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#AL 🇦🇱 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 93.123.46.156
-vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@93.123.46.100:443?type=tcp&security=reality&sni=spirako.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#AL 🇦🇱 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 93.123.46.100
-vless://91797950-f675-4e07-8735-dbc021e99a7b@103.167.234.99:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048#AL 🇦🇱 ┇ VLESS-WS-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.99
+trojan://f1cq61uc-imjq-6t0f-m3uo-uqedhdbavc55@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://5o1tx896-8av1-6xzc-f189-cux347gw64df@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xzjbecvu-a89y-y5vn-s1as-67p52uq1vj0q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@93.123.46.250:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048/?Join_Bade_Channel@JOKERRVPN#AL 🇦🇱 ┇ VLESS-WS-NTLS - Albanian Hosting SH.P.K. ┇ 93.123.46.250
+vless://f2a4624b-4efc-4409-bf2f-c7ec5f77503a@al.spirako.com:443?type=tcp&security=reality&sni=spirako.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#AL 🇦🇱 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 93.123.46.156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.98
+vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@93.123.46.100:443?type=tcp&security=reality&sni=spirako.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#AL 🇦🇱 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 93.123.46.100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UjVsVDlwdzhucXdqVGtMdGdxaGJo@93.123.46.81:8443#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 93.123.46.81
+vless://91797950-f675-4e07-8735-dbc021e99a7b@103.167.234.99:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048#AL 🇦🇱 ┇ VLESS-WS-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.75
-trojan://quh5gl83-so8e-wk4d-9k8c-8jzr7n02sxr6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://48i51i3d-4xyt-7fvy-g3w5-luk06a9xt9mv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://c5u5rlex-zl86-if33-4tfg-z4mxccict8zv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wv7qmgf9-5dk7-oqq6-u2ti-e8xuamm63gbs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

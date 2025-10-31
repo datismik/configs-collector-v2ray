@@ -1,6 +1,6 @@
-trojan://p3mprta9-0yna-nhdg-8ka6-l9u4rl4hizip@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://69y3h4ys-cgcs-hk0a-xnya-rma5gpnr4qyo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bdjhhhw9-sjct-g6b1-0byp-1ticlmxrisro@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://huduo8ca-v029-6lcy-t7e7-gzyyfosr25kz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://a2wvcsim-qwex-x8jn-6nov-wbpaaqkeyb90@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n0u7b92r-xuxk-m3xr-cxg2-10ct7xy4dgn4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3THQyc3FVdTl3c0E0bEFnUGNYZGpC@95.81.106.102:8443#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hamara System Tabriz Engineering Company ┇ 95.81.106.102
-trojan://podrgxs9-rrjw-m9x2-kft0-h1vkrv0xquaq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zsd7bwau-341i-51gc-7jwr-2m16wrvqf9cm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://203zrijn-tgcd-27jt-atrd-byuz4k3fnw93@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7ckw6hz3-m6kf-f4vw-5llo-kq6e0bjdoogd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://ftobmvka-ehim-kk1m-ud18-vkz075h3arfp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://u8z5dp2b-xtwr-nqe1-c35u-s77rbd6ywhjr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mjrcna7v-w1ta-smm5-8bag-mm8i3f4xzqht@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f046c76d-7639-45d6-84fe-60666e0b7ae8@savteam.savfasf.ir:14420?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=f2mZcxuMFBWHhxyy2MPA3E-aRh6pasVvZe_6OkF_Njc&sid=fecc0d646553f4b4#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 91.132.51.10
+trojan://u6cpcdcr-isdw-kbmt-jr1u-hav3y27wpd9x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://xx8wp7nc-6cnt-w3qk-yerw-yhsei1yzbf4e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://00612fyp-vxvz-w6ut-9nse-g7wlvurmy7mx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 217.60.244.234
-trojan://hyabzuau-acpx-oukl-6hyt-0jwq6jb0hvge@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8b0kbxlm-uwoj-plyw-091a-f1ox90zaz7mz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://f046c76d-7639-45d6-84fe-60666e0b7ae8@savteam.savfasf.ir:14420?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=f2mZcxuMFBWHhxyy2MPA3E-aRh6pasVvZe_6OkF_Njc&sid=fecc0d646553f4b4#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 91.132.51.10
+trojan://ravt7ozb-22cj-qye9-tsf4-0q5ayocwuhno@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ghtzrgcs-1jx6-a7v7-xtjp-lgzcyau1fohu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://4b50efux-wkml-lzxr-5zt5-vy6psa8aqlv3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://27yeb6yk-9vym-fuw0-fjc0-0m0xnr0e7vug@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0izuxjef-aywl-wjbv-gpyp-ytlcmt4u4z8b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://iyyss2va-aqar-1kzs-twn4-w6f3qmhnmumf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://hy0dytvj-w4c7-buxd-18me-864q1t0i5dkc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q43bft8m-obp9-51xr-vqre-6zfwp2qqtuiz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@72.140.224.197:802#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ROGERS-COMMUNICATIONS ┇ 72.140.224.197
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@72.140.224.195:800#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ROGERS-COMMUNICATIONS ┇ 72.140.224.195
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@72.140.224.197:801#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ROGERS-COMMUNICATIONS ┇ 72.140.224.197
-trojan://60jdk6ld-h2gh-34wa-4rxh-17qdqtvoouit@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://83ep4xr2-th2u-k4zl-lx7u-kicxwfv13u5q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://xya8w9z8-gvvf-otlm-pq95-08bl9z9rp0y2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bsu5wtb7-wr4x-5d3b-gi6m-tplga4pejrkq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

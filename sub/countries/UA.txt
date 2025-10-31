@@ -1,48 +1,48 @@
-trojan://7tugdw63-9fb7-h5a6-gz6g-arwpchd56cu5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://x5b9w7yz-tji8-l3mr-nsm8-s4s30swmh20y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://trijdz6q-c4fq-ujrw-72y6-7x7z5dgwrp38@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://58750ffe-ba34-4b1b-b965-d763a88fbcfc@ukraine.epiconline.ir:33727?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Rices Privately owned enterprise ┇ 185.243.99.83
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Ivanov Vitaliy Sergeevich ┇ 176.103.53.105
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@46.202.30.3:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 46.202.30.3
-vless://67525da1-a606-4725-98f3-513c13904d9d@h.hafman.lol:11928?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Rices Privately owned enterprise ┇ 185.243.99.8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
-vless://d6463949-3c41-4369-8229-ab7acfcb182f@turkey.huqpmfood.ir:1331?type=xhttp&security=reality&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&sni=stackoverflow.com&fp=chrome&pbk=m8Tuf48MMB9ILy--1nfwGRPJOEbgHOdylaLS_JQ66DM&sid=89345bea5809f46d#UA 🇺🇦 ┇ VLESS-XHTTP-RLT ┇ 95.134.130.146
-ss://YWVzLTI1Ni1nY206TkJWSG9hTmVsV1JlTEh5dQ@45.153.229.146:3030#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.153.229.146
-vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@88.151.192.91:3037?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#UA 🇺🇦 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 88.151.192.91
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.124.127.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.124.127.29
-vless://f629aa8e-86cb-4cec-94de-8cb1b549798c@95.134.130.176:80?type=ws&security=none&path=/#UA 🇺🇦 ┇ VLESS-WS-NTLS ┇ 95.134.130.176
+trojan://nb363vzd-kcf6-zf3s-ivye-a2108h1vdc65@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://em4h0uwy-1o4y-dphg-uor7-bakidlbbsh8t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zlwd7ajs-3ku0-dktk-p2qe-ddn55rcouv07@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDQ1LjEzNy4xNTUuNDUiLCJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwicG9ydCI6MTc2NDYsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://113d5d7f-14ef-2a2e-6a3b-b52bc4f82432@ukraine.marzxo.biz:8090?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#UA 🇺🇦 ┇ VLESS-TCP-RLT - Rices Privately owned enterprise ┇ 185.243.99.16
-ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@156.146.50.102:50695#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.50.102
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@91.124.127.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.124.127.177
+ss://YWVzLTI1Ni1nY206VUtWTjJOWkJWVUtJQkFORA@147.78.3.137:20032#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.3.137
+vless://f629aa8e-86cb-4cec-94de-8cb1b549798c@95.134.130.176:80?type=ws&security=none&path=/#UA 🇺🇦 ┇ VLESS-WS-NTLS ┇ 95.134.130.176
+vless://4e67f8e9-8a8b-46c1-bf57-f74aa040e8c4@95.134.130.180:3693?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS ┇ 95.134.130.180
+vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.84
 vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyAyMTMuMTExLjE3OS4xMDciLCJhZGQiOiIyMTMuMTExLjE3OS4xMDciLCJwb3J0Ijo0NDMsImlkIjoiZDdiYjQyMDUtNjZlOC00OGYyLWU2MmMtMjBiMDFhZTVkOWUzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.94.169.88:443?type=ws&security=tls&path=/vbba.ylks2024.us.kg&sni=vbbc.ylks2024.us.kg#UA 🇺🇦 ┇ VLESS-WS-TLS ┇ 45.94.169.88
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@213.111.182.241:808#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS ┇ 213.111.182.241
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdlA5MWJKeExFa2ZQcXM4d1ZoclZ4@188.190.4.234:8485#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.190.4.234
+vless://58750ffe-ba34-4b1b-b965-d763a88fbcfc@ukraine.epiconline.ir:33727?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Rices Privately owned enterprise ┇ 185.243.99.83
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
+vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRk9QIFJlem5pY2hlbmtvIFNlcmdleSBNeWtvbGF5b3ZpY2ggXHUyNTA3IDE0MS4xMS4yNTIuNjQiLCJhZGQiOiIxNDEuMTEuMjUyLjY0IiwicG9ydCI6MjA2MzAsImlkIjoiYjdiMjMyZDEtNzlhZS00ZmIxLThmZGItNmYwYmRjOGE0MWVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYjdiMjMyZDEifQ
+vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.24
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@46.202.30.3:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 46.202.30.3
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@91.124.127.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.124.127.177
+vless://769774c9-8eb7-4ee4-8093-d56c92ed9e69@95.134.130.138:5437?type=grpc&security=none#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.134.130.138
 vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw#UA 🇺🇦 ┇ VLESS-TCP-RLT - South Park Networks LLC ┇ 185.126.255.180
+vless://ce43596d-c8f0-4600-b909-4390881ab5e7@193.238.153.91:35755?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.91
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UUZYcjNtbXhLZ3VybVV4S0FNQkdu@188.190.4.212:8561#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.190.4.212
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
+vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1heGltdW0tTmV0IExMQyBcdTI1MDcgODUuMTE3LjIzMS4xOSIsImFkZCI6Ijg1LjExNy4yMzEuMTkiLCJwb3J0Ijo1MzQwMSwiaWQiOiJjNDYzZDJkMS05ODdiLTRhZWQtYTU1Mi0zZGVlY2I0NzRhMDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Datacamp Limited ┇ 92.112.53.153
+vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTb3V0aCBQYXJrIE5ldHdvcmtzIExMQyBcdTI1MDcgMTg1LjEyNi4yNTUuNzgiLCJhZGQiOiIxODUuMTI2LjI1NS43OCIsInBvcnQiOjM5MTcxLCJpZCI6IjM1ZjMzMmQwLTBiMDUtNGNjNi05MWNiLWVjMGQ0NDY1MDU1ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInRscyI6InRscyIsInNuaSI6ImltYWZha2UubG9ja2VyIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Ivanov Vitaliy Sergeevich ┇ 176.103.53.105
+vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@88.151.192.91:3037?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#UA 🇺🇦 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 88.151.192.91
+ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@156.146.50.102:50695#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.50.102
+trojan://1518f7ec-f606-4a0f-8a62-2455e0a2b62e@ua-full.privateip.net:443?security=tls#UA 🇺🇦 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 45.87.155.14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.3.93
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.94.169.88:443?type=ws&security=tls&path=/vbba.ylks2024.us.kg&sni=vbbc.ylks2024.us.kg#UA 🇺🇦 ┇ VLESS-WS-TLS ┇ 45.94.169.88
+vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.70
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.124.127.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 91.124.127.29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q0p6M0oxR1lsalE@88.151.192.57:443#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 88.151.192.57
+vless://67525da1-a606-4725-98f3-513c13904d9d@h.hafman.lol:11928?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Rices Privately owned enterprise ┇ 185.243.99.8
+vless://d6463949-3c41-4369-8229-ab7acfcb182f@turkey.huqpmfood.ir:1331?type=xhttp&security=reality&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&sni=stackoverflow.com&fp=chrome&pbk=m8Tuf48MMB9ILy--1nfwGRPJOEbgHOdylaLS_JQ66DM&sid=89345bea5809f46d#UA 🇺🇦 ┇ VLESS-XHTTP-RLT ┇ 95.134.130.146
 vless://6035325d-399a-5148-9126-29cedfd5966a@88.151.192.52:443?type=tcp&security=reality&sni=outlook.office.com&fp=chrome&flow=xtls-rprx-vision&pbk=Cb6bPG7NAEde5yU3KChBcx_iF3n7UHakfvi6aWT0ezY&sid=dcaebc34#UA 🇺🇦 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 88.151.192.52
 vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?type=tcp&security=tls&sni=005188006073.sec1org.com#UA 🇺🇦 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 5.188.6.73
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1heGltdW0tTmV0IExMQyBcdTI1MDcgODUuMTE3LjIzMS4xOSIsImFkZCI6Ijg1LjExNy4yMzEuMTkiLCJwb3J0Ijo1MzQwMSwiaWQiOiJjNDYzZDJkMS05ODdiLTRhZWQtYTU1Mi0zZGVlY2I0NzRhMDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-ss://YWVzLTI1Ni1nY206VUtWTjJOWkJWVUtJQkFORA@147.78.3.137:20032#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.3.137
-vless://4e67f8e9-8a8b-46c1-bf57-f74aa040e8c4@95.134.130.180:3693?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS ┇ 95.134.130.180
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTb3V0aCBQYXJrIE5ldHdvcmtzIExMQyBcdTI1MDcgMTg1LjEyNi4yNTUuNzgiLCJhZGQiOiIxODUuMTI2LjI1NS43OCIsInBvcnQiOjM5MTcxLCJpZCI6ImMwOWYxM2NlLTJjY2EtNDliNi1hZDFlLTU5NzU2NmNjODljNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInRscyI6InRscyIsInNuaSI6ImltYWZha2UubG9ja2VyIn0
-vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.3.93
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@193.9.158.10:1443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=ppD7S2VnZIzcVjfUkgBYJNqa2_bgods0JzMHLq3FjGs#UA 🇺🇦 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 193.9.158.10
-vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.24
-vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.70
-trojan://1518f7ec-f606-4a0f-8a62-2455e0a2b62e@ua-full.privateip.net:443?security=tls#UA 🇺🇦 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 45.87.155.14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdlA5MWJKeExFa2ZQcXM4d1ZoclZ4@188.190.4.234:8485#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.190.4.234
-vless://0d242eba-af8a-5cd9-a0a7-74a4a39d32d1@185.250.150.220:8880?type=grpc&security=none&sni=vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com#UA 🇺🇦 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.250.150.220
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
-vless://769774c9-8eb7-4ee4-8093-d56c92ed9e69@95.134.130.138:5437?type=grpc&security=none#UA 🇺🇦 ┇ VLESS-GRPC-NTLS ┇ 95.134.130.138
-vless://ce43596d-c8f0-4600-b909-4390881ab5e7@193.238.153.91:35755?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.91
-vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Datacamp Limited ┇ 92.112.53.153
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.218.197
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UUZYcjNtbXhLZ3VybVV4S0FNQkdu@188.190.4.212:8561#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.190.4.212
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDQ1LjEzNy4xNTUuNDUiLCJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwicG9ydCI6MTc2NDYsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q0p6M0oxR1lsalE@88.151.192.57:443#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 88.151.192.57
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRk9QIFJlem5pY2hlbmtvIFNlcmdleSBNeWtvbGF5b3ZpY2ggXHUyNTA3IDE0MS4xMS4yNTIuNjQiLCJhZGQiOiIxNDEuMTEuMjUyLjY0IiwicG9ydCI6MjA2MzAsImlkIjoiYjdiMjMyZDEtNzlhZS00ZmIxLThmZGItNmYwYmRjOGE0MWVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYjdiMjMyZDEifQ
-vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.84
 vless://e6709700-7332-4fe6-a125-fbb781ce7a35@193.238.153.69:28279?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.69
-trojan://nm89pw8r-q4a0-5bds-36sl-yhuyegnaatpt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nat7bvll-oygp-dfll-yaac-5vvbw260swix@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTI1Ni1nY206TkJWSG9hTmVsV1JlTEh5dQ@45.153.229.146:3030#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.153.229.146
+vless://0d242eba-af8a-5cd9-a0a7-74a4a39d32d1@185.250.150.220:8880?type=grpc&security=none&sni=vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com#UA 🇺🇦 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.250.150.220
+vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 193.238.153.85
+vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IDQ1Ljk0LjE2OS4xNDIiLCJhZGQiOiI0NS45NC4xNjkuMTQyIiwicG9ydCI6NDQzLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzczEzODg5IiwidGxzIjoidGxzIn0
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@193.9.158.10:1443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=ppD7S2VnZIzcVjfUkgBYJNqa2_bgods0JzMHLq3FjGs#UA 🇺🇦 ┇ VLESS-TCP-RLT - Fast Servers (Pty) Ltd ┇ 193.9.158.10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@213.111.182.241:808#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS ┇ 213.111.182.241
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.218.197
+trojan://psb4zdhd-008n-ztlh-wlc7-jv4qsoj96z7n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gv1thd2t-o48p-4xsk-xsgm-8kg2z8nft7xf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

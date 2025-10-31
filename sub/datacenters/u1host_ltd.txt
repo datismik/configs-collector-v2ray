@@ -1,11 +1,11 @@
-trojan://guyn0pxr-tchl-57vk-908k-nj3olasnxlvj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://2q2tjwxo-dkuo-khbb-9io1-i126u604nnc2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tn93dep3-j740-bqwm-e2tc-xkg8ww4crud6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://89bf7903-b90d-4c8a-aad7-bea7a276654c@de.vip-get.ru:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - u1host ltd ┇ 185.207.133.76
-vless://c8d5921d-1ff4-4624-a3ad-bfe86506451e@150.241.108.219:8880?type=ws&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#DE 🇩🇪 ┇ VLESS-WS-NTLS - u1host ltd ┇ 150.241.108.219
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#NL 🇳🇱 ┇ VLESS-TCP-RLT - u1host ltd ┇ 64.188.96.208
+trojan://lvwjhbey-1xal-qkq0-4hh2-aevj6pmr3ejo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://ahq2iuto-zv4a-8nfi-7v9y-p2a7enwu2pdv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uohubqso-zqv0-efvm-iwnz-w5grqhnabgpv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://89bf7903-b90d-4c8a-aad7-bea7a276654c@de.vip-get.ru:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=d4nrz5jZn6OcMGmRr4H-2v6hKexlwe4hKaDMgMqSV3A&sid=305b25f707eb#DE 🇩🇪 ┇ VLESS-TCP-RLT - u1host ltd ┇ 185.207.133.76
 vless://c110a9d5-9f71-4b06-8c42-4456b5ea9d1a@nl.vip-get.ru:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=d4nrz5jZn6OcMGmRr4H-2v6hKexlwe4hKaDMgMqSV3A&sid=cc196f6d752c02d2#NL 🇳🇱 ┇ VLESS-TCP-RLT - u1host ltd ┇ 64.188.97.209
-vless://524ef193-d0ee-4f6b-bf0b-1ab15a76cc9a@64.188.97.173:443?type=ws&security=tls&path=/getupdates&sni=europeless.duckdns.org#NL 🇳🇱 ┇ VLESS-WS-TLS - u1host ltd ┇ 64.188.97.173
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#NL 🇳🇱 ┇ VLESS-TCP-RLT - u1host ltd ┇ 64.188.96.208
+vless://c8d5921d-1ff4-4624-a3ad-bfe86506451e@150.241.108.219:8880?type=ws&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#DE 🇩🇪 ┇ VLESS-WS-NTLS - u1host ltd ┇ 150.241.108.219
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#NL 🇳🇱 ┇ VLESS-TCP-RLT - u1host ltd ┇ 64.188.97.71
-trojan://1gqnlxih-ou22-mf92-wywc-zn36b26ve80f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tael3no3-gz3o-pn55-xzox-mw4enlmrgnin@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://524ef193-d0ee-4f6b-bf0b-1ab15a76cc9a@64.188.97.173:443?type=ws&security=tls&path=/getupdates&sni=europeless.duckdns.org#NL 🇳🇱 ┇ VLESS-WS-TLS - u1host ltd ┇ 64.188.97.173
+trojan://ett0qyri-h2rt-30xb-xz7t-aydialr6t8p1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pv9j62wo-veyo-nt9r-0035-e9uf8ja2ghda@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

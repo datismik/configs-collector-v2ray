@@ -1,7 +1,7 @@
-trojan://lgws6sdc-51g9-3r3e-me32-idppmtbmtl1s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://59cxn72p-pzko-xaso-wnl1-gnkqtz9v6ebb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0cefu3qu-qufq-8x6j-x4kj-ra6plj3hivpi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUFV2T0l3cm9kSGV0@185.191.127.214:65004#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Amarutu Technology Ltd ┇ 185.191.127.214
+trojan://k7hsuazc-vrs4-qrva-n26f-z5wyxwgrkjmw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://yjzayh17-syv4-6kxr-jyyd-ivwkoa849rys@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s8jg850m-ne3l-zcff-bmu3-p7pvid9kaafp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUFV2T0l3cm9kSGV0@185.191.127.213:65003#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Amarutu Technology Ltd ┇ 185.191.127.213
-trojan://tc454wvg-20cf-442m-2kdw-yj8gvhotc45t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0a74t9sf-ihm9-xp9q-y8l2-lr782ajtnf2p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUFV2T0l3cm9kSGV0@185.191.127.214:65004#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Amarutu Technology Ltd ┇ 185.191.127.214
+trojan://fq38qwbh-jysm-sn8t-t711-jofbb3fnah58@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0qe01j3w-8wap-df57-0ncv-0erl2kso33o8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,8 +1,8 @@
-trojan://pzg0ip3n-88n9-sbpf-7yki-t9fz46wfxvb5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://an5g6mpx-ll6w-bmuq-jfee-gea4byfprhxv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://eqg15exn-i4a6-ylup-rbsh-6cgmdyj7zdlh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://c53647f3153f784b3c695ffbe5fb43c0@60.82.70.104:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 60.82.70.104
-trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?sni=fe2.update.microsoft.com&peer=fe2.update.microsoft.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 126.47.92.160
+trojan://vtn9k8ia-fm06-nhu8-emwj-1b7smfh9ucxs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://ewhjbtg7-fa4g-fexi-6ayc-o6rwt7e1xs1v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://il5n19q0-ogf9-ao3a-6pad-eywrsp4uebx0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 126.116.225.149
-trojan://18tar9kd-kodf-pge5-fhgd-h4l1tp0xkx36@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ljy6waot-hk2c-zpaw-s11i-8w5gi9qo96dv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?sni=fe2.update.microsoft.com&peer=fe2.update.microsoft.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 126.47.92.160
+trojan://c53647f3153f784b3c695ffbe5fb43c0@60.82.70.104:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 60.82.70.104
+trojan://wnl7zlu8-zlxp-fz4w-qb13-597kvofqhc2j@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ao9aht9d-2fzf-sxyb-2vd0-cn1s4tx0rosk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

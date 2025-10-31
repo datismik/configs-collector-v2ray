@@ -1,8 +1,8 @@
-trojan://gromcp4h-gv3e-7ab6-aerk-ru01qnjygivz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://c5hapnzk-yhu5-2cxk-39z5-lj5muddo69bf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8vwbbup6-ldqg-g40q-pqdm-xrq8uqhfedix@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc3.5gsieuvip.vn:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - CMC Telecom Infrastructure Company ┇ 103.173.66.155
+trojan://kxj0977y-v372-qfw6-exng-bocxxnse9dkh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://bgg70mz3-zpxr-0jg6-nydk-ues4gml7ak0c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://th2667dd-ou4j-1nyl-s343-edbig47nhlw9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - CMC Telecom Infrastructure Company ┇ 103.173.66.192
 trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.191:443?sni=cmc2.5gsieuvip.vn&peer=cmc2.5gsieuvip.vn&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - CMC Telecom Infrastructure Company ┇ 103.173.66.191
-trojan://scadr3t3-8m4o-7z2z-ffl3-qpfbd304wtut@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u1gg86er-1wyr-jchr-ljx1-lu3exzjnvfcl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc3.5gsieuvip.vn:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - CMC Telecom Infrastructure Company ┇ 103.173.66.155
+trojan://58zvhqqh-e8cr-l1t6-vokz-fz1xmo475i8k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ex2gpdoj-112c-um57-xamw-qk4f2qmhp6ta@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,8 +1,8 @@
-trojan://vjrbizu4-tdb9-jp9b-g96g-w6wv6vuc5j2s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://hswfxknl-1zhc-l2aj-ng1b-70qaxddtjgnh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9ze8j9d7-k5mf-tadq-blcw-alqv58tey7a6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://030ba667-fde3-498d-99bb-9a0187519dcf@rua02.333210.xyz:40000?type=tcp&security=reality&sni=spbu.ru&fp=safari&flow=xtls-rprx-vision&pbk=vqnE1wKOqp4JXotgCl4SI2CBJ7ys3080cZjL83r9pmE&sid=49443d1a#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Mediasoft ekspert ┇ 193.104.57.136
+trojan://ynmllbtx-dspx-m6vj-hkac-ctsxom6sby4p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://7urob66y-br2j-cf3z-usav-b3cfhh370d34@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iir9js19-2rfv-loq1-vmz7-ruivwfuwjsqf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBKU0MgTWVkaWFzb2Z0IGVrc3BlcnQgXHUyNTA3IDE5NC44Ny4yNDguMjciLCJhZGQiOiIxOTQuODcuMjQ4LjI3IiwicG9ydCI6MjY3NDMsImlkIjoiNTk5NTJhOGUtYjcxMi00MTkwLWQ4NWUtZjlhYWRkNjVmYWEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInR5cGUiOiJhdXRvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBKU0MgTWVkaWFzb2Z0IGVrc3BlcnQgXHUyNTA3IDE3Ni4xMTkuMTU5LjI0NSIsImFkZCI6IjE3Ni4xMTkuMTU5LjI0NSIsInBvcnQiOjM3NjcyLCJpZCI6Ijg2YjRlMzVjLTEwNjEtNDdiMy04YzZjLTgxMWQxODUzYTQ3NyIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6ImF1dG8ifQ
-trojan://xuyj5bd4-umgj-jtpi-j54h-efqbgohf54ks@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t5fzif6g-xc7j-w0i4-6ovp-h6krhh3gcqh4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://030ba667-fde3-498d-99bb-9a0187519dcf@rua02.333210.xyz:40000?type=tcp&security=reality&sni=spbu.ru&fp=safari&flow=xtls-rprx-vision&pbk=vqnE1wKOqp4JXotgCl4SI2CBJ7ys3080cZjL83r9pmE&sid=49443d1a#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Mediasoft ekspert ┇ 193.104.57.136
+trojan://2bt9inme-fh0z-9g0e-2kml-jfhno87s1t5q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7y3e0n5t-gxtv-ppo4-mtzd-5mx1am6ekkv0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

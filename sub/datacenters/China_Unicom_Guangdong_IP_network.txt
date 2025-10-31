@@ -1,14 +1,14 @@
-trojan://sg97llxb-tgbh-dzia-k7i3-cn6lx7ezbjhq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://9nnn5bat-1jy3-nbhz-5h5c-bwil9d7glziw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://x0fkugc5-cv3m-gul8-aj5u-kl93fe9i7gjl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://6AC378EE-C9AE-9D3C-3DD9-8C034898BE44@163.177.58.124:14412?sni=mpvideo.qpic.cn&peer=mpvideo.qpic.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Guangdong IP network ┇ 163.177.58.124
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8775#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Unicom Guangdong IP network ┇ 61.241.19.228
-trojan://5bec8838-8c3d-4eb3-bd7e-5ef37c365a02@163.177.47.36:27101?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Guangdong IP network ┇ 163.177.47.36
+trojan://1k4wdmae-qvip-8yop-xew6-nsbnromh9xi0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://yu8ewvqm-njd6-9i9g-b0ei-jqf3lnvplhrv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://azxdytlu-158a-h6yh-akf4-8atjx91bvnad@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206YjEyMzYwZjQtMzNiYS00YzliLWFlMGMtM2RhNWY4YzZlZDA1@78tel8ar.wmdkwwurw.top:42140#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Unicom Guangdong IP network ┇ 122.13.138.159
-trojan://c4a7a5e1-b01d-4e5d-bed4-8fc8d5eafe3a@58.254.186.231:27103?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Guangdong IP network ┇ 58.254.186.231
-trojan://15e528dd-681f-472c-bd1b-c26d23adbddc@58.254.186.222:27102?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Guangdong IP network ┇ 58.254.186.222
+ss://cmM0LW1kNTplZmFuY2N5dW4@163.177.58.200:8773#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Unicom Guangdong IP network ┇ 163.177.58.200
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hIFVuaWNvbSBHdWFuZ2RvbmcgSVAgbmV0d29yayBcdTI1MDcgMTU3LjE0OC45Ni45MiIsImFkZCI6IjE1Ny4xNDguOTYuOTIiLCJwb3J0Ijo1MjI4LCJpZCI6IjZhZGExNjIyLWUwMTgtMTFlYy1iYjc0LWYyM2M5MTY0Y2E1ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@7.qzhm8l42g1.xyz:20027?sni=7.qzhm8l42g1.xyz&peer=7.qzhm8l42g1.xyz&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Guangdong IP network ┇ 163.177.33.206
-ss://cmM0LW1kNTplZmFuY2N5dW4@163.177.58.200:8773#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Unicom Guangdong IP network ┇ 163.177.58.200
-trojan://ep5ds15x-afxl-czke-87b1-o0xznwiaciws@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gu19qhqm-zuwj-96r0-44c8-3qa3rr2uhhus@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://c4a7a5e1-b01d-4e5d-bed4-8fc8d5eafe3a@58.254.186.231:27103?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Guangdong IP network ┇ 58.254.186.231
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8775#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Unicom Guangdong IP network ┇ 61.241.19.228
+trojan://6AC378EE-C9AE-9D3C-3DD9-8C034898BE44@163.177.58.124:14412?sni=mpvideo.qpic.cn&peer=mpvideo.qpic.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Guangdong IP network ┇ 163.177.58.124
+trojan://15e528dd-681f-472c-bd1b-c26d23adbddc@58.254.186.222:27102?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Guangdong IP network ┇ 58.254.186.222
+trojan://5bec8838-8c3d-4eb3-bd7e-5ef37c365a02@163.177.47.36:27101?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom Guangdong IP network ┇ 163.177.47.36
+trojan://s6tpw5kc-xcbp-fhjz-jopa-v1nrk9w4hnb2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xdi83m4p-lhoa-lyct-l5tg-rwvrznyxucga@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

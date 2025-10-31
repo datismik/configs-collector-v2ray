@@ -1,6 +1,6 @@
-trojan://b3xkwr2x-99qm-qdd0-a1zp-wextyq2xn7df@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://5t9zsjf3-7wq0-vraf-iupd-bjjabq8rqhxd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://uf1mp5pm-i4e8-r2oh-68v9-a2rp993ph0zp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dn8k6t09-bxvs-fmgt-7z5r-ib6x2lsddjdh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://8gokilqv-2aet-w0p6-i1lw-e9xioq35anx1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://biv85ws1-1tfo-voig-2iqy-wv7w9ge1tqc0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b8ced8ea-ecdc-4100-bf5f-41aa6dbf5b6a@89.47.175.105:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#PL 🇵🇱 ┇ VLESS-TCP-RLT - UAB Delska Lithuania ┇ 89.47.175.105
-trojan://u5ju7apn-cbw7-ampe-l46a-v791hw5ixgzr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9ftanhma-hw7n-a7us-27gb-zi9989nanhjt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://zn3nqhfu-4x3y-xtdg-3p1z-szt746u5i5bt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bfczkfui-rv37-qxn4-ww02-q60lhuo8y6qg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

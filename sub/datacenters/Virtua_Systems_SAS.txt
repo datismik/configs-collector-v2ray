@@ -1,9 +1,9 @@
-trojan://tfdzla25-fqtd-xx49-3w40-hop14mgezfc3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://xjjogqgt-sux3-ptrh-gemg-tl6l6irzs5fa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://y36lleab-3kxs-i95s-eclg-ndj2jjw7wjrx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://78f71e2a-f1c2-4576-bfef-f0f82ea65e4b@185.10.16.103:30618?type=xhttp&security=reality&path=/&sni=yahoo.com&fp=chrome&pbk=SO_Jw3ZcONC9tzsEsmxTUnDYfBMuXGgnE8BubslTCEA&sid=45e9f9ee4d#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - Virtua Systems SAS ┇ 185.10.16.103
+trojan://hnaflyy9-2xpf-3l9m-3fu2-x9ov3v1pn0or@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://v0886exn-8336-1wl7-hupd-91fzlhlvn85o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hnpdyjk2-hpwq-ty0l-rzhf-sov3q2zlzzu0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://bd9bbae4-7305-4548-be12-ef1734b3ab1c@185.10.19.62:2082?type=grpc&security=reality&sni=routedns.net&fp=chrome&pbk=dJcD0JDKGI9ZdhyYbNzXW1NfAWypPHP1HCOKBB-MA2o&sid=572df405bc#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.62
-vless://50d78176-9dec-4c30-a9c6-99684d39fc2c@185.10.19.51:2083?type=grpc&security=reality&sni=Python.org&fp=chrome&pbk=F1FguUh7QO0Ns1v8Z1-7U-VeSgFp_-vNMj0YeX06ti4&sid=cad55ac5#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.51
 vless://a4f85248-7545-486e-b090-9864ba52bcaf@185.10.18.161:2083?type=grpc&security=reality&sni=routedns.net&fp=chrome&pbk=-AaAo9sp3l8URKQd_QdbuKElofL6j7tygZse7YfVRxw&sid=e876e7#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.18.161
-trojan://qjl3n34d-fere-3awd-xyl7-eu23161e01r0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vq488glx-9obn-u5o5-5j0u-w8cicey3sa6m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://50d78176-9dec-4c30-a9c6-99684d39fc2c@185.10.19.51:2083?type=grpc&security=reality&sni=Python.org&fp=chrome&pbk=F1FguUh7QO0Ns1v8Z1-7U-VeSgFp_-vNMj0YeX06ti4&sid=cad55ac5#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.51
+vless://78f71e2a-f1c2-4576-bfef-f0f82ea65e4b@185.10.16.103:30618?type=xhttp&security=reality&path=/&sni=yahoo.com&fp=chrome&pbk=SO_Jw3ZcONC9tzsEsmxTUnDYfBMuXGgnE8BubslTCEA&sid=45e9f9ee4d#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - Virtua Systems SAS ┇ 185.10.16.103
+trojan://a42izy0k-uvvz-ps9y-04kt-gmi5shy7fjiy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y3wl04gk-saxv-gsy8-rrt0-hacvdn8psrfl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

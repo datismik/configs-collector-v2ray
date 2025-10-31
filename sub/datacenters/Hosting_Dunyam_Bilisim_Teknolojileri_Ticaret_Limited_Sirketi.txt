@@ -1,9 +1,9 @@
-trojan://ybm5az7c-5deq-txfr-r74h-ehssawlg315s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://e7zwo24k-z6jy-7uob-947u-pflpqz6gsdnl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cqs4643q-c2g7-0g85-37q9-t0wq28sjat11@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://4d86fbab-d15f-4e7f-8ac7-3b4d90568444@5.133.102.59:80?type=xhttp&security=reality&path=/bread&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&sid=43#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 5.133.102.59
+trojan://mgp6yfmj-t7ba-athe-wna5-o3izglu0yxuk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://farkvy68-6p5x-b7yg-vkzf-tsvjdzi8ttea@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7pfg2u6d-7op5-uank-mzu1-qwqfwi2f7xa1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b13adfb3-10c0-6d18-3c82-17204c7e4fd5@tr.mehdikarimi3.ir:20142?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=KUgSYSMa6KCrBMYx81yuM1cC02QyQmmIMj6-_1atgQ0&sid=32aaf12b#TR 🇹🇷 ┇ VLESS-TCP-RLT - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 92.249.61.64
 ss://YWVzLTEyOC1nY206UE1vWXVUMUxqWCtOckJha0RVd3Y4dk15c255TGlOZW8ycEFtNHRubjJvND0@78.135.85.86:4100#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 78.135.85.86
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8443?type=grpc&security=reality&sni=rEfErSion.Com.&fp=random&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=6ba85179e30d4fc2#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.245
-trojan://ty594w25-jtls-uj6c-uxia-hexvryen0wah@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uhsn98su-1mv2-77ey-qnff-lli4r5ieqr66@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://4d86fbab-d15f-4e7f-8ac7-3b4d90568444@5.133.102.59:80?type=xhttp&security=reality&path=/bread&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&sid=43#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 5.133.102.59
+trojan://1ekovmg2-dm7y-gmqx-h0c7-azji9ep3x9lw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://movsptqc-5lfe-rl80-o40h-tnylizyv4yot@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

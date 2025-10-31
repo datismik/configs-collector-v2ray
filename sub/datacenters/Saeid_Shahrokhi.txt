@@ -1,8 +1,8 @@
-trojan://z93xxati-brpf-6jpc-xh06-38rarorxog52@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://wu6iiwwb-xh9x-avwv-b01f-nrbfpbjq1dfz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ooog1om2-2e0g-vaty-wd4z-2szjvzlhw2sr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://inoswdvt-m0t1-8szl-85cb-7i1ungqoplzy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://h7mnz63a-wsqs-151r-wuxw-9b96ras9oc17@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dk96olqu-6ljd-lmvt-rjrk-aayg6z19r950@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://70cd1feb-8479-4e68-8b1f-a504238c688d@ipe.alighan.ir:2082?type=httpupgrade&security=none&path=/@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN?ed=2048#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Saeid Shahrokhi ┇ 5.10.249.70
 vless://6a488250-3c23-681c-1d7a-0b4ed4f5dc16@5.10.248.60:2390?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 5.10.248.60
 vless://af7585e7-227b-489b-afa2-5562c7b0a2f0@5.10.249.23:57350?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saeid Shahrokhi ┇ 5.10.249.23
-trojan://k4gvpw2i-rzxb-cus2-0f47-zq0ud2x0eama@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jg6y1uvq-v72l-h2w2-r77s-1ittxp7xsuna@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://xvjtcy1j-sxhc-7dis-rk61-xerg7u50m2y7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zff2x9kf-podr-d7fx-88zs-4jziz212qc4t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

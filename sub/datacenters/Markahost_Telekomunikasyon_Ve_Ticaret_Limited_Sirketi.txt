@@ -1,8 +1,8 @@
-trojan://7wygsv7y-0v5z-8320-y7yb-4thgwnceous4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://w97of58r-m1fg-qtbx-4b1b-ir7wh4mzayyb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0zz32lgc-jdi0-3i1l-lh2p-9009qds4dte5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d36f193b-f04d-4e73-ab54-c35b435ef8e6@log.twixspace.com:443?type=grpc&security=reality&sni=wordpress.org&fp=chrome&pbk=dUCso1FAr-zors9NhEC__IqYI3fEjyfLvRqksj9lmxw&sid=f99c4b933314ec6d#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Markahost Telekomunikasyon Ve Ticaret Limited Sirketi ┇ 77.92.154.200
-vless://1799b29e-d587-4ad7-b58e-5ef51c158173@79.110.51.52:55555?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=1zxVP27bDf_TlHFEbBne26fdhCFPftpB9zt7-nCd8HQ&sid=867599a1433d8a1e#TR 🇹🇷 ┇ VLESS-TCP-RLT - Markahost Telekomunikasyon Ve Ticaret Limited Sirketi ┇ 79.110.51.52
+trojan://aieu3vut-p5tm-gic9-nd6q-izg6kh7gfnd6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://bgvi9epm-n1mt-5n7a-0nrb-m06gnrj24a0o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://x3q9psox-uo4m-o7s2-fe2m-y0c4eh9bkn7b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fbb9aca3-4a93-4d6f-a7f5-3e0c353181f8@78.135.87.87:1002?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=w9x-dAl7ESzK_pnkH4waEZmKcazaXPFxWi3AUqSHNko&sid=becf5919b526c26e#TR 🇹🇷 ┇ VLESS-TCP-RLT - Markahost Telekomunikasyon Ve Ticaret Limited Sirketi ┇ 78.135.87.87
-trojan://zpj3z998-zfrq-5bzl-1aih-d3coxi3ge0mt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gb7te7ka-vz1o-vy6j-p0ye-4y3ms7o8auw1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://1799b29e-d587-4ad7-b58e-5ef51c158173@79.110.51.52:55555?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=1zxVP27bDf_TlHFEbBne26fdhCFPftpB9zt7-nCd8HQ&sid=867599a1433d8a1e#TR 🇹🇷 ┇ VLESS-TCP-RLT - Markahost Telekomunikasyon Ve Ticaret Limited Sirketi ┇ 79.110.51.52
+vless://55494ea9-dcea-416a-b2cb-82e6a7cb71fa@log.twixspace.com:443?type=grpc&security=reality&sni=wordpress.org&fp=chrome&pbk=dUCso1FAr-zors9NhEC__IqYI3fEjyfLvRqksj9lmxw&sid=f99c4b933314ec6d#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Markahost Telekomunikasyon Ve Ticaret Limited Sirketi ┇ 77.92.154.200
+trojan://xdpd8fka-5z13-36b2-2xl3-0njuj5gjyxdy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cxcsttp7-y7yc-f0b6-kxzt-rdshlalxco2e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

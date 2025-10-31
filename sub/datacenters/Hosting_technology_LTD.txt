@@ -1,10 +1,10 @@
-trojan://dyaa0gy9-1i2a-vb8t-32zp-tghxww0eh0um@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
-trojan://8n83zqy3-0jkq-i1pw-ikhi-g1lpvrts1t3k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://euiek5so-fzd7-lp7g-4h0g-b8gsuhsdvosa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVEdCaEV0UWZ5dmhPeGlHMktEMkNr@94.103.89.223:44747#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hosting technology LTD ┇ 94.103.89.223
-vless://3c1932ac-c46b-4b56-99a4-cbe65887af90@fastkeysolus.com:6013?type=tcp&security=reality&sni=amazon.it&fp=chrome&flow=xtls-rprx-vision&pbk=849lPPGm7-3F_CNsmUJ_g5hDJsrqxaBF18Awjm7vz1Q&sid=e36c99fb4bbdf550#RU 🇷🇺 ┇ VLESS-TCP-RLT - Hosting technology LTD ┇ 178.20.45.116
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@promo9v.bystrivpn.ru:443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hosting technology LTD ┇ 109.172.86.101
+trojan://ar9y6r2u-ki40-1g1z-g32d-tvzn9svseckb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
+trojan://nmgfcrnf-ypsr-auux-hr4i-s3381rnm44uj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vp231uc9-yqwz-u7ad-xuqv-4msvff1jjzxv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://Z4KQOIyDP9ZkDA3kTtHZG7@93.183.95.25:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&flow=xtls-rprx-vision&pbk=vKz__rOyyNMz7aPldKGs2kiVERALKv6eHGUms2EUDFE&sid=de6559c435f91a7a#RU 🇷🇺 ┇ VLESS-TCP-RLT - Hosting technology LTD ┇ 93.183.95.25
-vless://8e7bc1f0-dc10-4c99-974d-987be6a87d7b@94.103.85.168:2053?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=gdYd0xGNqG_Ms0ejqROgvndr4cNgUEQoTQfuNQ4oKwk&sid=75bc98c9e7964d22#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Hosting technology LTD ┇ 94.103.85.168
-trojan://du67daau-nqvi-2k61-1a0z-8i6c3nihr07l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n6ugoesm-q0r1-ya5s-7wb5-vqt5b6rq0wvo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://58e15213-48ea-4724-9455-90bad9da6c3b@94.103.85.168:2053?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=gdYd0xGNqG_Ms0ejqROgvndr4cNgUEQoTQfuNQ4oKwk&sid=75bc98c9e7964d22#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Hosting technology LTD ┇ 94.103.85.168
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@promo9v.bystrivpn.ru:443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hosting technology LTD ┇ 109.172.86.101
+vless://3c1932ac-c46b-4b56-99a4-cbe65887af90@fastkeysolus.com:6013?type=tcp&security=reality&sni=amazon.it&fp=chrome&flow=xtls-rprx-vision&pbk=849lPPGm7-3F_CNsmUJ_g5hDJsrqxaBF18Awjm7vz1Q&sid=e36c99fb4bbdf550#RU 🇷🇺 ┇ VLESS-TCP-RLT - Hosting technology LTD ┇ 93.183.95.212
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVEdCaEV0UWZ5dmhPeGlHMktEMkNr@94.103.89.223:44747#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hosting technology LTD ┇ 94.103.89.223
+trojan://ev8fhss3-enay-j3gn-wq9i-gnttsxpwiua1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ya57wm0t-6jay-ytmt-s5f2-jphf0xgv99u8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
