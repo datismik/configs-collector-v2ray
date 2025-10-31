@@ -1,7 +1,7 @@
-trojan://o4g6p1iz-fi4k-67v7-z7zi-sjya2esolct9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://ccpnq0a5-ez7t-los4-zwv1-0yfieo4qwr86@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rsrhyme2-0pp0-60aw-dj43-p6sarl3zdljj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS3dxUGEwZm90bko2b2FGc0VwR1dJ@h110vpnnl3.outlinekeys.net:58080#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.29.169
+trojan://fy366b6k-kfa2-oowb-8xbi-eo0t02xpp451@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://u0799d6f-p49p-t48v-7dbp-j3v1ry6bpb5z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zoznqvbj-vmca-tvn7-osgd-jegxdc5ipjby@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMejY4V2Y4bm0zMUVjZkIwVjdIQzFU@81.90.31.219:443#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.31.219
-trojan://m2k5hhsp-nxis-ot9g-f7qc-642m6z24gh42@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t92g697d-aqm1-w9gp-yub9-b9a18493kj5w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS3dxUGEwZm90bko2b2FGc0VwR1dJ@h110vpnnl3.outlinekeys.net:58080#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.29.169
+trojan://iibgdx7n-s49u-ys08-56ih-u9jw5yukimv2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n8w9ehc4-kk2w-qx3p-ztk5-dpm0e7r3asc4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

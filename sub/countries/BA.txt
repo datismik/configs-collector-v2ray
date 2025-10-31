@@ -1,12 +1,12 @@
-trojan://tvpxy5ex-yp11-o2og-69iw-oe1j5jbtpk12@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://lrsnrh9f-ukgo-jfpn-ivwn-7gpems4h1cho@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nuholjk8-byyh-7zx7-bhun-gebt97cvaall@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3wogflii-c79d-yxyq-zwab-4hv6zh9pfdr1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://5amq3te1-vcj4-mjii-hidu-yyozsp9r16vm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://18aa6r26-u6ft-o1ij-mzir-w94ed77oa0oa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@185.212.111.59:50168#BA 🇧🇦 ┇ SHADOWSOCKS-TCP-NTLS - Globalhost d.o.o. ┇ 185.212.111.59
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.156.248.11:990#BA 🇧🇦 ┇ SHADOWSOCKS-TCP-NTLS - Globalhost d.o.o. ┇ 45.156.248.11
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989#BA 🇧🇦 ┇ SHADOWSOCKS-TCP-NTLS - Globalhost d.o.o. ┇ 185.164.35.9
 trojan://Aimer@77.74.228.4:2087?sni=agepw.ambercc.filegear-sg.me&peer=agepw.ambercc.filegear-sg.me&security=tls#BA 🇧🇦 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 77.74.228.4
-ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@185.212.111.59:49339#BA 🇧🇦 ┇ SHADOWSOCKS-TCP-NTLS - Globalhost d.o.o. ┇ 185.212.111.59
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.213:8880?type=ws&security=none#BA 🇧🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 77.74.228.213
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.156.248.11:990#BA 🇧🇦 ┇ SHADOWSOCKS-TCP-NTLS - Globalhost d.o.o. ┇ 45.156.248.11
 ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk@185.99.3.108:37588#BA 🇧🇦 ┇ SHADOWSOCKS-TCP-NTLS - Globalhost d.o.o. ┇ 185.99.3.108
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@185.99.3.102:43893#BA 🇧🇦 ┇ SHADOWSOCKS-TCP-NTLS - Globalhost d.o.o. ┇ 185.99.3.102
-trojan://k108omjs-byn0-p1cf-gzcl-uq83ah6rsx4j@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cji9xakz-o6k0-kysk-jxzu-9pwoebvaa927@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.213:8880?type=ws&security=none#BA 🇧🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 77.74.228.213
+trojan://9qhr3rc4-qtej-jql8-4e96-6bjche3m5mwp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3hktb2vv-9yvo-khck-ymul-opja10jv2agf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

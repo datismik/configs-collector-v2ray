@@ -1,7 +1,7 @@
-trojan://g2ocs9dg-j658-4rvp-1dde-lyx1x2lj8601@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://waatg36n-k6cc-0w84-9sms-a55gfpejylmk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mxlki5x4-v7gu-gmx6-kxwa-ngewo4ppvfw4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://i7rirpur-s8cg-bdbn-aen3-b08ashqhhb91@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://twqgx5ua-rl6r-t2l0-3ka6-xlvhokvkb64g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://f69v2qau-yeut-1ccs-jqoa-n31bm172lit4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?sni=sbank.ir&peer=sbank.ir&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Moshonkin Ilia Sergeevich ┇ 45.88.148.237
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Moshonkin Ilia Sergeevich ┇ 45.88.148.234
-trojan://2xt5qg40-wyjz-n8y8-r92d-5p0s98i5db1j@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://anln301p-9fx8-188i-v2ce-ue76stpcdval@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://4udvwm1o-zd0r-pa02-brnl-jb2tw0n4unxb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lcx5pzdz-kp2j-nken-knvt-w6cb9wzvax1d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

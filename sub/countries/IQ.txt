@@ -1,20 +1,20 @@
-trojan://wgq53vr9-8wl3-u1f6-f4jp-rszzdued045p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://ojt8mcnh-27k6-mp4f-7jgm-5roqy2j76c8i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0mfazdcc-s75f-4a2m-p5ei-y08piav9b6ci@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://js3t9nl0-m2is-o6lh-pko4-6chfdjyu84qw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://5je4b2v3-aem0-5exi-dakn-d47669vfjx57@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ioe9szar-ubs8-zwxn-9g5l-jd2nt62wn283@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiSVEgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthb3B1IENsb3VkIEhLIExpbWl0ZWQgXHUyNTA3IDE1NC45My4zNy4yMSIsImFkZCI6IjE1NC45My4zNy4yMSIsInBvcnQiOjQ0MywiaWQiOiI2NGEzN2NlNS1lNzEzLTRhZDQtYzFkZS1iNjg3NjFlOWZlZjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://1901d9da-a3ca-44b2-9033-752aa449cc50@178.17.50.141:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=pUD3mOlIKBEtDyFWK0LsGkY7j__7vblFPXnEVoY9oVQ&sid=22f040ed1037da8f#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.50.141
+vless://6035325d-399a-5148-9126-29cedfd5966a@178.17.58.126:443?type=tcp&security=reality&sni=outlook.office.com&fp=chrome&flow=xtls-rprx-vision&pbk=GyivnLvG6JEO7xV9PI12Z0XTLZJGClBHOcpHwSfrsj4&sid=e3015cd4#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.58.126
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMejY4V2Y4bm0zMUVjZkIwVjdIQzFU@81.90.31.219:443#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.31.219
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS3dxUGEwZm90bko2b2FGc0VwR1dJ@h110vpnnl3.outlinekeys.net:58080#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.29.169
+vless://ce2f5acf-7484-464c-96a6-a96c0f41431f@mvlrowns.kslmspq-keldnxms.kdpq73ncnagoccj.persianfly.org:3051?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=DngV-p3iU0ajgqfWPw-wex_fiW-kpdXfOGV1dnqqpS0&sid=1803657e2ba1a473#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.48.149
+vless://7efeb90b-4f8c-4250-965c-c9e042bff71f@93.94.51.8:12374?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=lACZT6apOqT3d_X2QRmcyn3fRFWH2tB3PIhCLGkrJ3s&sid=a5adb2c36df3e273#IQ 🇮🇶 ┇ VLESS-TCP-RLT ┇ 93.94.51.8
+vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@178.17.51.244:443?type=tcp&security=reality&sni=firebase.com:&fp=chrome&flow=xtls-rprx-vision&pbk=aRrd26dr3NpWcjDkVNSpF2NXm8MMmHOJOdnJ4gpJAQI&sid=dfc72e0fd67b4532#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.51.244
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?sni=glowingpickle.bananatornado.click&peer=glowingpickle.bananatornado.click&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 154.93.37.169
+vless://d2c4aef4-b125-4bab-8ce8-35879f613ab8@deu461.unboundworld.org:443?type=tcp&security=reality&sni=www.heise.de&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#IQ 🇮🇶 ┇ VLESS-TCP-RLT ┇ 93.94.52.183
+vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@93.94.52.171:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#IQ 🇮🇶 ┇ VLESS-TCP-RLT ┇ 93.94.52.171
 vless://713fd81a-893f-410f-91de-df72cd5283bc@2fin.solonettochka.ru:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=nhZbeFM8lppn9qPw7p-RdpHlMO9UkbNgu-eYjf4j2W0&sid=cb6e8035#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.53.36
 vless://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@193.56.135.85:27888?type=tcp&security=reality&sni=s0.awsstatic.com&fp=qq&flow=xtls-rprx-vision&pbk=yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI#IQ 🇮🇶 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 193.56.135.85
-vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-fin.parsgit.com:4040?type=tcp&security=none&path=/admin?ed=1024#IQ 🇮🇶 ┇ VLESS-TCP-NTLS - MADGEN-01 ┇ 178.17.52.160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS3dxUGEwZm90bko2b2FGc0VwR1dJ@h110vpnnl3.outlinekeys.net:58080#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.29.169
-vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@93.94.52.171:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#IQ 🇮🇶 ┇ VLESS-TCP-RLT ┇ 93.94.52.171
-vless://6035325d-399a-5148-9126-29cedfd5966a@178.17.58.126:443?type=tcp&security=reality&sni=outlook.office.com&fp=chrome&flow=xtls-rprx-vision&pbk=GyivnLvG6JEO7xV9PI12Z0XTLZJGClBHOcpHwSfrsj4&sid=e3015cd4#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.58.126
-vmess://eyJ2IjoiMiIsInBzIjoiSVEgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthb3B1IENsb3VkIEhLIExpbWl0ZWQgXHUyNTA3IDE1NC45My4zNy4yMSIsImFkZCI6IjE1NC45My4zNy4yMSIsInBvcnQiOjQ0MywiaWQiOiI2NGEzN2NlNS1lNzEzLTRhZDQtYzFkZS1iNjg3NjFlOWZlZjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://d2c4aef4-b125-4bab-8ce8-35879f613ab8@deu461.unboundworld.org:443?type=tcp&security=reality&sni=www.heise.de&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#IQ 🇮🇶 ┇ VLESS-TCP-RLT ┇ 93.94.52.183
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMejY4V2Y4bm0zMUVjZkIwVjdIQzFU@81.90.31.219:443#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.31.219
-vless://ce2f5acf-7484-464c-96a6-a96c0f41431f@mvlrowns.kslmspq-keldnxms.kdpq73ncnagoccj.persianfly.org:3051?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=DngV-p3iU0ajgqfWPw-wex_fiW-kpdXfOGV1dnqqpS0&sid=1803657e2ba1a473#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.48.147
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?sni=glowingpickle.bananatornado.click&peer=glowingpickle.bananatornado.click&security=tls#IQ 🇮🇶 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 154.93.37.169
-vless://1901d9da-a3ca-44b2-9033-752aa449cc50@178.17.50.141:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=pUD3mOlIKBEtDyFWK0LsGkY7j__7vblFPXnEVoY9oVQ&sid=22f040ed1037da8f#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.50.141
 vless://494d3397-6acc-1d8a-7956-5369368187a0@193.56.135.6:4434?type=tcp&security=none#IQ 🇮🇶 ┇ VLESS-TCP-NTLS - Regxa Company for Information Technology Ltd ┇ 193.56.135.6
-vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@178.17.51.244:443?type=tcp&security=reality&sni=firebase.com:&fp=chrome&flow=xtls-rprx-vision&pbk=aRrd26dr3NpWcjDkVNSpF2NXm8MMmHOJOdnJ4gpJAQI&sid=dfc72e0fd67b4532#IQ 🇮🇶 ┇ VLESS-TCP-RLT - MADGEN-01 ┇ 178.17.51.244
-vless://7efeb90b-4f8c-4250-965c-c9e042bff71f@93.94.51.8:12374?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=lACZT6apOqT3d_X2QRmcyn3fRFWH2tB3PIhCLGkrJ3s&sid=a5adb2c36df3e273#IQ 🇮🇶 ┇ VLESS-TCP-RLT ┇ 93.94.51.8
-trojan://93jkn3nk-fqas-i726-nnik-9u0inpwz18w3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pc4m63te-jc8w-yxpn-9o96-i2u5oqhgxcnc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?type=tcp&security=none&path=/admin?ed=1024#IQ 🇮🇶 ┇ VLESS-TCP-NTLS - MADGEN-01 ┇ 178.17.52.160
+trojan://zcgvzikp-cucw-4wa3-aj1q-d818mhhozasd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l8r322b4-jvq7-wp8c-vtyk-eyyhm8s069vn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

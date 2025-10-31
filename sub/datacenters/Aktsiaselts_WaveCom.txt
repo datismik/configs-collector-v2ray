@@ -1,9 +1,9 @@
-trojan://vfgncrzp-q3fa-jjec-tw7z-19r0oufv6jj4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://u2s2t2o6-otqu-m2do-ra8w-3o66aqyt8tnh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h409ol39-y3sh-98lt-a3a1-umh1l6azdo44@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
-vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.230.17:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.17
-vless://77529416-696f-4bbb-8df0-65a4fac74418@37.252.5.75:443?type=ws&security=tls&path=/Free-VPN-CF-Geo-Project/EE2&sni=joss.krikkrik.tech&fp=randomized#EE 🇪🇪 ┇ VLESS-WS-TLS - Aktsiaselts WaveCom ┇ 37.252.5.75
+trojan://wz2hl6ae-4zmv-7deu-11fh-pww3otjurknp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://s96amhfb-pilw-k2ns-veb2-p1400towulh3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z6jtnk05-zco5-mp48-31c1-bbl2ovvptdo1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9e43619a-5067-42f3-a82e-bed81703a771@38.180.230.78:8766?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=EwoQCKDlHuB925c6rz8488SfSUYSMMZFcR1T6PILWWM&sid=6bfe#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.78
-trojan://iqcz4mfj-6wpj-3qms-qb3h-kshf5ctwzbht@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r2jki4c9-hbfc-l79k-z9uc-of2iqp5zzct7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.230.17:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.17
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
+vless://77529416-696f-4bbb-8df0-65a4fac74418@37.252.5.75:443?type=ws&security=tls&path=/Free-VPN-CF-Geo-Project/EE2&sni=joss.krikkrik.tech&fp=randomized#EE 🇪🇪 ┇ VLESS-WS-TLS - Aktsiaselts WaveCom ┇ 37.252.5.75
+trojan://0lnwpbju-14v4-rdcq-nihh-0t2fdnzqwdt7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0nl20j74-ous0-jaal-7iut-dxko2ulosh5u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

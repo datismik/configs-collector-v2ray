@@ -1,9 +1,9 @@
-trojan://el64e6jx-03so-d9ux-pkg8-qwjv38pk1rgb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://8c3djbad-y7kn-s9wg-m7du-sakr36fncx9d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7nanfc4o-6mh9-u8f5-oyj2-ls4z7ig2x65e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?sni=fe2.update.microsoft.com&peer=fe2.update.microsoft.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 126.47.92.160
-vless://8129a335-37d4-4932-8dca-ac4358ce60b7@softbank88.xzcloudnode.sbs:51623?type=tcp&security=tls&sni=itunes.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - SoftBank Corp. ┇ 126.66.110.239
-trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 126.116.225.149
+trojan://3jnw5vzy-phec-vltc-lkv7-jnhpu213hucm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://qwy6w2zl-wgu3-2fho-hkym-9q5l2i9b6alw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://m63qdegg-kgw6-iwmw-rwyg-ro59rl55lwwi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://c53647f3153f784b3c695ffbe5fb43c0@60.82.70.104:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 60.82.70.104
-trojan://d9jvmz9x-6i2s-ci9c-9quu-twhq8c2itrso@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wsj1f2dx-8un5-6925-0fg4-5kot71r0cn5m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?sni=fe2.update.microsoft.com&peer=fe2.update.microsoft.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 126.47.92.160
+trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 126.116.225.149
+vless://8129a335-37d4-4932-8dca-ac4358ce60b7@softbank88.xzcloudnode.sbs:51623?type=tcp&security=tls&sni=itunes.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - SoftBank Corp. ┇ 126.66.110.239
+trojan://a681gsq0-tjka-2qrl-4w0v-rwf22g88czev@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1tt0nbi1-n7ni-ug9o-fk7p-chnjiwagaix5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

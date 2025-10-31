@@ -1,9 +1,9 @@
-trojan://8tqevxz3-drb3-2m2t-knzo-l31zgckpzjn2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://hns7sa7k-fi9n-tjti-7noi-h3ctxi1b6ia7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9up744ql-mz2s-s5at-s2tl-8v41ato9ph8m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3lgipi6t-cqu8-96g7-7m8i-qprxg6vhhzv2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://st4511w2-9bi1-x6qx-jkt1-3bsc70i5ht8v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://aoyhp61b-xn11-h7nd-vpm9-n27xopkh50x5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://a4f85248-7545-486e-b090-9864ba52bcaf@185.10.18.161:2083?type=grpc&security=reality&sni=routedns.net&fp=chrome&pbk=-AaAo9sp3l8URKQd_QdbuKElofL6j7tygZse7YfVRxw&sid=e876e7#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.18.161
 vless://bd9bbae4-7305-4548-be12-ef1734b3ab1c@185.10.19.62:2082?type=grpc&security=reality&sni=routedns.net&fp=chrome&pbk=dJcD0JDKGI9ZdhyYbNzXW1NfAWypPHP1HCOKBB-MA2o&sid=572df405bc#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.62
 vless://50d78176-9dec-4c30-a9c6-99684d39fc2c@185.10.19.51:2083?type=grpc&security=reality&sni=Python.org&fp=chrome&pbk=F1FguUh7QO0Ns1v8Z1-7U-VeSgFp_-vNMj0YeX06ti4&sid=cad55ac5#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.51
-vless://a4f85248-7545-486e-b090-9864ba52bcaf@185.10.18.161:2083?type=grpc&security=reality&sni=routedns.net&fp=chrome&pbk=-AaAo9sp3l8URKQd_QdbuKElofL6j7tygZse7YfVRxw&sid=e876e7#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.18.161
 vless://78f71e2a-f1c2-4576-bfef-f0f82ea65e4b@185.10.16.103:30618?type=xhttp&security=reality&path=/&sni=yahoo.com&fp=chrome&pbk=SO_Jw3ZcONC9tzsEsmxTUnDYfBMuXGgnE8BubslTCEA&sid=45e9f9ee4d#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - Virtua Systems SAS ┇ 185.10.16.103
-trojan://po7k1m3i-mb7v-qq01-9uev-7on4tmxb3i3h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t3mnl5de-yvj1-k365-hidm-wipwgrd6zqmt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://eo57qrgi-bs96-4p1h-6uhl-8gqrwbs7j9ar@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6n9x4qak-x0md-0d8p-esxy-kcefhl72aflf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

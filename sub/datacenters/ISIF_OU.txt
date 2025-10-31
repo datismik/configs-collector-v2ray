@@ -1,6 +1,6 @@
-trojan://cf6b35k7-k93h-7hyy-7ond-eu6k6urpxsre@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://qqug1o8r-n23n-813q-mhf6-1l3bhxgqpjaf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1bwqtq52-5mrg-gyqn-mvtb-1z7eexlgg3ko@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3mwelhqr-jx7l-9k18-dmbo-7babcidlp3bn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://exdagow5-0v3j-lb3i-c97h-kypytaqpgl2u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://toy753qo-qrbp-6kyc-al9b-kbvr39df10c7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@46.232.108.217:443?type=ws&security=tls&path=/snippets?ip=proxyip:port(443)&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - ISIF OU ┇ 46.232.108.217
-trojan://inw24l2l-h2wk-w2ud-5c70-f5t1g7xdhv9n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n3ubckrs-ujlk-2kj5-n8qi-w54878uzzfh6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://129f2k74-ikvz-zgg2-64gq-kuaiqq1iluzs@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m18awcw1-l10n-vqy8-ghik-hhhq4rdzxyig@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

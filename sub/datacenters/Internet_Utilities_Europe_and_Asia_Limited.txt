@@ -1,6 +1,6 @@
-trojan://ui5yfm1d-ir2r-mjba-x8xk-rhi4577vpml7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://at5nyr6e-tfn0-4qb2-tude-36iq2auh5p7e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://y917bsi1-c8s9-m4j2-5nth-ois1co7npva6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbnRlcm5ldCBVdGlsaXRpZXMgRXVyb3BlIGFuZCBBc2lhIExpbWl0ZWQgXHUyNTA3IDIxMy4yMS4yMzMuNDYiLCJhZGQiOiIyMTMuMjEuMjMzLjQ2IiwicG9ydCI6NDQ3NDksImlkIjoiMjU0NTUxZjYtZWMyOC00OTM4LWFkMGUtMGFhNGFhMTk2NWVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInBhdGgiOiIvc3BlZWR0ZXN0IiwidGxzIjoidGxzIiwic25pIjoiaW1hZmFrZS5sb2NrZXIifQ
-trojan://ybvo49es-25ac-bkf4-068f-bzxzuq573w5a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nsx0bbvy-ap13-agud-dy9h-c37ts2tknbin@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://smtp2mmc-4j98-ep99-ea3l-qjjk8p0pfon7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://puc9xrm9-nu47-f1r8-kapo-8plk0pj0q29k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://m30egvz1-ygt4-ypjg-grz4-ougs27bygn7q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbnRlcm5ldCBVdGlsaXRpZXMgRXVyb3BlIGFuZCBBc2lhIExpbWl0ZWQgXHUyNTA3IDIxMy4yMS4yMzMuNDYiLCJhZGQiOiIyMTMuMjEuMjMzLjQ2IiwicG9ydCI6NDQ3NDksImlkIjoiMTI5Mjk1OTItYTdiZC00MWViLWFiNGQtZDgwNGY3NmM0ZmY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInBhdGgiOiIvc3BlZWR0ZXN0IiwidGxzIjoidGxzIiwic25pIjoiaW1hZmFrZS5sb2NrZXIifQ
+trojan://yvcn895u-99n2-dhe9-b3c6-ritti7qfl9g0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://186gfmtg-93f2-drxn-ot1n-iq2t3fhe76gh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

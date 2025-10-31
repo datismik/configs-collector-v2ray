@@ -1,7 +1,7 @@
-trojan://92fa6jje-7erj-d1nt-5r5j-52av6r98nv8g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://2hgos2xo-62k6-i0hi-ce39-b9g94dp6iosf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5pv5pbke-mxzj-i4iu-t1mj-pl8d0cl318oh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4xcc3ygu-vhnl-nqv8-omzl-e0l0kjwi4yj3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://nrogdmtc-u0fe-rrb4-gold-wva6xb44r9ae@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p2ewy8e4-khgm-5eis-s6uo-9apm92vftgo3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@23.134.82.2:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - POWERSERG ┇ 23.134.82.2
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@23.134.82.1:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - POWERSERG ┇ 23.134.82.1
-trojan://aik78if2-6ge8-zeru-7ygp-fbljj6l14ku9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://f7occ6tq-kftd-lms4-m6bu-5eteoj0pp2z5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://7v8kow2l-ludm-dxc7-38j3-a44yapu6tgps@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9w9vwtki-wf8d-s6ux-9f40-hvamyvqy02pp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

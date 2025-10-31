@@ -1,7 +1,7 @@
-trojan://9j223wgh-i7mq-5tyi-t5sp-sxqn8oi9stma@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://pk65btpy-u1mk-jui1-mdui-3hk6vrvr1jwz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://evwi0dm1-ykvu-q8pd-j4x5-c86nx8tec24w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PRGMR ┇ 71.19.148.74
+trojan://1z1xljze-3act-h8s0-ivnf-qqifcf5fehjd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://9pbiufyt-bxig-73xl-3zcj-kpjbdkgp8eji@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uvfuqwa2-aqd7-3lur-c33i-ye0i10quk72c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PRGMR ┇ 71.19.148.143
-trojan://9lwozb7b-ezgx-08wo-ggg4-zh9n6zrf6wov@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oiz7ipi5-fl58-t67w-asdr-cu9cbdckht8r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PRGMR ┇ 71.19.148.74
+trojan://cjjik7j9-yi3p-3o6e-7c25-ujikrifoa4be@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4hc8xnry-mv03-zv0u-e3hy-d1xqjpa1ys00@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

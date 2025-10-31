@@ -1,6 +1,6 @@
-trojan://kshm2j67-z8lb-bkjr-ar4x-ppe5hfmyg2rg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://be22de4t-kvcs-57iu-6wxl-v51optmskiyt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0n2550pd-ckn6-b9va-16to-51de25kqe66z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://flzq4k89-m3ew-3hqm-dhe1-1rrjoiad3do7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://o8ykwpjn-u6il-wkvz-2ipn-gcpy1sd44nqm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5p80991r-aa8r-frlu-7snz-zc11h8zv79rj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d71560c1-e82b-a2bf-8040-04e3c73dcffb@46.8.52.182:9954?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#RU 🇷🇺 ┇ VLESS-TCP-RLT - Datacheap LLC ┇ 46.8.52.182
-trojan://whnwuaq5-eo21-mz35-d3m5-k94th235800b@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bk0uhpj4-hd06-um78-mbj1-ki9y33g7dnvh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://u0w8c9dk-6mm0-gnhv-h3br-cmbi64bj2db8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9oeaa5gs-rerw-szyy-m62v-d1ulaluj6pxc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

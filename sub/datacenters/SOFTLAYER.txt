@@ -1,8 +1,8 @@
-trojan://90s5nf2w-9ehc-ym39-mr5y-gmyahx9lckva@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://g4x2rk6f-fjb4-9tjq-rk7a-23trpoogvxes@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zogxadqg-banw-0xms-nj3s-iz5eub1sn781@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ynsffkga-6f78-dvd9-3pmf-vucmuih2s7l2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://azeggcca-7zgx-lvlc-h6d8-3tpoqhsg023r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kxkmhbl9-w83p-3z17-kfg3-dqf3mfzuhupn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://turboo-server@sub.turboo-server.com.co:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - SOFTLAYER ┇ 158.177.96.122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NGNmN2dzWEpnZDlaNE1BVzQyTA@169.62.109.140:8389#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - SOFTLAYER ┇ 169.62.109.140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RDRHWU5EYUZ5NGVlYmU0N3R2Rg@169.38.107.52:8389#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - SOFTLAYER ┇ 169.38.107.52
-vless://turboo-server@sub.turboo-server.com.co:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - SOFTLAYER ┇ 158.177.96.122
-trojan://zmd9odpn-qo0p-ryxl-2fvq-3fwjx02a75az@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://srqrebt3-wwkv-1nmv-ured-wk3qwj4ss9fz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://1dyq09qe-jmui-k96n-e6hm-d4stzhajzno8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://iz5o617b-wcfb-3l5m-5of7-odd78q62ekhc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

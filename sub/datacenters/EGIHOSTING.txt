@@ -1,6 +1,6 @@
-trojan://8y1pd8eu-kv2p-1wij-a85u-q3hxup5mdneh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://zfaukme7-3f5o-eu19-887l-io1ainpt729c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://flirnti4-q24r-iff3-7q05-56gp11buj5ma@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://o3t774kv-5tdd-4klu-l4sv-26rpo0lbf6sd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://jd5gaupr-kpx0-ujqw-k7ja-cqs2xl6q0i3a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ld200a2m-zfwf-kiwm-6oyf-hodzqq2pokf9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b327d2bf-a1d4-530f-bf85-5f7033483334@ee1.xvless.online:80?type=httpupgrade&security=none&path=/httpupgrade#NZ 🇳🇿 ┇ VLESS-HTTPUPGRADE-NTLS - EGIHOSTING ┇ 23.230.179.92
-trojan://semu3ots-fl3o-8mjm-k6g8-bmxp9pkcktjp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8gusozud-vpki-u8i9-8aqj-ehgougcyiz6l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://7krrsd57-0u9q-r4bw-5lmg-3hmdxdcyoqpt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l0l7a7wr-kvyz-2nj2-hgd2-kmkb60y5a2vg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

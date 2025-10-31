@@ -1,6 +1,6 @@
-trojan://wou69xjq-1olu-be0w-xfe0-0ba0yorsgpaj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://vxhsq4bn-9eah-0787-esps-8ru5odii473h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xc7k0rqu-08os-b69d-hbpo-42ms7yktvhmi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://z72w3grt-jsd7-uf5l-7f0z-dto6fp2982w2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://3klo6q0i-ukpx-8ta6-9jkl-hi22dyyqkmwm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fjqcqx8p-089i-z1kw-qusl-0shy2380g5ss@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0395a16c-cb48-4614-bf19-7bf9ac7aed41@115.190.19.83:29185?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Ox0EsEq7UYtFUy24Wg3_84XvN4gl3HhH21eX0nPj4x4&sid=689a9a#CN 🇨🇳 ┇ VLESS-TCP-RLT - Beijing Volcano Engine Technology Co., Ltd. ┇ 115.190.19.83
-trojan://0eykl7m9-y83j-avl4-w08x-j9a1s24mijy3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l6j8puiz-5pb2-xbwl-nquh-6yf5dvqhdvby@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://xay7owqr-oauc-i8ma-kxtm-4nj0310xen1p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://grx6r90w-1fst-y4rc-2mbd-g6p1g058os87@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,15 +1,16 @@
-trojan://nolwqxpc-wshi-nztw-x421-jlb01g98t3jl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://zcoyvbk6-l8wq-js9r-f1xp-2a3qylqqhecc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rgyfh2a7-acks-g6nx-3nxl-84x5jr08boxi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d4f8df4b-e9b4-48e0-80a8-b972d5a7c27b@dig1.torprospeed.ir:223?type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&sid=c7f175a94bd79f8d#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aruba SAS ┇ 89.38.148.55
-vless://5562b859-cd73-9cd2-98ec-c3f308ce63a2@fr.zeroboostspeed.org:1231?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.94
-vless://ZEDMODEON--joinZEDMODEON@94.177.244.32:40734?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.32
+trojan://pqes6qfl-bd4l-zx1o-lyvh-ijlrhxfivh8e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://xld18cij-yl8i-53pr-ll6m-jv3o2hjdjeam@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kwf43tqd-c8em-t0er-dwt5-jd2wpdnv45lc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ZEDMODEON--ZEDMODEON@185.8.51.42:36201?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 185.8.51.42
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjE3NyIsImFkZCI6InMyLmZyYW5jZS1sZWFybnMuaXIiLCJwb3J0Ijo2NDUzNSwiaWQiOiJlYzYyNGRkMC1hNjYzLTQ4MDMtYmMyNi00MzA5YzJlN2MzODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://23240094-d544-6d31-94d5-2416b8ef9dc2@2.clubban.ir:2087?type=tcp&security=tls&sni=2.vizitur.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-TLS - Aruba SAS ┇ 89.38.148.59
 vless://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 94.177.225.237
-vless://f0e9e15a-73be-4e1a-99cd-01bb501de7c8@de77.nanvaiiisaeedd.ir:1615?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aruba SAS ┇ 89.40.117.77
-vless://ec1938c8-acc1-4ded-a85f-9fe573b7730b@94.177.244.182:40378?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.182
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmRJdjUtNDY5UnBfLUtBQ0FHVXZB@konkor.sanjeshvipspeed.ir:9679#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aruba SAS ┇ 89.40.117.33
-trojan://6r2cphwj-qyv9-jym0-0lsf-c3w1drc022tp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mil6hxa9-alni-hnjm-j3w7-20mrh53tt2th@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://d4f8df4b-e9b4-48e0-80a8-b972d5a7c27b@dig1.torprospeed.ir:223?type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&sid=c7f175a94bd79f8d#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aruba SAS ┇ 89.38.148.55
+vless://7c2068d4-cd59-4c8a-8dc7-ef00d24857c7@s-1.faster-service.top:2665?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 94.177.226.27
+vless://ZEDMODEON--joinZEDMODEON@94.177.244.32:40734?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.32
+vless://5562b859-cd73-9cd2-98ec-c3f308ce63a2@fr.zeroboostspeed.org:1231?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 185.8.51.94
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjE3NyIsImFkZCI6InMyLmZyYW5jZS1sZWFybnMuaXIiLCJwb3J0Ijo2NDUzNSwiaWQiOiJlYzYyNGRkMC1hNjYzLTQ4MDMtYmMyNi00MzA5YzJlN2MzODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://f0e9e15a-73be-4e1a-99cd-01bb501de7c8@de77.nanvaiiisaeedd.ir:1615?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aruba SAS ┇ 89.40.117.77
+vless://23240094-d544-6d31-94d5-2416b8ef9dc2@2.clubban.ir:2087?type=tcp&security=tls&sni=2.vizitur.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-TLS - Aruba SAS ┇ 89.38.148.59
+vless://ec1938c8-acc1-4ded-a85f-9fe573b7730b@94.177.244.182:40378?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.182
+trojan://wzknbwsk-3ii2-nzjr-j8tp-dli1myunvew4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7tsjttds-5rzr-x3bv-b5bn-kbxi0k94hobk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

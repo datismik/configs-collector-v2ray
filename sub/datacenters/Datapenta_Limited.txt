@@ -1,6 +1,6 @@
-trojan://b9pd9enb-l7qk-v8rd-nhd8-fmttmk5v1aug@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://bwkkdcbp-peri-i07h-juas-y4lkuhkk41q0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ullxczse-21om-lv1p-oudn-hn5lvjma5r50@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wlbrgs0s-5bpn-9jm8-tast-9tng85acu5rh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://q3j9wf6r-naco-54kz-7buj-7e5rc5sq4tor@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xhwd0bqf-rfon-lkut-l6w4-8x6er3fmibgd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://baeb79f7-b0b6-4b85-a876-c4b47f45d07b@217.60.254.211:27817?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Datapenta Limited ┇ 217.60.254.211
-trojan://i3lo4mmi-qsh3-23na-m0kz-wzahydhzjg0o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g3rsskbf-zvqt-nv9v-7mm0-x7wqrct1kfl8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://1xnyqz94-zjjp-6s94-4u9m-h3tbmyqp16fi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2i2wvj5b-i8es-1uvc-x8c8-vlrmmmor89nb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

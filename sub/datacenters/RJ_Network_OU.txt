@@ -1,14 +1,14 @@
-trojan://wiz74j2a-vtol-vkwv-zn1y-tmwzt2a5jjgo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://3ozmbsyc-xzfk-ekyi-bgkx-yxt0sz01qltl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://opxj1yof-iwtx-7f0u-wmxu-3ccs0a20pku5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBTUY0SmFzS3F4dTNOUGZ4RzFtT0Ri@45.151.72.141:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 45.151.72.141
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNm5Za0JPRXJuWWR2RTJ0eG11SWt2@45.151.72.28:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 45.151.72.28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNXVxVzBsNEVDeGY0Y0tTdHd3NkFa@185.193.49.175:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.175
+trojan://9dzuywfc-zc2z-9teq-byzb-z78jssb82hsr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://cvmx8nto-0yl9-97it-9kau-bd3xtonb3ten@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://87jwtahe-b1af-c6n2-xxet-xnsm8kt6g7w3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.88
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.186.65
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTGtGSkg1SzhseHZhY3V3QmNXaDZE@188.214.36.221:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.221
-vless://562c71d0-f18b-402c-b1ad-5c2bbfcd6e02@est-0001-xr.packet-drop-society.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.186.109
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNm5Za0JPRXJuWWR2RTJ0eG11SWt2@45.151.72.28:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 45.151.72.28
+vless://701c0432-aecc-4aa6-b461-20d3db19bdf3@est-0001-xr.packet-drop-society.net:443?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.186.109
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.186.65
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNXVxVzBsNEVDeGY0Y0tTdHd3NkFa@185.193.49.175:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.175
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.155.96.153
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBTUY0SmFzS3F4dTNOUGZ4RzFtT0Ri@45.151.72.141:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 45.151.72.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.155.96.152
-trojan://1vn4wqb0-429v-p838-ut8i-7cdga6eq59rb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8pvpyhc0-yllx-vxrc-46kh-f9mpxq6jvnk0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://6a85usmk-m8dw-e6oe-qf30-7xt4jt1ch4sn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3q5v0p38-vzyj-883w-n6lq-eky8tbbv0i2r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

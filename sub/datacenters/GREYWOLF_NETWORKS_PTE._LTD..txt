@@ -1,8 +1,8 @@
-trojan://nvs478mz-6et3-fmyi-1p4n-t83et0xhmxfv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://wid6fudv-l65z-0vef-lm9k-kfa87s4fu44e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nobo32lt-lct8-nztn-s7dk-sgoqb8gyk95x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bg8xyjme-p7ik-6ys5-kydm-gqgbnj5wadt6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://7fe6zf3h-hzae-7ieu-lt1g-ga7ik7k8yqbr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://x7vm4g3s-io8k-ux1x-227h-4fj3oqgi2z6w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.23:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - GREYWOLF NETWORKS PTE. LTD. ┇ 103.36.91.23
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - GREYWOLF NETWORKS PTE. LTD. ┇ 103.36.91.32
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.90.195:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - GREYWOLF NETWORKS PTE. LTD. ┇ 103.36.90.195
-trojan://2rn87su0-2qxp-uvfn-pgxh-i9xmh3ch2b2h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nrn38ohk-n2ev-tc3x-6kbg-jseiwirm8o6d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - GREYWOLF NETWORKS PTE. LTD. ┇ 103.36.91.32
+trojan://gkhz62ys-82pw-e1o4-c8tm-u37ou44hjx7v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qo8cycpl-udd0-ckj3-jb9y-yrgpzp8hjpxm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

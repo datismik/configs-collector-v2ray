@@ -1,10 +1,10 @@
-trojan://u0u0jys7-k69p-nlch-2sxl-p29ro4c7e3y4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://ftyoong5-fxut-tguw-ofi0-4nyz6tddgkhh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://67gi7qov-bldx-wxbm-lf6g-h5z74g6kpsk8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&security=none&path=/dabadoo#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-NTLS - EdgeCenter LLC ┇ 95.181.182.182
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg@5.189.201.250:31348#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 5.189.201.250
-ss://YWVzLTI1Ni1jZmI6NzYyMDQ0Nzg4MA@92.38.139.95:50005#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.38.139.95
+trojan://jkyfdatx-xmt9-q17a-ern4-vh13kykry44u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://1vwbvlfn-pb29-11f2-452x-92ga43pco1sh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i1v6llj8-87sc-v0nu-7wte-a01fyb6lyork@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4@146.185.198.44:444#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 146.185.198.44
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.223.109.126:989#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.223.109.126
-trojan://3rfewq9y-el81-gieo-e4jv-tsi5fnh2o34o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5fyr35d5-ogla-07g0-e8ef-oipkcknsc1th@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTI1Ni1jZmI6NzYyMDQ0Nzg4MA@92.38.139.95:50005#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 92.38.139.95
+vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&security=none&path=/dabadoo#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-NTLS - EdgeCenter LLC ┇ 95.181.182.182
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg@5.189.201.250:31348#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EdgeCenter LLC ┇ 5.189.201.250
+trojan://hkpm1lf9-mxtf-mzuu-kpa9-jshww807rohi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://balr23dg-pxps-qv19-htjy-15gwwj19vckp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,10 +1,10 @@
-trojan://a6j7focw-zh01-ckt1-olo9-61ryevr3kigw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://w2mphdcw-pbxp-k31u-goyg-9s2trrox83nz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qp505a4m-9fqy-lbzh-pwh4-pmky6yyqb2tp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@193.227.99.217:2096?type=ws&security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo#MT 🇲🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 193.227.99.217
-vless://bb29c155-d55e-4c07-8403-0581e384f7a2@193.227.99.0:2087?type=grpc&security=tls&sni=a2.flcode.ir#MT 🇲🇹 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 193.227.99.0
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989#MT 🇲🇹 ┇ SHADOWSOCKS-TCP-NTLS - Melita Limited ┇ 171.22.254.17
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880?type=ws&security=none&path=/Channel id: @ShadowProxy66?ed=2560#MT 🇲🇹 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.227.99.234
+trojan://4g9q9v79-387s-w0qp-llrm-ab3wo021fggs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://bz95es8w-jw85-ycgz-bs57-kk7ftj0zz7xv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cfunhnb8-5rhw-tmem-qvgh-rxmzu4rz6c5i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#MT 🇲🇹 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.227.99.29
-trojan://ugyn7zas-ejjr-hwba-wi6y-owflekrn9upv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://se21xt4e-275b-i922-1up7-dqvwy7tohzp3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@193.227.99.217:2096?type=ws&security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo#MT 🇲🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 193.227.99.217
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880?type=ws&security=none&path=/Channel id: @ShadowProxy66?ed=2560#MT 🇲🇹 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.227.99.234
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989#MT 🇲🇹 ┇ SHADOWSOCKS-TCP-NTLS - Melita Limited ┇ 171.22.254.17
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@193.227.99.0:2087?type=grpc&security=tls&sni=a2.flcode.ir#MT 🇲🇹 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 193.227.99.0
+trojan://dtt0qzoq-jor3-hlhg-hgk1-xrrze3zr01mc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://aitfwnwl-yzws-zqn1-sg9b-ej753nh3g0zd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

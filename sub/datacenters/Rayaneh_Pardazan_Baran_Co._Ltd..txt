@@ -1,6 +1,6 @@
-trojan://7z1t634k-cqk1-iuo1-hhks-pp678adgqiyg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://0oy98uvr-u92q-99po-ny07-xw9bon01lipx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d68ksswu-hb7c-6n8b-628y-rcmmdmbmm6ok@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zrg6ud6r-o5p4-im5m-5vc2-u7x7i4o4ibtu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://9gohe2ma-85qk-etau-7ofg-ng8c1v2g02de@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ppk0a4un-7kwc-ur80-dn5u-tqx5yy7orczs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3ce3df55-74e5-4adf-b958-d25987e62ae8@ch3.onfident2.top:2087?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Rayaneh Pardazan Baran Co. Ltd. ┇ 37.32.126.114
-trojan://0ciazkk8-r2yi-ms3b-kl6s-yfpqy2x42lne@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mxstbixl-afxk-5t4k-w26a-e5dbpj3nw9qk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://e9hs4nwj-xn55-eels-5bg9-u3qe254b9swy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m4fh4ja5-rooq-j8kp-fufu-r2ftdzawq5hr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

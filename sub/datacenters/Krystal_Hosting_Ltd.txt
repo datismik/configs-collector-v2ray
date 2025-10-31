@@ -1,9 +1,9 @@
-trojan://m9raavmx-xkgm-tupa-stoe-n8hq1zil09cs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://u6bf7b5x-hn60-muf5-x4rx-ed4dw2dcdzxr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bfgp6u8s-4ekr-go88-73hq-fbg47ergikif@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Krystal Hosting Ltd ┇ 62.100.205.48
+trojan://ujrk6oib-2xxd-mcag-5lnv-rq6ofiiiwz6j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://ou4ses3h-r14a-odvt-ofrn-dbwneowxz0ck@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gswmy32w-mrsh-i4mh-ybqv-4gf2gufodv8n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Krystal Hosting Ltd ┇ 77.72.5.113
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Krystal Hosting Ltd ┇ 77.72.5.150
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Krystal Hosting Ltd ┇ 62.100.205.48
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@62.100.205.177:990#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Krystal Hosting Ltd ┇ 62.100.205.177
-trojan://hl03gw6j-v493-syl8-tzrd-70tt6ouh1z33@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dwxwq383-5lfh-ktod-xrl4-zvuslejb6lcn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0lnvfb8k-913z-t2wc-j99f-b43wj7tdf23h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://g6l00pfn-0wz4-d8lo-xhid-4ivf63o9vslm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

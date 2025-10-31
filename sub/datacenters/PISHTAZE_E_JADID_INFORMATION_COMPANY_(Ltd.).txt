@@ -1,6 +1,6 @@
-trojan://idar7vqt-rvqk-74nn-ix6s-j9mlzududg18@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://59tf6vlu-gi94-abe1-jwtr-toip6fhbr3b9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://31sxy9wl-9cxp-aucf-32f7-r66ww2zsk3he@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9w65swl8-32gv-1czx-uqas-00jwnd8e6e5u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://jlj4n4t2-j3pt-e8mf-6o8g-e9grseh1arxn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cpre2x87-ihba-p3ey-mjab-rsx0vd2gqstm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://585e9c78-6316-47ee-b919-364f146765b4@servers.xvon.in:5000?type=grpc&security=tls&sni=servers.xvon.in#IR 🇮🇷 ┇ VLESS-GRPC-TLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.23
-trojan://ugszyad7-p740-umub-jfeo-8orpisze67nk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y9db0xfj-q5dd-aten-l740-8kfq42vxxbtt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://cw0eexka-7dv9-wu65-a46n-87g5v9kqmbol@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d8gxdimz-tb6f-rqsh-fpxq-iujfqptyixub@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

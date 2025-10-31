@@ -1,14 +1,14 @@
-trojan://t7xpb70p-e13w-xh29-dc1y-9ey0715hq93e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://rkqh0l6z-xmu5-f97x-7j0k-5vvpy3c7zi27@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xk6610eb-r6bn-qt14-vux3-0fbab8v6cqkd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY#RU 🇷🇺 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 5.181.168.10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWUF0ODVTRkdWNTY@185.77.217.217:443#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Oy Crea Nova Hosting Solution Ltd ┇ 185.77.217.217
-vless://466cdb16-8d8a-46f8-b61d-fcd226a820fd@fin01-vlr02.tcp-reset-club.net:8443?type=tcp&security=reality&sni=stats.vk-portal.net&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#FI 🇫🇮 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 213.209.148.23
-vless://33bdc1f3-a2ce-6a15-c286-d602b373063d@178.20.215.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision#SC 🇸🇨 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 178.20.215.2
-vless://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#SC 🇸🇨 ┇ VLESS-TCP-TLS - Oy Crea Nova Hosting Solution Ltd ┇ 178.20.215.10
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@185.152.94.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=y3D5zxj5V-R4fpbHQdLaVp5l28Y4brWPnWyCm8dj2mc#RU 🇷🇺 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 185.152.94.10
-vless://2d76b61a-3a2a-48cb-8553-94e18e0ff81b@fin-0001-xr.packet-drop-society.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=31#FI 🇫🇮 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 185.77.216.197
+trojan://frgf4j1v-tyrv-koqe-ur3y-hhu9vxztzicv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://t3rem2i0-nidc-l9hx-z310-d5f5r7jdi5h1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rn6zvord-cq9q-ppve-kzyt-h9mrit2md5ik@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN2VvRUJyQVJXc0JVaVZmY2hWRWRI@185.77.217.121:443#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Oy Crea Nova Hosting Solution Ltd ┇ 185.77.217.121
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@185.152.94.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=y3D5zxj5V-R4fpbHQdLaVp5l28Y4brWPnWyCm8dj2mc#RU 🇷🇺 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 185.152.94.10
+vless://466cdb16-8d8a-46f8-b61d-fcd226a820fd@fin01-vlr02.tcp-reset-club.net:8443?type=tcp&security=reality&sni=stats.vk-portal.net&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#FI 🇫🇮 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 213.209.148.23
+vless://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#SC 🇸🇨 ┇ VLESS-TCP-TLS - Oy Crea Nova Hosting Solution Ltd ┇ 178.20.215.10
+vless://33bdc1f3-a2ce-6a15-c286-d602b373063d@178.20.215.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision#SC 🇸🇨 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 178.20.215.2
+vless://2d76b61a-3a2a-48cb-8553-94e18e0ff81b@fin-0001-xr.packet-drop-society.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=31#FI 🇫🇮 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 185.77.216.197
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWUF0ODVTRkdWNTY@185.77.217.217:443#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Oy Crea Nova Hosting Solution Ltd ┇ 185.77.217.217
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY#RU 🇷🇺 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 5.181.168.10
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#RU 🇷🇺 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 213.232.120.2
-trojan://dc7wiaif-oevd-oek1-h76e-ethdznl7103e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sjkqa2kg-vwpk-m6pb-4qdk-qyartzyl6e0j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ocbrxotb-1l52-2m4f-7i9a-x2s46jbtlxfi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b4d703yj-wrte-xewk-fwec-udjzijbh7y34@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

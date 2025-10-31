@@ -1,10 +1,10 @@
-trojan://0tk14oqp-dalk-hykh-iy30-jvlwzm4pvm6c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://fwfzn6ud-hnlr-ly2t-zw5c-enbmamvu8soc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://el5apxi5-wiaa-dhrk-39xb-wmmodapvzqax@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://twv6oqps-pgo7-yayq-7qmp-fptscczsswkb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://uw2j5u4u-ws6v-7pgo-vmfk-jayg91k0zpie@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uyvlfexz-adcx-87up-219o-vv3igvnoeo5c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://287ca8c3-267f-4ba4-a48a-683c450d07f2@b066465ba5a8.anondns.net:27025?type=tcp&security=reality&sni=mensura.cdn-apple.com&fp=ios&flow=xtls-rprx-vision&pbk=9g0cEPuzLXB09WzYHsWmcP7rwHA2G1LAASqDd4ci1k8&sid=3704d2#US 🇺🇸 ┇ VLESS-TCP-RLT - Eons Data Communications Limited ┇ 154.16.27.145
 trojan://giosZwLNqAUWxczWJDYqXQDgNLMYwbKI@ahgjs-4-tr-0.hkg-01.o-two.xyz:889?sni=o-two.bond&peer=o-two.bond&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Eons Data Communications Limited ┇ 103.152.221.186
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGUzNjMxMi0xNmQ0LTQ5YzItYWQxOC02MTBiZjZkMDVkNjM@sgp.fastsoonlink.com:40005#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Eons Data Communications Limited ┇ 205.198.72.135
 vless://d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec@38.181.76.117:8881?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=qSIggiu4bAoZ6Qt71Y2FszPL1ABIJ__hOO92sAopji8#HK 🇭🇰 ┇ VLESS-TCP-RLT - Eons Data Communications Limited ┇ 38.181.76.117
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGUzNjMxMi0xNmQ0LTQ5YzItYWQxOC02MTBiZjZkMDVkNjM@sgp.fastsoonlink.com:40005#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Eons Data Communications Limited ┇ 205.198.72.135
 trojan://26c62533-8401-42b8-a799-a08958070706@s1.oss-qq-weixin-9945001.kl886.cn:15320?sni=m.ctrip.com&peer=m.ctrip.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Eons Data Communications Limited ┇ 205.198.85.30
-trojan://bg8z9lye-0ucm-j07i-20bs-knh1biaou158@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qks075up-wpnj-7pxm-2duz-1vym325plpdw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://z4we0y9o-vmeb-zdx6-83nf-6cgr13gih903@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0ouj0zgi-yo28-yix8-vr9g-1fjjgk9c3mf1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

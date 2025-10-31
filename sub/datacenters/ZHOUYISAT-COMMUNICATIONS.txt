@@ -1,9 +1,9 @@
-trojan://823bcg87-7yre-f17r-dtds-wolekfcrcnvv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://g5ex978b-6uwu-taqo-n7ys-6ppfq9lurhlg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zq2ap5ru-b1kg-giyi-sk9h-7vnetvnxuvu3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFpIT1VZSVNBVC1DT01NVU5JQ0FUSU9OUyBcdTI1MDcgMTg1LjIzNi4yNi4xMTEiLCJhZGQiOiIxODUuMjM2LjI2LjExMSIsInBvcnQiOjMyMDIwLCJpZCI6Ijc4YjRmYjU3LTM5ZDctNGU5ZC1kZDM4LWM5YTM4MzIyYmNiMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN0lTcUZwRW9mdDhXcUlRZG5uaXNu@87.251.79.34:20684#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZHOUYISAT-COMMUNICATIONS ┇ 87.251.79.34
-vless://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&sid=5c0333ed45b1#ES 🇪🇸 ┇ VLESS-TCP-RLT - ZHOUYISAT-COMMUNICATIONS ┇ 185.236.25.242
+trojan://d313j9a3-jir6-xy4j-g53b-y3wwdxwgped6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://fv7bq9nk-t5zp-q1j2-sn59-6ldfdbbvcaqk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0idleezr-v34e-e59l-sz4v-pa4qw6cgccj0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://82306016-bcd5-4f09-8310-198304d8d9e7@185.250.180.91:443?type=tcp&security=reality&sni=duckduckgo.com&fp=chrome&flow=xtls-rprx-vision&pbk=IxFbqmfuwejYSKYu69qBnzG9yWSuf7UjHujXWOO_w34&sid=9137d914cd770b54#US 🇺🇸 ┇ VLESS-TCP-RLT - ZHOUYISAT-COMMUNICATIONS ┇ 185.250.180.91
-trojan://5vtaaxuz-w8lq-9131-rkc0-nph0o95wgcxo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2l25o8qj-s9qw-7c26-mmvh-pfyyvgg2suy5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&sid=5c0333ed45b1#ES 🇪🇸 ┇ VLESS-TCP-RLT - ZHOUYISAT-COMMUNICATIONS ┇ 185.236.25.242
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN0lTcUZwRW9mdDhXcUlRZG5uaXNu@87.251.79.34:20684#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZHOUYISAT-COMMUNICATIONS ┇ 87.251.79.34
+vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFpIT1VZSVNBVC1DT01NVU5JQ0FUSU9OUyBcdTI1MDcgMTg1LjIzNi4yNi4xMTEiLCJhZGQiOiIxODUuMjM2LjI2LjExMSIsInBvcnQiOjMyMDIwLCJpZCI6Ijc4YjRmYjU3LTM5ZDctNGU5ZC1kZDM4LWM5YTM4MzIyYmNiMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+trojan://ievf5hva-gthr-kp16-jh9o-03w4007wg011@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mj4cymhb-pw5j-4lfv-7x70-uef2jmla6pb2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

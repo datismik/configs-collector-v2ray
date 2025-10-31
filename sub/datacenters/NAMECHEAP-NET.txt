@@ -1,9 +1,9 @@
-trojan://csr77y92-io8f-p43v-h8go-q56aj3fxhnrv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://gs95yad1-sinw-w0lc-38x9-q765tnqf2jei@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://r5unttp3-m08s-nmjy-mcqe-4mfz7z4pu78v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOQU1FQ0hFQVAtTkVUIFx1MjUwNyAxNjIuMC4yMzIuMzYiLCJhZGQiOiJob2htLm1pY3Jvc29mdC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMmIyMTQxMjItMTkwNi00MjhhLWJiYjctYTAzOWNiYjdjZDVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvOUpaRkRUS0UiLCJ0bHMiOiJ0bHMifQ
-vless://66816f2a-4a3e-4697-e24a-9d219589b9e8@203.161.47.109:21901?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NAMECHEAP-NET ┇ 203.161.47.109
+trojan://n4nq7xoz-w4wq-gqyu-2ome-p628maoxu5yb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://youkdqf9-cmyy-h499-bs1t-gaivc83791z7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ea2m3ug2-37l6-194n-gqw9-907sjtr5wqh0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6f1eebdf-4cb5-40c4-96e5-bf8b5d0a79ba@www.rexo.online:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - NAMECHEAP-NET ┇ 198.54.117.242
+vless://66816f2a-4a3e-4697-e24a-9d219589b9e8@203.161.47.109:21901?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NAMECHEAP-NET ┇ 203.161.47.109
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOQU1FQ0hFQVAtTkVUIFx1MjUwNyAxNjIuMC4yMzIuMzYiLCJhZGQiOiJob2htLm1pY3Jvc29mdC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMmIyMTQxMjItMTkwNi00MjhhLWJiYjctYTAzOWNiYjdjZDVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvOUpaRkRUS0UiLCJ0bHMiOiJ0bHMifQ
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@jalurtepat.com:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shorekeeper.cloudns.org&fp=randomized#US 🇺🇸 ┇ VLESS-WS-TLS - NAMECHEAP-NET ┇ 162.0.232.190
-trojan://105xw3em-rkww-5fko-eipr-250bbrfu8i9u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wt1vhiaf-vj4g-2oft-fo6t-eh23bbxd3r3k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://isnnm9sa-9m5z-76ws-kk7e-2kmfntvopbbn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z8uk3b7s-c7xc-3rb5-893i-gjzxmzo8q871@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

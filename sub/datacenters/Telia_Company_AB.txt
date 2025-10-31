@@ -1,7 +1,7 @@
-trojan://ljs8c5xw-qnhh-g4a7-jxct-7hh17fzvnf86@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://wixvponk-vyo3-v1cp-cspv-d416jmfnxkb5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jh4pdo3x-czk5-qsu1-kyve-l0nt1k4c0t0y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://quu0ezsi-tpp7-3xsr-peff-8846mk20el6w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://s24xle2t-2jxt-4uom-ue1y-l4nnn8kq58uw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g6knhulq-2o8k-41c6-s1j9-5iw7o2mqy2y5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIc3BtTmp5ZHBSQkhSWkw1MTg0UlVn@217.212.217.8:55552#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Telia Company AB ┇ 217.212.217.8
 vless://88e35bbb-8cd2-c309-a1e9-551fb1c17a7f@dir.lightnright.com:8883?type=tcp&security=tls&sni=jnir-x.pichondan.com&fp=firefox#SE 🇸🇪 ┇ VLESS-TCP-TLS - Telia Company AB ┇ 81.234.99.150
-trojan://w1zu0osk-ilxs-wu2q-iafg-q78ga7hf1nlh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ig8poy6v-vrtc-8xyj-kxnx-hrljs1p6sz3p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ab0h4onz-0800-w0e8-xx85-ega3thy3vzzz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://067jn5lb-th6j-cpik-0ow2-dcyi6wj7fopt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

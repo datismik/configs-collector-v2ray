@@ -1,27 +1,27 @@
-trojan://7iiwj3ut-h6x7-4mag-jyx0-8mcfwefagirl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://x6zr1ode-kq32-hyy6-vumq-0dtrjdv30ob1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c1432w7l-v4nj-e5pb-0rgd-b0m8np8qwf2o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://331563eb-831a-4744-b51c-78e7bf4f1562@77.37.97.59:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#DK 🇩🇰 ┇ VLESS-TCP-RLT - Webdock.io ApS ┇ 77.37.97.59
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.79:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.79
+trojan://83oy52e9-jc70-o7yx-7g89-gtfqbsb92cqa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://thafpz2n-zokj-w59s-ssnn-ybzglq6pwj0e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://w3u73pbg-3gdi-3p9h-3du9-nfyexf8fseo2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - Din Server Group ApS ┇ 91.210.57.117
+vless://74ae5e63-ce7a-4ea5-bb83-4761c0a37328@193.180.211.106:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#DK 🇩🇰 ┇ VLESS-TCP-RLT - Webdock.io ApS ┇ 193.180.211.106
+vless://7634c38f-73ba-4dd5-8065-c3179158e1ff@95.164.10.184:4434?type=tcp&security=reality&sni=DEDUso.su&fp=chrome&flow=xtls-rprx-vision&pbk=I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0&sid=a4eed13ebbf2f9d2#DK 🇩🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 95.164.10.184
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.186.79.53:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.186.79.53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@195.88.89.138:808#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 195.88.89.138
+trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443?sni=wispy-crib-net.stark-industries.solutions&peer=wispy-crib-net.stark-industries.solutions&security=tls#DK 🇩🇰 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.85.39
+vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c#DK 🇩🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 95.164.85.109
 vless://03588a25-b81d-40b1-bda4-7bb7700281ac@95.164.85.110:1142?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#DK 🇩🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 95.164.85.110
-ss://YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI@193.29.107.197:38742#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.197
+vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@89.28.236.243:443?type=ws&security=tls&path=/?ed=2048&sni=01.91md.fun#DK 🇩🇰 ┇ VLESS-WS-TLS - Webdock.io ApS ┇ 89.28.236.243
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@pfwie.marfanet.com:55700?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&sid=ae839dceb524a40b#DK 🇩🇰 ┇ VLESS-TCP-RLT ┇ 159.195.25.226
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.94:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.94
+trojan://Aimer@46.29.235.31:2053?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#DK 🇩🇰 ┇ TROJAN-TCP-TLS - Global Connectivity Solutions Llp ┇ 46.29.235.31
+vless://331563eb-831a-4744-b51c-78e7bf4f1562@77.37.97.59:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#DK 🇩🇰 ┇ VLESS-TCP-RLT - Webdock.io ApS ┇ 77.37.97.59
+ss://YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI@193.29.107.197:38742#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.197
+ss://YWVzLTI1Ni1nY206VHV3Nnp6Wk02SndXTlp5WUY5Y2tDNEpa@193.29.107.211:43963#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.211
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.116:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.116
+ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.179
 vmess://eyJ2IjoiMiIsInBzIjoiREsgXHVkODNjXHVkZGU5XHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA5NS4xNjQuMTAuMTE2IiwiYWRkIjoiOTUuMTY0LjEwLjExNiIsInBvcnQiOjg4ODAsImlkIjoiMjJiYTkyMzMtZWVmMi01ODY3LWEyMzQtNTY2ZTljNzA2ZTEyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJwYXRoIjoidm1lc3MtZ3JwYyJ9
 vless://b622f3a5-ca1d-456c-8766-cc1d8c0d2110@tr-server-vip-n-g-s-is.tr-vip-nightgemshop.pledh.com:8080?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - Bogahost Bilisim ve Telekomunikasyon Hiz. San ve Tic. Ltd. Sti. ┇ 2.59.181.62
-trojan://Aimer@46.29.235.31:2053?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#DK 🇩🇰 ┇ TROJAN-TCP-TLS - Global Connectivity Solutions Llp ┇ 46.29.235.31
-vless://74ae5e63-ce7a-4ea5-bb83-4761c0a37328@193.180.211.106:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#DK 🇩🇰 ┇ VLESS-TCP-RLT - Webdock.io ApS ┇ 193.180.211.106
-vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c#DK 🇩🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 95.164.85.109
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.94:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.94
 ss://YWVzLTI1Ni1nY206OVZOUVBSRVZXNjlaMk1HSg@185.186.79.135:20028#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.186.79.135
-trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443?sni=wispy-crib-net.stark-industries.solutions&peer=wispy-crib-net.stark-industries.solutions&security=tls#DK 🇩🇰 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.85.39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - Din Server Group ApS ┇ 91.210.57.117
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@195.88.89.138:808#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 195.88.89.138
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.186.79.53:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.186.79.53
-ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.179
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.116:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.116
-vless://7634c38f-73ba-4dd5-8065-c3179158e1ff@95.164.10.184:4434?type=tcp&security=reality&sni=DEDUso.su&fp=chrome&flow=xtls-rprx-vision&pbk=I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0&sid=a4eed13ebbf2f9d2#DK 🇩🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 95.164.10.184
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@89.28.236.243:443?type=ws&security=tls&path=/?ed=2048&sni=01.91md.fun#DK 🇩🇰 ┇ VLESS-WS-TLS - Webdock.io ApS ┇ 89.28.236.243
-ss://YWVzLTI1Ni1nY206VHV3Nnp6Wk02SndXTlp5WUY5Y2tDNEpa@193.29.107.211:43963#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.29.107.211
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.79:989#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.36.27.79
 vless://9cbd3913-d0a8-4f11-be9d-4e5102d8f689@direct2.androiland.ir:181?type=tcp&security=reality&sni=docker.com&fp=firefox&pbk=1sDMgyhL5HPRAaRYJcAf21sWbSlq0kgitPVL2HQwB2M#DK 🇩🇰 ┇ VLESS-TCP-RLT ┇ 159.195.20.84
-trojan://lcto7koh-wsuj-dd1e-0vtg-toe4xanh22yg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h782dzkv-kwum-l5by-6uul-4vrticeeee0x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://t0aq2fv8-9b5f-5wso-ewwd-u6wvtg1uc6ui@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qml8bft2-cab8-tnld-vd1u-90flfp9cnn4b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

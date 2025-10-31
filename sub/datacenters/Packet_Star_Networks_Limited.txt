@@ -1,6 +1,6 @@
-trojan://bo1l4vgt-z0kj-dqq6-ly0r-43orzfz0e8dl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://e1drq3hq-fhj5-9q8j-36of-gy1fjh9u6l97@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hbk8rrsk-sa8v-wyjc-e81g-4jnx17zyp9rr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uv9bpi9q-39uf-a63p-19kw-bi7p1zaiq4eu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://y6pb8ieo-jyzh-3sjp-6d3e-mi6za547pnhg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c5kx5mif-ifdg-1t5d-tkeu-nqfcr7e2twvr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ea58dac7-6ca9-448a-aeff-af1ac5070acf@gb01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31#DE 🇩🇪 ┇ VLESS-TCP-RLT - Packet Star Networks Limited ┇ 45.139.196.194
-trojan://znoepfip-u4t6-71b8-59ip-b0jrok2gpotn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3yc61sb2-1qmi-do2s-aex3-6toka069wlwt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://i7u8zuiq-1pc0-vm20-v0vb-4qsi5f1ywzq7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b6t6zijf-6x1l-ozaw-z7ql-pqbkv0ziz5x9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

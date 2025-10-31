@@ -1,13 +1,13 @@
-trojan://4kh8uvxn-h53e-xxnx-z8t2-i5umnwlxb5d1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://4ict1w76-kg7e-bolt-4pzi-v7kt29e1aqiu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xjgotu08-3s57-1o27-ncfw-4f2bky81dwe5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://24c81def-9d06-5b44-a415-6568739eac66@fr1.xvless.online:80?type=httpupgrade&security=none&path=/httpupgrade#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS - Host Telecom Ltd ┇ 193.8.184.195
-vless://db90f3d7-bd8f-4e2d-ae0b-f9510ff3f7b9@87.120.92.135:8080?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.120.92.135
-vless://37a2ec9e-c8d9-48c9-be0a-0922890089f4@87.120.216.14:56334?type=tcp&security=reality&sni=amazon.com&fp=chrome&pbk=BCSE3PP1V1kx4tZN4lPx3daoRFuLn4WMo8spczXpWG8&sid=b70f#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.216.14
-vless://713fd81a-893f-410f-91de-df72cd5283bc@2br.solonettochka.ru:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=KAsnegSHnvdBMwasZUOxGlzo7OWxwYJeUnYLwlii110&sid=e092aa9d2bc0#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.219.198
-vless://c8d98220-eee5-47ab-b311-b5a52c24d808@87.120.216.186:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.216.186
-vless://99766fad-77bb-4b1c-a4f3-8f8028542033@87.120.216.236:1234?type=tcp&security=reality&sni=cdnjs.com&flow=xtls-rprx-vision&pbk=ttai5o9sL51jx8MWuQA2glnVnVRe0pzZmDbHnTzlynA&sid=1A2B3C4D5E6F7890#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.216.236
+trojan://xsuusr3e-13rf-kof6-2qb4-z7mcy2yeupk9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://mutwlic4-kuf7-1u0t-cnz1-xbvlnvj1pdjs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dbiqk583-v0jr-9mow-xlgm-ylia1lcxs8y0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#BG 🇧🇬 ┇ VLESS-GRPC-RLT - Host Telecom Ltd ┇ 87.120.205.207
+vless://99766fad-77bb-4b1c-a4f3-8f8028542033@87.120.216.236:1234?type=tcp&security=reality&sni=cdnjs.com&flow=xtls-rprx-vision&pbk=ttai5o9sL51jx8MWuQA2glnVnVRe0pzZmDbHnTzlynA&sid=1A2B3C4D5E6F7890#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.216.236
+vless://c8d98220-eee5-47ab-b311-b5a52c24d808@87.120.216.186:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.216.186
+vless://713fd81a-893f-410f-91de-df72cd5283bc@2br.solonettochka.ru:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=KAsnegSHnvdBMwasZUOxGlzo7OWxwYJeUnYLwlii110&sid=e092aa9d2bc0#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.219.198
+vless://db90f3d7-bd8f-4e2d-ae0b-f9510ff3f7b9@87.120.92.135:8080?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.120.92.135
+vless://24c81def-9d06-5b44-a415-6568739eac66@fr1.xvless.online:80?type=httpupgrade&security=none&path=/httpupgrade#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS - Host Telecom Ltd ┇ 193.8.184.195
+vless://37a2ec9e-c8d9-48c9-be0a-0922890089f4@87.120.216.14:56334?type=tcp&security=reality&sni=amazon.com&fp=chrome&pbk=BCSE3PP1V1kx4tZN4lPx3daoRFuLn4WMo8spczXpWG8&sid=b70f#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.216.14
 vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik#BG 🇧🇬 ┇ VLESS-XHTTP-RLT - Host Telecom Ltd ┇ 87.120.205.76
-trojan://38l4atb1-55cd-g5gr-ve46-zy58mermi45s@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6bbomu5f-yasl-j33a-1i3a-zpmhtr28y11i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://n5ascgg6-3jbz-f7tt-eyrm-v2hh985dvtcy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2fuimh1o-w9e5-j7hy-cigs-u01bw28zx1td@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

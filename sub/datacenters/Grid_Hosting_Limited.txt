@@ -1,10 +1,10 @@
-trojan://mtgk1jrm-5f72-qsfq-hhor-od1dtpnht1xe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://emyhr381-saq6-q3hl-7jd3-flddbs3qr4un@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xca4ca2x-2ywz-wpjg-dscn-xs7w866i6h3v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.66:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Grid Hosting Limited ┇ 217.179.91.66
+trojan://a61xf9ji-cnm2-u8xn-vobj-crak1kzut3fd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://nseeicsk-uqwh-k9o5-284u-6jzjlt5oqkkb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://anxeq07h-0p4e-q0hc-84g8-pbw5sq6kl6bj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.142:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Grid Hosting Limited ┇ 217.179.91.142
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.152:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Grid Hosting Limited ┇ 217.179.91.152
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@82.23.138.5:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Grid Hosting Limited ┇ 82.23.138.5
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.142:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Grid Hosting Limited ┇ 217.179.91.142
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.66:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Grid Hosting Limited ┇ 217.179.91.66
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.26:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#GB 🇬🇧 ┇ VLESS-TCP-RLT - Grid Hosting Limited ┇ 217.179.91.26
-trojan://eoc3aso3-pgd2-v2ks-7d42-dggyq9qed0zr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qi3rgex7-v9xe-6lof-fu0b-sebt59h4cybk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://w4w48kg6-6igd-4wu0-foqg-s0qvtyxlxfrw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://spizirga-rplo-jxdu-1p42-avffdj2eo255@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

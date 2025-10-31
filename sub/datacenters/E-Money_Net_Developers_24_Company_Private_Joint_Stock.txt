@@ -1,7 +1,7 @@
-trojan://29w6wrs8-uedk-n7bm-g79x-h3a316mfdgl1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://ovzux6ee-64mf-fvx3-4wx6-7oowxz8fwiin@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zydeqnze-v22l-1dcw-dyc3-qjkm5r05usmf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wt7zow7h-m0qw-carw-wchc-g27glgpol48s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://iccz9nox-zvuc-alk1-0n5s-1a1dh4vgqlwd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9gnhr6i5-z8m4-7mjn-v86g-ffrgn6udkaxk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRS1Nb25leSBOZXQgRGV2ZWxvcGVycyAyNCBDb21wYW55IFByaXZhdGUgSm9pbnQgU3RvY2sgXHUyNTA3IDE4NS4yNC4yNTUuMjQiLCJhZGQiOiIxODUuMjQuMjU1LjI0IiwicG9ydCI6ODAsImlkIjoiODBhYmI5MDMtMjRlMC00ZGJkLTljMmYtYTU3ZTlhMjY3NTU1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MifQ
 vless://bc42d638-684b-4910-a99e-e18dd22aa6e9@5.145.113.28:8003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - E-Money Net Developers 24 Company Private Joint Stock ┇ 5.145.113.28
-trojan://9jvnldum-wmh9-scn6-qker-p6zum38t5uqn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4nedwxka-84pj-q7re-3ip7-4i3rwwl6lpiz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://l95bj6y1-xl3z-rrba-1liw-3haabsgrz73h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qzn9msqt-ju62-f88f-2fgs-tsvua4u2f0ou@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

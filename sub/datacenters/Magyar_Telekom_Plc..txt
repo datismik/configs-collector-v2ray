@@ -1,6 +1,6 @@
-trojan://khy6ugyg-cw86-uaz9-oti3-tsqccagw9nkf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://ha5en4k7-nfoh-23u3-eut8-yur51pb4zex6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wbvtppfe-wyln-ur2h-rriz-vo8lv9yb6ebw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uhrg6gsw-wb57-fxu7-qhmj-m1tyw19vcbxg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://uhwsz7ub-2k9q-nrga-ndhq-b958auujtvwa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hkttj9po-cv6b-fq28-aurw-cjx9fo1nd31k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.130.160:989#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - Magyar Telekom Plc. ┇ 194.71.130.160
-trojan://rdw1trvi-abb8-3xdx-qt1e-wqz64m49f8a2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xba3wbpq-nvw8-sruh-iocj-xvy4kl72lk3q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://2yzd2gdo-ctjf-28f0-qh71-33kf1ftxm92s@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fewev1ej-uvw9-cwmn-yfzk-lzupba04gtla@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

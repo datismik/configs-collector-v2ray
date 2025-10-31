@@ -1,7 +1,7 @@
-trojan://eyoxxi3m-9k2f-7rj8-5uln-632ikab0u76q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://4uxi3vrl-r5qh-hptp-cxim-wdb1gy2p9c5v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ex64eve0-4wah-jib8-jic0-nbzqyqonhxge@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&security=false&path=/&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-FALSE - PT Herza Digital Indonesia ┇ 38.47.176.134
+trojan://siuur8jk-homw-a4by-bguq-476zni0respd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://wtcqreey-1spq-m2jq-iupv-7s80xpa059rp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mr4cmqd0-ir5y-i4op-pn8q-yh0srbt90gf9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - PT Herza Digital Indonesia ┇ 38.47.176.134
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBUIEhlcnphIERpZ2l0YWwgSW5kb25lc2lhIFx1MjUwNyAzOC40Ny4xNzYuMjUxIiwiYWRkIjoiMzguNDcuMTc2LjI1MSIsInBvcnQiOjU2MDUxLCJpZCI6IjJiY2EzNTY5LTA2NjItNDdmNy1mZGY4LTQyMWYzMGU3MWY0NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://v487qomb-lgxk-3rdm-ore4-sr2n8tw9xovz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yyw806ay-yibc-eb5p-6nyz-s5afb5xdp5ju@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://yj2md79q-z4ax-yruy-scau-d19bqksqucjk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9eqvref8-r1cb-jzfk-oqga-x40u4hfpnpdm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

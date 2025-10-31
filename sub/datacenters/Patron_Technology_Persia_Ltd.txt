@@ -1,7 +1,7 @@
-trojan://ixil1fiq-o4b7-uneh-nxfc-55hilmf91vuv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://dp4jueqe-b6ye-zmf7-v8ee-38uywoo9og7f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6iaqiium-0183-f56j-dnph-vw11qta6e76b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 5.42.223.147
+trojan://qgn0bt5e-u8ux-covy-h0zd-838kbokkceqo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://zgvy5n0m-nmkv-d9mn-mx6h-cxmw8r292stz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://k6ucoy04-27l6-2ik6-utrb-s74x7abrwsvg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://34fe8b53-d764-420c-a563-9352f52af69f@185.231.113.223:443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.223
-trojan://dsn58yo3-1nna-sy6n-r3rq-ti3hdc87gocz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7ourtjsk-x0q0-ireq-qadl-yc0al29431xz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 5.42.223.147
+trojan://hvor7gzu-i8ct-iqqm-s55h-qzpcspawf4st@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://g0jbwlp0-le5p-2sc9-sece-3r44f6h4hb5r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

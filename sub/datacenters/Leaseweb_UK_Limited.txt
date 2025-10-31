@@ -1,14 +1,14 @@
-trojan://elh8kdac-08a7-dwn7-7xzf-904z3nzeedfi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://6prjhe9r-ajas-ebxm-4hdy-v25ck1y3hx3u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h66jk9vv-4b8w-mdqw-1un7-0g5hbql6595j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://az660gtk-7xcz-7igz-ht3w-fthlzpmnvj39@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://d1mte0by-yqgo-teng-yye7-e2dwjcht5kxo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://518sn85v-4kmz-f57a-w1bv-l77fjwhmcdy6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://4815dc93-e49f-4b05-a44a-dbf90985458a@gb.yw5jk.org:1002?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=w9x-dAl7ESzK_pnkH4waEZmKcazaXPFxWi3AUqSHNko&sid=becf5919b526c26e#GB 🇬🇧 ┇ VLESS-TCP-RLT - Leaseweb UK Limited ┇ 23.81.34.6
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTGVhc2V3ZWIgVUsgTGltaXRlZCBcdTI1MDcgMTczLjIwOC41MS4xOTMiLCJhZGQiOiIxNzMuMjA4LjUxLjE5MyIsInBvcnQiOjIwMDg2LCJpZCI6ImIxNzI2ZWIyLTI3MWItNGNiNi1iYWU4LTM3NjQ3ZTc4Yjc3NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
+vless://40aaea42-f5cc-4831-857e-d27e698e71f9@23.81.33.86:41713?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Leaseweb UK Limited ┇ 23.81.33.86
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@173.208.51.18:443?type=xhttp&security=reality#GB 🇬🇧 ┇ VLESS-XHTTP-RLT - Leaseweb UK Limited ┇ 173.208.51.18
+vless://TELEGRAM-CONFiGLiNE@173.208.51.197:51116?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=hS4N_uoP21yCKMO0s-yU1stZFH7yd8rzLlP5GP0N1As&sid=d1d78ef5068d22#GB 🇬🇧 ┇ VLESS-TCP-RLT - Leaseweb UK Limited ┇ 173.208.51.197
+vless://78d0e383-e88c-4e58-997e-9f86d8d90ec1@programs.aliyostd.com:2689?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&sid=b6c24852f86067a6#GB 🇬🇧 ┇ VLESS-GRPC-RLT - Leaseweb UK Limited ┇ 23.81.34.217
+ss://YWVzLTEyOC1nY206Njg2MWZjYmMtMWY5NC00ZjVkLTg0ZDUtZTFjZGJhOTkxNTEz@uk01.dns-node.top:45615#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Leaseweb UK Limited ┇ 173.234.79.117
 vless://a229a57d-d1d2-c3d0-73fa-3b1061688ccd@173.234.79.240:2020?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#GB 🇬🇧 ┇ VLESS-TCP-RLT - Leaseweb UK Limited ┇ 173.234.79.240
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExlYXNld2ViIFVLIExpbWl0ZWQgXHUyNTA3IDE3My4yMDguNTEuMTkwIiwiYWRkIjoidWsuemFyYXNpdGUuaXIiLCJwb3J0Ijo2NTMxLCJpZCI6ImJiMjhjZmNkLWMzZDAtNDg2Ni1iYjBhLWMzZmQ4NmIwZWMxMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://TELEGRAM-CONFiGLiNE@173.208.51.197:51116?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=hS4N_uoP21yCKMO0s-yU1stZFH7yd8rzLlP5GP0N1As&sid=d1d78ef5068d22#GB 🇬🇧 ┇ VLESS-TCP-RLT - Leaseweb UK Limited ┇ 173.208.51.197
-vless://40aaea42-f5cc-4831-857e-d27e698e71f9@23.81.33.86:41713?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Leaseweb UK Limited ┇ 23.81.33.86
-ss://YWVzLTEyOC1nY206Njg2MWZjYmMtMWY5NC00ZjVkLTg0ZDUtZTFjZGJhOTkxNTEz@uk01.dns-node.top:45615#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Leaseweb UK Limited ┇ 173.234.79.117
-vless://78d0e383-e88c-4e58-997e-9f86d8d90ec1@programs.aliyostd.com:2689?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&sid=b6c24852f86067a6#GB 🇬🇧 ┇ VLESS-GRPC-RLT - Leaseweb UK Limited ┇ 23.81.34.217
-vless://4815dc93-e49f-4b05-a44a-dbf90985458a@gb.yw5jk.org:1002?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=w9x-dAl7ESzK_pnkH4waEZmKcazaXPFxWi3AUqSHNko&sid=becf5919b526c26e#GB 🇬🇧 ┇ VLESS-TCP-RLT - Leaseweb UK Limited ┇ 23.81.34.6
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@173.208.51.18:443?type=xhttp&security=reality#GB 🇬🇧 ┇ VLESS-XHTTP-RLT - Leaseweb UK Limited ┇ 173.208.51.18
-trojan://n3ii2034-fl5c-q40m-moon-us5818m5q3y8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://161fv0ch-sg8d-ra0z-1ox2-hl8pryiiwgbn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jdoyldn8-d4je-kwgw-3sxz-lnrqz5171kv0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cuj0dymo-iusk-ghjk-5lnj-1med6ja2hmqc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

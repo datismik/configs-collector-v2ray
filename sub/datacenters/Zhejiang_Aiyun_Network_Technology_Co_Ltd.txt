@@ -1,10 +1,10 @@
-trojan://fks78h93-c8sw-qoap-gisi-xnsq820frsx4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://eqg1achb-kv3i-0n8w-ukih-uj9qwx6ve84f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://765korro-z12a-9did-dgv4-7212ibbk4gbk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@2.58.87.221:16899#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Zhejiang Aiyun Network Technology Co Ltd ┇ 2.58.87.221
-vless://35533ec0-5773-4e54-ae91-a0c467c0f1e3@89.116.144.71:46650?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BWJ8ANewYTRrUHJy4TLF3nq4js7PHQN25_R3er4lQz0&sid=a92c09eb#US 🇺🇸 ┇ VLESS-TCP-RLT - Zhejiang Aiyun Network Technology Co Ltd ┇ 89.116.144.71
+trojan://xyphwaje-abyl-barj-y5d1-4cxs63i8mihh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://5u8tld3t-zkvv-7b2c-dpr8-hk3412ahlh9z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kjvkqrzt-gls3-kpim-xlhc-7xb7d84ljclv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaaGVqaWFuZyBBaXl1biBOZXR3b3JrIFRlY2hub2xvZ3kgQ28gTHRkIFx1MjUwNyA0NS4xNDYuODIuMjM0IiwiYWRkIjoieGNmMDM3LmZhY2FpMjAyNC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiZDk4NjMwMzctMDQ2My00NjE1LWU5NzItMzZiYTk2NjJkMWU5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoieGNmMDM3LmZhY2FpMjAyNC5jb20iLCJwYXRoIjoiL2Q5ODYzMDM3IiwidGxzIjoidGxzIiwic25pIjoieGNmMDM3LmZhY2FpMjAyNC5jb20ifQ
+vless://35533ec0-5773-4e54-ae91-a0c467c0f1e3@89.116.144.71:46650?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BWJ8ANewYTRrUHJy4TLF3nq4js7PHQN25_R3er4lQz0&sid=a92c09eb#US 🇺🇸 ┇ VLESS-TCP-RLT - Zhejiang Aiyun Network Technology Co Ltd ┇ 89.116.144.71
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaaGVqaWFuZyBBaXl1biBOZXR3b3JrIFRlY2hub2xvZ3kgQ28gTHRkIFx1MjUwNyA0NS4xNDYuODIuMTYyIiwiYWRkIjoieGNmMDM2LmZhY2FpMjAyNC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiOTZjNTg1ZGUtYzdlNC00MWNiLWEyMzItOWFiYTUzNWVhOWFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoieGNmMDM2LmZhY2FpMjAyNC5jb20iLCJwYXRoIjoiLzk2YzU4NWRlIiwidGxzIjoidGxzIiwic25pIjoieGNmMDM2LmZhY2FpMjAyNC5jb20ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gWmhlamlhbmcgQWl5dW4gTmV0d29yayBUZWNobm9sb2d5IENvIEx0ZCBcdTI1MDcgMTU3LjI1NC4yMzEuMzEiLCJhZGQiOiIxNTcuMjU0LjIzMS4zMSIsInBvcnQiOjQ0MywiaWQiOiI1NjM4MGI2Ny1lMmZlLTQ5ZDEtYTlkZC02YzNhNDIyYjhlOGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6InlqY20xMjM0In0
-trojan://0uw6pcjl-xbj2-31bl-is1n-t9fxj2nhfzqb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vdq9wez6-lg3w-z70c-z6pn-bjrv048pzldj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@2.58.87.221:16899#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Zhejiang Aiyun Network Technology Co Ltd ┇ 2.58.87.221
+trojan://nr8u0x9k-a7x9-krgc-lekb-eh03fj0p68a8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qojmhge9-0px4-e051-4lmn-n2hple414qr3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

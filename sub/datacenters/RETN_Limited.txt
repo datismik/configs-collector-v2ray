@@ -1,13 +1,13 @@
-trojan://j4ehclu6-i0n6-l2h5-qewc-yqip3252nx1y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://pseg94iz-lona-g5fu-jyof-r3vtzhw7vpyb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8u5qbf94-7w9d-1orf-qbb2-wf2tm9otsimn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 90.156.254.164
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?type=ws&security=false&path=/&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-FALSE - RETN Limited ┇ 77.73.238.191
-vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&sid=46ef6b9bc8#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 77.73.238.211
-vless://41a70c71-ebe0-41a5-b61b-d3137ba11446@83.222.20.45:8443?type=ws&security=none#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.45
+trojan://y69x7cr3-qoyg-x2qf-6g3g-qoipxiismxvs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://6vl39ize-umso-gwe8-0gna-65srovyi0ofv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dyjd2sr8-xcg4-zix2-v0i2-o3txelzh916l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?type=ws&security=false&path=/&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-FALSE - RETN Limited ┇ 83.222.20.64
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 37.233.82.140
-vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUkVUTiBMaW1pdGVkIFx1MjUwNyA5MS4yMTguMTQzLjEzMyIsImFkZCI6IjkxLjIxOC4xNDMuMTMzIiwicG9ydCI6MjAwODYsImlkIjoiYTQ0MGUwZDMtZDM5YS00YmQ4LWEyYzQtZTIyYTZhZWY5NmUwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8/LS1URUxFR1JBTS1WSVRVUkVZLS0tLVRFTEVHUkFNLVZJVFVSRVktLS0tVEVMRUdSQU0tVklUVVJFWS0tLS1URUxFR1JBTS1WSVRVUkVZIn0
 vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 45.130.214.192
-trojan://9lcxvyoj-nr8x-swmh-07xa-zy5uppf2gcxw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fq07hwzz-j9rr-w7pu-4jx4-ikzbst29n3e5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUkVUTiBMaW1pdGVkIFx1MjUwNyA5MS4yMTguMTQzLjEzMyIsImFkZCI6IjkxLjIxOC4xNDMuMTMzIiwicG9ydCI6MjAwODYsImlkIjoiYTQ0MGUwZDMtZDM5YS00YmQ4LWEyYzQtZTIyYTZhZWY5NmUwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8/LS1URUxFR1JBTS1WSVRVUkVZLS0tLVRFTEVHUkFNLVZJVFVSRVktLS0tVEVMRUdSQU0tVklUVVJFWS0tLS1URUxFR1JBTS1WSVRVUkVZIn0
+vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&sid=46ef6b9bc8#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 77.73.238.211
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?type=ws&security=false&path=/&fp=chrome#LV 🇱🇻 ┇ VLESS-WS-FALSE - RETN Limited ┇ 77.73.238.191
+vless://41a70c71-ebe0-41a5-b61b-d3137ba11446@83.222.20.45:8443?type=ws&security=none#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.45
+vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 90.156.254.164
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 37.233.82.140
+trojan://j4knvuiw-k9bu-ww1o-2fcu-nw3upxnrj26d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3fmb01d1-j4pi-thj4-mokq-7xusynnf1chk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

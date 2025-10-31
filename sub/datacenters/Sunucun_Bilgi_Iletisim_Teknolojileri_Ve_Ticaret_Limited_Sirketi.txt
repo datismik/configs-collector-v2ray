@@ -1,7 +1,7 @@
-trojan://nhx901kf-qujh-tsuj-3znx-i4eofgaow3mj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://wekekd4u-lxpv-72z3-ig41-1365opiidhud@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://653c0dbk-ypqg-4pew-jkln-6z77p86cv2vr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://1708fb1a-cff1-4532-a837-435af960ee77@185.113.223.65:10321?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=S-x02lU6w9dJbqgEnchi70h7OoGKSgey7OjVx6cVDDA&sid=8f4e#TR 🇹🇷 ┇ VLESS-TCP-RLT - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 185.113.223.65
+trojan://7uj817lf-3sbz-9r18-ba0z-mgueq5tfewjo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://i1k988fr-8rd4-15ol-kins-h31xxem6g9z8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mw8vubet-sg81-4gzq-wbcn-ads30jwsb6kp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cffb4fa6-9b24-4ecf-9e89-87ea3535395a@185.221.64.12:666?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 185.221.64.12
-trojan://o1prl0ek-5jvm-3gs2-dz4v-ktu3j3deqw62@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jank1cif-x0gd-gonn-nmvm-0dpwahklc5z7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://1708fb1a-cff1-4532-a837-435af960ee77@185.113.223.65:10321?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=S-x02lU6w9dJbqgEnchi70h7OoGKSgey7OjVx6cVDDA&sid=8f4e#TR 🇹🇷 ┇ VLESS-TCP-RLT - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 185.113.223.65
+trojan://vryg4agn-ha84-03kq-dadz-1lwm8ijbbx29@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jer0ayfy-stxz-n2zr-wg72-4z8w8xpzxhby@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

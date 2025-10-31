@@ -1,11 +1,11 @@
-trojan://botpnw8m-grns-faz3-brji-tprcjrom2nmf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://rd5d1x4i-wikg-eqzj-l6jt-y2fywh92xmgs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://f64nzrmv-nzc2-y3m3-nf09-a8q4607ng2l1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@130.250.137.63:2083?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PIC-EXT ┇ 130.250.137.63
+trojan://rvo8wew2-flx3-esut-70md-q6mez60j0420@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://uegb8mnj-6iz4-f8y5-am1j-9e5wmvnutlb4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2yrxlq6r-sak2-2b1d-c5ef-ww35q23d3irq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://55520747-311e-4015-83ce-be46e2060ce3@130.250.137.73:443?type=ws&security=tls&path=/?ed&sni=cl.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.73
 vless://6e433a29-22ac-4061-ae8b-f1731715d0d9@130.250.137.253:2096?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=vlesspro.llengcugit.sbs#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.253
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@130.250.137.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.29
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.94:443?type=ws&security=tls&path=/?ed&sni=nc.dbbn2024.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.94
+trojan://Aimer@130.250.137.63:2083?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PIC-EXT ┇ 130.250.137.63
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@130.250.137.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.177
-trojan://nqiz7xxj-4pcu-t9ml-pw45-djd108rq63tu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ce8rbdb4-f30q-l5ps-bzv2-a0s2ax33abl7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.94:443?type=ws&security=tls&path=/?ed&sni=nc.dbbn2024.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.94
+trojan://zxxzqwxp-x6l8-u18x-9zf0-35yv4bco1tfl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xrl7ejgb-yu20-swgt-uqy9-ldwdqqe1i5wx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

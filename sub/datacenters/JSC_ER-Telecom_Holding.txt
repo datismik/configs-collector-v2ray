@@ -1,6 +1,6 @@
-trojan://51odcjj6-2etv-xgdr-eo4t-pyhziei7e0ne@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://w8z2t5sc-fgjx-8lio-ao7d-26fj4otu2ic2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pu6xrrhw-lr2q-j09q-d88j-ze7yw6obmsvk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9jpn04so-j946-3dhi-gx4v-01v6yyca3ud3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://dgiwfvva-or9h-avjg-9x61-0tqlc70s7oin@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g0afbwjh-ck21-qzsi-73oi-k95nikkgkei0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c7150d62-8775-44ef-9bfa-d4755961427a@93.183.105.105:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC ER-Telecom Holding ┇ 93.183.105.105
-trojan://hqo76rbq-ms1j-ri14-4yq8-g2d23ix6u548@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://psbqb9zk-clwc-7zt8-dag8-r0jrlfrue60p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://z1mbu0p5-l41j-u4nk-lonf-79z91jdp9lhh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3rjq3dd3-uxsi-fns0-5jzy-8s3f5wxslmnb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

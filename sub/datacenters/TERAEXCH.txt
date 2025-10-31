@@ -1,35 +1,35 @@
-trojan://oyac6cld-uo84-z8a8-sabm-eveqmy2g0cou@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://b3pzed0m-bmr9-d5i7-ykid-krhfx1db4rjx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4hkekdia-ttup-junp-y7vy-uy168e6hnef9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.236.184:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=vb.zhuk.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.184
-trojan://SSorg@206.238.236.31:8443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.31
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVEVSQUVYQ0ggXHUyNTA3IDIwNi4yMzguMjM2LjM2IiwiYWRkIjoiMjA2LjIzOC4yMzYuMzYiLCJwb3J0IjoyMDUyLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoibXlzYW4yLmphcXVheTIyLndvcmtlcnMuZGV2IiwicGF0aCI6Ii9hZnJobXMxNnYuYmVzdHhyYXkuYnV6ei9saW5rd3MiLCJzbmkiOiJteXNhbjIuamFxdWF5MjIud29ya2Vycy5kZXYifQ
-trojan://Aimer@206.238.237.86:2087?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.86
+trojan://7hadj8l4-aarm-wl1e-ntc4-dbdck3w6i6lk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://srn22niw-ujt6-zzz3-367a-xbq3j0c7tcpp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l8tbhkye-bj6r-a073-6kr0-9kr9hx1ln4gw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.133:443?type=ws&security=tls&path=/blue&sni=lx.kpcloud.eu.org#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.133
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.240:443?type=ws&security=tls&path=/?ed&sni=nc.dbbn2024.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.240
+trojan://Aimer@206.238.236.216:2083?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.216
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.60:443?type=ws&security=none&path=/?ed=2560security=tls&sni=lw.ylka.us.kg#SG 🇸🇬 ┇ VLESS-WS-NTLS - TERAEXCH ┇ 206.238.237.60
-trojan://Aimer@206.238.236.219:2083?sni=amepo.ambercc.filegear-sg.me&peer=amepo.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.219
-trojan://Aimer@206.238.237.92:2087?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.92
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.213:80?type=ws&security=none#SG 🇸🇬 ┇ VLESS-WS-NTLS - TERAEXCH ┇ 206.238.236.213
+trojan://Aimer@206.238.237.86:2087?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.86
+vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.237.47:2053?type=ws&security=tls&path=/Telegram@Linkvws?ed=2560&sni=nicorobin.eula.cloudns.org#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.47
 trojan://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096?sni=nicorobin.eula.cloudns.org&peer=nicorobin.eula.cloudns.org&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.187
 vless://219d848d-60f2-4321-8275-72b9b575b37e@206.238.236.175:443?type=ws&security=tls&path=/?ed=2560&sni=qaa.zhuk.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.175
-trojan://Aimer@206.238.236.16:443?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.16
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.236.184:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=vb.zhuk.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.184
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVEVSQUVYQ0ggXHUyNTA3IDIwNi4yMzguMjM2LjM2IiwiYWRkIjoiMjA2LjIzOC4yMzYuMzYiLCJwb3J0IjoyMDUyLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoibXlzYW4yLmphcXVheTIyLndvcmtlcnMuZGV2IiwicGF0aCI6Ii9hZnJobXMxNnYuYmVzdHhyYXkuYnV6ei9saW5rd3MiLCJzbmkiOiJteXNhbjIuamFxdWF5MjIud29ya2Vycy5kZXYifQ
+trojan://SSorg@206.238.237.118:8443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.118
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.237.106:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=vb.zhuk.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.106
+trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.137
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.213:80?type=ws&security=none#SG 🇸🇬 ┇ VLESS-WS-NTLS - TERAEXCH ┇ 206.238.236.213
+trojan://Aimer@206.238.237.81:2087?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.81
+trojan://SSorg@206.238.236.31:8443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.31
+trojan://dns68@206.238.237.1:2087?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.1
+trojan://Aimer@206.238.237.92:2087?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.92
+trojan://SSorg@206.238.236.253:8443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.253
+trojan://Aimer@206.238.236.221:2083?sni=amepo.ambercc.filegear-sg.me&peer=amepo.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.221
 trojan://Aimer@206.238.236.252:2096?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.252
 trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me&peer=agepw.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.198
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@206.238.236.46:8880?type=ws&security=none&path=/TM@Azarbayjab1?ed=2560#SG 🇸🇬 ┇ VLESS-WS-NTLS - TERAEXCH ┇ 206.238.236.46
-trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.137
-trojan://Aimer@206.238.237.146:2083?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.146
+trojan://Aimer@206.238.236.16:443?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.16
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.222:80?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560#SG 🇸🇬 ┇ VLESS-WS-NTLS - TERAEXCH ┇ 206.238.236.222
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.240:443?type=ws&security=tls&path=/?ed&sni=nc.dbbn2024.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.240
-trojan://SSorg@206.238.236.253:8443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.253
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@206.238.236.46:8880?type=ws&security=none&path=/TM@Azarbayjab1?ed=2560#SG 🇸🇬 ┇ VLESS-WS-NTLS - TERAEXCH ┇ 206.238.236.46
 trojan://Aimer@206.238.236.90:2087?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.90
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.133:443?type=ws&security=tls&path=/blue&sni=lx.kpcloud.eu.org#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.133
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.156:443?type=ws&security=tls&path=/?ed=2560&sni=dsb.ylks.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.156
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.237.106:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=vb.zhuk.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.106
-trojan://Aimer@206.238.236.221:2083?sni=amepo.ambercc.filegear-sg.me&peer=amepo.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.221
-trojan://Aimer@206.238.236.216:2083?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.216
-trojan://SSorg@206.238.237.118:8443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.118
-trojan://Aimer@206.238.237.81:2087?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.81
-vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.237.47:2053?type=ws&security=tls&path=/Telegram@Linkvws?ed=2560&sni=nicorobin.eula.cloudns.org#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.47
-trojan://dns68@206.238.237.1:2087?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.1
 trojan://Aimer@206.238.236.134:443?sni=ameqo.esslh.filegear-sg.me&peer=ameqo.esslh.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.134
-trojan://h3ruqhwa-dh4j-okk8-shdq-3cpuksr2l3ca@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://19faa4bx-0594-5mig-qns3-ycn3eunjn11j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://Aimer@206.238.237.146:2083?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.237.146
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.156:443?type=ws&security=tls&path=/?ed=2560&sni=dsb.ylks.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.156
+trojan://Aimer@206.238.236.219:2083?sni=amepo.ambercc.filegear-sg.me&peer=amepo.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH ┇ 206.238.236.219
+trojan://94dv2x2e-5kar-lz6o-zzjb-b1v6xpl663sn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gtu7n4aq-x0yh-9rd7-sax9-98y26bv0tts8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

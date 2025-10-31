@@ -1,31 +1,31 @@
-trojan://ttnyy262-ycxy-as8n-fdmc-zov1uo7u9nc0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://q457fksd-u8ze-qunx-n0te-6omz996zuxja@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m9ordzva-hy7p-gcmg-o1wf-i56cnxn0tc2x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@de15.giamping.com:8080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 194.13.81.235
-vless://a31662df-9ef2-43f9-981f-6cb2d0341c17@152.53.231.109:56701?type=tcp&security=reality&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.231.109
-vless://b5779651-874b-464c-8a05-02616e6833c1@194.55.13.118:51212?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 194.55.13.118
-vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuNDcuMTYiLCJhZGQiOiIxNTIuNTMuNDcuMTYiLCJwb3J0IjoyMzc4NiwiaWQiOiJkNjRlZTg1NC1lY2RiLTQyOTItOWJlYy1jMTFjODZmZTBjMGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+trojan://mnxn12mc-dc9u-zimi-f1he-f55y8pka1osy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://5kmope65-yswu-zvj8-r61z-pvin1yvob0d9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n5rbr25k-u5ls-cpyn-ep1v-xhsh09pw003r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.2.128
+vless://1e3b70d6-02f1-4307-ba55-9266ab4c53f4@152.53.230.194:20821?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.230.194
 vless://2a8e6c01-49d3-4023-9955-1dd8ef2acd6c@152.53.91.37:19290?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.91.37
+vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuNDcuMTYiLCJhZGQiOiIxNTIuNTMuNDcuMTYiLCJwb3J0IjoyMzc4NiwiaWQiOiJkNjRlZTg1NC1lY2RiLTQyOTItOWJlYy1jMTFjODZmZTBjMGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://a31662df-9ef2-43f9-981f-6cb2d0341c17@152.53.231.109:56701?type=tcp&security=reality&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.231.109
+vless://9f8cd09e-8a6e-4800-97fb-57070d45125e@152.53.224.247:52133?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.224.247
 ss://YWVzLTEyOC1nY206YmZlMjRlOGQtYmI2YS00ZmU3LTk3Y2UtMjI4ZWM0NDJkMWI2@eu.dns-node.top:45595#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.64.227
 ss://YWVzLTEyOC1nY206NjNkYzg3ZTAtOGVjMy00NDAxLWJlYmQtNGQ0OTk3NDNmODcz@de01.dns-node.top:45596#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.230.149
-vless://cf77abe4-0f53-4771-ac7e-f323b68721f7@home.traumhaus.bio:25819?type=tcp&security=reality&sni=google-analytics.com&fp=firefox&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 89.58.49.212
-ss://YWVzLTEyOC1nY206MDI2ZjExMWQtYzUxZi00NmY3LWExZWYtMzA0YWU4ZjllYmE0@eu3.dns-node.top:46315#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.18.69
-vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?type=tcp&security=tls&sni=Tgju.org&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - netcup GmbH ┇ 188.68.53.100
-vless://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@traxex.fonixapp.org:39352?type=tcp&security=reality&sni=lowes.com&fp=chrome&flow=xtls-rprx-vision&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&sid=8f#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 89.58.57.52
-vless://1e3b70d6-02f1-4307-ba55-9266ab4c53f4@152.53.230.194:20821?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.230.194
-vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuNDguMzciLCJhZGQiOiIxNTIuNTMuNDguMzciLCJwb3J0Ijo1NjMyMCwiaWQiOiJjNGVjNjdhOC0xZGNjLTQ3MWQtYTZkNy00ZDliOWVjMTcyNmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvYXBpL3YxL3N0YXR1cyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyA0NS4xMzIuMjQ3Ljk4IiwiYWRkIjoiNDUuMTMyLjI0Ny45OCIsInBvcnQiOjU2MzIwLCJpZCI6ImM0ZWM2N2E4LTFkY2MtNDcxZC1hNmQ3LTRkOWI5ZWMxNzI2ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9hcGkvdjEvc3RhdHVzIn0
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@ws.connectgamerix.ir:80?type=ws&security=none&path=/news#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 89.58.38.207
-vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@152.53.142.189:20558?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&sid=03e60665#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.142.189
 vless://25dc4687-1fcf-4380-b633-b88a2afe9781@37.120.167.155:4444?type=grpc&security=reality&sni=nobitex.ir&fp=firefox&pbk=XiW81p0vPWFZYd7YtQMBh3T9GNaO6F7BfHqxsGmHLkM&sid=4b#DE 🇩🇪 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 37.120.167.155
-ss://YWVzLTEyOC1nY206MDI2ZjExMWQtYzUxZi00NmY3LWExZWYtMzA0YWU4ZjllYmE0@eu2.dns-node.top:46309#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.229.14
-vless://c5f665de-e820-44d0-abf4-d23aa2d6f977@93.177.65.104:51688?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=KZ8OnDaJyDfaF9iwzXYuFdo796yoIy6fIh5JmdJ5fAs&sid=12ea6200#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 93.177.65.104
-vless://9f8cd09e-8a6e-4800-97fb-57070d45125e@152.53.224.247:52133?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.224.247
-vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&sid=ac#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.140.45
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.52.242:80?type=ws&security=none&path=/news#US 🇺🇸 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 152.53.52.242
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@de14.giamping.com:8080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 202.61.203.192
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.2.128
-vless://9f69c514-7aba-4cb2-88d2-1be504c97061@89.58.1.98:44807?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ&sid=6d78523a82d71956#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 89.58.1.98
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@de15.giamping.com:8080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 194.13.81.235
+vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@152.53.142.189:20558?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&sid=03e60665#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.142.189
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuMTMzLjE2OCIsImFkZCI6IjE1Mi41My4xMzMuMTY4IiwicG9ydCI6NTYzMjAsImlkIjoiYzRlYzY3YTgtMWRjYy00NzFkLWE2ZDctNGQ5YjllYzE3MjZkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiL2FwaS92MS9zdGF0dXMifQ
-trojan://nqhxnte4-6d6p-23zc-uxnn-ggd06ujoeib4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z34a374o-sn0o-rhhj-83p7-9eb31a3cj71d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://c5f665de-e820-44d0-abf4-d23aa2d6f977@93.177.65.104:51688?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=KZ8OnDaJyDfaF9iwzXYuFdo796yoIy6fIh5JmdJ5fAs&sid=12ea6200#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 93.177.65.104
+vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&sid=ac#AT 🇦🇹 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 152.53.140.45
+vless://cf77abe4-0f53-4771-ac7e-f323b68721f7@home.traumhaus.bio:25819?type=tcp&security=reality&sni=google-analytics.com&fp=firefox&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 89.58.49.212
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyA0NS4xMzIuMjQ3Ljk4IiwiYWRkIjoiNDUuMTMyLjI0Ny45OCIsInBvcnQiOjU2MzIwLCJpZCI6ImM0ZWM2N2E4LTFkY2MtNDcxZC1hNmQ3LTRkOWI5ZWMxNzI2ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9hcGkvdjEvc3RhdHVzIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@de14.giamping.com:8080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 202.61.203.192
+vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@ws.connectgamerix.ir:80?type=ws&security=none&path=/news#DE 🇩🇪 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 89.58.38.207
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.52.242:80?type=ws&security=none&path=/news#US 🇺🇸 ┇ VLESS-WS-NTLS - netcup GmbH ┇ 152.53.52.242
+vless://9f69c514-7aba-4cb2-88d2-1be504c97061@89.58.1.98:44807?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ&sid=6d78523a82d71956#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 89.58.1.98
+vless://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@traxex.fonixapp.org:39352?type=tcp&security=reality&sni=lowes.com&fp=chrome&flow=xtls-rprx-vision&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&sid=8f#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 89.58.57.52
+vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?type=tcp&security=tls&sni=Tgju.org&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - netcup GmbH ┇ 188.68.53.100
+vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIG5ldGN1cCBHbWJIIFx1MjUwNyAxNTIuNTMuNDguMzciLCJhZGQiOiIxNTIuNTMuNDguMzciLCJwb3J0Ijo1NjMyMCwiaWQiOiJjNGVjNjdhOC0xZGNjLTQ3MWQtYTZkNy00ZDliOWVjMTcyNmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvYXBpL3YxL3N0YXR1cyJ9
+vless://b5779651-874b-464c-8a05-02616e6833c1@194.55.13.118:51212?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 194.55.13.118
+ss://YWVzLTEyOC1nY206MDI2ZjExMWQtYzUxZi00NmY3LWExZWYtMzA0YWU4ZjllYmE0@eu2.dns-node.top:46309#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.229.14
+ss://YWVzLTEyOC1nY206MDI2ZjExMWQtYzUxZi00NmY3LWExZWYtMzA0YWU4ZjllYmE0@eu3.dns-node.top:46315#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.18.69
+trojan://vb0nrrif-rzwd-jfcm-t0m7-3durgmnixbr2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hbkw1dyv-bvum-0iz7-kf2q-irvis94st7xi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

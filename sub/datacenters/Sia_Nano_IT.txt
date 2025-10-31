@@ -1,7 +1,7 @@
-trojan://qms4pqxf-z474-h7tf-ugbn-oj3w6495j6jh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://ckzlgbl3-3jqk-wzwi-2syx-kk87usw2znbg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://97jvwjec-qf4g-kxck-po7z-tzdcco0kl7g7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yk9cz5mu-snl8-ht9l-ksyc-3xqe3uh19yzj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://854u8z2w-p25v-2fqw-jsa6-mvw55xbddcao@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hhy6cwi3-iuu3-kpeb-7nvs-b0odu33oocwz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://8c8873fb-6e68-4359-8d67-092d399612c9@lyra.persia.my:26000?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Sia Nano IT ┇ 185.82.126.141
 vless://95a68484-796e-4eae-b52a-4abfb0e72296@31.170.22.198:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=imXuUOiAB_4FnOdimm98VJtIMXcpKvJmhC7vU0F4Sys&sid=e220812ec9f3#LV 🇱🇻 ┇ VLESS-TCP-RLT - Sia Nano IT ┇ 31.170.22.198
-trojan://xl4ebk1v-1qv9-p7b7-c4t1-a48wd3m3qlrw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6xjzz3ke-4lzd-xxno-w5qa-yecwl2uf0ejn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://f3k4sgpv-kw91-1482-o3c1-78nhol0ddb0h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t7t3erqh-3n4h-jk8q-idqq-b16cdgw1ryrt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://yoeo29ff-gk3e-b73w-d2yv-xpi50jd18xni@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
-trojan://xq66bz8b-va0p-num6-efoq-oc1ed5zq17uz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4aez1ddh-zvcl-a7t6-3a51-77em25djwc6n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3jlf2pts-4tm9-9vt9-v5ye-f96nbnkmw42u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
+trojan://p485ha1t-oyge-xz6x-788q-8jhn4dkl33qc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nrjniuel-prtk-ptt4-rl6z-rlnhiwxkc9j1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyb3dhOUdxZjhRbm9xSXRBYmdXT05K@156.244.37.10:443#MM 🇲🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.37.10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@156.244.36.170:8080#MM 🇲🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 156.244.36.170
-trojan://hs85mubd-r6r0-i7n4-h7j0-jgclct6i0r3u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6aqxstmr-tvqs-f0bq-pu77-sbqnjyx1kvqq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://kwx7t2oy-90kz-qr8f-xxfs-3rnq6syprkv6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0y92h6jl-iruh-oiyd-him5-ogj89md2qyxi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
