@@ -1,0 +1,7 @@
+trojan://6brhceuz-zy5h-6nh1-v4us-lvdcy5onpo7x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://sp2ma4rh-28je-sczb-dbn8-knhynotxncco@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qxl7ukq3-w7ar-f5e5-i97f-tm4uxxgkalr8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://afe821e2-75a2-4b94-8960-c3f180c24d3e@sw01.pickvpn.live:443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=SfaN19bzY1LdAGU1cIOAW8YU2XaInYxMgonHlC_mTgg#SE 🇸🇪 ┇ VLESS-TCP-RLT - Partner Hosting LTD ┇ 185.107.74.130
+vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@reloadserver-fin.parsgit.com:4220?type=httpupgrade&security=none&path=/tools.parspack.com/hp.shoushmobile.ir?ed=2095-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Partner Hosting LTD ┇ 193.233.254.4
+trojan://21dtuhrl-y2ag-won6-c158-a5ir2uo94z14@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c8lbjw8x-c677-u28h-o483-o208abms8cwh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

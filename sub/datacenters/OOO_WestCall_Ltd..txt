@@ -1,7 +1,6 @@
-trojan://ot4dwsce-bj2l-os2o-3e5l-fabhszkdls30@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://2tejm9dx-sgzv-ur9h-iklm-2yrps68x0dge@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dtq7mrck-qndx-p3pb-ywuv-h7qvxgtue1t6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qmxaadq4-ma7a-ksqa-c9l2-v38tr93jim3e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://3wy4fhsk-qcuh-7o2q-aere-vrlntjnfoyci@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ck967632-b29q-fshn-3tr7-eh4h47ls3wjc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@81.94.150.122:8443?type=tcp&security=tls&sni=spb1.fromblancwithlove.com#RU 🇷🇺 ┇ VLESS-TCP-TLS - OOO WestCall Ltd. ┇ 81.94.150.122
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbFh4NDVaR3kxUTEyd0Z5RVVCUU5R@81.94.158.148:64300#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - OOO WestCall Ltd. ┇ 81.94.158.148
-trojan://xi6i20l0-6b4d-uy2k-tzza-cor6c3wnndtc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tgkd14m4-hc23-sg57-oxs0-kn8bf5o8xmk8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://devhee21-g9w8-j3vk-6j6q-xubynvacil4g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fcu62goe-3ugw-3jic-ket6-r2fagfwaok6v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

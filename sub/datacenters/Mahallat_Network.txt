@@ -1,9 +1,6 @@
-trojan://xh7mavq3-o1ww-v0xr-bnyb-ui3n37fnl9kp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://d2e9z26g-stnz-k7n5-o4hq-4sbhx972qbto@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7ujwk3p5-5aud-whhf-4osb-fihbe7rmrosy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1haGFsbGF0IE5ldHdvcmsgXHUyNTA3IDg1LjEzMy4yMzMuMTg0IiwiYWRkIjoiODUuMTMzLjIzMy4xODQiLCJwb3J0IjozODkwLCJpZCI6IjAxMzg1NTUwLWFmNjAtNGQ1Ny1hZjg0LWRkZGFjNTIxM2IwYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://de90ffc8-95ba-464e-8e4d-4f6ceaf26bfd@s2.arwandping.top:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mahallat Network ┇ 85.133.233.147
-vless://16b95750-74af-4dec-b526-3d8891ed3b67@85.133.233.175:9999?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mahallat Network ┇ 85.133.233.175
-vless://97469164-110c-5924-6d56-1ba7a0f42f6a@85.133.233.206:3670?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.206
-trojan://jj7t55op-c0w7-rww3-2hoj-ptufaogn9lur@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://csm851vx-tobf-dh33-5ipz-pvba0hrbfvtn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://iampm5ja-tf01-gm4y-y6f9-mng39070knzd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://jjeahd22-jwwe-atjp-8of5-3wewofygtb0m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ifd1zh4j-s3wq-dri5-fpxm-3cjdbmq00zzd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://bf742aa8-0168-4081-b01f-3c3e994b054f@85.133.233.59:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.59
+trojan://zg31izvc-nbm2-ajzn-6jo2-1npq2ynih5vk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://stuu0epw-tttt-48lr-xfwt-10pggvlo2oc7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

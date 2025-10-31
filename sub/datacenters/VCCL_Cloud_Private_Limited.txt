@@ -1,7 +1,7 @@
-trojan://x4bqffzu-384i-crfa-1m4c-1eah5f010erd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://hdsdvf93-wg37-jvs0-yq6x-bd2qz75chu30@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rrukg0q0-3c12-a3jk-u10q-lx8rxt0cj388@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8nqgacz9-kel9-wkgy-97c3-8mig7fvj4wxa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://z34w1hsm-kcve-53j9-x2dj-rn16l3pvanvi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4mxxeby3-c1l2-anc2-oblb-8hzk8mjppqed@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y@103.174.86.114:51348#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - VCCL Cloud Private Limited ┇ 103.174.86.114
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WnI4TWxVWFVpaE5FbmRxSXBqRHhRZFNlcWkzN0ZiZ29IQm1RMXN5eTZaamtiQm4@103.174.86.113:51348#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - VCCL Cloud Private Limited ┇ 103.174.86.113
-trojan://y6gyj6xh-ssqk-owkn-l69x-s19y6moy30hv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0l1el0r3-mb20-8otj-zu5k-qvyki9ffsh0e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://61wmtl3n-s4bt-03zx-ijty-l606pb2sq09z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://48aqmzlw-6uww-yy4g-2yzn-wpn6xcvlpzgz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

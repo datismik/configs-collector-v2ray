@@ -1,6 +1,6 @@
-trojan://uexj25nt-vpwy-2nlx-gmla-xcnvpj874kbd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://bxi8qq29-sdkf-q2vd-dwso-6i1aniacvw1m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b11q9rqh-hjxw-q2pt-qjgf-t969e15ofqoi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDVhOTg5Ny00MTE1LTQ4NTItOWRjOS1jOTQwNjkzYjZlN2Q@52.83.203.156:53693#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Ningxia West Cloud Data Technology Co.Ltd. ┇ 52.83.203.156
-trojan://2g8fahpv-p65t-eoz1-829j-n61egwmw9mkd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m8xhj1gk-8vtf-5fr0-ufju-s7olm43pvnud@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://8zgy1era-njij-ewsb-d843-jzv26wiz8s0g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://09i54vmt-tug4-kzyy-7v2g-j1dyj0dy5f22@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bmrsxkdy-exlv-opup-v0zx-l6agy5ajqf2b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDVhOTg5Ny00MTE1LTQ4NTItOWRjOS1jOTQwNjkzYjZlN2Q@52.83.203.156:52953#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Ningxia West Cloud Data Technology Co.Ltd. ┇ 52.83.203.156
+trojan://ffo436xu-eh05-ats0-8aqf-ep923ku8w8xx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xu337cap-0ifr-1rmq-umii-ru6cko1owbz6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,15 +1,19 @@
-trojan://z7xblhbc-5vpw-s651-9u7r-p2g1f4olar2d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://vbzrqy9a-l2sl-oc97-xx48-icmmlvhnnj8b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6qby06n5-w1x9-i14r-ngsd-c5kt8ol3keft@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?type=ws&security=tls&path=/websocket&sni=ru05.abvpn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - UFO Hosting LLC ┇ 2.56.178.47
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaUhvM2hCR0Y4aDFjTmc4eXF0Y080@45.153.231.33:46980#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.153.231.33
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA@45.84.1.33:8388#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.84.1.33
+trojan://xut7090b-y397-lfrb-7ban-dyswpu7gb2sc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://r2678k6f-ogkn-mw81-r1bx-l9rqfdfunrut@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ir58wlw9-u5w1-g8jx-twyn-t1lfsk78om4b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://eb64d6b8-b3ed-48a2-9662-af2c65352215@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 185.234.59.59
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWDFxOHN2MTd3QTVMR0RISUhENkpv@91.207.183.63:15720#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 91.207.183.63
+vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@ru01-blh01.tcp-reset-club.net:443?type=tcp&security=reality&sni=stats.vk-portal.net&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 185.234.59.90
 vless://ca07fad3-a529-4a49-8ac7-da78c4ea1d01@45.153.231.248:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 45.153.231.248
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVUZPIEhvc3RpbmcgTExDIFx1MjUwNyAxMDMuMTEzLjY4LjIzMyIsImFkZCI6IjEwMy4xMTMuNjguMjMzIiwicG9ydCI6ODg4MCwiaWQiOiJmZGRiMzc4MS03ZTE1LTQ3MzEtYTkzMy05NGRiMTEwYjRiYmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MifQ
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVUZPIEhvc3RpbmcgTExDIFx1MjUwNyA0NS4xMjguNTMuMTY5IiwiYWRkIjoiNDUuMTI4LjUzLjE2OSIsInBvcnQiOjE3ODAwLCJpZCI6IjMwMjk3YWIyLWNlZWYtNDhhZS04MzhmLTljYTRiZjYyNWRhOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-trojan://4841c9c0-ad42-11ed-bff1-1239d0255272@ru1.socifiles.com:443?security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - UFO Hosting LLC ┇ 91.207.183.82
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA@45.84.1.33:8388#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.84.1.33
+vless://588f094b-431b-422c-b80b-007945037072@ru05.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=ru05.abvpn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - UFO Hosting LLC ┇ 2.56.178.47
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVGTyBIb3N0aW5nIExMQyBcdTI1MDcgNDUuNjcuMjMwLjc5IiwiYWRkIjoiNDUuNjcuMjMwLjc5IiwicG9ydCI6MTEwNTIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
+vless://562c71d0-f18b-402c-b1ad-5c2bbfcd6e02@rus-0001-xr.packet-drop-society.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=e499f276e7bd6420#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 185.235.242.59
+vless://755fafcf-10dc-57e6-933d-604b13ac541f@103.113.68.233:2086?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - UFO Hosting LLC ┇ 103.113.68.233
+vless://ce9751a0-fee7-402a-a887-bdc5f7bd1093@45.144.31.234:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 45.144.31.234
+vless://7a8edd68-0fdc-4c99-a7b9-567d1d92773a@45.84.1.123:443?type=tcp&security=reality&sni=ru.moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=zuaps7iorLp8LUT_gPVVqCekOkIAWU7ApTui1hJq9Qk&sid=1de19e94bf9e5b23#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 45.84.1.123
+vless://99dfee3e-b0b3-47c2-9772-f3eae7200abd@94.131.121.110:443?type=tcp&security=reality&sni=google.com&fp=random&flow=xtls-rprx-vision&pbk=_XJU897_c8oPc-OK6zFYw2inBKfy1XT3Wp5GzihUtj0&sid=77fbee9ea4#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 94.131.121.110
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVGTyBIb3N0aW5nIExMQyBcdTI1MDcgNDUuMTIuMTE0LjE1IiwiYWRkIjoiNDUuMTIuMTE0LjE1IiwicG9ydCI6MjA3NzksImlkIjoiOWRjNWJmZjgtYmNiYi00NzAzLWIwZmUtNGY5MWJhNTE3NDAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-ss://YWVzLTI1Ni1nY206M0JHZExUM21YVw@45.144.30.144:18873#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.144.30.144
-trojan://vq6xk3y5-g4fp-ektx-vv7w-8oz1ocqhsm7z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1tkadk0e-tpkj-z76h-thfm-47fa2v1us6xy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://4841c9c0-ad42-11ed-bff1-1239d0255272@ru1.socifiles.com:443?security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - UFO Hosting LLC ┇ 91.207.183.82
+trojan://pe4qh145-1k7c-m47i-ubwq-1aq82rlpbevr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ydmso3ng-pixo-otmm-8u53-sy8h6ymkwvcb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

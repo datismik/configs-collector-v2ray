@@ -1,8 +1,8 @@
-trojan://k1rls1od-581a-6coa-4qut-63h476h8xw1l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://vu8w8fgl-yofx-b5gw-hai4-d1s1de6r3ab5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2qn4gddo-7go1-vbgi-izhl-8pwagczt1pxa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b22a0538-39c3-4b16-92c9-c81a5b94d4f5@176.120.17.94:9001?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Tube-Hosting ┇ 176.120.17.94
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFR1YmUtSG9zdGluZyBcdTI1MDcgMTc2LjEyMC4xNy42NyIsImFkZCI6IjE3Ni4xMjAuMTcuNjciLCJwb3J0Ijo0MjI3MCwiaWQiOiIzYzBmOWNmNC02YTBjLTQyZjMtYTZkZS04OWM3OWQ0YWY4ZTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://45412393-4ea3-4ad1-aee5-3b1a6eaf3068@wolf544.api-tel.ir:20779?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=wodBj9i1BLpFtuTbZmipx5xKfpinwvdQlUgWgKgs5Co&sid=28112dd1f3#DE 🇩🇪 ┇ VLESS-TCP-RLT - Tube-Hosting ┇ 89.106.69.78
-trojan://8p8l451o-w9r8-vs4z-akw2-jyfbh66ogpij@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://d5tb83bz-ai60-nsgr-atra-31qlo5nvckcg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3uzqndy8-kpna-gtf2-76yt-kyafbpaas74v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://0dvlxw1e-lvny-yqll-vqb5-55nkcumo18uk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i68ojnv4-r2wk-0o9l-bj78-0eiv98hel6u3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://@Geek_Spot@176.97.210.2:12882?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Tube-Hosting ┇ 176.97.210.2
+vless://0ab93320-4009-4121-86b8-f55b5ddf790b@5.253.246.137:443?type=xhttp&security=reality&path=/&sni=www.aparat.com&fp=firefox&pbk=spoCcVz7MlzugleKorXVNP6mI7zTnLIT3H0ehUIplRw&sid=c63267bcb1#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Tube-Hosting ┇ 5.253.246.137
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToybktubXVhblU5SVVBSWFDLWhKanJ3@89.106.69.224:1085#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Tube-Hosting ┇ 89.106.69.224
+trojan://qfxleept-7k0b-5j7u-n7xe-22hhhea8uovc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yq8p6xtf-2cdi-vpnq-l1jl-kwl61nafr994@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

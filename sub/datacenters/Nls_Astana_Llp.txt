@@ -1,6 +1,10 @@
-trojan://j0lrxzkx-f2jz-dbwc-et7s-zri6xgrkbl7x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://fbizyb6a-lwrp-xy0f-xdck-sln294b4st4y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yisit2x2-jt3h-ho44-22u8-xq3o2q5u2yny@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sl5vhupo-xsg2-ao5a-i633-l0wer5163k8m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://9oidwxo8-xgi7-2tqp-xu0x-3lvffie7sc24@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s1w0718c-l6oe-gxmn-lha4-d9mkgualmgfh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Nls Astana Llp ┇ 77.73.232.61
+vless://31e67aae-2cf0-4dcd-97e2-5840c5b8e9a6@89.169.36.238:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Nls Astana Llp ┇ 89.169.36.238
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Nls Astana Llp ┇ 83.222.23.113
-trojan://4dlijzih-ycrt-v053-c0tp-vy9ufntmpagl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7895632q-2ozz-olx7-xqeg-f1h9f07twj5k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://6035325d-399a-5148-9126-29cedfd5966a@89.169.36.89:443?type=tcp&security=reality&sni=outlook.office.com&fp=chrome&flow=xtls-rprx-vision&pbk=9o0XYIDgXjRHlq4zWmpp_E2QfJxo2bA3Yx6lZe-NWnA&sid=512f6a1a#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Nls Astana Llp ┇ 89.169.36.89
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Nls Astana Llp ┇ 83.222.23.81
+trojan://yy72yfzt-wm9f-ldyg-lpud-e9549dyr94dg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zat6o5p0-acyd-qhl3-0eer-m25pmm5xgm7q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

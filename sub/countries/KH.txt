@@ -1,8 +1,9 @@
-trojan://mzp0pqet-0lvk-bjwl-7lje-8zjaacmg5buk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://fjwx6qxd-it23-nvac-mrcl-vhxpi5p3fp25@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vfm5csix-qt8m-4v07-0dgj-mkdnk6frzoj0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://5d4aed0c-2551-11f0-88bd-cb7477d1def2@220.158.233.184:10004?type=ws&security=none&path=/vpnjantit#KH 🇰🇭 ┇ VLESS-WS-NTLS - ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE. ┇ 220.158.233.184
+trojan://kxuht0xr-q6yy-pe3x-2dxo-5ckf1q94o1bi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://lv86qzm4-527e-38xo-sc35-e3qt1bj12t10@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pj559uj8-vmrq-i7q7-gusp-89tz6r982vwr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.4.65:990#KH 🇰🇭 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.4.65
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.4.72:990#KH 🇰🇭 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.4.72
-vmess://eyJ2IjoiMiIsInBzIjoiS0ggXHVkODNjXHVkZGYwXHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FvcHUgQ2xvdWQgSEsgTGltaXRlZCBcdTI1MDcgMzguNTQuOTMuMTU4IiwiYWRkIjoiMzguNTQuOTMuMTU4IiwicG9ydCI6ODAsImlkIjoiMGNjOWE3ZDYtNzVmNi00YzA1LTlkYTMtODNhYTlkY2M0ODQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoidm1lc3MiLCJwYXRoIjoiLyJ9
-trojan://r8ih8lqb-pyik-fsrs-128g-0w418ull8wrj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yh5uzskf-trlp-7pab-6uvq-mg32r13w7ct3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://5d4aed0c-2551-11f0-88bd-cb7477d1def2@220.158.233.184:10004?type=ws&security=none&path=/vpnjantit#KH 🇰🇭 ┇ VLESS-WS-NTLS - ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE. ┇ 220.158.233.184
+ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@38.54.4.176:13891#KH 🇰🇭 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.4.176
+trojan://qdy2r8z5-tpz4-v2cb-l6xd-lfdhkqpxobq9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kq7vgrbq-dq1p-v5cb-p2sh-noalu65hp0v4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

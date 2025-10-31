@@ -1,6 +1,7 @@
-trojan://vh50aseb-ahwj-9hv5-nw5b-87l5u4a7dpne@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://8jabqacq-ccpa-2ycs-gefs-xrztrr66t36e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gpz1bgh9-rota-z9xk-08uf-umg5kobjv6jf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - ANTI-DDOS ┇ 45.158.22.33
-trojan://90n9oa46-mbsl-8sq2-gs1z-xm4tk2ytzm8p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3aecqvhc-tys1-y9td-p6q6-nbw3ftyhbhze@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://tgbl8kyo-dwyw-xi69-2ud8-8a04os28xulf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://espcfeol-urgl-bnew-qrer-567cvc8qrm6p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://voruh6ny-bnr8-1w4y-hxmt-vpypqlcs1by7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1ef0a265-9cf5-4f28-9786-d21daab9c78e@45.158.22.57:4438?sni=us1.vpn.ong&peer=us1.vpn.ong&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - ANTI-DDOS ┇ 45.158.22.57
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY@b.naiun.node-is.green:51104#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ANTI-DDOS ┇ 154.12.56.207
+trojan://mdc6dhhg-vkvn-8ed0-zfew-7cf7d2zzg5yb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://iqob12d1-al0d-pvk2-4twd-dpt4rci610sh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

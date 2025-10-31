@@ -1,6 +1,7 @@
-trojan://bfrl1c2b-0g4q-vpsw-mmb5-bdqrfhqcfbiw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://unz9l1jm-2zqo-yji2-uu53-10vldacpyet3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e7c5o3cb-0wtr-j589-td4t-wf5iiremx966@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://aexqpuca-8rc5-icl2-ckhc-84ttkubpgays@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://quhfjqxf-hazs-xgey-r8s4-6mrwwueghxcr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pt0j4qxj-ql0f-bedw-mxnx-2ifvj81l7vm2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Belcloud LTD ┇ 193.135.174.135
 vless://03d84c96-8591-49dc-a55e-331ce4855b64@185.203.119.81:80?type=xhttp&security=none&path=/#BG 🇧🇬 ┇ VLESS-XHTTP-NTLS - Belcloud LTD ┇ 185.203.119.81
-trojan://9s6h5myq-2bmv-ci51-1dbw-gckh7d9m6h0f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dp26mrgj-87n7-n00g-ayne-xwaqsyga2kuf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://30h5gw1v-cbfl-f78w-cnod-xn1wng2z3uqc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://w6b3dhq2-vg0c-bryi-maxk-79ch0czs5giy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

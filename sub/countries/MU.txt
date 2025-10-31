@@ -1,15 +1,11 @@
-trojan://6hew3804-sxsq-dxne-m4sd-fnuxms6b2x85@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://yk721jro-d4pj-03xb-0mcx-lljx60drjgfz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://k7o84jju-wobu-93pr-f2q6-47adwuw5n2w0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFDQ0stTFREIFx1MjUwNyA0NS4xOTYuMjM0LjEzNSIsImFkZCI6IjQ1LjE5Ni4yMzQuMTM1IiwicG9ydCI6Mjk3MTQsImlkIjoiMjYzMTJhYTctMTNhOC00MGM5LTljMzctZGEwY2RmYzJkMjI1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-vless://59f0b1e2-99ce-43f9-8384-36879ed3a0ba@45.196.239.142:62847?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=V_5TpnTG0Emqgv-ZKM43XucMemAYAzGbMInSYJnQ3gQ#MU 🇲🇺 ┇ VLESS-TCP-RLT - ACCK-LTD ┇ 45.196.239.142
-ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@45.196.248.148:53004#MU 🇲🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hytron Network Services Limited ┇ 45.196.248.148
+trojan://946d808r-noeg-fxb6-8dxa-4csv75ldpwpc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://nn1piysx-ajv8-3m7e-qufr-ol5xs8rnfqf9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g5vdlguf-3hwx-g56y-z8pl-5sjika5eygcq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZELTI5OC04Nzk2IFx1MjUwNyA0NS4yMDcuMjAxLjE1IiwiYWRkIjoiNDUuMjA3LjIwMS4xNSIsInBvcnQiOjM0NjI1LCJpZCI6IjM1NTEwZGY0LTk4OTktNDQyNy1lODI2LWQwMDVmMGFhYmM2YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRC0yOTgtODc5NiBcdTI1MDcgNDUuMjA3LjIwNy4yMDIiLCJhZGQiOiI0NS4yMDcuMjA3LjIwMiIsInBvcnQiOjIxNDc1LCJpZCI6Ijk0Yjk5MmUwLTg1YzEtNDI2MC05ODU2LWZjNmVhNjRiNDA5NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ1czAyLm1sc2IubG9sIiwidGxzIjoidGxzIiwic25pIjoidXMwMi5tbHNiLmxvbCJ9
-vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFDQ0stTFREIFx1MjUwNyA0NS4xOTYuMjE5LjE3NCIsImFkZCI6IjQ1LjE5Ni4yMTkuMTc0IiwicG9ydCI6NDc2ODAsImlkIjoiZDFmMjBlMGMtOTY3Zi00ZjlhLWZiOGMtMzAyN2VlMzZjY2E2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
+vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFDQ0stTFREIFx1MjUwNyA0NS4xOTYuMjM0LjEzNSIsImFkZCI6IjQ1LjE5Ni4yMzQuMTM1IiwicG9ydCI6Mjk3MTQsImlkIjoiMjYzMTJhYTctMTNhOC00MGM5LTljMzctZGEwY2RmYzJkMjI1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vless://9a1e5469-35e9-4d98-b831-28bc6073f685@45.194.11.176:443?type=grpc&security=tls&sni=de.outberlin.online&fp=chrome#MU 🇲🇺 ┇ VLESS-GRPC-TLS - CLOUDFLARENET ┇ 45.194.11.176
-vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUNDSy1MVEQgXHUyNTA3IDQ1LjE5Ni4yMzkuMTQxIiwiYWRkIjoiNDUuMTk2LjIzOS4xNDEiLCJwb3J0Ijo1Mzg2MSwiaWQiOiI0MWE4ZDlkNC0wM2VmLTRhYzctZGM0Zi0zY2VhNGUxY2I0N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSEpIYTFjeVowUm5ObEZ4V0haUWRHZHJVR2RxTlhWbw@45.196.235.33:48019#MU 🇲🇺 ┇ SHADOWSOCKS-TCP-NTLS - ACCK-LTD ┇ 45.196.235.33
+vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFDQ0stTFREIFx1MjUwNyA0NS4xOTYuMjE5LjE3NCIsImFkZCI6IjQ1LjE5Ni4yMTkuMTc0IiwicG9ydCI6NDc2ODAsImlkIjoiZDFmMjBlMGMtOTY3Zi00ZjlhLWZiOGMtMzAyN2VlMzZjY2E2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@45.196.248.144:59001#MU 🇲🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hytron Network Services Limited ┇ 45.196.248.144
-trojan://h84va27z-rqaf-dqv7-9a4t-81h1rgjlh47h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://osdrugq5-grde-38dn-eia9-69ke769bbxwx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUNDSy1MVEQgXHUyNTA3IDQ1LjE5Ni4yMzkuMTQxIiwiYWRkIjoiNDUuMTk2LjIzOS4xNDEiLCJwb3J0Ijo1Mzg2MSwiaWQiOiI0MWE4ZDlkNC0wM2VmLTRhYzctZGM0Zi0zY2VhNGUxY2I0N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+trojan://tsw2m8ld-3xtb-41du-229t-nscwjspm2i9g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zwe1sqfo-u3sl-n4k2-rfny-9xydzdl6t316@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

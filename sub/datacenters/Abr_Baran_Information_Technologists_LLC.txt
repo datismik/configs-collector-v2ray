@@ -1,7 +1,6 @@
-trojan://99w84ucx-mw67-lma8-n30q-800p58q2jgcw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://kpemrz07-5ies-rpl4-j9o6-re0nf18iz8qm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4jnbq4s9-ozqw-66zq-tllq-esii122lypoc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://m81hfz6j-5nqx-e5o0-jw9z-cgju02po9zsx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://8wu97lrl-e0g9-xhez-ljy0-eh5svp90gqdl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vnptcxia-cjxn-n98a-3rce-no27dxpwexpr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6a0eb77b-3b63-4cdd-97df-a7890d52ade0@109.122.244.25:43802?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 109.122.244.25
-vless://aeb62522-8b8c-4f42-8cb8-6990ce6b3d4d@109.122.244.19:33520?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Baran Information Technologists LLC ┇ 109.122.244.19
-trojan://uomj60dm-f1a9-ihex-r1m9-1imfjjpw2s5q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r0d4arr1-68ev-m0uj-te5g-ju3uwx26qa4j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://m6hm3ks9-hbr7-5w4y-v2ae-zvxr2zjemu90@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1co8u5yo-j83n-3wlx-ltdk-s99h04zzzscu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

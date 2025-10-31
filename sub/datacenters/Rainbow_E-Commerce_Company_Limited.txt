@@ -1,6 +1,6 @@
-trojan://pv1dem9z-3nko-4ko0-w7gg-tig98lu9e93z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://s9xlhdrr-07sx-b4g5-clea-v51lv53vho2i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ufawputc-p9au-4u6x-zqz8-t1czdu5q16b8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h390torc-0a53-rs4a-pldd-hejg1tx06vn7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://io8pkte1-7y38-kkd4-wem5-0vytx6nlcola@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://04j82s2i-t93a-mexf-bzf2-mho3dko35q0n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.238.213.96:989#VN 🇻🇳 ┇ SHADOWSOCKS-TCP-NTLS - Rainbow E-Commerce Company Limited ┇ 103.238.213.96
-trojan://h0ip0z7m-lgs6-9w64-rz2l-n4ltaxlkj0n0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zt1qopor-5im1-2d9k-shaz-5p4yhnccq3kr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jbxe4z6m-muh6-ef3n-t5g5-iwe4a8cdtyzg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0gifua9g-2nfd-g68u-ti5r-vego3730igv4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

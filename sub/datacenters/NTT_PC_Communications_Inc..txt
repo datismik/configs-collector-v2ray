@@ -1,8 +1,6 @@
-trojan://gaasv1kd-ui3z-wk4h-7tvc-nckcqtlxk8yo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://hex03mcu-b5e8-xi21-y9md-3oyjkvnkjiel@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3atfr32o-h0f5-gywc-oofz-fs88okx832jm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://01pyr6ce-8bm1-zdxq-d85d-r4i58ay8okkm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://5sml7fw5-j5qf-ljhi-q0oq-wx4thlgg63xs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tmtgc915-2j8c-pp8k-1pk7-v6chnxos8h5p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs09.bolab.net:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - NTT PC Communications, Inc. ┇ 140.227.54.4
-trojan://52a98419-efab-4c34-b4cc-4e2a7bc37029@203.138.98.199:28000?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - NTT PC Communications, Inc. ┇ 203.138.98.199
-trojan://52a98419-efab-4c34-b4cc-4e2a7bc37029@164.70.68.67:28000?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - NTT PC Communications, Inc. ┇ 164.70.68.67
-trojan://cu68qka7-jy6z-yamd-ioxb-i7pwyk5zq2pt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://amzd28ns-ht86-lyx9-wi09-f5lckan6oul2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://984ryjun-heth-vm6i-fm0n-zn3uhpj4d0z1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xlnoele3-5s3d-wwv1-iltf-bwybrb43o490@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

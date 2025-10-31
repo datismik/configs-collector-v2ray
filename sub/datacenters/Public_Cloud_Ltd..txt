@@ -1,6 +1,6 @@
-trojan://wwgayii1-mogn-vhqz-bb0l-0ovih31zcgmq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://wav7klge-yppg-99y9-232s-lfpjmt8q3119@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bm4izz93-efmi-c6cp-d89n-dqrorkk7y541@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wekv22m7-i07j-tp6y-kitw-ms5k7uvf6j8g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://us6u3sq5-vvzv-iy1m-rin7-mevds4zh87jn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://68hbarzr-34vx-h5lg-ft0g-24ns285bwcx9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://995c0161-7504-4775-b08a-a0d20ec8ff6a@mm.dns-dynamic.net:8880?type=ws&security=tls&path=/telegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01?ed=2048&sni=mm.dns-dynamic.net&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Public Cloud Ltd. ┇ 185.206.180.182
-trojan://votut1c7-oxug-8iku-p1hc-r4nz6xefx4v7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jggnjz5n-4s0y-pm2z-dxlc-ugsdjflyhlvd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://td1dyfda-pwsp-z71g-z9w0-oo6me8p1dm5r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://la7wraz3-9cgk-e53y-qcgu-q9y2dhyk74xo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

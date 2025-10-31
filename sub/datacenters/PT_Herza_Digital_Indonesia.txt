@@ -1,6 +1,7 @@
-trojan://8d6aiqwo-qz4y-ltjr-38qx-sbzzlzfmlird@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://z856vlqv-glwb-5kth-8r8c-w1qx8rnpn38i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dfv0zlit-ctt0-3saq-8w5q-dxi5m5ojfc92@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bgez0qeb-y4lh-4yso-o9on-ie886o2i9hfr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://115110gu-994h-a4ke-cfqq-n43dlkd62avt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n0tltfox-1eyf-p1pl-kbnj-e7nhf5zecrxc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBUIEhlcnphIERpZ2l0YWwgSW5kb25lc2lhIFx1MjUwNyAzOC40Ny4xNzYuMjUxIiwiYWRkIjoiMzguNDcuMTc2LjI1MSIsInBvcnQiOjU2MDUxLCJpZCI6IjJiY2EzNTY5LTA2NjItNDdmNy1mZGY4LTQyMWYzMGU3MWY0NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://0ujn5n6v-9bk1-ooty-1q9t-dm8oh725vie8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u19yt0v5-lsbw-j4z5-h6zg-09p3jh58g2bt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - PT Herza Digital Indonesia ┇ 38.47.176.134
+trojan://8qc6ov2h-xrb9-37rt-nd4t-t3m2i4jnxynk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4leiqiog-7ztw-feex-p22p-q8l76ii33kf2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

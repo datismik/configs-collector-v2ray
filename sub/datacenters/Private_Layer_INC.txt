@@ -1,7 +1,8 @@
-trojan://ge16i4ib-yzmy-yae0-puin-ny4jv3vllqej@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://4nn1h04j-bdqb-m5wr-kepd-hnnyzakhchu7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5ct2qosr-3org-lqqx-ljl8-nhquwszepmgo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://42H8hMTxVMXrmFQmw3jS@agashka-vpn.com:54586?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ahuCTYYd4tNfL01Ta75EACP2tRqEddXIRSD7xZ-xAFE&sid=676a#CH 🇨🇭 ┇ VLESS-TCP-RLT - Private Layer INC ┇ 38.244.145.54
+trojan://oevkoqxe-crpn-859o-tz5c-uj7o0zbmos23@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://v9t7snub-3n16-ha3o-v9xf-is7qkp5nakx3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g1k85jfq-15qw-9s03-qfil-eufiv50muimc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.15.138:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#CH 🇨🇭 ┇ VLESS-WS-NTLS - Private Layer INC ┇ 38.180.15.138
-trojan://z1dpwbmo-3u59-ssiw-gnzc-0vrq26a8uae6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y0z6vfze-fmzh-8ftu-hipl-eyf0inondoeh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://ddce4f3a-e99a-47de-8d93-feeb77fd358a@179.43.156.21:8443?type=ws&security=tls&path=/Free-VPN-CF-Geo-Project/CH2&sni=joss.gpj2.dpdns.org&fp=randomized#CH 🇨🇭 ┇ VLESS-WS-TLS - Private Layer INC ┇ 179.43.156.21
+vless://42H8hMTxVMXrmFQmw3jS@agashka-vpn.com:54586?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ahuCTYYd4tNfL01Ta75EACP2tRqEddXIRSD7xZ-xAFE&sid=676a#CH 🇨🇭 ┇ VLESS-TCP-RLT - Private Layer INC ┇ 38.244.145.54
+trojan://mox0n8m9-kvvt-d1b8-fa6d-ukj82nq7twvj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://a3unbzil-liyo-sznk-97vg-gcdx156w1u3c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

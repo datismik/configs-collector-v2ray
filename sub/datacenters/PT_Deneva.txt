@@ -1,6 +1,6 @@
-trojan://3k83ufpk-4yp2-g2tx-7w54-jsnypja4ym9n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://dhzl3g1k-6062-mhl6-4okg-66fxjix250cc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xdts6vww-oald-4s0q-ji0u-h6qieo56ynk4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://u8aj9m46-ayjz-khvl-dxy4-7p5tb689lo52@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://urf5twf4-9p69-u4eu-r16w-vm3975ap08ke@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l6ak1sxr-o5ra-eytm-3wh7-7utsdll3ylj8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?type=ws&security=tls&path=/vless&sni=id.lanexa.my.id#ID 🇮🇩 ┇ VLESS-WS-TLS - PT Deneva ┇ 160.19.167.184
-trojan://r05mkefd-o0uj-86d5-oup7-73yuy4ewiq1v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1jdknby6-cnbz-t78e-j827-a90f6b4zs7qj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://avallv3w-0hf1-beqz-9anc-geoniv5rar0n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1qsn2n57-pdfh-5ixy-fkjm-st85442i35tc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,0 +1,7 @@
+trojan://23jg39rl-dvsu-tdy9-5oq8-p4x4gr5b06pb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://5gv9gwxv-bi6d-ffhp-9dda-gno98zk32nu0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xul3zz0q-x9xu-5bt9-rkex-fdhssjsvzii6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ@175.156.111.138:8899#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - MobileOne Ltd. MobileInternet Service Provider Singapore ┇ 175.156.111.138
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ@112.199.240.56:8899#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - MobileOne Ltd. MobileInternet Service Provider Singapore ┇ 112.199.240.56
+trojan://rbtbpgtp-nius-ezgg-nwa5-8susryv1vawf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ewuv2a0m-2fwi-mod6-byvj-5imcy1kxhuq7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

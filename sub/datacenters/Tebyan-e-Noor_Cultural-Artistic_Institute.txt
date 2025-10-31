@@ -1,20 +1,9 @@
-trojan://rtm8upp9-cg9v-4bx1-8a0q-xow6a7v69v6x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://ug44oroc-g7y8-lrpm-vwjg-ef0rghnw9mfq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0zwrp6sm-5nbw-tgfm-toys-gciwrfm2zxem@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sfm9ny7d-mgrd-xzws-5xaw-dllk1f4y9tso@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://u4vf66zj-l8bq-te5r-9t94-asncsgi4dxyx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6hc3rftl-33vf-16ok-lx7d-vxrxksbjusw7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://9a7ac68e-d1c1-4544-8d85-f8a9f95e6060@94.232.168.16:30501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.168.16
 vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.170.141
-vless://793d47a9-6fd3-40f9-aa4c-90bba00be6c1@185.232.152.211:37605?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.211
-vless://3b4fd68e-3215-459c-aa06-fbb1a0e95138@si2.parsafhg.dev:42082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.120
-vless://a2380166-e44b-4054-a3fe-2efde8f92b02@185.232.154.14:8415?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=eNl9igWK4DQud2xfrMVpJy6VHI8JzvTN6dwckwko-HM&sid=502a76d3e038#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.14
-vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@185.232.152.148:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.148
-vless://42087502-62ad-43b6-a614-574c22ca8d36@run.huntex1.xyz:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.111
-vless://793d47a9-6fd3-40f9-aa4c-90bba00be6c1@185.232.154.106:37605?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.106
-vless://875ec245-7366-48dc-8756-e8889fec8816@185.78.20.20:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.78.20.20
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlYnlhbi1lLU5vb3IgQ3VsdHVyYWwtQXJ0aXN0aWMgSW5zdGl0dXRlIFx1MjUwNyAxODUuMjMyLjE1NC4xMjEiLCJhZGQiOiIxODUuMjMyLjE1NC4xMjEiLCJwb3J0IjoxMDA3LCJpZCI6IjBlY2Q5ZmM0LWEyMjktNDk0Mi1hY2FhLWZjOWVkYTI5OGI2NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://b756ab67-8181-4bbc-83fd-1edca44c211a@sv8.takdataco.top:8416?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=eNl9igWK4DQud2xfrMVpJy6VHI8JzvTN6dwckwko-HM&sid=502a76d3e038#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.219
-vless://16567455-ddd9-4fb7-868f-591c4ece5c48@two.huntexserver.fun:32547?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.76
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlYnlhbi1lLU5vb3IgQ3VsdHVyYWwtQXJ0aXN0aWMgSW5zdGl0dXRlIFx1MjUwNyA5NC4yMzIuMTcwLjEzOCIsImFkZCI6Ijk0LjIzMi4xNzAuMTM4IiwicG9ydCI6MTAwNywiaWQiOiIwZWNkOWZjNC1hMjI5LTQ5NDItYWNhYS1mYzllZGEyOThiNjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://e63dbb45-e318-4d14-9a8e-1e593ee407f7@s3prime.darinips.com:443?type=tcp&security=tls&sni=S3Bucket.4cdn.lat#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.185
-vless://a2380166-e44b-4054-a3fe-2efde8f92b02@185.232.154.161:62443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.161
-vless://0f5bd9ef-cba9-4867-a6cf-028077a3d840@94.232.168.16:30501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.168.16
-trojan://5nwdi0rd-7sip-e9ca-xgue-8mxezmbvxi51@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dtakqci9-ijzh-okih-epqr-0583axme0xg9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@185.232.152.148:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.148
+trojan://14u780s9-946l-afpl-osgz-2uzp3a8wtjzz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vzqnr5ma-x6u7-do32-yr64-qv436383n10h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

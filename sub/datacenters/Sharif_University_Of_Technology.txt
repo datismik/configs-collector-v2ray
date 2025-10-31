@@ -1,0 +1,7 @@
+trojan://i2fesl4v-p9d9-tb38-26wq-xuf7btbu1uj5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://zoi2ci9a-tb6l-yvn6-mqxr-prhrnclim3yq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://02eqk3jn-ataz-07sf-vxt4-nuzuh6a5i52n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://bab0379b-9dc3-441a-8e84-612f22ba837f@iri.punezism.top:33438?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sharif University Of Technology ┇ 213.233.184.234
+vless://b0e55a84-681e-4bf8-96be-a7f617dd5afc@152.89.12.77:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sharif University Of Technology ┇ 152.89.12.77
+trojan://dvqt1dcd-61vb-vuw2-s5cp-ejqqr7wat2zd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://g5a7l29s-8s8b-tths-dngn-hofsdgfydz3h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

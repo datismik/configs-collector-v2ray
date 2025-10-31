@@ -1,8 +1,11 @@
-trojan://lkdzk4e4-0c2z-k91r-bzpg-fk1mgpmk551u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://yv77lxue-ngg7-4sqn-8b06-rizolq1gfw2d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kqfruxv3-pl7g-mt4a-ss7l-apcrr7mk0xmj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qoxsqk43-fwsh-78rw-dikt-37gz6bm4c8q2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://rqifcasx-re7i-cn95-xvbe-i3p3h1g1isq2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0cgk0wk8-tn1e-xvb3-amun-66vy3gvbntc8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@2.59.183.233:444?type=ws&security=tls&path=/t.me/lzjjjjjjjjjjj&sni=hax-eu1.lzjnb.shop&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serva One Ltd ┇ 2.59.183.233
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@91.239.148.84:20013?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=random#PL 🇵🇱 ┇ VLESS-WS-TLS - Serva One Ltd ┇ 91.239.148.84
 vless://65ea203c-27a7-4316-a95d-159df119d007@45.129.242.165:2020?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Serva One Ltd ┇ 45.129.242.165
-vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@2.59.183.233:444?type=ws&security=tls&path=/t.me/lzjjjjjjjjjjj&sni=hax-eu1.lzjnb.shop#NL 🇳🇱 ┇ VLESS-WS-TLS - Serva One Ltd ┇ 2.59.183.233
-vless://0fa53d34-5f21-4d66-bb5f-6f37c2a8c4e1@62.192.174.205:443?type=tcp&security=reality&sni=lv.wikipedia.org&fp=firefox&flow=xtls-rprx-vision&pbk=Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA&sid=102707ab31571a93#LV 🇱🇻 ┇ VLESS-TCP-RLT - Serva One Ltd ┇ 62.192.174.205
-trojan://glhl1r9l-qhez-w6lb-kqg2-97htxbfauotk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g1pnggw9-fm16-vlf7-ifsb-5gioc2625s6h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serva One Ltd ┇ 89.42.142.247
+vless://7ac2252d-a966-486a-bca9-fcd148e60078@45.158.127.84:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=W3lJRwhDFMycX3Q056SN4T9v_q_PvjBWEjmDF8Thsyc&sid=25#US 🇺🇸 ┇ VLESS-TCP-RLT - Serva One Ltd ┇ 45.158.127.84
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@146.103.33.38:443?type=ws&security=tls&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&sni=kejiland.freewarp.eu.org#NL 🇳🇱 ┇ VLESS-WS-TLS - Serva One Ltd ┇ 146.103.33.38
+trojan://q3nz0uxo-8jb3-qb5b-7rqw-b5gqvg73uk41@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sx8ifm83-o159-2f24-eh8w-ma5hhce7zbsp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

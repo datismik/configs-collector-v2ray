@@ -1,7 +1,6 @@
-trojan://2oqgyuph-694j-z8zs-z6mp-o8a82km34r06@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://jb8swtaf-07f4-ds0w-i6cm-rmkd77f4y4nd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://25brj8c0-7vmr-uycf-jqei-6i1ux5phnygv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://y3f053kf-wyu2-parj-bpo0-bxbq6ycly5d7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://gw9r554w-8qcl-dvck-3jec-j3ygbv19zpgu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uch279xc-wey6-1onm-b2ot-5y49uy6q2k9g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://49765580-8ae7-47a9-aaaa-757ae3a6a28e@38.226.125.7:37645?type=tcp&security=none&path=/#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Kennies Star India Private Limited ┇ 38.226.125.7
-trojan://ehydGPDjwkFpV-uwO7di4A@103.181.150.41:443?security=none#IN 🇮🇳 ┇ TROJAN-TCP-NTLS - Kennies Star India Private Limited ┇ 103.181.150.41
-trojan://bcrj8jj2-ewp9-i1sx-m52y-x30aj2ptedmm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gaho7qoz-h93x-1moc-gqvq-vk7uwa68bv2w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3qyhyj87-bgj7-hyae-dazc-7bmd9rx9gtso@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ynnlmofn-e2vx-5i3b-w88l-wweh5qekwnm9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

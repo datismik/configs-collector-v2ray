@@ -1,6 +1,6 @@
-trojan://c834mldi-zwol-17ip-qjhh-gikznu86qtyq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://gqx9wccq-e99h-z6qj-qs0r-4l9qbl1zo6xy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4e65k42y-vzdu-wgx4-ow1l-500jx6976wnx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Morva System Engineering Technical Company Private Joint Stock ┇ 79.132.192.72
-trojan://t0r192zv-klcl-ww04-nmi6-5ce6sgs1437l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u2wxhiq9-r0ud-ofxh-anbf-davn7eilhuhx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://e2xeswwg-jord-0vi7-pdmt-3wynwupie64l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://vya0do0a-v7yv-ppa1-thy8-1ojtl3c68s8u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nlyu7bkt-ldva-tnu1-8ih9-oxm9npow2dwi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://4d59b7c1-87d8-b0d7-5a02-60ee00ddd281@lavin1.stevejobs-net.com:38349?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Morva System Engineering Technical Company Private Joint Stock ┇ 79.132.192.103
+trojan://lyarjnvv-u9n1-uxq9-or9i-eiinm69d9k5l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z3v77kp2-sjcs-hlzw-9pr4-kghmrl3y64od@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

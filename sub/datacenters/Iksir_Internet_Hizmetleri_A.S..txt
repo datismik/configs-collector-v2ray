@@ -1,8 +1,8 @@
-trojan://0rad2g1r-xe3o-0hqt-mts2-mz8dg13fefb3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://b2htryie-kt4n-xtdb-lo0p-ssurpdk4vrxw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aykgkk47-tbrb-eacg-4f97-tql6a00l0p1t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ex0wc88u-wqjh-qsxl-7as5-dt4m6acjt91r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://pqwgwm52-sy2k-sk8t-w0h2-v81zrq7vymh8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kwned3wr-51cl-nfjo-myly-fsmy7u3wqqx2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206WDRMSlFZTTFVWDJHQkExUA@185.123.100.140:20024#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Iksir Internet Hizmetleri A.S. ┇ 185.123.100.140
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Iksir Internet Hizmetleri A.S. ┇ 185.123.101.241
-vless://c48da5b2-98a7-4ca3-9ef3-1c9b8dbd3901@node-tr-1-v4.soundlesss.com:3000?type=tcp&security=reality&sni=www.unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#TR 🇹🇷 ┇ VLESS-TCP-RLT - Iksir Internet Hizmetleri A.S. ┇ 185.123.100.29
-trojan://h0ojg9b9-n1lv-1oxf-ylwl-b0ntg84rgzp7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://todrsufr-c1ay-4w82-mrn3-d9icnb110j9m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@node-tr-1-v4.soundlesss.com:3000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#TR 🇹🇷 ┇ VLESS-TCP-RLT - Iksir Internet Hizmetleri A.S. ┇ 185.123.100.181
+trojan://3to5tcvs-buve-gio2-al2z-yleogfsjq2jy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dpi1ys7o-9ghc-1epe-q776-j68m8tnawp0s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

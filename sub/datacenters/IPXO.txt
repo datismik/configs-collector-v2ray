@@ -1,12 +1,14 @@
-trojan://qmlfa1pi-8xb2-coei-0rl7-l6j6k1gal5q3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://plkugsim-m51l-azba-dets-g0bddlx4givd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://f678d2vq-68z3-pp6u-3m1x-l54nk9i87122@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVBYTyBcdTI1MDcgMTcyLjI1Mi41Ni42OSIsImFkZCI6IjE3Mi4yNTIuNTYuNjkiLCJwb3J0IjozNjQ1MCwiaWQiOiIyZjUxNDRhZS04ZmI4LTQzZTEtYjZmOS01MmJiMzZmMTI0ZWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElQWE8gXHUyNTA3IDg3LjEyMS42MS4yNTUiLCJhZGQiOiI4Ny4xMjEuNjEuMjU1IiwicG9ydCI6NDQzLCJpZCI6ImRhNzI2OWFjLWZmZGEtNGFkMC1hOTY5LTcxMjU0MWQ5YmJlZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElQWE8gXHUyNTA3IDEwNC4yNTMuNjguMjQzIiwiYWRkIjoiMTA0LjI1My42OC4yNDMiLCJwb3J0IjoyMjg4NSwiaWQiOiI4ZDQ3MzAxMy1lZGU2LTQxMGItYTU3Yi0xYzQ3ODMxNDBiYzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://694e7135-1a12-4ad0-a53f-b9217746bf9e@82.153.220.10:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 82.153.220.10
+trojan://re9gqehw-czkt-fgju-vfer-jkkhqov5nz9l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://8gvyi67o-bl5t-6axo-cvmv-jqcey3jiyxya@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://902mjnfu-qmkg-qp6p-ibie-zvisf1pmhryo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://bc97be20-96ae-4285-9329-d3c871e5cea7@rsr.fasssst.ru:8443?type=tcp&security=reality&sni=rsr.fasssst.ru&fp=chrome&flow=xtls-rprx-vision&pbk=3JK42e5cEL7MRi1CCvBXPw6keZZBV2rfWwFAv2BMYFU&sid=429998616b4cf322#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.60.21
+vless://2fb40048-c812-43ad-ba1a-3e442c92d632@213.165.56.10:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.56.10
+vless://ad055be7-3180-4689-b8d5-82a151074286@84.32.104.26:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 84.32.104.26
+vless://dad58782-ffd5-48bd-994c-7b82555c1384@143.20.156.251:10010?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - IPXO ┇ 143.20.156.251
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElQWE8gXHUyNTA3IDY2LjIyNS4yMjguMTgiLCJhZGQiOiI2Ni4yMjUuMjI4LjE4IiwicG9ydCI6NTA3OTUsImlkIjoiYWZkOTE4OTItYWE0NS00Mzc0LWVlZTItODY5MmNjOTJkOGJmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@216.246.25.159:16899#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IPXO ┇ 216.246.25.159
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVBYTyBcdTI1MDcgMjA1LjIzNC4yMDAuMTA0IiwiYWRkIjoiMjA1LjIzNC4yMDAuMTA0IiwicG9ydCI6MzMxNjQsImlkIjoiMzFlOGY3YjQtYmEzZS00NDBhLTlmNTYtODI0MTU2OWMwMTdhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NkMjNkc3MifQ
-trojan://y0iaqamo-yh6a-m9p7-272x-y0313k7e85no@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uswrhmw2-dp1j-lhn4-6y82-kuhwr73s6zts@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://45a1ffa2-ddc7-428c-9e25-9ab62e9496b3@sos.tsmrv.ir:6001?type=ws&security=none&path=/#SA 🇸🇦 ┇ VLESS-WS-NTLS - IPXO ┇ 213.165.55.234
+vless://8bebc39d-2744-4af4-8ffa-fdfdd442cd97@pq706rio.qdr8-tvg9u8bc98b6m2kk52agfme.portalofleg-ends.fun:2057?type=tcp&security=reality&sni=pcmag.com&fp=firefox&pbk=mfS1cJVYQV4GyjguwcG3KMxucq6JHWIjbzQ7U0Xaz0k&sid=84248f#LT 🇱🇹 ┇ VLESS-TCP-RLT - IPXO ┇ 185.212.113.25
+vless://8d73fe05-1b8b-490e-950b-62f92690ad5e@row.roverlow.com:8443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=lZrWXYyXQZMkRvegqyOBxslKaB3bOt4F4D_xRURuaz4&sid=64d1dca8560d94f1#AE 🇦🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 181.214.100.114
+vless://c14e2d3c-2b46-41da-99c4-380d525f57de@213.165.55.47:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SA 🇸🇦 ┇ VLESS-TCP-RLT - IPXO ┇ 213.165.55.47
+trojan://52oenrun-q73v-tsxx-qjlm-1acmyrmptgia@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l793pe9n-95dn-9v71-omfi-dlbkr3ixnvgm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

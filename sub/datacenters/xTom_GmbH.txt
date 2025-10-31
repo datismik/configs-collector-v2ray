@@ -1,17 +1,14 @@
-trojan://hfki2tnk-4ara-nrtv-qs91-dwn1p14byk7l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://mhadknpg-1h03-pe85-uzyg-k6i8871z2v8v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://uxemj8o1-51sq-lok9-0o7o-wtxrfyjb6nef@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://2af31107-e577-4995-8247-e8a57855e90b@185.248.86.185:10011?sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&peer=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 185.248.86.185
+trojan://1tzz3c99-bkt8-l1v6-meap-z0rhgjqybaf2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://k6asxzjs-aybn-ww7a-8nup-jl5l1r1rqie4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tmhdcexs-ppu4-irng-smv8-ytco2rnr10e7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@92.118.190.71:55555?type=ws&security=none&path=/?ed=2560security=tls&sni=a.mifeng.us.kg#DE 🇩🇪 ┇ VLESS-WS-NTLS - xTom GmbH ┇ 92.118.190.71
+trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.64
+trojan://GUGm7DHtpSx7SuPyUD@ee-1.kamediorg.com:443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.139.194.79
+trojan://R8ufkVqwRZAgtwjyrA@de-2.topeinstein.com:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 193.8.124.25
+trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 185.49.34.223
+trojan://49699004-a1ba-4621-9744-3d41e98040a9@92.118.190.131:80?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - xTom GmbH ┇ 92.118.190.131
 trojan://shenmegui@185.49.33.47:8461?sni=$jp.swiftfalcon.app&peer=$jp.swiftfalcon.app&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 185.49.33.47
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.66
-trojan://EJBsFzWnEgXZnmzHq8@de1-3.nrojat.com:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.13
-vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0geFRvbSBHbWJIIFx1MjUwNyAyYTBiOjg5YzE6Mjo6MTc5IiwiYWRkIjoiMmEwYjo4OWMxOjI6OjE3OSIsInBvcnQiOjI0NDQ0LCJpZCI6ImYzNjJkMGI1LTM0ZDgtNGYzMy04ZWFkLTkwYTVmZTY5MjFiOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii81ZTYwYmU1Zi8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My44LjI1MyIsImFkZCI6ImM4MXM1LmpqdmlwOC5jb20iLCJwb3J0IjoxOTE5OCwiaWQiOiJmNmQ2NWM2Yi0wYTEwLTQ4ODctODU0MS1iODZkODVjMzFkMDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My44Ljk1IiwiYWRkIjoiMTA0LjE5My44Ljk1IiwicG9ydCI6MjgzMTgsImlkIjoiZmU2NTVkNTEtMGIzOC00OGM2LTgwYTQtZWI3MmI3YjBmMDQyIiwiYWlkIjo4LCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.64
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My44LjE0OCIsImFkZCI6ImM4N3M1LmphbWphbXMzLm5ldCIsInBvcnQiOjE3MTAyLCJpZCI6IjAyNGU2ZmQ2LWNlZTQtNGYyYS04ZjQ3LTAwZGZmOGMxNDZiZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJ2bWVzcyIsInBhdGgiOiIvbXkwMSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My4xMC4xMjQiLCJhZGQiOiIxMDQuMTkzLjEwLjEyNCIsInBvcnQiOjgzMDYsImlkIjoiMGNkNjgyMTMtZjYwMy00Mzg5LThkN2QtYjZhZTJkNjk0MDNiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My44LjE3IiwiYWRkIjoiMTA0LjE5My44LjE3IiwicG9ydCI6NjMzNywiaWQiOiIxMzk4YjhmZS05YTZlLTRhM2UtOGFiYy1mZWE1MGE2YzE5ZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://bs6KJkPBW9MP74uHEa@45.80.190.71:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.71
-trojan://wd73g8bg-coaj-whox-cr73-beq4wl85742n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://otyh9qd2-rwpt-xyex-xbqp-djlo2jczi6tb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My44LjEzMiIsImFkZCI6ImM3MXM1LnBvcnRhYmxlc3VibWFyaW5lcy5jb20iLCJwb3J0IjoxMDg5MywiaWQiOiIwNWM3ZWNhYS0wNTZjLTRiYzEtODU1My0wOWM4MDYzNmY2MWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+trojan://ekmmiord-7nyd-og6z-zaqu-648fkkav43qu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3349n8dm-nx55-hv5w-wut9-z4cecq4ttcoq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

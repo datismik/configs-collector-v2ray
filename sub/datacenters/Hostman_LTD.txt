@@ -1,8 +1,8 @@
-trojan://2bhytmvp-8d0p-v6bd-lv5j-hrlrt2trd8fv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://uocmfes4-orne-4adp-bl3r-tvqxbedb021i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ayiakunp-hhil-zt0p-2968-9fv9cd9h2i2t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://3747000103274291200@195.133.93.135:443?sni=epic-weasel.treefrog761.one&peer=epic-weasel.treefrog761.one&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Hostman LTD ┇ 195.133.93.135
+trojan://fhweodzo-mrko-1uz6-55qc-hgt1qjzkbald@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://1dhwlq0u-2wl8-9x83-t4zl-t1t1qwjuvtom@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6becppd5-l3n8-qz0v-xf95-76qgrpuxmmq1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206SnRMVEN4ZjY@212.192.2.202:20008#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Hostman LTD ┇ 212.192.2.202
-ss://YWVzLTI1Ni1nY206cFIxMWpOQ0U@212.192.2.253:3059#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Hostman LTD ┇ 212.192.2.253
-trojan://tyibpyk6-c8py-19z9-fq0u-hkxg19uzrzaj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5la3fpyk-brc6-oyzk-ah97-wr3jhr1cz37i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3747000103274291200@195.133.93.135:443?sni=epic-weasel.treefrog761.one&peer=epic-weasel.treefrog761.one&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Hostman LTD ┇ 195.133.93.135
+trojan://3723507166611775488@195.133.93.234:443?sni=wise-cowbird.boa152.lol&peer=wise-cowbird.boa152.lol&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Hostman LTD ┇ 195.133.93.234
+trojan://7i3de0vk-dcwp-e785-wcuh-oblvdqv9jn2z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vvn65h3i-bcwe-n1ii-7yyg-095br0xxafcv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

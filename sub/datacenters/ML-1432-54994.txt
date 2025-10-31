@@ -1,10 +1,10 @@
-trojan://k8x2w5hj-bt6v-ku9u-azuh-rlsssfv5g3q8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://t2naele3-m20i-r8ex-ckjd-78455vtffmuu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yn98lica-1ly1-anty-o7e3-erzi7jk16d34@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pyzng91g-7on1-kme4-acg9-sgbpv5zr7ypg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://9akcqaei-sr1m-q9cx-yxz6-sc9g7alzb8v9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ybnp2ds3-4pgw-jvis-1qrl-o9dl2slal4tt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGIyMGUwMWVlYTM1YWY4@163.171.213.47:44009#IL 🇮🇱 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.213.47
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDY0N2ZlZTU3NDFhZTk4@163.171.207.11:17397#SA 🇸🇦 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.207.11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWYzZTA5ZjZjYzQ0NDEz@163.171.110.9:14066#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.110.9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGQ2ZmEyNjFjZTIwZDcz@157.185.130.3:21298#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 157.185.130.3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:12317#KW 🇰🇼 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.181.49
-trojan://g3y449wq-up80-l0rl-5qxg-z83xhgwjqhrb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0k2gd63b-4847-6nsu-tpdn-9oft106q3rxe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGQ2ZmEyNjFjZTIwZDcz@157.185.130.3:21298#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 157.185.130.3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDY0N2ZlZTU3NDFhZTk4@163.171.207.11:17397#SA 🇸🇦 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.207.11
+trojan://3ssmgmvw-pcdx-qvck-dhtn-j08bh37fk21x@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cfonnqxo-vim1-ffw3-z04g-z6wkbfpi2fyb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

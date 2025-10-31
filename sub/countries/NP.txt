@@ -1,6 +1,6 @@
-trojan://gmcapn4a-506h-7ja7-5iwf-buvr9xr3f9hl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://s794gmbj-blqu-zw1t-7nmu-4eso84680j97@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qt6n3n9p-fsyz-an4n-2a78-lc98kjsaod9k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://maytt259-fvv9-7szs-6qru-tqztzqvn6jgd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://2704wbc8-wl5c-faxs-x36u-zm5k9nl1fal1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hn3272pk-5x77-l5w5-ofid-lwc7k0dpcvta@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://3747000103274291200@154.205.151.46:443?sni=loving-boa.treefrog761.one&peer=loving-boa.treefrog761.one&security=tls#NP 🇳🇵 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 154.205.151.46
-trojan://5z9v7iil-1psh-f1mw-iigr-31q1b71xxd7v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ec50laas-6osl-mpe3-1uqh-ez7mad4p5eoq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://qrnw2mgf-fzbb-wk8p-szu5-g35ia0neb4cq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l89xyh22-wis1-rpez-0jc4-zkk5n5dc6g1g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

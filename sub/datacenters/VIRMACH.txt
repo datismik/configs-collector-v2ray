@@ -1,7 +1,6 @@
-trojan://pbsjsnzg-5me9-37dn-35uq-sybtnsosudq8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://4rqyyrfk-v8yg-6j1i-n3qk-r2mc8ijjkhb9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ebwnkj01-p0e1-8rck-xslp-c992mh49fcvg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBWSVJNQUNIIFx1MjUwNyAxNzIuOTguMTQuOSIsImFkZCI6InNqMy4xMjEyMTkueHl6IiwicG9ydCI6NDQzLCJpZCI6IjY0YjNkODJmLWQ2NzMtM2JiMC1iZjNhLWZkYzMzOGY0YWFkOSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3YycmF5IiwidGxzIjoidGxzIn0
-vless://0b1721b5-13d2-40fa-9e65-2db4776fa809@185.228.1.236:53186?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - VIRMACH ┇ 185.228.1.236
-trojan://miyhzxcd-wws5-zb7s-htg6-jy5fqswieg22@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nrh1pp58-uzm0-tbg5-dlov-vruqv8kozjea@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://5qye5kjy-hi9e-0ov8-yttm-vbt2aebiknj2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://zcseffan-l9il-73g8-93t7-9uj5c8bhwtcf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4cmfcq2o-1z97-5m59-1esw-dji01ps1rzuq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVklSTUFDSCBcdTI1MDcgMTQxLjExLjIwOS42MSIsImFkZCI6ImRvd25sb2FkLm5vZGUxLmNqeS5tZSIsInBvcnQiOjgwLCJpZCI6ImVmYjc0OGVjLWM5MjEtNDJhMS1hYzllLTFkNTQ4NWQ2YzQ0NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Rvd25sb2FkIn0
+trojan://j365xxvn-3xb2-l4lq-a8t1-e343uym5r58l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2apzb9nj-ps4i-npnf-iqlj-e2tq9s3yiyiu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

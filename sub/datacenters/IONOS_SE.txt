@@ -1,18 +1,15 @@
-trojan://9momdd05-tkg5-doct-g5b6-vcgaapx66e5g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://2krjqy8t-13bs-nfdg-khqj-ueh6cf37mch9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6nkzs25w-sc2v-chm8-7yp4-4r78vfb34wkz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSU9OT1MgU0UgXHUyNTA3IDIxMi4yMjcuMjI4LjkxIiwiYWRkIjoiMjEyLjIyNy4yMjguOTEiLCJwb3J0IjoxMDAwMCwiaWQiOiJlN2NmNGQ0YS1lNWZlLTExZWQtYmEyYi1hZmRkMGZjNTRkMzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSU9OT1MgU0UgXHUyNTA3IDg1LjIxNS4yMjkuMjE5IiwiYWRkIjoiODUuMjE1LjIyOS4yMTkiLCJwb3J0IjoyNzc5NywiaWQiOiI4NDdmYjg4OC0xNjgxLTRjZmUtYmVkYS02Y2IyMGNjMWI1MGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
+trojan://0slctrtw-4pbx-lupi-emba-uo7qpam0owlm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://o7i8navg-rb5m-u17m-mzka-yqz3po5vfexw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://daxpos9r-ur5s-5a7q-z3t0-722t8g7clyl5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://c3203524-da3c-4f43-ada2-90c0e5c3dcf8@213.165.85.99:443?type=tcp&security=reality&sni=azure.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#ES 🇪🇸 ┇ VLESS-TCP-RLT - IONOS SE ┇ 213.165.85.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - IONOS SE ┇ 212.227.146.33
-vless://5125eabf-8d91-4ed6-9d96-1ecbd0644e7f@66.179.243.212:443?type=ws&security=tls&path=/&sni=vkvd127.mycdn.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IONOS SE ┇ 66.179.243.212
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSU9OT1MgU0UgXHUyNTA3IDIxNy4xNjAuMzMuMTAwIiwiYWRkIjoiMjE3LjE2MC4zMy4xMDAiLCJwb3J0IjoxMDAwMCwiaWQiOiIxOWFjNjAzNC05NmQyLTExZWYtOTBjMi01MzAyOTdkOGMxNGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0In0
-trojan://I46LpSIM1f@194.164.57.9:1935?sni=x4ger-ionos.devefun.net&peer=x4ger-ionos.devefun.net&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - IONOS SE ┇ 194.164.57.9
-vless://33453e54-dd1d-486c-8415-02892db0a0f5@85.215.250.229:443?type=xhttp&security=reality&path=/&sni=google.com&fp=chrome&pbk=DGei53BP-DjJoMksZSREjZcei7mCPTxUeru1_SPL5DQ&sid=4e03f70e8f06cc#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - IONOS SE ┇ 85.215.250.229
-vless://b74803b1-5940-44fa-a4d2-32a910b4f18b@1237273737goodfiru.mongral.ir:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 217.154.220.28
-trojan://juzi@217.160.216.30:443?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - IONOS SE ┇ 217.160.216.30
-vless://f46ad8d7-f22c-40fc-d0b2-5db602a6d815@82.165.77.122:2083?type=grpc&security=tls&sni=vkvd127.mycdn.me&fp=chrome#DE 🇩🇪 ┇ VLESS-GRPC-TLS - IONOS SE ┇ 82.165.77.122
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSU9OT1MgU0UgXHUyNTA3IDg1LjIxNS4yMjkuMjE5IiwiYWRkIjoiODUuMjE1LjIyOS4yMTkiLCJwb3J0IjoyNzc5NywiaWQiOiI4NDdmYjg4OC0xNjgxLTRjZmUtYmVkYS02Y2IyMGNjMWI1MGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElPTk9TIFNFIFx1MjUwNyA4NS4yMTUuMjMzLjE3OSIsImFkZCI6Ijg1LjIxNS4yMzMuMTc5IiwicG9ydCI6MTYxNTEsImlkIjoiNDRiYTcwNTMtNzMzZi00ZDM1LTliYTQtMzQ1N2VlNjA4ZjY0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vless://33453e54-dd1d-486c-8415-02892db0a0f5@85.215.250.229:443?type=xhttp&security=reality&path=/&sni=google.com&fp=chrome&pbk=DGei53BP-DjJoMksZSREjZcei7mCPTxUeru1_SPL5DQ&sid=4e03f70e8f06cc#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - IONOS SE ┇ 85.215.250.229
 trojan://Julius@104.219.41.229:443?sni=miami.juliusnet.com&peer=miami.juliusnet.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IONOS SE ┇ 104.219.41.229
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSU9OT1MgU0UgXHUyNTA3IDIxNy4xNjAuNDUuMzEiLCJhZGQiOiIyMTcuMTYwLjQ1LjMxIiwicG9ydCI6ODg4MCwiaWQiOiI0ZTE4NjY3OC1mY2NhLTQzMjUtZTRiYy1iMjkxNmJkZjY3MDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-trojan://5t1p6ngz-924c-diqy-v4xc-0le6pr1pzgrj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wxj2yk16-zx8m-04xm-rsyp-1irqz55sim28@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://500fa635-f420-4148-ae10-5b857163d045@82.165.220.6:8443?type=ws&security=tls&path=/?ed=2560&sni=vl.kouok.us.kg&fp=random#GB 🇬🇧 ┇ VLESS-WS-TLS - IONOS SE ┇ 82.165.220.6
+vless://20fda433-1864-433b-b3dd-8f119fe4cafd@194.164.170.244:2053?type=ws&security=none&path=/?ed=2560security=tls&sni=happy.mianfeicf.lol#ES 🇪🇸 ┇ VLESS-WS-NTLS - IONOS SE ┇ 194.164.170.244
+vless://b74803b1-5940-44fa-a4d2-32a910b4f18b@1237273737goodfiru.mongral.ir:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 217.154.220.28
+trojan://I46LpSIM1f@194.164.57.9:1935?sni=x4ger-ionos.devefun.net&peer=x4ger-ionos.devefun.net&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - IONOS SE ┇ 194.164.57.9
+trojan://3hj9qcan-fk32-4k9m-ji76-ler2oqsg9dp7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://akkw6n9u-8qb3-83uz-xw87-17cpq5mlqexa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

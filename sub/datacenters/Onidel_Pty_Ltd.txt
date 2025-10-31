@@ -1,9 +1,9 @@
-trojan://qorjf148-ifso-orrl-s7d2-83a1uv6jmy5d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://ev47cj68-rp6k-e9xb-82wf-qgnm7v29996t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d36ppwtc-i8sz-g8td-58jg-lje7kphtllrz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://ttfang@160.22.79.166:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.166
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.22.79.155:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-TLS - Onidel Pty Ltd ┇ 160.22.79.155
-trojan://ttfang@160.22.79.179:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.179
+trojan://c6skuaoy-mix0-lmx9-6uu8-j40ozqgre4hp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://gf4crogo-khq5-fibe-2116-q3mrdtcl3y9u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pkkjeqwh-6obr-7nlo-za5d-83cioovqfbbh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@160.22.79.179:443?type=ws&security=tls&path=TelegramTW_@WangCai2/?ed=2560&sni=digitalscientificresearchgroup.ir#SG 🇸🇬 ┇ VLESS-WS-TLS - Onidel Pty Ltd ┇ 160.22.79.179
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbGZ4VWhnVHhsdlgtcTlfTzJuMFRn@fn.momasvps.zone.id:1081#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Onidel Pty Ltd ┇ 163.61.44.62
 trojan://ttfang@160.22.79.191:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.191
-trojan://ce0md4cg-l763-qssx-vupv-b1lk7l39bv2c@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://39cv5l0d-qier-lppf-0nwp-s81m9x48obes@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@160.22.79.155:443?type=ws&security=tls&path=TelegramTW_@WangCai2/?ed=2560&sni=digitalscientificresearchgroup.ir#SG 🇸🇬 ┇ VLESS-WS-TLS - Onidel Pty Ltd ┇ 160.22.79.155
+trojan://603pi9hl-vhyn-my2b-63xe-gsvdujvojexn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://17qlxxwb-e1am-te8a-ntvl-0c8h03mkvjc0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

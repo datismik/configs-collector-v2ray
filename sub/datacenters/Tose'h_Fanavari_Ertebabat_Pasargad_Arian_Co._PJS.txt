@@ -1,14 +1,7 @@
-trojan://hjlqxhgf-fm6i-g1rc-e013-hza43s9mlu6b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://jac15k82-m3bs-iaif-72x7-xxsyfa19phbv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qpftdhy1-a7ee-27g2-451g-9z18yon4eivr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvc2UnaCBGYW5hdmFyaSBFcnRlYmFiYXQgUGFzYXJnYWQgQXJpYW4gQ28uIFBKUyBcdTI1MDcgMTg1LjEzNy4yNC4yMzYiLCJhZGQiOiIxODUuMTM3LjI0LjIzNiIsInBvcnQiOjI0MzE2LCJpZCI6IjQ0ZWQ1YjM0LTQ1ZjEtNGVjMS1iMzQyLTI1ODFkY2I0OTlmNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVG9zZSdoIEZhbmF2YXJpIEVydGViYWJhdCBQYXNhcmdhZCBBcmlhbiBDby4gUEpTIFx1MjUwNyA4MS45MS4xNTguOTgiLCJhZGQiOiI4MS45MS4xNTguOTgiLCJwb3J0IjoyOTc0NSwiaWQiOiI3Nzg2NGFkYy1iNzk1LTRhODItODIxMi1mMmYzMTY5YjExOWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
-trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?sni=gr1.grtj.sulindac.top&peer=gr1.grtj.sulindac.top&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 109.230.91.202
+trojan://qod6it0i-fbjy-ao0y-m4hh-a3zoyuuu9jmq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://851a87ez-sze0-ifob-bjv8-f0mkng5totjc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://k0y4la5w-siey-kngi-xug6-phlwaa3vslda@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://512c8ed7-13dc-9d8d-039a-d0d47c84a0be@81.29.255.187:699?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 81.29.255.187
-vless://9ee13c55-868b-4d67-b767-5d82878afba9@5.200.74.206:2011?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 5.200.74.206
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvc2UnaCBGYW5hdmFyaSBFcnRlYmFiYXQgUGFzYXJnYWQgQXJpYW4gQ28uIFBKUyBcdTI1MDcgMTg1LjEzNy4yNC4yNDciLCJhZGQiOiIxODUuMTM3LjI0LjI0NyIsInBvcnQiOjMyMjY0LCJpZCI6ImU0MTY2YWZlLTk3MzYtNDM4OS05MTU5LTE5Nzk0YmJkNDAxOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvc2UnaCBGYW5hdmFyaSBFcnRlYmFiYXQgUGFzYXJnYWQgQXJpYW4gQ28uIFBKUyBcdTI1MDcgMTg1LjEzNy4yNC4yNTIiLCJhZGQiOiIxODUuMTM3LjI0LjI1MiIsInBvcnQiOjQ5MjQ2LCJpZCI6Ijc4MDIyOWExLTQzMTUtNDc3OC04MWEyLTU4NTQ3YmVlZTlmYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvc2UnaCBGYW5hdmFyaSBFcnRlYmFiYXQgUGFzYXJnYWQgQXJpYW4gQ28uIFBKUyBcdTI1MDcgMTg1LjEzNy4yNC4yMzgiLCJhZGQiOiIxODUuMTM3LjI0LjIzOCIsInBvcnQiOjQzOTYxLCJpZCI6IjFlMDdlMDdkLWRjMGUtNDlkNS1mZDMzLTYwNzdiYWNhZDFmMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzVSY0JhYVowaHVQREZ1RXJNRGZZ@188.121.128.246:21139#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 188.121.128.246
-trojan://uvz2ltui-foiy-h837-ej88-xd4e9v2iq2es@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://69jraw0x-zhg6-ao8o-cg4w-sgtyev44m3ok@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?sni=gr1.grtj.sulindac.top&peer=gr1.grtj.sulindac.top&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 109.230.91.202
+trojan://oaqi0q19-a21a-zhwq-ljtm-n1fd6nhqdyij@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wroej9jr-yqn5-5xa1-k8jk-chwf53ndhjru@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

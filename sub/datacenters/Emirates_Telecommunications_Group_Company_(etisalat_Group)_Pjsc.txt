@@ -1,6 +1,6 @@
-trojan://ntbjponv-8bqz-dc4n-xfo4-nhzlt5n37591@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://nxgpkwkx-gs4d-vjs0-iiw9-kxu6mogpuwzb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6p03l1r7-6ri2-3dwh-9hqz-la838uwztjdf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://50f47xyf-3qvt-yfoc-wgrx-bdf6qv96i13h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://16unixa9-7nty-5fax-35nz-2u9w6plqqq77@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c2ydbgy9-1r4e-zbws-agk9-zdce68u28d99@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2eaef053-5fd6-4def-bi04-d760690355ff@92.99.159.125:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Emirates Telecommunications Group Company (etisalat Group) Pjsc ┇ 92.99.159.125
-trojan://5mjyqfu5-p7xw-n2s1-3lns-fxbts82vqz8d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2jvgtpdf-oedt-75gu-3066-q51elotf2ncd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://x41fh18b-p5a7-xla7-edmz-y1ft7543jbqw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n394zftm-fo10-rc4u-1c0v-t91wnthap0eh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

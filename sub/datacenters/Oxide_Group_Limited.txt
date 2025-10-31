@@ -1,0 +1,9 @@
+trojan://ics8ozhm-0alo-nbcr-ateh-j959i87vr0k8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://xp3qacme-yq5r-3p5w-rjl2-eb4x5t4ci8cr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mvc190ee-aj12-v1o7-x2nn-4nwyo1kr64sk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://c84ddb7c-7703-42a3-a22a-3ff9e5513f9a@195.58.58.88:32391?type=ws&security=none&path=/&sni=45f4d22d.Mareza.pages.dev#US 🇺🇸 ┇ VLESS-WS-NTLS - Oxide Group Limited ┇ 195.58.58.88
+vless://a40155b8-ef18-4b3a-ace9-47353fec9f37@70707.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NL 🇳🇱 ┇ VLESS-TCP-RLT - Oxide Group Limited ┇ 2.56.164.129
+vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@02020.sbs:8443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwB#NL 🇳🇱 ┇ VLESS-TCP-RLT - Oxide Group Limited ┇ 185.227.70.108
+vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NL 🇳🇱 ┇ VLESS-TCP-RLT - Oxide Group Limited ┇ 185.227.70.166
+trojan://15edbwat-ltca-i9a3-mdwg-wc3d4bchxlib@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jggpjot1-jqwj-7fgn-4zm0-0wlzccf8364i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

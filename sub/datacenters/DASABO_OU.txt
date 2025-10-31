@@ -1,7 +1,7 @@
-trojan://1rqg9u5l-amsq-o5dw-f28r-mqi8ijhodi9d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://upqjtydr-9ssl-xbq0-ngrg-lr5u9z428me6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7vzkhryl-suq5-68wc-3vwd-izhrbgy4ublh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://aedae871-a4e5-489f-946c-98372f15bee2@31.57.241.25:7008?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=FPH81X-EMwzv4nXgkplSqBAaK81uLuPYqWaYyIWFsnQ&sid=efcbe824#DE 🇩🇪 ┇ VLESS-TCP-RLT - DASABO OU ┇ 31.57.241.25
-vless://c1201f65-7290-4857-b552-08d5add4b362@102.215.228.122:24161?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DASABO OU ┇ 102.215.228.122
-trojan://g4yi1opb-qo6x-v7iy-aj43-1v7yac2420h6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ggpm4faw-4hpc-3wc8-za5w-v3lztqpqkt7y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://e43azi28-3d94-a26l-a6q3-zf9xz6kemagq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://b6xtqeu7-m688-ajg7-r70r-18nopxoknra4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://raagzjtc-6xj7-n6xl-6fhg-zecp77nzr3nw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://1a6bf68f-9c30-4cac-905f-416b4199ffb3@d.eans.top:7008?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=FPH81X-EMwzv4nXgkplSqBAaK81uLuPYqWaYyIWFsnQ&sid=efcbe824#DE 🇩🇪 ┇ VLESS-TCP-RLT - DASABO OU ┇ 31.57.241.25
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.146.202.222:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#DE 🇩🇪 ┇ VLESS-TCP-RLT - DASABO OU ┇ 45.146.202.222
+trojan://3ydjpe9t-bkrv-dun7-8nrw-u5bytfpo7o2a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tmbk7q72-8b5k-735s-51xk-xnw3eeto8nho@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

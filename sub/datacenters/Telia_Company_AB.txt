@@ -1,10 +1,7 @@
-trojan://alddr605-o7rw-zpwf-7x21-1pdbssooq0zi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://cc0fck8l-svau-zb8q-5ugf-4pajc6tgo3fm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rwjjixzn-pnr7-8ug6-3pjw-jmoy581agigo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR0lYR0swUTdDUVNVM2RfSktPR0hR@217.209.77.111:62005#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Telia Company AB ┇ 217.209.77.111
+trojan://3zgicn96-t8pz-xfw5-osam-p9n5ld8knocz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://l5y6pg0j-560p-13u8-w8nd-igcxokqq0hau@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://93y7k00u-b53s-1v2o-m9yc-h40hhm5obp2m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIc3BtTmp5ZHBSQkhSWkw1MTg0UlVn@217.212.217.8:55552#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Telia Company AB ┇ 217.212.217.8
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlbGlhIENvbXBhbnkgQUIgXHUyNTA3IDIxNy4yMDguMjIxLjI1IiwiYWRkIjoiMjE3LjIwOC4yMjEuMjUiLCJwb3J0Ijo2MjAwMiwiaWQiOiJjNTgxMjFhNy1jNGFmLTQ0ZWEtOTU2Yi1mMGQ0MTBhNDQ4MGYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvP0pPS0VSUlZQTiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5LU45RG5IWFFGSWNMb0R3M21YTUt3@homa.cybsecguru.com:62005#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Telia Company AB ┇ 90.229.166.209
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowckJVNWx3d2x1Z0dYbG1lS0E2TzVR@217.210.180.141:62005#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Telia Company AB ┇ 217.210.180.141
-trojan://5vggbtpd-th1e-4jc6-smoj-wq7vhcjq16y7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://025ttewe-mu2d-emdb-m0b9-ebyenif7xlg7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://88e35bbb-8cd2-c309-a1e9-551fb1c17a7f@dir.lightnright.com:8883?type=tcp&security=tls&sni=jnir-x.pichondan.com&fp=firefox#SE 🇸🇪 ┇ VLESS-TCP-TLS - Telia Company AB ┇ 81.227.231.237
+trojan://9rhq0548-b7es-1b4w-fibf-fyg3kz1w0cg7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://o9oyhzug-0z0g-8hjf-wimd-qv8qp7siwd2w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,0 +1,6 @@
+trojan://pbleiapr-e2oa-0ssy-517h-zkpsi0fzmkuk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://ikbt8sw8-mmpt-edn3-87nb-5vlbutu6x9uq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lusu9ttr-kz6s-xror-07w2-l2oepa7syn4x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Weridata LLC ┇ 31.57.225.58
+trojan://tvn56tlq-8cx1-01nm-pqwz-2lu5aur2ras9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ty1lvt0v-i9o6-6gll-ntho-m18kpbu5cowx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

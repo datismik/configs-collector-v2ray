@@ -1,14 +1,10 @@
-trojan://ohf52lse-sw1i-r7d5-vutz-jzklns5u7n1p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://3x3agdj3-39zn-9l6z-22z1-6c06skxgjkxb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zz7ocjw5-jpu4-9e28-pyn1-xaxl2sslma4n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@84.19.3.108:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#FI 🇫🇮 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 84.19.3.108
-vless://74ae5e63-ce7a-4ea5-bb83-4761c0a37328@104.164.54.126:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#FI 🇫🇮 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 104.164.54.126
-vless://331563eb-831a-4744-b51c-78e7bf4f1562@balfot1.tunnelfree.org:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#NL 🇳🇱 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 103.102.228.99
-vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@195.133.17.103:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#NL 🇳🇱 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 195.133.17.103
-vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@185.174.40.113:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#FI 🇫🇮 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 185.174.40.113
-vless://331563eb-831a-4744-b51c-78e7bf4f1562@finland.tunnelfree.org:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#FI 🇫🇮 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 185.239.142.86
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMWZSbWRYd1RIUzZLMnVTT21GU25m@147.45.114.160:11315#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Individual Entrepreneur Anton Levin ┇ 147.45.114.160
-vless://331563eb-831a-4744-b51c-78e7bf4f1562@bal2.vvvm.ru:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#NL 🇳🇱 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 103.102.228.71
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@188.240.213.45:20071?sni=www.cloudflare.com&peer=www.cloudflare.com&security=tls#KG 🇰🇬 ┇ TROJAN-TCP-TLS - Individual Entrepreneur Anton Levin ┇ 188.240.213.45
-trojan://mehr3c2j-m7a2-zn4q-4zb4-ecywtx1bhs2q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hu7c5zzc-ei6d-lyn1-rhl8-5xgalp3z12b7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://7vpqbow5-dpgx-hwfz-xj0u-85maaek9wtzu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://in8nxhi8-pl3a-xtn3-hn8z-b45ddsd92g9u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://j5dkn2by-aovx-qper-6ca4-himwh9irsqz4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowcWFBeWtNSEVVbUNBMHhMNExaZFI1@147.45.114.160:45651#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Individual Entrepreneur Anton Levin ┇ 147.45.114.160
+vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&sid=229b2a94#NL 🇳🇱 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 45.128.232.102
+vless://331563eb-831a-4744-b51c-78e7bf4f1562@finland.tunnelfree.org:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#FI 🇫🇮 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 104.164.54.126
+vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?type=tcp&security=reality&sni=yahoo.com&fp=random&flow=xtls-rprx-vision&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&sid=3b6239cf6fd84dd3#ES 🇪🇸 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 185.250.181.128
+vless://169824ec-2dfb-4132-932d-28eb48a74c23@hield.ru:3389?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&sid=0274c94d298e#FI 🇫🇮 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 185.239.141.182
+trojan://i92yg4ul-9vs0-r8n4-i9t2-bp9n2j4tduei@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8gakrsty-a9r3-4i4t-q62c-lqiar3bokco2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

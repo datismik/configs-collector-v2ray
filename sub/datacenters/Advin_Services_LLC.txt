@@ -1,10 +1,7 @@
-trojan://kn781m54-lfg4-jary-gfjy-fip8i5677smv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://0nd4hcd4-5v8m-ib41-0gwv-9dk06w05rray@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0z7pw69e-7gor-ntgh-zz5d-3qtjtlfwu147@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://99cd771c-0bc5-4f41-879e-925b973a3186@usreal.tsmoe.com:9003?type=tcp&security=reality&sni=cd2.tsmoe.com&fp=edge&flow=xtls-rprx-vision&pbk=SwtFfm3eCWmppdc8fXIrX26XT8OMp9qrAQoHfgLJLS8&sid=09ba19fa#US 🇺🇸 ┇ VLESS-TCP-RLT - Advin Services LLC ┇ 45.8.22.65
-trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@146.19.215.165:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.165
-vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
-trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?sni=zaelot.cc&peer=zaelot.cc&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.81
+trojan://6h7qhdc3-48uw-jnzw-vtiw-2b16qb7fde2t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://odtnsbfj-tnyi-p0p3-1o9g-blphlfkmqkrw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9ambb0v8-6zd9-vc2c-67b4-033wnhi4kq1n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://6f786c4e-6402-4269-98d3-c383fb1708da@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODUzMzIxNi02NWE4LTRkMzAtOWQ0MC03ZTk1MjZjZGQxZjE@shadow-de01.gproxy.gratis:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.114
-trojan://5odu9v79-tfqh-ltyt-ukmk-xmjs2yx1f9fd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qfbtenar-ypik-gujy-fp0b-poog2nve74ii@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://wjdif15h-rve5-ggnk-1c1e-acd4xxljd865@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b2x1donj-srxb-xung-jh7n-hlqijl8ejdd1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

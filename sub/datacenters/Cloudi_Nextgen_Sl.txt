@@ -1,7 +1,6 @@
-trojan://enolfs75-os2v-718w-xg1j-ii7lr5m9czua@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://1ny35k0f-1lh2-t7uc-67b3-vghwleuhsxib@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cqx1qxa4-y1t3-8cg2-mh6w-y0s0i8r6pxfj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YnJXWGZxTmlXV2JXNThLUlZMelA0@185.254.204.240:443#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - Cloudi Nextgen Sl ┇ 185.254.204.240
-trojan://PmK0tzdots@x4-spain-clouding-v2-9425l.devefun.org:1935?sni=x4-spain-clouding-v2-9425l.devefun.org&peer=x4-spain-clouding-v2-9425l.devefun.org&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - Cloudi Nextgen Sl ┇ 79.143.90.41
-trojan://7v3t2q2w-6krp-gcv7-9ua7-y74xza729tgx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1mjjmy0c-3ry2-k82z-3xb9-adweahr585kx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jtjllxi8-ohk1-g0th-uxqq-qdwe480vwgq3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://ktpwub99-9qul-hr93-jmtx-6jn9yj2asw2b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bq2zqbau-agyi-yma0-ybsx-80gzldgi4zzl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9Bb6wjlTOA@x14spain.devefun.net:1935?sni=x14spain.devefun.net&peer=x14spain.devefun.net&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - Cloudi Nextgen Sl ┇ 93.189.94.159
+trojan://wp5gy779-z98v-1mdu-n53f-ripajl756f29@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2zhujpy8-lgxw-5otz-v5mv-vg5yn93tm0vj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

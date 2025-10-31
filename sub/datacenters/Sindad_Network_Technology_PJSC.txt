@@ -1,6 +1,11 @@
-trojan://pif20pvi-4vfj-hjii-4b1y-6ngg6l3e2jig@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://irsecuau-b45d-63z4-nya9-ut4u0c9bc4gx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fcx3fm8i-e6xj-cy8v-6j9v-rzdmwpk6qkzk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNpbmRhZCBOZXR3b3JrIFRlY2hub2xvZ3kgUEpTQyBcdTI1MDcgMTg1LjYzLjExNC4xNjMiLCJhZGQiOiIxODUuNjMuMTE0LjE2MyIsInBvcnQiOjgwODgsImlkIjoiYWNjMjczMGItN2M2Yi00Y2Q0LTliMjEtZjcwOWQ4ODZlMmY2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiL2FwaSJ9
-trojan://3xi830qy-ecql-p34c-kvlp-zjtz2hwoaqda@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://clvlj5t3-28ol-09p1-ztqb-vqsoht63cil1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://y5wa2ely-oqdi-32lc-xjcv-pz0kjoxkame0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://47686mk1-hqfk-0s3j-lfhm-toofm0twm6he@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://eqwlv5k7-exnf-a0x1-4per-d9i8o8g2k109@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.236.36.136
+vless://d786cf95-6203-46aa-bdc1-87a7c1db03fc@server2.lebon-network.com:21224?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.128.40.19
+vless://cbea02f4-e0dd-4e76-b7e8-b0a20752c171@node3.helishot.info:9050?type=ws&security=none&path=/translator?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sindad Network Technology PJSC ┇ 185.128.40.24
+vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?type=tcp&security=tls&sni=cdn2.azkhaktakhane.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Sindad Network Technology PJSC ┇ 185.236.37.23
+vless://789d4f30-c31b-4762-8116-ed42574d5e85@185.236.36.134:8443?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.236.36.134
+vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn28.saloonak.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.236.36.135
+trojan://pjhxbg29-385a-uwb7-vel1-dq3z5xeuta85@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5jk4hx1m-5a9y-rtf0-0hyh-rqm6s464aykc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

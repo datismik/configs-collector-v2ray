@@ -1,15 +1,9 @@
-trojan://nhuxc4yk-cxpx-nk0z-w1h7-l38uhxl33976@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://uiqfzy7y-hdx8-jvkg-gw9o-me64dic5h1lb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vsplef9a-rwn3-bzro-ccp7-3xjkp6guzvn4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBIT05HIEtPTkcgTElNSVRFRCBcdTI1MDcgMjA5LjU4LjE4NC4xNDEiLCJhZGQiOiIyMDkuNTguMTg0LjE0MSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@43.249.36.70:443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 43.249.36.70
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@203.9.150.104:443?type=ws&security=none&sni=edccs.aimercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-NTLS - LEASEWEB HONG KONG LIMITED ┇ 203.9.150.104
-trojan://ttfang@192.131.142.161:46639?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LEASEWEB HONG KONG LIMITED ┇ 192.131.142.161
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBIT05HIEtPTkcgTElNSVRFRCBcdTI1MDcgNjQuMTIwLjEyMS4xOSIsImFkZCI6IjY0LjEyMC4xMjEuMTkiLCJwb3J0IjozMDAwMCwiaWQiOiJiMmFlYTNmNC1jNmJiLTRlZmEtYmM0NC04NWZlMGJiOWFhZjciLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBIT05HIEtPTkcgTElNSVRFRCBcdTI1MDcgNjQuMTIwLjEyMS4yMSIsImFkZCI6IjY0LjEyMC4xMjEuMjEiLCJwb3J0IjozMDAwMCwiaWQiOiJiMmFlYTNmNC1jNmJiLTRlZmEtYmM0NC04NWZlMGJiOWFhZjciLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
+trojan://66fziiyh-67yx-2crl-pgo4-iwgm89y9isuy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://vy51cqbe-7v14-cu35-gpe6-yi1foabc3bj4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kjmw8ujt-jl6a-0479-yv83-62ai7u1oaan9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdDMxS1lZQ0NBVUJ3dTA5UXdHOWZsUEJJdVA5akE2Vlhuak44U3RLVGtnYzQ1bnk@203.23.128.79:51348#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 203.23.128.79
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBIT05HIEtPTkcgTElNSVRFRCBcdTI1MDcgMjA5LjU4LjE4NC4yNDQiLCJhZGQiOiIyMDkuNTguMTg0LjI0NCIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@43.249.36.70:443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 43.249.36.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 203.23.128.33
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBIT05HIEtPTkcgTElNSVRFRCBcdTI1MDcgMjA5LjU4LjE4NC4yNDIiLCJhZGQiOiIyMDkuNTguMTg0LjI0MiIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
-trojan://sz1nhikt-ncqr-ulww-52vf-h8ymqtpu10ed@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ud1j6hgo-tb1s-vvqb-oa2y-18aj2jru4c98@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ttfang@192.131.142.161:46639?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LEASEWEB HONG KONG LIMITED ┇ 192.131.142.161
+trojan://e0xd7vsm-kzxf-7zh7-mzib-sdfvuguejhf7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ek15twt6-7zvk-0pa2-7ux8-52ng29k0zg4w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

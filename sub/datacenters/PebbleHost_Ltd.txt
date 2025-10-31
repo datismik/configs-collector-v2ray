@@ -1,6 +1,7 @@
-trojan://nx1lcblq-f5l6-n0ft-ouqq-8dwen8ytveqk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://gyaiu6iw-rdh1-pfgi-4jzp-ieb2qt3n758h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nmej6v0r-b1jn-kchc-psnl-1h20f81rcw03@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://p3rxoz7n-ohc6-2p2t-uyhm-jpfg8uvmzz72@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://64mpoajy-23hr-uf3f-4dit-gjlgwvzwipzn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://t2lld0mw-k4l0-pz2f-y0ju-o95kf75celfb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://9ed5414e-5875-44dc-acc9-d880bb177184@uk.ircloudmarket.com:7600?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#GB 🇬🇧 ┇ VLESS-TCP-RLT - PebbleHost Ltd ┇ 213.232.236.183
 vless://ba86f1d8-775c-478c-bd88-be0cb1611242@91.208.92.226:56022?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=B2Hdkb8ZsVs2ajJ6PMmWEEXq8kWJ3bBp4knn89j_Two&sid=21#GB 🇬🇧 ┇ VLESS-TCP-RLT - PebbleHost Ltd ┇ 91.208.92.226
-trojan://zr24ly9t-zaht-yren-pj7k-z71xflh5ftnt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yojnozpy-k4y1-ymlt-gtrx-zihec9smw2fo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://cf1xtgek-8xlp-u4u5-w5dv-hqei86b09wgr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://we9k3o92-rpi5-tdlj-33t4-sbwcdslcsnb4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

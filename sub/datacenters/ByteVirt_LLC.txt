@@ -1,7 +1,7 @@
-trojan://yafdbrqa-e1om-2cj4-17gz-myhmrs05p26r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://yclvlzip-phwz-l82u-5r1b-5e4r9a9cpgdm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mkvpa7s0-xjm8-lqgw-96t3-tdd91v7rgt9u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://4f9d1abb-cca4-4f44-a2a5-e126e622ea35@sg1.3224536.xyz:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 109.176.19.79
-trojan://Aimer@147.79.20.239:443?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 147.79.20.239
-trojan://yi1aw80w-6cqd-lv8z-etw6-ktfgm1f0215p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cklgm2tj-18ze-jt82-dves-f4g3ihwnp2ug@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ji2h62hu-bjel-s7lw-7u5m-exgzx12xc45k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://bhazv5rc-38b4-xr7r-ujx0-11mupzvmwk2y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xngzdxjm-tthj-vqfj-6t77-lrtxddppyxvt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQnl0ZVZpcnQgTExDIFx1MjUwNyAxNDEuMTEuMTM5LjgyIiwiYWRkIjoiMTQxLjExLjEzOS44MiIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQnl0ZVZpcnQgTExDIFx1MjUwNyAxNDAuMjM1LjM4Ljg5IiwiYWRkIjoiMTQwLjIzNS4zOC44OSIsInBvcnQiOjIwNTIxLCJpZCI6ImM2NWVmNjQ1LTIxNzItNDRkMS05MDlmLWNiMzBhNDBiY2ExYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
+trojan://06vm1yiq-ajje-4w4v-2u5w-mnsd7uudjz8h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://933293dh-a7d4-fkb9-6csd-9j5m0m6facp9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

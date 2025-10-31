@@ -1,7 +1,6 @@
-trojan://bu5p9ksc-r4b0-rha0-h2sw-v861hi9sn7pb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://gok4hqz1-vv64-szfl-v129-koy55l9je4hs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lxgd3r5n-pspt-tzju-p20e-mce6bk7a1nxz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://44980fee-e891-4bbd-ba81-6e74b9a3799b@194.5.177.22:6756?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Javid Berbid Mamasani Information Technology Company PJS ┇ 194.5.177.22
+trojan://mb6lzk4q-e0aq-eces-s7on-zvcyzfy13p3o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://cd5a8t0l-9rcb-0mgv-hqap-2v8hz3hn6d5k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://shrar4tt-rpm2-nj9s-m6he-y11exuds976a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEphdmlkIEJlcmJpZCBNYW1hc2FuaSBJbmZvcm1hdGlvbiBUZWNobm9sb2d5IENvbXBhbnkgUEpTIFx1MjUwNyAxOTQuNS4xNzguNzAiLCJhZGQiOiIxOTQuNS4xNzguNzAiLCJwb3J0Ijo0NDI2NCwiaWQiOiJlZTcxNTZmNS1jNTk0LTRkN2YtOWUyNS01ZGUwMTQwNTljODUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://hz43x9tq-670a-gcvn-0znr-ajpbn7ejdv8m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://k5wcki7e-clsc-yv87-6e8b-cpnomi00mmdm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0chozf87-mysc-xo40-amah-dz2mj1yp5kku@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://opin4t9e-h8sl-3x3g-h7ua-2ed4sz3st1zq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

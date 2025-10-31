@@ -1,7 +1,10 @@
-trojan://q53eiwcn-ydma-o3gj-1nql-dzci0pbsdy2l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://t23gpfyw-jo0n-17fq-vduu-nscxadg907ir@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zp9ji12s-bhx9-dxgq-u217-zuqa9bj3x9dv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5clp0VUVsR2hMOHhmZWFOMGhJSXpR@193.228.139.250:1080#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cloud Hosting Solutions, Limited. ┇ 193.228.139.250
+trojan://8nj3ifjr-yvnn-964a-09yi-le8heiyxwmph@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://tf5fzdnk-i95k-m7o1-wgyl-eg5tf3wwnvjk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g8v8rqai-9w5m-9676-j136-plclepg7qrfp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNlFLaEVWQVhaSVk3cWcydU9sb0U0@45.132.1.139:4143#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cloud Hosting Solutions, Limited. ┇ 45.132.1.139
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#LV 🇱🇻 ┇ VLESS-TCP-RLT - Cloud Hosting Solutions, Limited. ┇ 178.250.191.11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6aVdQMEExZFN6OThDY1BLcXBPU2VD@212.192.31.173:2287#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cloud Hosting Solutions, Limited. ┇ 212.192.31.173
-trojan://302idle3-e0ew-u5hu-e8pu-wm9mllp6utjc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7uluwk8e-jn81-012m-tawp-s6jhn8hu2knw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&security=none&path=/panika#DE 🇩🇪 ┇ VLESS-WS-NTLS - Cloud Hosting Solutions, Limited. ┇ 212.192.31.146
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5clp0VUVsR2hMOHhmZWFOMGhJSXpR@193.228.139.250:1080#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cloud Hosting Solutions, Limited. ┇ 193.228.139.250
+trojan://0f6vdshr-czpn-qodp-gl0y-e1tsra0lmk1m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pdgajklt-f5lk-4lii-uqxj-963uu9nvcwzr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

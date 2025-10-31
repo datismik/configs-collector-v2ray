@@ -1,6 +1,6 @@
-trojan://7sg1x6sv-mfnp-igze-68hh-v6etpd4j1vlk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://qm556lev-rrzh-055k-jqt7-kd1g819lw3qd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9jiqccs7-9wcq-l0g9-ozj6-u2tqru5b1sla@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://j3favo1n-0dyg-usmr-vpwy-viq8a7bcbff9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://wcnbwm48-89de-k8m8-3axm-pzcn5j6k513v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mpnix4zv-gxwd-u0mb-bhwv-c0nwn4kb0m5s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d28ba1cd-eabf-4ea6-9655-e5c8fb11fcdf@202.124.251.40:13114?type=tcp&security=reality&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=BQH9S8Hg5Z8AqqXb9pNX1Yl-fcQPlKRy1ZWClfvasBw&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-RLT - CyberForest LLC. ┇ 202.124.251.40
-trojan://qyrjgu8c-2vnc-3b4n-9iwe-aqez8g70jpmj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n1w75uf9-qukd-qyvo-ijed-wncwqfjjbml5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://nibq6c24-1sro-la4n-te42-a07dpfr3wb4l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0qu0k894-oclz-y4cz-glis-pg3quj7vx9m7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

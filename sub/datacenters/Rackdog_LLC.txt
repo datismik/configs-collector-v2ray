@@ -1,6 +1,17 @@
-trojan://4b6sdq9k-si80-ch61-jgya-jzzl4xonemlt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://cfmao4m0-1od2-6d4h-rper-0pznaqsow2fn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bwxh9vro-0rlt-nvvp-q2od-3hsem5e4f6d3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9o4ggdkh-186y-vb3d-lmju-vr14i494i642@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://j7ld4plp-j14a-ulzj-0wd2-yzmzqij9y60e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4ay84c5b-049y-7jiu-302t-l5gux4muq6vl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://bbef1e1b-4061-45ce-a6e0-4cec2fe38cc4@m41a.vip784.com:33801?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog, LLC ┇ 185.206.69.32
+vless://8523c3f2-d5c7-4cce-9342-5c48a1afb3b9@m59a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog LLC ┇ 162.250.99.20
+vless://aac5267c-93e1-44d2-97a0-be936b98690a@m48a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog, LLC ┇ 185.206.69.45
 trojan://fsoOufuTGmSKzRDaAwAbww@162.250.99.26:443?security=none#US 🇺🇸 ┇ TROJAN-TCP-NTLS - Rackdog LLC ┇ 162.250.99.26
-trojan://ruoa2azy-sa9k-8vet-fwvs-feb3bu6ant5e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xot97bs8-dn1g-l1gm-4xq6-sxr70xzsme89@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog, LLC ┇ 185.206.69.28
+vless://b9793e0b-b030-4ac6-a503-8f2081d1cada@m47a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog, LLC ┇ 185.206.69.44
+vless://e1103da3-811a-4543-a1db-2bdf31a895dd@m58a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog LLC ┇ 162.250.99.21
+vless://d4437242-7039-4e88-b83b-f383fa5ffda2@m57a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog LLC ┇ 162.250.99.22
+vless://09703cf7-a8d3-48ed-a2a5-daf853a6078d@m60a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog LLC ┇ 162.250.99.19
+vless://39c8e0d3-c932-4ff7-b3e3-83002647907b@m44a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog, LLC ┇ 185.206.69.39
+vless://66cb0bf2-1413-4dcb-9cbb-d94e4df45f72@m46a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog, LLC ┇ 185.206.69.43
+vless://cadc7e66-867d-41ac-ae6e-c65915f91200@m43a.vip784.com:33801?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Rackdog, LLC ┇ 185.206.69.38
+trojan://1wco2vsh-gvxe-vd6x-8twj-agjo4mgg0q8l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hoc6qzl9-rd2j-a733-v1dm-qx1qpn7cwfnl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

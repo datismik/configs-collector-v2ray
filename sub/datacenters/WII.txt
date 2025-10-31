@@ -1,8 +1,6 @@
-trojan://u43muiha-fv77-tc27-ishd-ausjmjm9lhh2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://rvb6zgej-tnkg-cbap-0blh-p4vqzurwyd68@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3kriinu2-merm-6mlt-e8un-ygiywqbtmrdl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4hcczj9g-uf3j-8esz-yn2p-uve4bvuith6f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://qrxsy1l4-logh-xxla-sqr7-4f8pdw7jvyic@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xkkrbg0j-8yw2-ep14-eqmo-13baoixvogt8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@69.30.232.19:25536?type=tcp&security=reality&sni=apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=GO9XfLa_vlZBDC_mdRo4bkrb1BBOpTkbTrlEvRKFrWE&sid=81f9#US 🇺🇸 ┇ VLESS-TCP-RLT - WII ┇ 69.30.232.19
-vless://8214a3c7-23d5-4168-8754-c1ad8c9ad71d@204.12.192.220:443?type=ws&security=tls&path=/ALB/VIPSell/@saeedtelg&sni=ccsnal.vipsell-one.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - WII ┇ 204.12.192.220
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV0lJIFx1MjUwNyAxNzMuMjA4LjI0Mi4yMjYiLCJhZGQiOiIxNzMuMjA4LjI0Mi4yMjYiLCJwb3J0Ijo4MCwiaWQiOiIzNzQwY2MyNi1iZDk0LTQ0OWQtYWJkMS0zZGFkNmMwODU1M2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
-trojan://q85heuvx-haz4-xwsp-aja5-gspcph43norp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xdskjo6k-unbb-fzsp-cmew-ffawkjs00wsp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0hs2tntk-6cjq-qi25-pevr-j8pipvmqho3g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5wz1f295-c6wq-gwyn-yvb9-phofa48gsv87@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

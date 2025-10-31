@@ -1,8 +1,7 @@
-trojan://x1ror9ec-9g5q-2qjl-p3jz-6rgvc9u6g26p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://uotkmf4o-7dtu-xwpi-mc63-mwu9tkehj1mg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4knhur3f-ytcd-i8rp-fhbz-h6us9tmimlxc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://BLUEV2rayng-Config@5.57.36.39:31313?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabake Tarh Madar Iranian Private Joint Stock Company ┇ 5.57.36.39
-vless://ea8834d6-2a86-480d-a385-b5ba3ef26914@178.239.154.118:4248?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabake Tarh Madar Iranian Private Joint Stock Company ┇ 178.239.154.118
+trojan://gw8g05q3-hbis-98z1-1h3w-xmv5a7vkqvgk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://iluuipcz-h8ip-jhrt-lpo7-jg6rl5ptl3o3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://stk2d0wy-0ej6-qblw-ejey-qa0t6l9w6rnx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://583d3948-63d4-4938-a40c-7ca4fffaefcb@5.57.36.39:31313?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabake Tarh Madar Iranian Private Joint Stock Company ┇ 5.57.36.39
 vless://ad91a879-ac70-41f5-8a3a-b1f04f72385f@5.57.36.206:28349?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabake Tarh Madar Iranian Private Joint Stock Company ┇ 5.57.36.206
-trojan://t4ypqtn6-fphx-ryst-2gg0-p1cjlur8iwdv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sdqx3ij3-p4wh-dvo9-g8ln-x76rm7zvzbg6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://o2zvavce-rhuy-b0gp-6xca-2ir2p76ajhei@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pc4sphrc-4jxc-d3kx-au9c-k5zulw5eikwq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,9 +1,7 @@
-trojan://wjudb2vy-gpne-ydcx-d57x-22g8o76sr1sp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://fc7kxkhl-uju1-f49u-shha-e5772nyt3wyb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://p42ilo7b-gu66-hei7-iaay-1eldw6iimurk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhVQVdFSSBDTE9VRFMgXHUyNTA3IDE1OS4xMzguMjQwLjM4IiwiYWRkIjoiMTU5LjEzOC4yNDAuMzgiLCJwb3J0Ijo0MTE5MSwiaWQiOiI3M2JiMWNlNy1hYjgyLTRhMDgtYTRkMy03N2M1ODVkNjU3YmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@159.138.131.240:443?type=ws&security=tls&path=/proxyip=proxyip.tw.fxxk.dedyn.io&sni=xin033.ylks.link#HK 🇭🇰 ┇ VLESS-WS-TLS - HUAWEI CLOUDS ┇ 159.138.131.240
-vless://3145e274-fb50-45f8-bad0-e0561bbed05d@166.108.235.1:2321?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - HUAWEI CLOUDS ┇ 166.108.235.1
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIVUFXRUkgQ0xPVURTIFx1MjUwNyAxODIuMTYwLjE0LjE0NSIsImFkZCI6IjE4Mi4xNjAuMTQuMTQ1IiwicG9ydCI6MTMwODAsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwMS5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiMDEuYXBwbGVpZC5iZiJ9
-trojan://846guojv-8nqf-eg6x-3t7f-ls7s5huc7rps@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1xn42muw-n9of-2eyv-rxrq-o0f2d074d3r6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://81ls7fbn-v9ys-39tj-a831-8ywtok938706@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://gnucc1nj-imq0-ifsv-7abs-97740xuylqxx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://orhl1gy2-1eda-9fiv-9yv4-j3zxl9wsqlxy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhVQVdFSSBDTE9VRFMgXHUyNTA3IDE4OS4xLjIyNi42NSIsImFkZCI6IjE4OS4xLjIyNi42NSIsInBvcnQiOjExNTA3LCJpZCI6IjU5NDFjN2E4LTVmODItNGE5OC1jMDZkLTNjM2YyMDAzZWY1MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@189.1.247.15:40721?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&sid=6b#HK 🇭🇰 ┇ VLESS-TCP-RLT - HUAWEI CLOUDS ┇ 189.1.247.15
+trojan://ckcukqmc-21fa-uhty-4n2n-u5epzr8rgz0v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lbuurm27-tafn-3izo-kti8-2iu1xbk121dr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

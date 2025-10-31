@@ -1,9 +1,6 @@
-trojan://fs1kms2a-4wwu-hdbe-01hi-r78clzeiyt7z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://0wapio9c-xseh-ddl2-92n2-ody4y5jz5v9e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zqzkumft-22l9-qp8l-l249-wazf1to2tvvq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@46.149.203.202:7656?type=ws&security=none&path=/Telegram&sni=steep.skyfigure.top#HK 🇭🇰 ┇ VLESS-WS-NTLS - Dimension Network & Communication Limited ┇ 46.149.203.202
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@66.203.150.211:7656?type=ws&security=none&path=/Telegram&sni=steep.skyfigure.top#HK 🇭🇰 ┇ VLESS-WS-NTLS - Dimension Network & Communication Limited ┇ 66.203.150.211
+trojan://1nf2dqh8-xvxw-vn5t-5x1j-hr1hutzozg2w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://ibt8pwq5-wnaa-y6r6-npxj-ig5c52sirczt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9f28cfex-ldoq-ml89-69sh-iadcka76p0t8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@66.203.150.210:7656?type=ws&security=tls&path=/bing&sni=photosair.ir#HK 🇭🇰 ┇ VLESS-WS-TLS - Dimension Network & Communication Limited ┇ 66.203.150.210
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@66.203.144.241:7656?type=ws&security=none&path=/Telegram&sni=steep.skyfigure.top#HK 🇭🇰 ┇ VLESS-WS-NTLS - Dimension Network & Communication Limited ┇ 66.203.144.241
-trojan://r6msa6wh-f1zv-fdqh-ljvu-d9zj4854lzy1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4volv1bh-77dg-cihs-cio6-y0gdo1krdnp3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://t55tjapc-kigl-0o47-u6yn-1iyim5l0yick@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8asly8ye-mefv-99wv-8jr4-xlicnqml76ad@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

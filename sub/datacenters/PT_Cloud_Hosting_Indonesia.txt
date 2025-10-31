@@ -1,11 +1,10 @@
-trojan://1l9kpwz4-rvpa-wlso-zeva-m4lf6fkc1i5k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://raelfuy2-2czj-ca6d-y7qw-g88ivdwru7wb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7rkp9dq4-04hr-wv0z-t31c-vd6r06jronf6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUFQgQ2xvdWQgSG9zdGluZyBJbmRvbmVzaWEgXHUyNTA3IDEwMy4xNzQuMTE1LjE2MyIsImFkZCI6IjEwMy4xNzQuMTE1LjE2MyIsInBvcnQiOjY4MjcsImlkIjoiZWFlYzExNGQtMWU3Ny00MThlLThmMWUtNWMxNjc3MmMzYTUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvOThUUDFmY3BHIn0
+trojan://0vwldivf-uiei-s2zm-d66k-3uanexl7qmt2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://0zhexmkx-ntme-hodc-dkz4-c00i6ai3si84@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kmodoqj6-cc0h-zxf9-i8w9-zrijhrzmlyf2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://idc117okt@103.176.78.153:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.176.78.153
-trojan://idc117okt@103.226.139.201:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.226.139.201
-vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBUIENsb3VkIEhvc3RpbmcgSW5kb25lc2lhIFx1MjUwNyAxMDMuNjcuNzkuMTU3IiwiYWRkIjoiMTAzLjY3Ljc5LjE1NyIsInBvcnQiOjQ1MzY1LCJpZCI6IjdkMmE0ZTY2LTE1MmMtNDlmNS05ZmY1LWMxOWE4MzZlOGM4OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@idn.fastsoonlink.com:40033#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - PT Cloud Hosting Indonesia ┇ 103.146.203.84
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@103.28.53.21:40033#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - PT Cloud Hosting Indonesia ┇ 103.28.53.21
-trojan://pea6awzc-60qt-pt9n-v2kx-6pz2xlwjua5o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a9mpcepb-199r-sn9r-b1ay-x8n3i2nga8km@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@idn.fastsoonlink.com:40033#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - PT Cloud Hosting Indonesia ┇ 103.146.203.84
+vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBUIENsb3VkIEhvc3RpbmcgSW5kb25lc2lhIFx1MjUwNyAxMDMuNjcuNzkuMTU3IiwiYWRkIjoiMTAzLjY3Ljc5LjE1NyIsInBvcnQiOjQ1MzY1LCJpZCI6IjdkMmE0ZTY2LTE1MmMtNDlmNS05ZmY1LWMxOWE4MzZlOGM4OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+trojan://idc117okt@103.226.139.201:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.226.139.201
+trojan://ql0tyeyn-byar-f7l8-znql-de98yst8e1zc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vk6fk6le-xxgf-r9ju-2ens-41sbib9umxku@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

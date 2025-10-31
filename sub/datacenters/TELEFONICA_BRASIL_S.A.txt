@@ -1,0 +1,6 @@
+trojan://blbb3chb-fvqk-sm97-24pg-c6jnvoh2p4ea@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://mv5jkz7z-u9nj-dbbu-mwcw-genrq5kamxau@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cewmxtl2-m4vq-a4vg-nybz-j53rz50r6kj5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@189.44.242.222:29500?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - TELEFONICA BRASIL S.A ┇ 189.44.242.222
+trojan://u7vvk9qn-nz9t-5xzc-vyj1-yujqnd5vobno@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jr2egdy3-xzqv-ox3a-hbju-kgqvjpvi4ulq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

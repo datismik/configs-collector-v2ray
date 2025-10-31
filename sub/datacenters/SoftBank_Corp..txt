@@ -1,6 +1,8 @@
-trojan://6z9ar7oj-lrf0-5buv-2rew-7911jg610xrx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://rulzz58v-swew-heiy-qwdp-hsbo8dste11q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i8zlg9r7-qj1q-xau9-tm8n-secoqhhszem1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://042de66b-158d-42af-ad99-263c69999548@126.39.63.163:26111?type=ws&security=tls&path=/?ed=2560&sni=etc.mesa.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - SoftBank Corp. ┇ 126.39.63.163
-trojan://w2otvsfz-ujpz-y5u4-4w8s-sku23620i59d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://01wdjyp1-ih75-darv-n80e-cl6egulgw7fd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ks1ryzen-5qmi-oi4z-dd1x-opvuz41nxtfn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://iiy0y97w-fhlr-i1v7-7cwd-fqz74byaqtnu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o1wo1p52-v0lh-y73g-q7qm-scc1xap3njzk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?sni=fe2.update.microsoft.com&peer=fe2.update.microsoft.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 126.47.92.160
+trojan://c53647f3153f784b3c695ffbe5fb43c0@60.82.70.104:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 60.82.70.104
+trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SoftBank Corp. ┇ 126.116.225.149
+trojan://1uviayxx-yc2t-8f6j-cb8p-00cypq4ook7m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8r2oed1w-l2ew-ope5-oo7c-0d9j05orlhxy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

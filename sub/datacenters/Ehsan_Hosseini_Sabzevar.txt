@@ -1,16 +1,6 @@
-trojan://8q5vuvtu-11qf-xnzf-zm4v-e064wda5gkb9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://cm7d65da-jx8s-ac3b-iquh-tcjvupyky3q0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://374i9i9w-2ohy-xx0j-xacx-psy14o01mfil@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVoc2FuIEhvc3NlaW5pIFNhYnpldmFyIFx1MjUwNyA4NS4xMzMuMTk2Ljc4IiwiYWRkIjoiODUuMTMzLjE5Ni43OCIsInBvcnQiOjEwMTY1LCJpZCI6IjFiZjZhMjljLTRmMGMtNGQ0Yy04OTZjLWIzYjc3MGQ5NGU4MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://2817811a-e5e9-42ac-b47b-9563e860e71d@85.133.196.37:3472?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.37
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVoc2FuIEhvc3NlaW5pIFNhYnpldmFyIFx1MjUwNyA4NS4xMzMuMTk2LjE3MiIsImFkZCI6Ijg1LjEzMy4xOTYuMTcyIiwicG9ydCI6NDQzLCJpZCI6IjBhNjUzM2RiLTFmMTMtNGIwOC04ZjcyLTVjN2UyZTZiY2JjMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://67890529-e5fc-4042-c8d8-4d2ac5decf94@mci.persiangames.online:3478?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.38
-vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.13
-vless://5614af98-1610-46b9-d3a7-0dbf9b620594@85.133.196.2:3074?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.2
-vless://cc2bb70c-4bf5-4a73-cfe6-ee72b9036f49@85.133.196.3:3478?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.3
-vless://67890529-e5fc-4042-c8d8-4d2ac5decf94@85.133.196.11:3478?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.11
-vless://67890529-e5fc-4042-c8d8-4d2ac5decf94@85.133.196.10:3478?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.10
-vless://fb0d039c-db10-47ad-80c6-99c83318dfc1@85.133.196.6:3074?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.6
-vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@85.133.196.12:3073?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.12
-trojan://z2qa98ky-0rn3-8e3l-3417-0gkyuk6klipo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oq4b3iks-q4jy-070a-7hlh-m8gpqyfci9ep@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ygqhw9xv-4gmm-8vw8-1st4-zp7nnczr8lrg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://2p5h8u2x-1ycj-ao35-mrmm-dcip2puixymp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kkx4j9dt-e3ny-st5d-bs20-mr7e4za52zde@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ehsan Hosseini Sabzevar ┇ 85.133.196.2
+trojan://hta00y61-n7fw-egwa-1tbp-dl1usf2lwczs@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rouvxgxa-l3my-k0uf-d50d-16ceooq75g1h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

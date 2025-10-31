@@ -1,8 +1,17 @@
-trojan://qjcp58a5-os40-shsj-ahm5-4qu59htvvfy0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://hy3saeid-ghgd-iulr-mzfv-qxaumtszlp0q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qca6uzz6-10m7-a9gd-vhyb-pqec8wbuaaic@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://8405b505-709f-4066-8f24-5337212d47d4@154.205.147.238:443?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mu0LLDgqLrI_QQwD3Dhd_sAldyWylaspLVS5lXDEeCU&sid=e0796eb9b80f7a#OM 🇴🇲 ┇ VLESS-GRPC-RLT - Kaopu Cloud HK Limited ┇ 154.205.147.238
+trojan://m51d42et-z25c-nnj1-vxcx-fwlx6gcj4w7w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://0a89ro3y-ab20-86pd-76er-9fy7ltyp2h43@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0v3wfwzr-i6em-squo-ukud-63af7nwpctmw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://d4f8c277-8b45-45f0-b45e-ed3ce46138e8@154.205.147.41:443?type=xhttp&security=none&path=/awd#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.41
+vless://accc0d7e-759d-4f00-97a0-ed30e7780a32@154.205.147.214:443?type=xhttp&security=none&path=/wd#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.214
+vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.96:443?type=xhttp&security=none&path=/ad#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.116.96
+vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.105:443?type=xhttp&security=none&path=/ad#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.116.105
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFSlFmRkZMMnJtMXNHMDVmUlIxN0ZN@154.205.147.68:8443#OM 🇴🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.68
+vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.178:443?type=xhttp&security=none&path=/ad#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.116.178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@154.205.147.24:8080#OM 🇴🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.24
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.28.121:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#OM 🇴🇲 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 162.158.28.121
-trojan://ejusf4il-y97t-a39e-ubhf-3ka2dohfdk21@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5aw63av5-4tbn-fcqz-0p1u-kz65fj97v77f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.73:443?type=xhttp&security=none&path=/ad#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.116.73
+vless://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.177:443?type=xhttp&security=none&path=/ad#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.177
+vless://2420c965-0bc8-46f1-84c2-c184914cc754@154.205.147.43:443?type=xhttp&security=none&path=/sf#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.43
+vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.156:443?type=xhttp&security=none&path=/ad?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.116.156
+vless://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.124:443?type=xhttp&security=none&path=/ad#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.124
+trojan://o9l70js2-56h0-rktn-153y-o1yicki36lcj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://so3th1ov-f4ps-wf3d-ne1s-f1j5ve74cvg5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

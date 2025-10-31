@@ -1,11 +1,7 @@
-trojan://os8v1ig3-yma2-i349-q489-sv2tns8przxv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://gugzgy00-s7st-ctlg-6jyg-f6muqc0ip4nb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tof8suxm-zcef-tr5a-7yf4-3g8cxdhf2b95@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENKU0MgS29sb21uYS1TdmlheiBUViBcdTI1MDcgNS40Mi43Ny4yMjEiLCJhZGQiOiI1LjQyLjc3LjIyMSIsInBvcnQiOjExNzE1LCJpZCI6ImZhNWM1NWE1LWU1MGEtNDI3ZC1iNTdlLWFhYjE5OWY0Y2I4NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ1VRMmNRVFB0QkdOamJDWEtNS2VI@5.42.72.241:30482#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 5.42.72.241
-vless://Amirinventor2010@217.196.107.14:8086?type=tcp&security=none&path=/@Amirinventor2010-Youtube-Telegram#RU 🇷🇺 ┇ VLESS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 217.196.107.14
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDSlNDIEtvbG9tbmEtU3ZpYXogVFYgXHUyNTA3IDUuNDIuODQuMTAzIiwiYWRkIjoiNS40Mi44NC4xMDMiLCJwb3J0Ijo0NDMsImlkIjoiYTE2NTVmNTEtMWUyMC00YTkyLThhMTEtYjdjYTMwYTdhMzUzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoicmFuZ2Utc2hhcGUtYjNmdWVndS5iYW5hbm9rMTgyLndvcmtlcnMuZGV2IiwicGF0aCI6Ii9hZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoicmFuZ2Utc2hhcGUtYjNmdWVndS5iYW5hbm9rMTgyLndvcmtlcnMuZGV2In0
-vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDSlNDIEtvbG9tbmEtU3ZpYXogVFYgXHUyNTA3IDUuNDIuNzUuMjMyIiwiYWRkIjoiNS40Mi43NS4yMzIiLCJwb3J0Ijo0NDMsImlkIjoiMDYxOTViNWItMzgxNS00YTA3LTk2ZjctNDdlZWZiYjFiMTQzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoicmFuZ2Utc2hhcGUtYjNmdWVndS5iYW5hbm9rMTgyLndvcmtlcnMuZGV2IiwicGF0aCI6Ii91cm54ZXd6dmguc2l0ZS9rd2htdndzIiwidGxzIjoidGxzIiwic25pIjoicmFuZ2Utc2hhcGUtYjNmdWVndS5iYW5hbm9rMTgyLndvcmtlcnMuZGV2In0
-trojan://g4uld74e-xu5r-qn8c-apt1-xg74gyxcwjxx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tq2hynwc-qbe9-y93h-kyn2-hy8wfthha3qe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://g93k2kx4-hjw7-ttvk-h1a3-ri17jep65gam@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://3ofc8eip-duvr-wnrm-1a7v-jw0c6bg61ldm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dzk73pnb-bktb-0a73-9qlk-x1c8micp79lq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&flow=xtls-rprx-vision&pbk=3q2rJ0IljIdNL0YvlAy7TwqtnPCr1woQv9KjoHjG3gE&sid=366e5433f6196a6f#RU 🇷🇺 ┇ VLESS-TCP-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
+vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?type=grpc&security=reality&sni=www.speedtest.net&fp=random&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c#RU 🇷🇺 ┇ VLESS-GRPC-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.82.167
+trojan://vx2bn2jx-bqic-8enp-ywta-o6mudymhwlhu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nso2dkfo-kbhp-fhhr-g306-9k7toice015u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

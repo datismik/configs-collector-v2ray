@@ -1,7 +1,24 @@
-trojan://spjr0xgk-iulr-zex3-cjcv-cip0lmchmzso@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://fsnuzao5-4s9o-v55g-pdr4-goyxo8kk2ea3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://atfa02dg-6yxh-2xjx-t7zi-24351psatf16@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM@95.164.249.61:54075#GI 🇬🇮 ┇ SHADOWSOCKS-TCP-NTLS ┇ 95.164.249.61
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYS2E1RFJobnVCZGdmS2VaTlhmZjVwbzk2dTJSQzVWYUJaVVNUb0NHb0NINFpCaG9HTVpjclQ5Q1k2NDZySDNuV1JuMjRkN0ZFRXVqcjRRd1VERnVZUUZBb0hqdGZBZ04@94.131.127.239:49072#GI 🇬🇮 ┇ SHADOWSOCKS-TCP-NTLS - NetAssist LLC ┇ 94.131.127.239
-trojan://jgi93ahk-wsdg-7uk1-1tde-tds6738dyqxm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u9helrgj-93i4-g9po-uyu2-gxur3xhffj2e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://g5fwj6ri-dkql-iz7y-s118-oyno0fwt9vj1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://q5qc45i7-qncc-3w1f-4y2g-uselekdq7gt3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://76hknx1j-3eb6-at3r-60sq-7g8d6qpxk974@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.149
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?type=tcp&security=none#GI 🇬🇮 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.183
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.97:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.97
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.244:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.244
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.211:8880?type=tcp&security=none#GI 🇬🇮 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.211
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966574572431911.rome-blkaft-aaau.info:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.65
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971880245562150.mashhad-blkaft-aaax.info:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.189
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.82:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.82
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.169:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.169
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022058726038.birjand-blkaft-aaak.info:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.145
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?type=grpc&security=none&fp=chrome#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.156
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252589849.dublin-blkaft-aaax.info:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.232
+vless://f6fe292a-4775-4219-99f6-4af979ae93a5@95.164.6.201:443?type=ws&security=tls&path=/qyytmews#GI 🇬🇮 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.201
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.26
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.79:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.79
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.7:8880?type=tcp&security=none#GI 🇬🇮 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?type=tcp&security=none#GI 🇬🇮 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.22
+vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?type=ws&security=tls&path=/kcknkyws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#GI 🇬🇮 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.214
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.15:8880?type=grpc&security=none#GI 🇬🇮 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.6.15
+trojan://notmltul-wtis-ck3z-mapx-2b6sw8waxvz6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://huv32ak0-2w4y-46o2-5h6m-4zbglsuw7yn8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

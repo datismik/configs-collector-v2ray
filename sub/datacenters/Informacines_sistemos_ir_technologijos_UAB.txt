@@ -1,10 +1,8 @@
-trojan://2iglm49a-4l38-y19c-tmo3-96zaguz424gi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://yhscptib-78ha-w9xl-eup8-yu10ao6bk2uk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gv2mink0-hen7-6u9p-5wau-awvned3x0x2v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ckg0hnq8-s6x4-q2qj-59km-j3mtoyhc4kv5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://urnmotna-hdu4-40jv-8ok5-2yt56trqwyj8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://24qh8z8c-ntf0-6fvo-gsvu-zwaqzx958du6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY1LjM2IiwiYWRkIjoiODUuMjA2LjE2NS4zNiIsInBvcnQiOjQ0MywiaWQiOiJiYTQ5YWIwNS03OGY4LTRiMGItOTQwMC0xODI2Y2MyZDNmNzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY4LjY5IiwiYWRkIjoiODUuMjA2LjE2OC42OSIsInBvcnQiOjMwMDAwLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJkdGxzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
-trojan://3501515828cc7f64eca8af758a6b921f@88.119.175.241:443?sni=www.cloudflare.com&peer=www.cloudflare.com&security=tls#LT 🇱🇹 ┇ TROJAN-TCP-TLS - Informacines sistemos ir technologijos, UAB ┇ 88.119.175.241
-vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSW5mb3JtYWNpbmVzIHNpc3RlbW9zIGlyIHRlY2hub2xvZ2lqb3MsIFVBQiBcdTI1MDcgODUuMjA2LjE2NS40MyIsImFkZCI6Ijg1LjIwNi4xNjUuNDMiLCJwb3J0Ijo0NDMsImlkIjoiYmE0OWFiMDUtNzhmOC00YjBiLTk0MDAtMTgyNmNjMmQzZjc1IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjQzNTM1MzIyOTA2In0
-vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY1LjQ0IiwiYWRkIjoiODUuMjA2LjE2NS40NCIsInBvcnQiOjQ0MywiaWQiOiJiYTQ5YWIwNS03OGY4LTRiMGItOTQwMC0xODI2Y2MyZDNmNzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8yNDM1MzUzMjI5MDYiLCJ0bHMiOiJ0bHMifQ
-trojan://av9vtvuc-z9s6-2qcj-b69v-2i9gh0thx4bk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://74s2nupe-ygfg-r5pm-9iq2-frs7zopn5xuz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://a3998b7d5951c3fdd571fcd1bb040047@88.119.175.241:443?sni=www.cloudflare.com&peer=www.cloudflare.com&security=tls#LT 🇱🇹 ┇ TROJAN-TCP-TLS - Informacines sistemos ir technologijos, UAB ┇ 88.119.175.241
+vless://a35367d5-0edb-4882-b8b5-0249b820e114@213.252.232.175:2096?type=tcp&security=reality&sni=apple.com&fp=random&pbk=PbUniy2w23tAs97ciXVClmXXRXtV1lb69dS-J9SFbAc&sid=7c88bf8e#LT 🇱🇹 ┇ VLESS-TCP-RLT - Informacines sistemos ir technologijos, UAB ┇ 213.252.232.175
+trojan://apugxeyu-t43g-l7wr-7yq9-fdw4yj34hby2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9t6m5fid-u8a7-rxtu-m5yz-jxzluk6dcmd4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

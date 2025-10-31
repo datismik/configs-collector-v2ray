@@ -1,9 +1,12 @@
-trojan://mbqxu5p8-s115-0pmj-c6up-x15uo7fj0j5x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://qkyw3z3b-ql1u-iy87-ygtl-gcgfhry76xws@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://46iwfdun-hdl9-2gh4-ksph-2nz2qc5q3nqt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@185.204.109.190:8443?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Zomro B.V. ┇ 185.204.109.190
+trojan://q7pzi1f3-u6xd-3gf1-9bxz-ic5xlagoklz4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://6fqmgf1l-w2d9-rsz9-0sjd-k640wcr7kqk9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://06gkpprh-nzui-ra40-brr1-3cc9jpnmsbnt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@185.51.246.121:2053?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Zomro B.V. ┇ 185.51.246.121
-vless://500fa635-f420-4148-ae10-5b857163d045@45.87.2.60:2053?type=ws&security=tls&path=/?ed=2560&sni=vl.kouok.us.kg&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 45.87.2.60
-vless://504fa227-6493-4c4b-983c-4661c96a0e11@213.166.71.40:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - Zomro B.V. ┇ 213.166.71.40
-trojan://vwdqpt04-u6a6-wwku-g1kx-h6m23wx2jrwt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7onoj5r3-wzi5-ykn3-5o44-afnjon5rdzew@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://4926adf0-880a-4650-bee5-58250416cb40@103.246.145.244:11802?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=eu_CdEUxOB3IiXYq-t70TjU3tXwgrJFusHWUmqzFXS4&sid=2ed15414d2#NL 🇳🇱 ┇ VLESS-TCP-RLT - Zomro B.V. ┇ 103.246.145.244
+trojan://Aimer@185.204.109.190:8443?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Zomro B.V. ┇ 185.204.109.190
+vless://e5c2e234-333e-48b4-8199-2793a64527bc@45.147.199.13:443?type=ws&security=tls&path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=s1-c3r.pages.dev&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 45.147.199.13
+vless://e5c2e234-333e-48b4-8199-2793a64527bc@213.166.71.40:443?type=ws&security=tls&path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=s1-c3r.pages.dev&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 213.166.71.40
+vless://84682a69-c312-4a68-9706-a1acf51ad21b@103.246.144.71:443?type=tcp&security=reality&sni=sni.dzen-services.com&flow=xtls-rprx-vision&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&sid=faca334f84#NL 🇳🇱 ┇ VLESS-TCP-RLT - Zomro B.V. ┇ 103.246.144.71
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@77.220.214.135:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 77.220.214.135
+trojan://kjrsxlk8-stx1-5t3k-xhyl-4qayamt8q89p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://o40aa471-g42i-1bn4-uz2e-l84b9bwlrltc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

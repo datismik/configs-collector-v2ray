@@ -1,10 +1,11 @@
-trojan://jeekk2xe-2nd3-p8xd-926w-r8m1jcafp4hc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://dbcbpa93-7e97-ohx7-xp1u-i64mn8dlsolz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e3s6lfiq-wjpv-8mh9-mc1w-omsx875bjs7b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@45.83.141.23:443?type=tcp&security=reality&sni=tgju.org&fp=random&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#MK 🇲🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.141.23
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@185.225.28.85:47121#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - TELEKS DOOEL Skopje ┇ 185.225.28.85
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.37
+trojan://wegyhpdh-i1cl-6qnq-k3sg-dazi84kdn1cs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://h2g4hcuw-hh67-2dr8-94ka-uoaom8f1wwp7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://eaidg2ta-x9xs-vfb1-aozy-3l07jmhx3u4v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0878eb75-6121-6138-8f06-1aed31aeabe0@macedonia.saitsazs.ir:1443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#MK 🇲🇰 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 89.185.82.97
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
-trojan://2beeun2e-qhga-xlhr-jucb-k3iawko7yihv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://i6u12lf8-cr3h-s9rn-f4aa-xpa9yhn6banb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiTUsgXHVkODNjXHVkZGYyXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBSUyBDb21wdXRlcnMgTC5MLkMgXHUyNTA3IDM4LjE5MC4xNTAuMTAiLCJhZGQiOiIzOC4xOTAuMTUwLjEwIiwicG9ydCI6MzAzNzAsImlkIjoiZmE4Zjg5MTEtMmU5Yi00OTRlLTlhOGQtZjgwMjM5ZWUyMjE0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInBhdGgiOiIvc3BlZWR0ZXN0IiwidGxzIjoidGxzIiwic25pIjoiaW1hZmFrZS5sb2NrZXIifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmekZ5YU15Tk1zY245OGRvdHZDNlFq@46.183.185.67:8443#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.67
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@185.225.28.85:47121#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - TELEKS DOOEL Skopje ┇ 185.225.28.85
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.37
+trojan://7vlz3z2k-683w-nx1f-e4z6-znetqvooh9la@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2tz9nvxi-ohoa-1gbc-rdas-7oshw061agzp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

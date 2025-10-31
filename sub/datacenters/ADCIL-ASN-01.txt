@@ -1,7 +1,14 @@
-trojan://vh2xymkt-g9kc-6q9o-9qvw-jvnpssshj6qv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://jblvexj0-j070-x89v-rqfk-myk250tx9294@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://peodt735-a5wh-gfge-1jd0-yoqt25hw3b5w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hlmlkdkk-23oq-595k-nenk-q3lvm1sgis2c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://i3cikca1-uyzo-omgc-qx98-2h3w3jib0mai@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6id4qejv-m5lt-ma9s-x41i-c5x0fpx7eu4a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://094aefc6-d8f2-4cff-b8de-03b7a7e87aae@144.31.197.178:443?type=tcp&security=reality&sni=de.nosok-top.com&fp=chrome&flow=xtls-rprx-vision&pbk=9l7RFWj9tc1kyaO0JjxjAPdjw_OzlrRDv5BLbY9o0QI&sid=9c2378562188c3cb#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.197.178
+vless://381a4e2b-9380-431c-94b3-58b529de0aef@de.leperfume.ir:443?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=8eFzByo1ERD94b3SfZDmOoeykxKCXi8OpQhnSof5OQY&sid=7c39ea61#US 🇺🇸 ┇ VLESS-GRPC-RLT - ADCIL-ASN-01 ┇ 144.31.193.51
+vless://80db8cee-bd3d-4dde-a3b2-02b6cdb70d99@poland.aliusvpn.ru:8443?type=tcp&security=reality&sni=google.com&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.3.160
+vless://0f425380-a684-11f0-8500-a4251a3d3534@apkq.bosx.net:443?type=tcp&security=reality&sni=cdn.bosx.net&fp=chrome&flow=xtls-rprx-vision&pbk=q86BBVDZMO72kxpwkYxf2kRJRdQwTWYCHL3k4ByikR8&sid=90c1c30633151151#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.0.244
+vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@144.31.1.156:443?type=tcp&security=reality&sni=mirror.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.1.156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@166.88.131.195:52952#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ADCIL-ASN-01 ┇ 166.88.131.195
-ss://YWVzLTI1Ni1nY206Ykk1MVVjN0NMNg@50.114.159.250:6666#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ADCIL-ASN-01 ┇ 50.114.159.250
-trojan://etu44y9a-h3bk-avh3-t87d-6jyy6ys80bc6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8bwfnj0q-hart-f5wm-me00-xer8rq2azpo8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?type=tcp&security=reality&sni=mirror.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.1.157
+vless://1091ab59-e8b5-4fca-bdd5-58fcff4fed1f@poland25.clearorbitllc.com:443?type=tcp&security=reality&sni=poland25.clearorbitllc.com&fp=chrome&flow=xtls-rprx-vision&pbk=-QlxjsQ9QuUaQmCG6D4pPTaLhHKbgYUCJs9rdfS5hzc&sid=ad76d8e3#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.2.208
+vless://87eff1bd-d55f-4df2-a5ad-863368a16cb7@144.31.27.149:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=3O4PQuef1TumC4jS3rJnp9pmAB2UUxamRbw3eTpCalQ&sid=54f3a78595471fe7#US 🇺🇸 ┇ VLESS-TCP-RLT - ADCIL-ASN-01 ┇ 144.31.27.149
+trojan://ka6wqvon-o35a-mzc1-2ous-uy55gu26n4fy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xbjsyn63-ubpo-r8qq-xaim-na8uwzmz1s0p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

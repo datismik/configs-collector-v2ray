@@ -1,6 +1,7 @@
-trojan://nd8mk6hz-tk05-b7l7-9vq9-gbehzk4p84wu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://eq8vgfbu-qo6l-1li3-7tpv-0voq48iqcoob@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mp5wsrl0-lriy-dpvt-2h6v-3s9350n6s7xu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hq8xhdwy-yb65-18hw-tmtx-twno9bb4jmeg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://3xetjwzv-5vwl-vkq9-k4hh-zv51v30n6onh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l56mgscv-v4hi-hjw4-sbeu-gyk0hs8q7v11@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 185.81.97.69
 vless://8deb3e22-af23-2c8f-da3c-f61795de6b46@45.90.73.162:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 45.90.73.162
-trojan://p5550slu-s7ij-r84j-ig27-wafg2u5r1fjp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dvj2a5jn-zhji-sq8s-1aew-oznt2br3vw5h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://awbaxd9o-7k5k-dgwr-ul3p-8thtzaxsinys@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9kwy3czg-k3yl-knn5-m2z0-p16eyj718z8b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,8 +1,8 @@
-trojan://g2kdnbxr-hgca-0vgv-35wb-3ai2errmpfoh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://w2e3g687-jriq-pcbv-ji6t-enni2jk3o7qz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lv7ci52a-f1t2-9mgw-sypl-ijgu2cz1m1yl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1doav6qr-86gs-9alq-71wy-x4x11002nisb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://h2qmaj78-6j5n-ulcs-uclj-5w0z2g3xgx5s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jpo93mbt-y6r4-mqwv-svxe-ityuaxk607iy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Nerdscave ┇ 77.90.11.193
 vless://685214a5-d9a2-40a5-ae75-a10bbc4334f0@77.90.11.28:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=ampnaChEHEYr1TDX5A17QMBa_l0LnK3jWNDxVw31Kls&sid=cb#DE 🇩🇪 ┇ VLESS-TCP-RLT - Nerdscave ┇ 77.90.11.28
 vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&sid=a6a18a6e0259#DE 🇩🇪 ┇ VLESS-TCP-RLT - Nerdscave ┇ 77.90.10.16
-vless://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Nerdscave ┇ 77.90.11.193
-trojan://3snhg6fp-4hkf-eoow-grtw-5brkdjtkd28n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hhmbzayf-t97h-yyqn-9awr-uoa2q3coitdv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://qtcpzguy-knis-nx4u-94ti-j8r09rd7q5ka@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pq65n5dy-9b9r-b6su-59vu-q4ij3vadlftt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

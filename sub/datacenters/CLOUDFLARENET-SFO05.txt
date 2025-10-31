@@ -1,7 +1,6 @@
-trojan://6g2x0rsr-hg0r-p665-j8oz-j9yoq2o69jo2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://f31wc567-rkz4-qizu-ccx9-h44rhkjzeiqr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o4si3o5z-rhc0-crn8-90p4-hs6ud9xiulvs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://vfn46q04-kmgr-zhm8-hib6-kjbtw6l1ck7o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://ou3m75l5-jqxl-l8nd-hjk6-kulfzuczeong@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4ha6u0bp-pcg6-6qwb-j7d4-6ajs2pvqpqyu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@8.20.125.1:443?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CLOUDFLARENET-SFO05 ┇ 8.20.125.1
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@198.41.137.201:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - CLOUDFLARENET-SFO05 ┇ 198.41.137.201
-trojan://82sqh1gp-3ym6-e2d0-tzdy-xe49ydx08v99@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h4ned7me-9l6j-5con-ltlp-k9p9gypfa449@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://smmuo501-i228-78tn-jkry-iwqwxpj3vt6f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ycqjzgge-9d3d-8lzg-u620-av1qqd8088lc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,15 +1,7 @@
-trojan://nf6qo4fn-pabx-w88h-a2l0-a56qwxe9q6cx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://5f5c1jkt-aogx-m37w-jzn4-hldgs67pxom7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nspmgp3g-jf00-d2ga-4mur-js5r0gw2843g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b77bbf9b-96f3-4417-9ba3-1aabd14aa033@188.212.96.153:2021?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.153
-vless://95984f4e-0733-4430-a937-f630cb2fb113@ak111.amirak.cfd:25679?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.114
-vless://df73212d-0481-4528-89eb-6aa322d05e50@188.212.96.93:38495?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.93
-vless://950961e0-a930-41c4-b8be-696139a0cca6@188.212.96.232:36505?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.232
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBEYWRlaCBHb3N0YXIgU2luYSBTaGlyYXogUExDIFx1MjUwNyAxODguMjEyLjk2LjMzIiwiYWRkIjoiMTg4LjIxMi45Ni4zMyIsInBvcnQiOjQ0MywiaWQiOiI4Zjc0ZWM4YS05NzFjLTExZWQtYThmYy0wMjQyYWMxMjAwMDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjkyMGY5ODQwLTRkMGYtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mi5TaG9tYVBhcnZhelJvWWFkZXRvbk5pc3QtQnlwYXNzSXNIZXJlLmxhdCIsInBhdGgiOiIvOTIwZjk4NDAtNGQwZi0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI5MjBmOTg0MC00ZDBmLTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQifQ
-vless://25daca7c-f92a-4b8d-8144-dd25c20cb95a@188.212.96.228:18588?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.228
+trojan://qbkck9y3-g6h5-ar4e-zwbh-rb943f8bkbgf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://52vbh3ex-3ci8-sh73-he1h-z13tojseb8cx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vrxbvpqc-1bhc-ymld-3mpn-ehpvrxl7d1k3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGFkZWggR29zdGFyIFNpbmEgU2hpcmF6IFBMQyBcdTI1MDcgMTg4LjIxMi45Ni4yMzUiLCJhZGQiOiIxODguMjEyLjk2LjIzNSIsInBvcnQiOjIwNTIxLCJpZCI6IjlmZTI4ZDEyLThjZjEtNDc4ZC1iNGQ0LWUzOGM1MjEyMzU0YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vless://46153d1a-ebe7-4218-9155-19618285a286@188.212.96.165:1720?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.165
-vless://063188a9-4cd3-4381-9182-a7b42c4c79f8@188.212.96.118:10029?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.118
-vless://447b8797-1429-4e3e-9137-f29d8b2b414d@188.212.96.119:1022?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.119
-vless://cadf5c65-6ab4-41f3-87a1-8454d92e6ee0@188.212.96.76:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.76
-trojan://31l6k96w-l72s-kgvt-sept-l2xf1423mly3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://eid6ew94-7kok-q7q2-eigx-2iyupb0m5ihd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://j0ykabld-l3ya-2enm-nz07-39vfoihc3abj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://24o8uvz3-4mga-jeff-lav5-jw2u5carwo7n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

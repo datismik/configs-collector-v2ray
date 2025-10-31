@@ -1,8 +1,8 @@
-trojan://moez3zq0-nbhu-tyfz-vgwo-xcjxv3rayyf1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://4pbkmton-a0as-gqff-aqes-o1vdujfbfb9d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://oanzeqdp-898j-z266-aeqz-8xc7bltm1bfi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVE9lb1dROFhwd3QwRUlxektsUG5R@178.208.78.170:23822#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.78.170
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.30.42.248:2501?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Iron Hosting Centre LTD ┇ 46.30.42.248
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MnY4bzFuTnRLSWtRZEY4Q0lGYlh3@178.208.91.118:19805#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.91.118
-trojan://epl0ssot-vm7h-5s2w-hk73-d6i76xvh2poq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h6okhl5m-uqgh-6j7l-1lxr-1gez9dqsfxxe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://w486yf60-48eu-vw2m-15o7-s9jjwgkfx0kp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://8pvl76yy-yn2f-qd00-jwd4-hxvr94nimv8w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://arbrco38-0q6n-gy5z-3ygn-xb0ch59ri7p0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MGp0aDh6NTZEZDRnaHMxRGg3dHdV@178.208.91.118:19805#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.91.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSjltcWVQaFhDYU5wVzh1MW15YUh0@178.208.78.170:23822#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.78.170
+vless://22a4d83c-5bc8-4ab0-ba38-90f55c359fc7@46.30.47.7:30992?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Iron Hosting Centre LTD ┇ 46.30.47.7
+trojan://au6ouhck-5kct-bxrf-7m19-m1h6anhg9hz3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5zw8ajt8-dmls-3nyx-7b6r-s2j9kcnu9h6x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

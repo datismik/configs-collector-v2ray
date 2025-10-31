@@ -1,10 +1,6 @@
-trojan://g9dbq0cb-njr0-ymsl-uuhz-s9v72ulge95q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://jw422m9q-rd3w-niij-65uf-0h6joiovymtg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vpbn13em-wuh4-6sk4-vzp4-u85fwjied2li@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2Z2VpZlpJdjc5bUU@217.70.188.60:855#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 217.70.188.60
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRHYxUjdEWUFqYjQ@92.243.21.138:855#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 92.243.21.138
+trojan://y3h5j1uc-k8hs-o97m-r3wz-8tq2zzao58g6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://pdkqk7ji-7s96-l6fb-30gi-r4zdso8ohvx1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ndcby350-2hhh-ut0p-notd-mzy0wqy6p9fb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcTNpUXF0Vmx5UEpCUGNENlFwbkdF@92.243.27.51:9802#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 92.243.27.51
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbFNscEtRV1ZMTTFNNWMzUQ@217.70.189.155:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 217.70.189.155
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwMVQyRk9Ra0kzWkd4TFdFZw@155.133.130.93:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 155.133.130.93
-trojan://vfdbfwoj-vyqj-zn3j-id9s-z8tgu1urc67i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://023v4pvk-f9cz-htxx-mh0m-jjymak4j9qsk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://guzxoz88-zo01-c0qg-xn30-onemjio5lsj9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://oy2321nd-f0i5-7yc6-9zg0-lvveqk31hmyz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,9 +1,8 @@
-trojan://hvjr772h-7cfb-tgjy-5wj1-0v6h70tkulqc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://q3sgvqb9-kebd-2zqg-7yyi-wnm2pn46vo42@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8g1nx2y9-ecdq-i8hm-ih58-f73hc9scnxwh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.117:16771?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.117
+trojan://8u5y38px-tcgd-zsqw-ysql-mq7uf7dxungn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
+trojan://v9fwksof-pe2j-pxjx-vqoa-qocihhttwvvp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://730tzj8m-ba1k-jatm-uu7a-plew2ukirrnh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ1VqbnZHa2J2VjdObkNMaVpjRGVQMlQyRjF2S1U3VkdSa1NWWkVuNG5zU2RSNDlZSlpvVENDQ3hDdGR6elJUUExoajVNakJFUUVvc2I0V1MxUlNXYkhNeDFTcWJjcTE@5.231.63.169:40934#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - GHOSTnet GmbH ┇ 5.231.63.169
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR0hPU1RuZXQgR21iSCBcdTI1MDcgNS4yMzAuNzQuMTk1IiwiYWRkIjoiNS4yMzAuNzQuMTk1IiwicG9ydCI6ODAsImlkIjoiM2M2ZjY1NmItZjc5Mi00YjVkLTg5MmMtNTM0NWIwMzU3NTIxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwifQ
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.233:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.233
-trojan://f1u1o184-r9sq-jey6-xy8e-n3uhcr2ozqdq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oxf2rvka-v888-xv2m-maqa-ugiqs3rrpr3l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://b6196894-e5ad-447a-84ae-185901ccc3f8@netherlands.kkalmxlwoe.kkanxosnwkf.kkanxkskkfd.ovlmzpwmcm.systemgamingirani.ir:700?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GHOSTnet GmbH ┇ 5.231.105.235
+trojan://hl75bjij-8e8b-inry-94f2-3ys0mka5vgao@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://r3uy0jv9-fy2g-53vg-1vi2-zh9kdqfbj1ny@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
