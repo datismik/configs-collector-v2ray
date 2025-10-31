@@ -1,8 +1,8 @@
-trojan://geel0bw2-65mb-zzef-8pvn-7uauid355o50@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://bysxjmyk-nh5t-0tf1-e2kt-shsky5pugcvk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jh65t6fy-rntq-8zxy-8e5y-mfc38e5mvnsg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://ab29fd16-e7bd-3b20-9583-dd82a1d2cccc@gy.58n.net:20278?sni=z278.hongkongnode.top&peer=z278.hongkongnode.top&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKBN Enterprise Solutions HK Limited ┇ 175.29.22.19
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSEtCTiBFbnRlcnByaXNlIFNvbHV0aW9ucyBISyBMaW1pdGVkIFx1MjUwNyAyMDIuNjQuMTI0LjI1MiIsImFkZCI6IjIwMi42NC4xMjQuMjUyIiwicG9ydCI6ODAsImlkIjoiNThkNGFkMmItODJkNS00ODQ3LWI4OGMtODg5ZGU0ZDM4YzE5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+trojan://psa30kdg-7hut-8b6d-xu19-ai3th560i8m8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://sx6ftne0-9de8-xnev-v4zz-hl1cqj1iqis8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hi98p7iv-361y-v0np-h7y9-ubrsyqt4vom1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSEtCTiBFbnRlcnByaXNlIFNvbHV0aW9ucyBISyBMaW1pdGVkIFx1MjUwNyAyMTguMjU1LjE0OS40NSIsImFkZCI6IjIxOC4yNTUuMTQ5LjQ1IiwicG9ydCI6ODAsImlkIjoiNGE3NWMzYmEtZjJlOS0xMWVkLWJmMWItZjIzYzkxMzY5ZjJkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-trojan://85pf0f1b-z3tb-x7pb-nfut-jvvl13kge9b3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ej4l647o-gh9p-0dkt-67vq-gvv4i1z7rjcr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSEtCTiBFbnRlcnByaXNlIFNvbHV0aW9ucyBISyBMaW1pdGVkIFx1MjUwNyAyMDIuNjQuMTI0LjI1MiIsImFkZCI6IjIwMi42NC4xMjQuMjUyIiwicG9ydCI6ODAsImlkIjoiNThkNGFkMmItODJkNS00ODQ3LWI4OGMtODg5ZGU0ZDM4YzE5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+trojan://ab29fd16-e7bd-3b20-9583-dd82a1d2cccc@gy.58n.net:20278?sni=z278.hongkongnode.top&peer=z278.hongkongnode.top&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HKBN Enterprise Solutions HK Limited ┇ 175.29.22.19
+trojan://k74ceeco-dvrv-c9dj-vpzw-p5xnhhp6cuo2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://awd8aqnz-d8ld-m3ry-ixa2-oqokh9zus98n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

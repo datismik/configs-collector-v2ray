@@ -1,6 +1,6 @@
-trojan://6lu3tsct-u20x-9t5o-07mb-tp0f9gh8vn68@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://m9ch29gc-zzud-o3cg-0tdg-lzb8amvw061c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://afw7pg19-gx2k-jizj-5rit-s0f1f4ureelg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://j0alxelq-uwu9-yjod-fg99-3z8gkte4a56s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://pnp4xkub-k2o8-6tjp-6roj-hkj1hs3v2zfc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qojloabd-hyqp-y915-0c9q-mtgo4j71jkvy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://735f7ade-3a31-4aa0-e084-da68019728b2@123.136.4.238:10052?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=safari&flow=xtls-rprx-vision&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4#HK 🇭🇰 ┇ VLESS-TCP-RLT - China Mobile Hong Kong Company Limited ┇ 123.136.4.238
-trojan://iifg2vuy-ewe1-jyal-xd5h-tg7a1eof70h7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rnq0wqhy-926l-ksbq-oytt-k4famk1njmz2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://iuyjomu0-w2dq-zumy-zx5e-spfbddso5vv7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pybdn2et-3392-eah7-c3n1-9ilgu3byunvg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

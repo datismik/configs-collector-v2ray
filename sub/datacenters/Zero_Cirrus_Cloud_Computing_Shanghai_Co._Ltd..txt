@@ -1,9 +1,9 @@
-trojan://55126qod-3zsn-r18z-g7cx-wb3r5lh0tg23@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://n8j3djlt-a8rb-z493-u3fr-pb6lw6r2uhvf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7b07mqit-5560-2z7g-mb06-yhqlgy6bp5kq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://r7wfflka-i4x8-ng7b-uiao-n4xvbhtpl9ib@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://zuz5mp2m-jnb9-jf7r-zn0t-xlev9xqh3obo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xbkxdze4-ha4h-b2nc-ggn6-9xvysj8syl7e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.99:443?type=tcp&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#JP 🇯🇵 ┇ VLESS-TCP-RLT - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDNiMzViNDBhMjU@103.140.136.242:16622#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.242
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.11:443?type=tcp&security=reality&sni=app.usercentrics.eu&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#JP 🇯🇵 ┇ VLESS-TCP-RLT - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYjUyOTdmMjIwM2I@103.140.136.76:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.76
-trojan://ln86xkvb-jwws-tar0-dtdg-2u4x926ocuoz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://scgr7skt-ap57-1lyh-jvex-23ex1jgmj1tj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.11:443?type=tcp&security=reality&sni=app.usercentrics.eu&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#JP 🇯🇵 ┇ VLESS-TCP-RLT - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.11
+trojan://wjpxdjaq-qbeo-n3gm-6zhs-rrmwm8drq3em@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://484d9mjs-e5vy-gbxr-qqdx-9wco8gwum6z9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

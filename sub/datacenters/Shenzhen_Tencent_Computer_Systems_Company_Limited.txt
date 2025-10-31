@@ -1,13 +1,13 @@
-trojan://iv52n1id-nltn-w0m4-m7a5-46l1450fqyvu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://fvapka14-i84o-47ve-kkte-tg78uptlde05@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kdbc3mva-t2xx-iciq-icjv-066nadcb4y01@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ppqkaqwx-l4o0-hu9o-5far-xdta6cn6m7eg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://55g9lxl7-w8y3-2epb-r4kp-ft73sw4ome4k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4xrir6aa-o4k0-heaq-uvgz-i1ohz3jjd1am@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTEyOC1nY206ZWM1ODg1NDUtMjkyZS00YTExLWFkYTItZDYyZTU5OWFmOTI4@106.55.9.70:24502#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 106.55.9.70
+ss://YWVzLTEyOC1nY206ZWM1ODg1NDUtMjkyZS00YTExLWFkYTItZDYyZTU5OWFmOTI4@1.117.233.253:24502#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 1.117.233.253
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MnVHZkdRc0FQcStIb0I0M3I0dTViOGxpb0dackQvWVRydk1VRmJqZ0Q4PQ@175.178.13.108:56999#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 175.178.13.108
+ss://YWVzLTEyOC1nY206YTc3Mjg4YjgtM2ExYi00ZjFhLWFmNGUtZDcyMWNjYjkyMjk3@tencent.vpne.one:18988#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 114.132.40.118
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2hlbnpoZW4gVGVuY2VudCBDb21wdXRlciBTeXN0ZW1zIENvbXBhbnkgTGltaXRlZCBcdTI1MDcgMTI0LjIyMi4xODkuMjI1IiwiYWRkIjoiMTI0LjIyMi4xODkuMjI1IiwicG9ydCI6ODAsImlkIjoiYThjOWFkNWItMWY1OC00MjM0LWI1ZmUtYTg5NWJlZTlhMDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2hlbnpoZW4gVGVuY2VudCBDb21wdXRlciBTeXN0ZW1zIENvbXBhbnkgTGltaXRlZCBcdTI1MDcgMTE5LjI5Ljk4LjQzIiwiYWRkIjoiMTE5LjI5Ljk4LjQzIiwicG9ydCI6MjA1MjEsImlkIjoiNjgyYjg4MjgtNmNiNC00NzZiLTk5ZWEtMzNhYzkxZTMwYzc3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2hlbnpoZW4gVGVuY2VudCBDb21wdXRlciBTeXN0ZW1zIENvbXBhbnkgTGltaXRlZCBcdTI1MDcgMTA2LjU1LjE4Ny4xMzkiLCJhZGQiOiIxMDYuNTUuMTg3LjEzOSIsInBvcnQiOjg0NDgsImlkIjoiNWE0NjQ3MDctMzE2Mi00YTA5LWU5ZTItZDcwYTZiODkyMjY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2hlbnpoZW4gVGVuY2VudCBDb21wdXRlciBTeXN0ZW1zIENvbXBhbnkgTGltaXRlZCBcdTI1MDcgMTI0LjIyMi4xODkuMjI1IiwiYWRkIjoiMTI0LjIyMi4xODkuMjI1IiwicG9ydCI6ODAsImlkIjoiYThjOWFkNWItMWY1OC00MjM0LWI1ZmUtYTg5NWJlZTlhMDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-ss://YWVzLTEyOC1nY206ZWM1ODg1NDUtMjkyZS00YTExLWFkYTItZDYyZTU5OWFmOTI4@1.117.233.253:24502#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 1.117.233.253
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBTaGVuemhlbiBUZW5jZW50IENvbXB1dGVyIFN5c3RlbXMgQ29tcGFueSBMaW1pdGVkIFx1MjUwNyAxMjQuMjIxLjEzMS4xNzYiLCJhZGQiOiIxMjQuMjIxLjEzMS4xNzYiLCJwb3J0Ijo1MDc5NywiaWQiOiJmYTRiNmY4Zi0xMjY0LTQ1ZWMtOTY1MS02MTYwYzEyY2FiYzUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6ImF1dG8ifQ
-ss://YWVzLTEyOC1nY206YTc3Mjg4YjgtM2ExYi00ZjFhLWFmNGUtZDcyMWNjYjkyMjk3@tencent.vpne.one:18988#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 114.132.40.118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MnVHZkdRc0FQcStIb0I0M3I0dTViOGxpb0dackQvWVRydk1VRmJqZ0Q4PQ@175.178.13.108:56999#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 175.178.13.108
-ss://YWVzLTEyOC1nY206ZWM1ODg1NDUtMjkyZS00YTExLWFkYTItZDYyZTU5OWFmOTI4@106.55.9.70:24502#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shenzhen Tencent Computer Systems Company Limited ┇ 106.55.9.70
-trojan://nn3gdz6q-tpjf-s0hq-2jhd-j4uerq2mktdf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://almckhwf-tv41-9ijf-ts8z-joyo1tye5z39@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ghlmdcmx-obyt-xlxg-pvvj-ze127wa1a384@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6b0eakq9-p8zz-wcig-5w49-6watamkj1zbx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,13 +1,13 @@
-trojan://3oml5mda-ja0x-o87m-nbfy-2orh2u4kivbe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://iz72xh2i-xhei-oe1e-7mqy-sqdeha03cb1b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://r5wv3ra4-uu9z-8x2c-vrue-we9tots23mmn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tr54cfem-wcln-4oic-kuj7-50zxebkmhh00@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://w2zkv8qm-j0h7-q0ha-ljua-75assydbe4bp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xffx71bt-ssjn-fh0l-ukku-ivsduhetk8xi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=xhttp&security=tls&path=/kavir/?TELEGRAM@MARAMBASHI_MARAMBASHI&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.25.236
-vless://ee6e69cc-cb57-43f9-9078-e329bd39fc05@45.152.240.98:443?type=grpc&security=none&sni=tgju.org&fp=firefox#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - LUME Solutions ┇ 45.152.240.98
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=xhttp&security=tls&path=/kavir/?TELEGRAM--@MARAMBASHI--@MARAMBASHI--@MARAMBASHI&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.35.100
-vless://da0b8e00-7dce-4388-b3ff-cf592b5acda1@order.dissertationhelpspecialist.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=xI1IUDhIUaKY3qPE9CSOcNaiJ4sRc69ppRamFOMwgiI&sid=3da49e0b43#DE 🇩🇪 ┇ VLESS-GRPC-RLT - LUME Solutions ┇ 77.90.52.253
+vless://ac130aa0-373c-4456-a22c-472045ff4d2b@45.152.240.16:443?type=grpc&security=none&sni=tgju.org&fp=firefox#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - LUME Solutions ┇ 45.152.240.16
+vless://7983a7f0-fe0e-4bfe-affe-af5aa86259a4@services.dissertationhelpspecialist.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=ZV4e1OJFc5P1PH8pi6YN3mVzZ0G8WUOCNJZ6IibvT3Y&sid=a266fd8b85#DE 🇩🇪 ┇ VLESS-GRPC-RLT - LUME Solutions ┇ 77.90.52.232
 vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=randomized&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
 vless://ItsLegendaryking@legendary.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=UrOqDBAvEnjISHdVDzEnJRyb0HUM8xjCIWXZcd8w1CA#DE 🇩🇪 ┇ VLESS-GRPC-RLT - LUME Solutions ┇ 77.90.41.120
-vless://7983a7f0-fe0e-4bfe-affe-af5aa86259a4@services.dissertationhelpspecialist.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=ZV4e1OJFc5P1PH8pi6YN3mVzZ0G8WUOCNJZ6IibvT3Y&sid=a266fd8b85#DE 🇩🇪 ┇ VLESS-GRPC-RLT - LUME Solutions ┇ 77.90.52.232
-vless://ac130aa0-373c-4456-a22c-472045ff4d2b@45.152.240.16:443?type=grpc&security=none&sni=tgju.org&fp=firefox#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - LUME Solutions ┇ 45.152.240.16
-trojan://cbnz6pdd-9ivi-mkfr-nap9-gniyulk15j2j@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t4p39zeu-vuar-jr4b-4m4k-a5ur3s4smvy9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://ee6e69cc-cb57-43f9-9078-e329bd39fc05@45.152.240.98:443?type=grpc&security=none&sni=tgju.org&fp=firefox#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - LUME Solutions ┇ 45.152.240.98
+vless://da0b8e00-7dce-4388-b3ff-cf592b5acda1@order.dissertationhelpspecialist.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=xI1IUDhIUaKY3qPE9CSOcNaiJ4sRc69ppRamFOMwgiI&sid=3da49e0b43#DE 🇩🇪 ┇ VLESS-GRPC-RLT - LUME Solutions ┇ 77.90.52.253
+trojan://l63bhl4s-vrc6-2bco-qdvc-5owbpebuk6qy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zqjztfu5-d560-ja6m-8uk2-f8gtdnkqmvkk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

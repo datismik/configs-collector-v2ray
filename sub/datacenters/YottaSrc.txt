@@ -1,12 +1,12 @@
-trojan://c5eh6gcx-36cd-xctk-k9l5-v7cdihgoq8lm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://clubi8da-l4sn-wzbq-99p5-2ptinez9wtp4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sytfyftd-bvsu-y31w-p2e2-6jxv6zwsbe59@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://840dc994-d232-4b71-b133-4f36a874c867@45.13.226.18:29570?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&sid=37#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.13.226.18
+trojan://9dzd2vpz-ng8i-wxjr-3802-7dggfqneuddw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://h0grz2ld-2vo7-8fvg-m0z2-c65vwwoaopcz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kfjjfsgu-e9bg-1gza-8qwm-xie8tadw3rxi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@45.67.139.72:52673?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&sid=0a6891#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.67.139.72
 vless://45e91c56-0dbd-41a5-a654-287a53fc0ea4@185.117.0.180:8448?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.180
 vless://cd382d22-9471-4cae-99d8-a3b23f9eaccb@frankfurtmain.mamadgholi.com.co:2095?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.13.226.62
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gWW90dGFTcmMgXHUyNTA3IDQ1LjY3LjEzOS4yMjUiLCJhZGQiOiI0NS42Ny4xMzkuMjI1IiwicG9ydCI6MjAwODYsImlkIjoiZDM5MjgzMzAtNDA1MC00N2Y2LTlkMWMtZGYxZmQ4MDFjNTY4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@45.67.139.72:52673?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&sid=0a6891#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.67.139.72
-vless://2e562253-f6ac-4123-9648-3d7c944ec279@45.13.226.115:23386?type=tcp&security=reality&sni=lit.dev&fp=chrome&flow=xtls-rprx-vision&pbk=m6uJUaMJ3PHrcV2Rh92ACAcY0R04BNwoUVPcclfh8HY&sid=ff#DE 🇩🇪 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.13.226.115
+vless://840dc994-d232-4b71-b133-4f36a874c867@45.13.226.18:29570?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&sid=37#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.13.226.18
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFlvdHRhU3JjIFx1MjUwNyA0NS4xMy4yMjYuMTE2IiwiYWRkIjoiNDUuMTMuMjI2LjExNiIsInBvcnQiOjEyNDQ5LCJpZCI6ImIxMDUzYTY3LTg4YjktNDU1MC1iNWZiLTgyNjczNWFkYzA0NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://tl4nym3z-jp2t-75yi-zke6-0w46ihfvubne@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yr0nnj55-qpkw-443j-54v8-9bld56xryv3l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gWW90dGFTcmMgXHUyNTA3IDQ1LjY3LjEzOS4yMjUiLCJhZGQiOiI0NS42Ny4xMzkuMjI1IiwicG9ydCI6MjAwODYsImlkIjoiZDM5MjgzMzAtNDA1MC00N2Y2LTlkMWMtZGYxZmQ4MDFjNTY4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://2e562253-f6ac-4123-9648-3d7c944ec279@45.13.226.115:23386?type=tcp&security=reality&sni=lit.dev&fp=chrome&flow=xtls-rprx-vision&pbk=m6uJUaMJ3PHrcV2Rh92ACAcY0R04BNwoUVPcclfh8HY&sid=ff#DE 🇩🇪 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.13.226.115
+trojan://ppvbuw4f-ztxu-m3c1-dmw0-ac8hvli4w9yj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tv1mc44g-s99o-22kd-uz4y-qbuutckyiusl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

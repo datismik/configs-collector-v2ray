@@ -1,6 +1,6 @@
-trojan://dxzkw8q4-vae7-4yvg-9u0k-w5hufbctnpu2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://pf9llsl5-0reg-gb1r-1fm1-rbi1yftv66ad@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://uzgkdv8s-3hhs-uifn-mdmt-whx3mp652bjc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cdh5mm2d-a663-zw61-z83o-qkfa7liaa0xo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://cjywp2c7-02cl-avaq-gw5b-hmmd6mkm0sk0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://603wcv6w-w5mc-dmeq-tq35-f25ejquergjx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.243.232.218:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - SRMAK TECHNOLOGICAL SYSTEM PRIVATE LIMITED ┇ 103.243.232.218
-trojan://tu7wx6vz-9img-wgxf-yywr-ag9lfl1fo7hr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dyumuzzl-n5dd-3bbx-jw1l-pifnwegi0q2b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://5cdzj7e9-06mu-qksi-54fz-rse9p2oig3p3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://65w2d6m6-dimi-ec13-r7ri-r8amqieveq8p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

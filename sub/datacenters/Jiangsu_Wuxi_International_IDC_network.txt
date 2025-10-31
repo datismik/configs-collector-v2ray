@@ -1,12 +1,12 @@
-trojan://dk640e9v-2nv1-qdbo-399k-zcxkwyq01tb8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://evn8paln-ebyq-o7i3-vrbq-i46wxeh5e7a6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://56ilnu7e-4zs2-i3bo-iaay-uw0bpbl5mkxo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://cmM0LW1kNTo1Y3pjcjg0czBhYg@118.184.136.48:7780#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.48
-ss://cmM0LW1kNTpEMG9FR0Y@jp48.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.136
-ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA@180.101.193.226:10068#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 180.101.193.226
-ss://cmM0LW1kNToyNmQ4dlo@twgame02.graniterapids.com:5185#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.218
-ss://cmM0LW1kNTpEMG9FR0Y@hk26.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.62
-ss://cmM0LW1kNTo1Y3pjcjg0czBhYg@pccw03.graniterapids.com:7780#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.53
+trojan://pst6tsc3-6fn3-61fs-lwq7-3m02h077cka5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://dad35f44-8luy-9x76-aieo-e3knfhng30yh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7kicjdq4-8y8y-2z6i-alzk-ijz08uphs2d0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://cmM0LW1kNTpEMG9FR0Y@tw01.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.138
-trojan://gjl73xgx-nnxk-nqr2-8xkc-k193m43v6cgq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5adipu1s-6fqg-6pye-zmvl-pqd96u754nj2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://cmM0LW1kNTo1Y3pjcjg0czBhYg@pccw03.graniterapids.com:7780#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.53
+ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA@180.101.193.226:10068#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 180.101.193.226
+ss://cmM0LW1kNTpEMG9FR0Y@hk26.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.62
+ss://cmM0LW1kNTpEMG9FR0Y@jp48.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.136
+ss://cmM0LW1kNToyNmQ4dlo@twgame02.graniterapids.com:5185#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.218
+ss://cmM0LW1kNTo1Y3pjcjg0czBhYg@118.184.136.48:7780#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.48
+trojan://vdajn3fn-r2i6-peow-zt4d-y77iwrsd42do@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ad9yasop-cvjo-kgk1-bhu3-mm895h0pbl8v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

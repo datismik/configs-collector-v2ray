@@ -1,6 +1,6 @@
-trojan://tput8xzf-75o7-svpb-tf61-l7mhpbc6oern@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://8y6sitl0-zrl4-ctq5-7862-g6m445rynmnh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://j64m16nw-dw31-13vi-gvjh-s69iljk3ys5i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0duos2cb-wlne-onrw-p01g-ppp819cj42sx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://xtta0enu-gcvr-1lak-2g0f-rqswl64vrnmk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2bngs2gn-whcc-ace3-yd81-p8da8nzsn93c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://faaf66d5-55d9-41ae-9b8d-12c5ed48b95c@s1.igetway.info:52931?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - PIO-Hosting GmbH ┇ 176.65.136.34
-trojan://jicba7k7-9gfp-4f1g-trr6-e3hsv519pvjb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0292rm3a-w4b6-i1cr-svp8-ydq9fhx5a9bb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://cn49d094-o6cw-sdrg-wcbp-zrx7i0a84efd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c5k6fh6n-63ki-9aa9-41wm-m4n7rv6x9dwr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

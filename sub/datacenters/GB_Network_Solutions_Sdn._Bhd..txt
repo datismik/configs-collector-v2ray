@@ -1,7 +1,7 @@
-trojan://7hwwbi4i-fhrw-g2a9-c6nc-mcnequnwb4pj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://1zw9s9px-rfr3-non8-2804-t503n1b5ytmt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6uq8xo9w-4m3n-duov-ro52-3bsrs9rsyl2v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdCIE5ldHdvcmsgU29sdXRpb25zIFNkbi4gQmhkLiBcdTI1MDcgMTAzLjE4Ni4xMTcuMjI5IiwiYWRkIjoiMTAzLjE4Ni4xMTcuMjI5IiwicG9ydCI6NDU0OTcsImlkIjoiMmUyNTdmOWMtZmEwZS00NDJmLWY1M2MtNmE0NTI5MjRjMGMyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+trojan://vlpj06xu-x35u-wlll-rpv0-kgd8ld2ai91o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://akosb078-hw5f-1sh8-0xiq-hpbwp0fu3p85@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://soaqchrf-j2dj-b2yc-lkbe-3z1xvz8anrgq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@ml.fastsoonlink.com:40006#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - GB Network Solutions Sdn. Bhd. ┇ 160.187.97.216
-trojan://noy7h73z-c938-r80w-3ecz-l50q6el0b38a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tz8pw87p-shgn-1e0s-7zg4-bcz0fwir5vyo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdCIE5ldHdvcmsgU29sdXRpb25zIFNkbi4gQmhkLiBcdTI1MDcgMTAzLjE4Ni4xMTcuMjI5IiwiYWRkIjoiMTAzLjE4Ni4xMTcuMjI5IiwicG9ydCI6NDU0OTcsImlkIjoiMmUyNTdmOWMtZmEwZS00NDJmLWY1M2MtNmE0NTI5MjRjMGMyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+trojan://8lyp0kov-eaag-4w16-ctm2-61ycr2q4tjp6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://usmgj2mx-pp1m-vhku-n0of-8tt0tlalj115@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

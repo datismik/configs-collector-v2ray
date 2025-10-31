@@ -1,18 +1,18 @@
-trojan://pn3gjvmu-o8hc-ttg3-m5zj-v7ylu953ew5r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://r17n3t6o-atkr-8tin-y9vp-ettdffgv47iq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vgxxnbgv-9l0h-6odi-cg2l-7xgumnw7fbzs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmVmZDI4ZS1iMmU2LTQ0NjItYTM3OC1jYmM1OGE4NzQ4Zjk@188.253.112.26:20021#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 188.253.112.26
+trojan://wnc06x7o-mhdq-92r3-g6rb-lpqp9o5agras@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://n5qoxmas-vi67-fwa3-dzr7-16hz3er6sc6m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rtz41llc-mn79-k5ys-twg3-3dy93f6vi5j7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://de45945e-65ea-4d13-b29d-1835a4281023@103.100.177.32:35003?sni=updates.sub-nthu.com&peer=updates.sub-nthu.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 103.100.177.32
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI@103.135.102.151:52611#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 103.135.102.151
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWthcmkgTmV0d29ya3MgXHUyNTA3IDUuMjI2LjQ5LjQiLCJhZGQiOiI1LjIyNi40OS40IiwicG9ydCI6ODA4MCwiaWQiOiJlZmI3NDhlYy1jOTIxLTQyYTEtYWM5ZS0xZDU0ODVkNmM0NDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9kb3dubG9hZCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@46.232.123.24:50242#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 46.232.123.24
-vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?type=tcp&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4#TW 🇹🇼 ┇ VLESS-TCP-RLT - Akari Networks ┇ 103.236.227.21
-trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@103.188.235.3:321?sni=data.sub-zrj.com&peer=data.sub-zrj.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 103.188.235.3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@188.253.5.31:40005#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 188.253.5.31
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYXJpIE5ldHdvcmtzIFx1MjUwNyAxNjMuNTMuMTguMjEyIiwiYWRkIjoiMTYzLjUzLjE4LjIxMiIsInBvcnQiOjE5OTAxLCJpZCI6IjBmOWU5NTVlLTBmYjQtNGZhYi1hN2Y3LTA5ZWM1ZTQwODBmYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@188.253.5.199:40005#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 188.253.5.199
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@46.232.123.24:50242#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 46.232.123.24
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI@103.135.102.151:52611#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 103.135.102.151
+vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?type=tcp&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4#TW 🇹🇼 ┇ VLESS-TCP-RLT - Akari Networks ┇ 103.236.227.21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmVmZDI4ZS1iMmU2LTQ0NjItYTM3OC1jYmM1OGE4NzQ4Zjk@188.253.112.26:20021#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 188.253.112.26
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWthcmkgTmV0d29ya3MgXHUyNTA3IDIxMC44Ny4xMTEuMjQxIiwiYWRkIjoiMjEwLjg3LjExMS4yNDEiLCJwb3J0IjoyMDUyMSwiaWQiOiI5MGMyNDM2NS04ZjZkLTQ5ZDctOWYxYS02ZjFkMzYxYzgzMTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@5.226.49.119:3333?sni=bvjp.yuwenle.vip&peer=bvjp.yuwenle.vip&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 5.226.49.119
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@103.135.103.229:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 103.135.103.229
-trojan://zevplhqq-f6sz-7lal-dyie-fud6wedc6rys@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://smjmkwxn-pzk8-6dms-esbn-ut3921sa6e1t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYXJpIE5ldHdvcmtzIFx1MjUwNyAxNjMuNTMuMTguMjEyIiwiYWRkIjoiMTYzLjUzLjE4LjIxMiIsInBvcnQiOjE5OTAxLCJpZCI6IjBmOWU5NTVlLTBmYjQtNGZhYi1hN2Y3LTA5ZWM1ZTQwODBmYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWthcmkgTmV0d29ya3MgXHUyNTA3IDUuMjI2LjQ5LjQiLCJhZGQiOiI1LjIyNi40OS40IiwicG9ydCI6ODA4MCwiaWQiOiJlZmI3NDhlYy1jOTIxLTQyYTEtYWM5ZS0xZDU0ODVkNmM0NDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9kb3dubG9hZCJ9
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@103.188.235.3:321?sni=data.sub-zrj.com&peer=data.sub-zrj.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 103.188.235.3
+trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@5.226.49.119:3333?sni=bvjp.yuwenle.vip&peer=bvjp.yuwenle.vip&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Akari Networks ┇ 5.226.49.119
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@188.253.5.31:40005#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akari Networks ┇ 188.253.5.31
+trojan://wb75ewbj-e33j-nem8-s6d7-ajmc6fcwex5g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k9nl1f26-8die-ldqj-i70y-goafbpj94ke8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

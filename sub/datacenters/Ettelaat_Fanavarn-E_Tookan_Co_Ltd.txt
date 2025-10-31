@@ -1,7 +1,7 @@
-trojan://kf9kyy35-c07r-kfil-s41g-spe52iausrqb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://v7d779lb-vchd-5w9c-kn8k-6zl2topaj7px@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g2eq475j-yyw2-54lh-umqw-rejhwc260h8l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c0f2ce75-becd-4078-b969-24f13c3bde51@193.111.236.81:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 193.111.236.81
+trojan://w6nd3ahm-troa-8c40-bb8k-fjgmzuag9h5y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://bw2bsi63-z1ms-6t7s-lrv8-ljpgn5xs3r2l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bbnt4fey-9krz-4yik-btby-geoj78hsjcqg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5700e098-ce03-4f77-8632-dd1bf22bb80a@213.176.6.166:34727?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 213.176.6.166
-trojan://xy8skn2p-8o4c-846r-iv59-d5xfe86db338@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bqy7hgxc-2g2w-twjq-jn3a-vn5vyzr1lul0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://c0f2ce75-becd-4078-b969-24f13c3bde51@193.111.236.81:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 193.111.236.81
+trojan://32vs12er-61l0-pruw-32ey-yvvyrsur9kke@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://22q8b93u-oefr-cysc-ko9m-q7ua7mfbvt12@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

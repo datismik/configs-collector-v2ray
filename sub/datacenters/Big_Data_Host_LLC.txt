@@ -1,6 +1,6 @@
-trojan://lu63toab-l9aa-u8qp-co9x-nptoa1a626b7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://dk4ig6ab-vu9z-r2us-f1d1-nff8w96111ai@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u6dzblat-8kuw-ehcx-h2xa-vilzshrjh1od@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://z9ttmmse-ywf3-tu97-xmo1-pguc3o7kmq3s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://tkzzab8s-p3xs-lsm6-0030-5eakdh3lti0z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://45m34e2u-cvky-mqqw-zjeg-bbfqwom8audf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://696530d9-ff00-4885-bc47-5ab0f3586c6b@194.135.22.181:443?type=ws&security=tls&path=/Free-VPN-CF-Geo-Project/CH3&sni=joss.krikkrik.tech&fp=randomized#CH 🇨🇭 ┇ VLESS-WS-TLS - Big Data Host LLC ┇ 194.135.22.181
-trojan://0bx0iq84-yq44-9cxy-oa4v-40ogpvesnb3l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0enkgs9l-tiuq-33v5-mete-5rud7jhvhdim@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://1l80jfqw-ipkc-tibg-shrx-ma638lxhqk2q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i66ujylk-fadg-rgrf-bml2-0kvyauefdgv8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://o9rwd3sc-2ron-bnjg-fz4n-a85bvzkrxn4u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://wys4ycax-vu1x-h6ax-o0bi-l2madhz2e6u2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://luww4myl-zu0q-dyhb-fv4g-jwyjob22q9m7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mwjrvq6b-ilsh-yxhg-btjg-yi7cmp3qfxnz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://qhwdlu7c-f3rd-gs7p-wldl-nxsrhcvuhgmg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dtoyjv0k-bb44-shxq-36tb-d1m2drm7h5zw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2ea7b5fd-a27c-4d79-b321-bf927be50090@82.24.64.135:31129?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=Y_m8a25ICfj12RLD4MO9SGxWGEpc904cyMpszJ2uaw4#GB 🇬🇧 ┇ VLESS-TCP-RLT - ARISK-COMMUNICATIONS-INC ┇ 82.24.64.135
-trojan://zxukpbzy-amyu-d7l0-3jia-3kplozdbqvn6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gpdtpqrk-gfah-22eo-f1ma-5dryuceykufz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0xryyqld-7loy-ny4x-wqyb-znaykzrf7ikw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2nla2w3w-tlak-urbm-2piz-qj91z7e9mj1h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

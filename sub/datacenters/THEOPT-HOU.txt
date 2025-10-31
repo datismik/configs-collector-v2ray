@@ -1,7 +1,7 @@
-trojan://bt9z0hhn-0oer-9m6h-mkx7-8zgdxs8uyixx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://yz4vta78-hhv9-nj73-jwcr-zy5nzrmz63oy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://775g40fw-knnb-3sz6-3cpa-8lycoysie3im@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tz3om4ed-pkz2-c77u-bgmo-dw52sodvt04l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://ik0m8w7t-osdf-j2go-3ddb-2p3v924384sd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wigb99ft-4c28-1kk7-ao8v-pax5bp5qqhxm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@216.230.233.49:25536?type=tcp&security=reality&sni=apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=ydfJ-qHuqDCqmGnFbRwzqYT7gA9mWoh0gtYvMzt8OmI&sid=fc3d#US 🇺🇸 ┇ VLESS-TCP-RLT - THEOPT-HOU ┇ 216.230.233.49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@us-01.cloxynode.com:35515#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - THEOPT-HOU ┇ 23.128.116.212
-trojan://k7cq7zis-ntp9-hdt2-xa79-ylgw52yoli8n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lqm5hsgv-ardc-4js5-zeln-gf86sw7qpeu2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jcyhjyae-18q4-8oy3-059b-xgtxadr15sy0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://x88tnkqe-ykb0-d6so-widx-qceit3dj1hsi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

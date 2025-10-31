@@ -1,6 +1,6 @@
-trojan://ehn3j0t4-ojm6-fxhu-xhfc-5yhue3t6gr2r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://ez6sgi48-nynu-ugrt-1a26-u97s7lb0gt1a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kyaciro0-a1yh-n6pu-hify-bo5onx8utcoh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xzl1tgtq-2ob0-f61s-lmca-inh7qjcp5i05@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://39sed7hi-lf44-m6yf-j58g-nyyf23sm05pg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dcylfjra-zhgq-382g-68ni-0c6th2l7qr8q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a05d3b5b-3274-42c0-a63a-58c1b644f042@141.11.51.69:443?type=tcp&security=reality&sni=www.j-wave.co.jp&fp=firefox&flow=xtls-rprx-vision&pbk=DaVESe6LnHDkrjuiq8Mk3bsxtDuMJYfX-Pp4qeu1rhc&sid=23ecfbbf#JP 🇯🇵 ┇ VLESS-TCP-RLT - LAMHOSTING ┇ 141.11.51.69
-trojan://jh0vcdgf-3553-fx9a-y31t-0g45dxaotsyt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3bjzfbia-yon0-99uj-nsfw-fkibce7nd3tp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0xgevxxk-v5sm-v3cl-b85e-dwuk20cw1bh9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uw98xpmj-jr5f-k8m7-ps03-z6evnmenk2ap@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

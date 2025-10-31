@@ -1,7 +1,7 @@
-trojan://fo697cfl-doq3-ranw-itre-afumbbu93g67@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://a2pxyyyc-6rae-lrkg-5264-7sjr8m1oafnp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://x8zupiob-67x5-b0yh-voa2-4615d4ypsr5s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://d4876x59-la38-1tol-glej-lozxkiaxfjq7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://s7u78ftb-gd2u-pbai-8crd-348xudpqjlat@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cjtfsp1a-wp8c-sqal-r0zm-f8mqe88vhyx2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?type=ws&security=none&path=/#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.4
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.5:2052?type=ws&security=none&path=/@XS_VPNROBOT#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.5
-trojan://qsnkpypp-2trc-yv8b-dxe1-muiovtj0llpj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8p4zsxe5-n638-e3f0-pvk6-rf36s7zs2g3n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://43vtxqwn-glne-q6mi-b8gs-oonm5388munp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://u8x7kfqp-q7aj-13vc-w466-6of07jwbthhr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://xqt1x2tz-800a-ocrt-1kk6-rmr4sfolciyb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://fgdv45bo-v60f-qxy7-e4c7-8y5dogxxa0j2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7levbjns-8bwx-5uj9-tjnn-iygu98m21b0d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bfxze0ah-xgmr-maxp-lcjs-200csek3cxwp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://7nhkd8tv-0rey-b1ni-58j5-iao6zp9nga30@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wstizmlh-42vp-3znr-csea-70szdbafltha@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://12345678-1234-1234-1234-123456789123@185.225.195.54:2096?type=ws&security=tls&path=/snippets&sni=sni.aizrf.com#AE 🇦🇪 ┇ VLESS-WS-TLS - Emirates National Oil Co. Ltd. (ENOC) LLC ┇ 185.225.195.54
-trojan://wl0jn5qd-zcel-2wrd-oeqf-600nj87yv4z9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://suhcyq0l-42lh-uc7f-q1bg-aul24m4clc3s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0r5xl7sp-4lj2-1gil-gch1-z9gh84ita94z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://59aj76wm-wgcy-owln-qzls-8po9m6jc8lwm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

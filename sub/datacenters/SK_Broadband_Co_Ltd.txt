@@ -1,20 +1,20 @@
-trojan://bbm2twvc-zjyo-3owz-i2lq-6ssxq6j0jfvn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://ymqzbp7f-y32b-d2pk-nlb7-2bu40okct2pg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hvasrg1p-otj8-2747-lbl1-dh0ehnj1n5ef@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0x41xelr-ltju-9ut3-k4xp-hcsuhdi0b1vv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://i4cg0xfx-sb2h-5n6u-aid5-llxdk44nvlju@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jow6djvg-7wry-kdhg-ohsv-houverk1jv5m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.51.125.182:14220?type=ws&security=tls&path=/?ed=2560&sni=mikuyo.bpd67081tsq.ddns-ip.net&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 218.51.125.182
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:51633#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 211.178.105.134
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE@218.237.185.230:4652#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.237.185.230
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.177.114.117:50001?type=ws&security=tls&path=X@节点狂魔/?ed=2560&sni=gaosir.unfeeling.sbs&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 211.177.114.117
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@118.222.33.248:12480?type=ws&security=none&path=/Telegram🇨🇳&sni=edgetunnel.xiaomayi.nyc.mn#KR 🇰🇷 ┇ VLESS-WS-NTLS - SK Broadband Co Ltd ┇ 118.222.33.248
+vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@61.106.208.249:10155?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 61.106.208.249
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 115.161.136.145
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSyBCcm9hZGJhbmQgQ28gTHRkIFx1MjUwNyAxLjIzOC4xMDIuMjE0IiwiYWRkIjoiMS4yMzguMTAyLjIxNCIsInBvcnQiOjMwMDAxLCJpZCI6ImZmZmZmZmZmLWZmZmYtZmZmZi1mZmZmLWZmZmZmZmZmZmZmZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoicDMuY2hpZ3VhLnRrIiwicGF0aCI6Ii92bWVzcyIsInRscyI6InRscyIsInNuaSI6InAzLmNoaWd1YS50ayJ9
-vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.38.33.77:11223?type=ws&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 218.38.33.77
-vless://be21e25f-5919-4e6b-b443-bfa45273de5d@211.213.102.88:10014?type=ws&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 211.213.102.88
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:51633#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 211.178.105.134
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@175.127.79.237:50004?type=ws&security=tls&path=/bing&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 175.127.79.237
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.50.149.114:34847#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.50.149.114
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:54345#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 221.139.79.57
-vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.51.125.182:14220?type=ws&security=tls&path=/?ed=2560&sni=mikuyo.bpd67081tsq.ddns-ip.net&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 218.51.125.182
+vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.38.33.77:11223?type=ws&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 218.38.33.77
+vless://be21e25f-5919-4e6b-b443-bfa45273de5d@211.213.102.88:10014?type=ws&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 211.213.102.88
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.38.103.150:28902#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.38.103.150
-vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@61.106.208.249:10155?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 61.106.208.249
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.177.114.117:50001?type=ws&security=tls&path=X@节点狂魔/?ed=2560&sni=gaosir.unfeeling.sbs&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - SK Broadband Co Ltd ┇ 211.177.114.117
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:54345#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 221.139.79.57
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSyBCcm9hZGJhbmQgQ28gTHRkIFx1MjUwNyAyMTEuMTc3LjQwLjIzNSIsImFkZCI6IjIxMS4xNzcuNDAuMjM1IiwicG9ydCI6MzAwMDEsImlkIjoiZmZmZmZmZmYtZmZmZi1mZmZmLWZmZmYtZmZmZmZmZmZmZmZmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJwMy5jaGlndWEudGsiLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoidGxzIiwic25pIjoicDMuY2hpZ3VhLnRrIn0
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@118.222.33.248:12480?type=ws&security=none&path=/Telegram🇨🇳&sni=edgetunnel.xiaomayi.nyc.mn#KR 🇰🇷 ┇ VLESS-WS-NTLS - SK Broadband Co Ltd ┇ 118.222.33.248
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE@218.237.185.230:4652#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.237.185.230
-trojan://mp0teqv1-ojty-46ac-dm6w-4skailmptdvt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7xmp8hto-xt89-t8vn-0292-w94pbuheccch@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://mufnjprk-ya1h-0o7l-7b56-8dc8hw300132@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://85z1no1p-cssb-kc6c-epd4-hdr09640fx81@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

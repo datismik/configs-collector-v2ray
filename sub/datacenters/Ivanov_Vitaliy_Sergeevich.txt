@@ -1,6 +1,6 @@
-trojan://8xee5v9h-onkn-er6m-4n5g-0g5kswy7843j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://ht98cevt-gnc1-rx6i-ld00-hqh11j8smae7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ds9t6blw-3z42-s4dk-9rqc-qdljrxtpjq01@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2czegi3s-dnc1-rdnh-nlrw-xqytjbwqm7ih@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://met5ma86-dwwf-3scr-7ybj-ec0orqfyxqr8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://byrv8tv2-ddre-0z07-6qy2-g5yn2ngsbfu1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Ivanov Vitaliy Sergeevich ┇ 176.103.53.105
-trojan://57wzbyb7-vb4y-akau-xo5h-4048kb2h2lsn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bmizyu08-8mq3-pe10-hxgr-6v4ez77566fa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://rhfsls85-uxys-3sxo-0jjx-vemyo5j36ucg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hjc0czbo-fhek-gcwr-etkg-pa8jwcchwc99@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

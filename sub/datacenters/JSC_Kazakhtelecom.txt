@@ -1,6 +1,6 @@
-trojan://ronymlry-mdr1-fr56-6i8v-invmoinz82jv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://itut5kxd-k5ho-68z8-w4fw-4niavnevwjaf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7j7gipsr-wmsl-su9w-oevn-aadx8wy73flb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9lhoo04p-beyb-k82n-7a3m-idghuityrked@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://f4ktm35t-yz7y-7oqy-8cug-ks93vojythak@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wx441imw-r3tt-p1tm-pe61-ahhb141ehte0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVU5NOHZpVVY4ZDZHNE83YWdLZUhq@37.151.92.40:61258#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - JSC Kazakhtelecom ┇ 37.151.92.40
-trojan://tqvlvz0t-z4f1-l4s8-n8z8-uobawczn0zqz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zgbkp82b-o3lw-2iop-jrl2-l832ogjdf0m9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://1nkvo77w-sti3-jt66-v62z-wk8ylxafu7y7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sv536mar-f97v-vfer-m2xq-76wljhqsecpc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

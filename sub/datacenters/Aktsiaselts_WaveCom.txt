@@ -1,9 +1,9 @@
-trojan://2puli9rq-cyd3-izer-xb52-n0e3crctcd0v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://x0hdbz1k-lsha-p61y-8ojd-0dwlfubm4g2a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ksb5rgol-t8b4-stiu-mtk9-vt4206oakotl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dbuvsr23-kvqa-ys5p-batz-wv14qk6szz4l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://agg9f09c-h9pe-cvj8-yw7k-yc4oiscg4n8c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pgodpts4-6mfx-n5fq-xpya-2efzina652ch@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://77529416-696f-4bbb-8df0-65a4fac74418@37.252.5.75:443?type=ws&security=tls&path=/Free-VPN-CF-Geo-Project/EE2&sni=joss.krikkrik.tech&fp=randomized#EE 🇪🇪 ┇ VLESS-WS-TLS - Aktsiaselts WaveCom ┇ 37.252.5.75
 vless://9e43619a-5067-42f3-a82e-bed81703a771@38.180.230.78:8766?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=EwoQCKDlHuB925c6rz8488SfSUYSMMZFcR1T6PILWWM&sid=6bfe#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.78
-vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.230.17:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.17
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
-trojan://oyxxnlre-rj68-0ngm-91x7-xynrv1gjmooe@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://klwxd97z-1ql0-5a0p-cwcd-qwwxaqss0c8m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.230.17:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.17
+trojan://ssswie2r-ii2y-esxf-etlh-cevjomb3eenq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mucdqjik-0qls-egwq-8vpn-frinccqhw8j0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

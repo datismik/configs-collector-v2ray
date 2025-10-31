@@ -1,6 +1,6 @@
-trojan://p7629cel-10bz-khwf-pogb-lxzd8h0ys82s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://xpq2x1y1-9qkp-z2lt-ng0l-j04wgmk0q2ir@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xgl6bj0i-oaze-wo6a-u3ka-qy0badkxywpo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://r4zke2zo-mpz0-rcbc-pwa2-mmw41utb31lx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://1qb2022u-7wsh-j7w8-w8zd-86giigurfr34@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7v3o0gzm-cir5-872t-slaj-57mpm33pv4g8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#NZ 🇳🇿 ┇ TROJAN-TCP-TLS - Ministry of Education ┇ 202.37.33.80
-trojan://d7fv3uox-3azp-grss-0do7-bwsvotlciuo8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1jdlxan6-s3yr-iuff-2k5c-kavt1r8y8b2l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://t6sp278b-jk0y-wj2e-wsye-c7cjpmwnnsky@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bvfepjqs-evls-pv73-53ca-nx6vqko7hsxk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

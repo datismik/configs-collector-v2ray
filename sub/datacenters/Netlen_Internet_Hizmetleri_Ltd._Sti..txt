@@ -1,9 +1,9 @@
-trojan://iwnqw8f8-ihd8-t6y2-x4yr-ldsitf3jb9f3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://x34xpe0t-zetx-ln5h-kvxd-n2h0xxtkyl5f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hhxpjdpe-hjl9-6qfh-ri66-xeq4hpm5h5gk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 176.223.66.8
+trojan://swqgiltp-hdic-0g7q-w758-rfn0ul6d4z8g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://7gsh8nb4-1nns-p7mm-eq1l-sjxs5j6b1h5k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7tatyrxs-u2ch-a78o-9xe1-iskemudt18je@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1262f162-23cb-4072-ab25-93d682179bb2@trcdn5.ildeco.ir:8080?type=xhttp&security=tls&path=/login&fp=chrome#TR 🇹🇷 ┇ VLESS-XHTTP-TLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 176.223.66.27
-vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@93.180.134.158:35111?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 93.180.134.158
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5ldGxlbiBJbnRlcm5ldCBIaXptZXRsZXJpIEx0ZC4gU3RpLiBcdTI1MDcgMmEwMTpmOTAwOjExOjg3OjoxIiwiYWRkIjoiMmEwMTpmOTAwOjExOjg3OjoxIiwicG9ydCI6MjA5OSwiaWQiOiJhMjIwNTdhYi03NTRiLTQwZWYtYmIxZS01NDQ0ODI1YmFkM2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvP2VkPTEwMjQifQ
-trojan://tt3r78mn-f1uf-mt5q-qtgc-74gppxvnn3z8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u6bwt8ul-dp4e-gy9k-4ogz-s8suc8vgo441@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@93.180.134.158:35111?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 93.180.134.158
+vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 176.223.66.8
+trojan://0y0l056r-an6d-xeyf-cnol-iehnbttf2sx7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n739tg3l-qsr8-3toy-kl53-yb3x27uqtkjq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

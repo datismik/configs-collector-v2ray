@@ -1,8 +1,8 @@
-trojan://as1rw0zh-78dv-xf61-klk6-6q7dk35yircc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://ew7i5vqc-xmwk-00c1-ngcz-hx8q22syh66f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s9dcd7ny-vimq-idws-92p9-3676m55mzyxj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVM2MjkwNCBcdTI1MDcgMTcwLjEzMC45Mi42NSIsImFkZCI6InNnNS52MnJheXNlcnYuY29tIiwicG9ydCI6ODAsImlkIjoiMDJjOTljMzItMDA1OC00Yjg3LWI1MWEtOGY1ZDZhNTliZGRkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvc3Nob2NlYW4ifQ
+trojan://iva6nu1q-jyi2-hllu-a93o-11nv73opzict@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://bkta81ya-4e20-k0k1-p084-v9bksx9jgr7t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bdlmc7fz-as9e-yjtf-us2q-bp4ko2ser81m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxOGdzSlZMWjVlWVhVM3VobW5iSA@170.130.15.34:8389#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS62904 ┇ 170.130.15.34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0VzJTSm1kS1VNSmpqa1ZmUkRkaA@170.130.31.114:8389#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS62904 ┇ 170.130.31.114
-trojan://lmb72918-1hlg-bane-hwr2-6giyvze7o8u1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://snnvxapl-hf19-ka9c-juu1-6gtnnz2u6slk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVM2MjkwNCBcdTI1MDcgMTcwLjEzMC45Mi42NSIsImFkZCI6ImZyMi52MnJheXNlcnYuY29tIiwicG9ydCI6ODAsImlkIjoiNzIwZTVjNGUtNGU0NC00MGY2LThlNzMtN2MzMmUxOGI2MWQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJmcjIudjJyYXlzZXJ2LmNvbSIsInBhdGgiOiIvc3Nob2NlYW4iLCJzbmkiOiJmcjIudjJyYXlzZXJ2LmNvbSJ9
+trojan://1sdur9fy-yq5w-97qs-uhjl-f8ij7ytoiybk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8rumobed-fnzs-ptd2-jh1v-dy3b9uw63zal@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

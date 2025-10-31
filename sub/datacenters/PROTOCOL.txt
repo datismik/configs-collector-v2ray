@@ -1,10 +1,10 @@
-trojan://5g9kl9lu-4gb2-76eo-9ec0-fbw405s5gvby@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://cimxgk0w-tj33-u4kd-jo0g-vo24izlzk8vs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3a64wbcc-r54f-onvn-pvp5-3l2yk0jlvqoe@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@209.94.90.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.3
-trojan://slch2024@209.94.90.195:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.195
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@209.94.90.251:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.251
+trojan://460spgpm-l6jb-lxc0-73fo-nwp5wv2iki7k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://podkzr9n-q6zy-5v9o-n64x-t2p6j5atlcg8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ew8b0adz-wbvf-qnr2-7czd-51amnaxcrxr1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@209.94.90.87:2087?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.87
 trojan://Aimer@209.94.90.64:443?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.64
-trojan://7fo4a4m7-c5tm-xoog-iz12-h2m1ptx4w6jq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q8pvg2ec-4zwy-ugru-vt8r-n474mt8v171u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@209.94.90.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.3
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@209.94.90.251:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.251
+trojan://slch2024@209.94.90.195:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.195
+trojan://x6fg1hf6-93hz-g802-li3p-veln8zn1l6lz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9ac9wfed-e37c-07xp-k5w5-1nr08ev2309s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

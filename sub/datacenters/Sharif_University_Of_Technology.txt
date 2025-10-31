@@ -1,7 +1,7 @@
-trojan://o37w021q-k802-7pqi-7m0b-h1hjhi5ymgt7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://8g3dntti-jhcz-gjdw-farf-7a52atoltxgb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c1rk069u-9zn1-ws26-6yng-7wl9av7p6yv7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://bab0379b-9dc3-441a-8e84-612f22ba837f@iri.punezism.top:33438?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sharif University Of Technology ┇ 213.233.184.234
+trojan://b2dyaxde-d8zd-qfyt-5w2x-b5bjl4jzzv5l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://qz2b41xp-rz3n-scza-aj1i-jyhawdr69xz7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://umjy1i0d-xv7i-8a38-5ib1-5t6sipoazt31@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b0e55a84-681e-4bf8-96be-a7f617dd5afc@152.89.12.77:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sharif University Of Technology ┇ 152.89.12.77
-trojan://6md98qz0-h70o-j61v-lk6g-b6jurm8vezvx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7szuovr9-p37p-kif9-arl9-5jkgg108cfzf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://bab0379b-9dc3-441a-8e84-612f22ba837f@iri.punezism.top:33438?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sharif University Of Technology ┇ 213.233.184.234
+trojan://jjaqlmsc-1lrd-h8xa-0csc-5asdzf445lem@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k3zo2dew-sc4q-beht-zhj3-zgh6e0mq9f8o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

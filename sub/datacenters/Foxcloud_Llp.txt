@@ -1,8 +1,8 @@
-trojan://kls3f5br-jg15-f3yb-nleg-rzj0mb9bkkus@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://0leijqa6-pzp4-seot-zi3v-og65vod0qylk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mb8qr727-s9wk-hjxm-d6le-4qjl5iytdpfm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://quxozfmy-63nv-nfad-bo7s-2oc02u5hd4rf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://x516kipl-rsyy-jynn-2d0e-b7mv9md8na4v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://18vpstj5-lg4d-1q3o-wf6v-t9ktxb50hyxg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://05f3181c-ae29-480d-bc66-436f8f959005@38.135.122.152:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#US 🇺🇸 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 38.135.122.152
 vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.65.205:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#GB 🇬🇧 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.65.205
 vless://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI#GB 🇬🇧 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.65.28
-vless://05f3181c-ae29-480d-bc66-436f8f959005@38.135.122.152:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#US 🇺🇸 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 38.135.122.152
-trojan://2pad3uwh-zrzu-5s0t-lzjh-r1m1j0dggcly@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zf2593cb-z7g1-tp3z-xv2j-9mgwxulgcldz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://fc5t5kvr-8n0b-a0k4-qkhl-k1svn9146dfz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vtwks6rw-z2zv-9f48-mkog-aznckp5jfbzx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

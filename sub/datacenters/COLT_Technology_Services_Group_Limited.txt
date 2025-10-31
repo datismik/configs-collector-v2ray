@@ -1,6 +1,6 @@
-trojan://kaboaffr-uz2p-bjja-kvzx-1xiag2jz8z2w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://iyng6tgb-gzlx-shgh-pdsz-s2ybog5fznxw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://egggyvan-er66-7qjc-ieoa-cxugeskqh5vd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://q95xn5g9-a34z-tsrp-hmhr-mkv6o0zb98e3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://360d4ibj-ixct-0qa7-e3no-opit430wl0e0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://djbj094d-p2f5-pagr-3yuf-zfcl4arz6cvo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://SSorg@217.110.20.141:443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - COLT Technology Services Group Limited ┇ 217.110.20.141
-trojan://6281tznz-8gsg-6dd4-j4h5-7szp0gncyj02@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://welrjgye-2hdf-oafw-a692-6603n0mzzd6z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://2uq0ea1e-7nkh-pos0-cdtk-n6zci52b00yi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://r39czv3a-6dlc-74cs-qsty-rr2ioqc6bkmy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

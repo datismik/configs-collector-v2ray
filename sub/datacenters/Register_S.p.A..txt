@@ -1,6 +1,6 @@
-trojan://jxlnhfwl-folv-9ulw-nijn-mcszl0qmshzt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://q1fre0up-74ap-9cta-xh8t-wi0w8sz7y8qu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9nbrvg7f-u9dz-3uo6-0t8z-x9bq1pk2it0s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://e5fs1mbf-8ucl-4lsa-50yt-ueo83oh494f3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://sqz3x1kq-kdze-zx5u-aq6z-sm2wxpobmj21@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2cn53m5l-l66e-kskn-g6fr-y8mbap5g4s7d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c6f7c383-e85f-456d-8946-4f254fdf2bb0@filmnet.filimnet.com:80?type=xhttp&security=none&path=/cdn/assets?v=12#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - Register S.p.A. ┇ 195.110.124.154
-trojan://82j3mru4-1cyg-3yp2-yvj0-v6neth8bd7zd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://eoocktu3-dlbf-9urx-aff9-kcxvlfnop8ln@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3ne19kub-yq6r-gku4-4q2v-3pv2yte1bcit@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ql43etnt-9aii-hun7-h8ru-9ee4wbaoerf6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

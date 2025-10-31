@@ -1,6 +1,6 @@
-trojan://rif8rjwz-vkr8-4nyf-p2yc-uog4lh33n0ah@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://xljogn6u-7gg5-nijy-vzzy-bkm3fjv4tp8f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://iw991mml-15rh-tm6r-z413-i0grergn0y0l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://y8l8trcd-fon8-t8z4-wi0g-qora60vt3a4k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://8dl745sx-0wid-gpqw-vx7m-pyzf92oi879o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i1yge8ej-9omc-4z8z-plc1-g17dv858szhx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@46.246.10.37:8443?type=tcp&security=tls&sni=hel2.fromblancwithlove.com#FI 🇫🇮 ┇ VLESS-TCP-TLS - Oulun DataCenter Oy ┇ 46.246.10.37
-trojan://8iv1zskx-6uy2-b4dl-6mjl-1xerymieggf3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://adl151hi-ts3h-dydh-9gxx-jz3i6po0ji83@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jqu2ve67-6exa-llw7-fhau-6ezuxa6jowmg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://unhz3sgq-qm5j-hfpo-u60w-u9tk1om7nqcj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,9 +1,9 @@
-trojan://2787p280-7tpt-jp86-1o70-6lmsubbm39ls@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://mxirfang-2vww-ubgx-6wqx-zs8as5orrt7i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fygzy0px-6rsp-t1qp-9d5h-4otbjt540blh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:1717?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.24
+trojan://dmhx0fzi-c3sw-wbhq-yvub-7p0ddim4166h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://h3e9ft7n-zmjp-1my1-52gz-efptd4lghduo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2n9hzi52-12is-opgt-iixz-06tage6vr01d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.172
-vless://b96981a2-a6aa-44c0-b21f-88328379ec33@85.133.215.21:7964?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.21
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.188
-trojan://4ky2g711-z3eo-zomn-zu7b-14nv7qyq2sdw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z5dx76t0-nmwo-v4lm-lx7n-g3pi35xy83nm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://b96981a2-a6aa-44c0-b21f-88328379ec33@85.133.215.21:7964?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.21
+vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:1717?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.24
+trojan://2z6fppsr-zn8m-j2sh-pl0e-o9q7pf7y0rvj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://h1wem1y5-qsm2-4lvx-q94o-kihouv36whqu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,9 +1,9 @@
-trojan://pvymvvk1-efrk-u175-85ap-1o85ktmw97o1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://5kdutqak-4836-wyx0-icst-xjp2kzx0s198@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://61ykumlb-p2i5-ywrr-mu1e-6u05907tbe48@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://64579a5c-ce4a-4248-8457-28e5585729b6@91.107.149.182:80?type=h2&security=reality&sni=store.steampowered.com&fp=chrome&pbk=J8IUfZKoiCO4cbH5qC2FsBPlFmviOejQuqGpwblSXTI&sid=36dde1d03f688bd0#DE 🇩🇪 ┇ VLESS-H2-RLT - Hetzner Online GmbH ┇ 91.107.149.182
+trojan://w24wnwgt-ddnu-v0fj-vzoy-4tcwvbbh56s8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://tohgpln3-abs7-wu6z-tv37-3diasqs1vlo4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://603723w3-af01-s7ry-tvs8-3plyrw3we9ut@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1IMi1UTFMgLSBTY2FsZXdheSBTLmEucy4gXHUyNTA3IDUxLjE1LjExOS4zNiIsImFkZCI6IjUxLjE1LjExOS4zNiIsInBvcnQiOjQ0MywiaWQiOiIwNWI2YjI1Yi1iYjVkLTRkY2QtOTcxMC0zMWUzNzRmZmE1ODQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0IjoiaDIiLCJ0eXBlIjoiYXV0byIsInRscyI6InRscyJ9
 vless://b6067899-8c64-4e83-8ec9-b0abeef1596f@45.91.193.247:8495?type=h2&security=reality&sni=icloud.com&fp=chrome&pbk=bJ7kNh4nOLMQjV737Rud9sDqdNE2vYx_hlYFD82-1Qc&sid=acbc173b1eef54b5#FI 🇫🇮 ┇ VLESS-H2-RLT - Cgi Global Limited ┇ 45.91.193.247
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1IMi1UTFMgLSBPVkggU0FTIFx1MjUwNyAxNTIuMjI4LjIyOS4xNCIsImFkZCI6IjE1Mi4yMjguMjI5LjE0IiwicG9ydCI6NDQzLCJpZCI6ImIyOGJkNGMwLTg2ZTMtMTFlZC1hZTU2LWUzNDE4MTlkNTQ1YiIsImFpZCI6MTAwLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6ImgyIiwiaG9zdCI6InNuYXBwZm9vZC5jb20iLCJwYXRoIjoiL2dhbWUtc2VydmVyIiwidGxzIjoidGxzIiwic25pIjoic25hcHBmb29kLmNvbSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1IMi1UTFMgLSBTY2FsZXdheSBTLmEucy4gXHUyNTA3IDUxLjE1LjExOS4zNiIsImFkZCI6IjUxLjE1LjExOS4zNiIsInBvcnQiOjQ0MywiaWQiOiIwNWI2YjI1Yi1iYjVkLTRkY2QtOTcxMC0zMWUzNzRmZmE1ODQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0IjoiaDIiLCJ0eXBlIjoiYXV0byIsInRscyI6InRscyJ9
-trojan://qqtyyrsz-3hkb-nked-fphq-9tanfnny04q7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wk33acuj-12ez-kpg6-bnta-i5p6d4w34hq0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://64579a5c-ce4a-4248-8457-28e5585729b6@91.107.149.182:80?type=h2&security=reality&sni=store.steampowered.com&fp=chrome&pbk=J8IUfZKoiCO4cbH5qC2FsBPlFmviOejQuqGpwblSXTI&sid=36dde1d03f688bd0#DE 🇩🇪 ┇ VLESS-H2-RLT - Hetzner Online GmbH ┇ 91.107.149.182
+trojan://hgcbhnbt-28cw-75xt-ei6b-fpf7lehbim71@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://auuhs32d-z9mz-sm27-1gln-elhqoonpke7x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

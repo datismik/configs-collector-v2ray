@@ -1,26 +1,26 @@
-trojan://37mvhduv-biro-b6y4-j3lb-se6sz2ser749@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://88onb68s-sap5-l0ow-p7d7-79lvc5anudgv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b3hqutoq-ulq6-a0x7-eof0-20qfyt1r8vhy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://i14v96ot-nsnf-jd7i-vtwc-alfsujpdl3bg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://hpfj0xp1-i2zz-36h8-2vbx-ckteq247oaqc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://558n7h3k-tp33-z70s-8wih-tj8klpldyf54@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaRU4tRUNOIFx1MjUwNyAxMDQuMTY2LjEzNS4xMCIsImFkZCI6IjEwNC4xNjYuMTM1LjEwIiwicG9ydCI6NDQzLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.240.110.212
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 107.155.57.11
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 107.155.57.51
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaRU4tRUNOIFx1MjUwNyAxMjkuMjI3LjIwMS4yMzQiLCJhZGQiOiIxMjkuMjI3LjIwMS4yMzQiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJhaWNvbzZkdS5jb20iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiYWljb282ZHUuY29tIn0
+vless://0d115197-6bf7-9361-9278-a048f37472f4@dubai.marzxo.biz:8085?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 37.202.222.77
+vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@ae01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 31.57.228.19
+vless://fe422413-ef38-4455-8afa-0128e08e8e4e@45.40.59.248:443?type=ws&security=tls&path=/bing&sni=vn.qhahd.shop#HK 🇭🇰 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 45.40.59.248
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 23.251.121.242
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg4NGU0ODkxNTc0OTFm@151.240.110.214:11252#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.240.110.214
+vless://turboo-server@fn.turbooserver.ir:8080?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=3Hj0Zbqa4Ry2r2zeLhGUB4r5atY2KRg5bAFbQ0ulZkE#FI 🇫🇮 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 104.166.166.138
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaRU4tRUNOIFx1MjUwNyAxMjguMTQuMTQwLjI1NCIsImFkZCI6IjEyOC4xNC4xNDAuMjU0IiwicG9ydCI6NDQzLCJpZCI6IjVmNjRmYTY1LTdiMTQtNDljNS05NTRkLWFhMTVjNmJmY2FjZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaRU4tRUNOIFx1MjUwNyAxMjguMTQuMTYyLjQ4IiwiYWRkIjoiMTI4LjE0LjE2Mi40OCIsInBvcnQiOjQ0MywiaWQiOiI1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9kb25ndGFpd2FuZy5jb20iLCJ0bHMiOiJ0bHMifQ
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 23.251.121.242
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaRU4tRUNOIFx1MjUwNyAxMDQuMTY2LjEzNS4xMCIsImFkZCI6IjEwNC4xNjYuMTM1LjEwIiwicG9ydCI6NDQzLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
-vless://6ec70375-8b84-4ff7-afb2-ac65f0524868@31.57.228.53:2560?type=tcp&security=reality&sni=varzesh3.com&fp=firefox&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 31.57.228.53
-vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?type=ws&security=tls&path=/vless/&sni=ul-uae2.09vpn.com#AE 🇦🇪 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 85.237.211.219
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?type=ws&security=none&sni=nl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 128.14.140.2
-vless://0d115197-6bf7-9361-9278-a048f37472f4@dubai.marzxo.biz:8085?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 37.202.222.77
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg4NGU0ODkxNTc0OTFm@151.240.110.214:11252#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.240.110.214
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaRU4tRUNOIFx1MjUwNyAxMjkuMjI3LjIwMS4yMzQiLCJhZGQiOiIxMjkuMjI3LjIwMS4yMzQiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJhaWNvbzZkdS5jb20iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiYWljb282ZHUuY29tIn0
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 107.155.57.11
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 107.151.182.253
-vless://83754396-4fb9-11f0-92cc-3fe03963269e@ae2.vpnjantit.com:10004?type=ws&security=none&path=/vpnjantit#AE 🇦🇪 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 181.215.205.227
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNWM0NDZiNzc1OTMxZDI4@151.240.110.215:11254#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.240.110.215
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 107.155.57.51
-trojan://fastnode_651481_38665684959363075@98.98.142.82:443?sni=tn.trojancert.com&peer=tn.trojancert.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - ZEN-ECN ┇ 98.98.142.82
 vless://acfd7e81-54ba-46ba-a3fb-0095470453ce@homee.oops.wtf:8866?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 37.202.222.115
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.240.110.212
-vless://turboo-server@fn.turbooserver.ir:8080?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=3Hj0Zbqa4Ry2r2zeLhGUB4r5atY2KRg5bAFbQ0ulZkE#FI 🇫🇮 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 104.166.166.138
-vless://fe422413-ef38-4455-8afa-0128e08e8e4e@45.40.59.248:443?type=ws&security=tls&path=/bing&sni=vn.qhahd.shop#HK 🇭🇰 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 45.40.59.248
-vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@ae01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 31.57.228.19
-trojan://hmzdt6no-2liy-drxu-8xqp-co1pia5bip7h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qiulooqf-euyg-r4qy-xqum-kr2yo6zbu1k0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNWM0NDZiNzc1OTMxZDI4@151.240.110.215:11254#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.240.110.215
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?type=ws&security=none&sni=nl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 128.14.140.2
+vless://83754396-4fb9-11f0-92cc-3fe03963269e@ae2.vpnjantit.com:10004?type=ws&security=none&path=/vpnjantit#AE 🇦🇪 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 181.215.205.227
+vless://6ec70375-8b84-4ff7-afb2-ac65f0524868@31.57.228.53:2560?type=tcp&security=reality&sni=varzesh3.com&fp=firefox&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 31.57.228.53
+trojan://fastnode_651481_38665684959363075@98.98.142.82:443?sni=tn.trojancert.com&peer=tn.trojancert.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - ZEN-ECN ┇ 98.98.142.82
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 107.151.182.253
+vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?type=ws&security=tls&path=/vless/&sni=ul-uae2.09vpn.com#AE 🇦🇪 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 85.237.211.219
+trojan://dpajquv5-6bmz-rvge-ji93-nsypubg8d0dn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hy8itv6y-xuja-n1p6-azsw-1s5yjslxsl92@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

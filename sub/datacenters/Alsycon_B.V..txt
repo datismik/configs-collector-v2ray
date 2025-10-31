@@ -1,6 +1,6 @@
-trojan://znj4ufel-hugo-c4zf-rwz3-mml2b8ewfq3v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://woiouoev-i9ef-upnh-uoxs-5rdnt0xdk5g4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kgap4bjx-bxif-nh6k-52jg-snwscw2rvdq6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jj6c6vta-c3vv-jx4f-2ff2-omjj4dfmgsbu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://pxi05yqy-v1fq-073v-0utz-ivlgzzcxgq54@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4kc8i3od-ibt3-1au4-1c2p-glne87yvg5yw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4945bf8a-bde4-4d25-9004-ac8d947b951b@212.107.12.77:11676?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=journalofbigdata.springeropen.com:443&fp=chrome&pbk=LRRHR_xkAaA1sfRggwMUtiE4KcZKBaUnS_SGSSTTERA&sid=a92c028967#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Alsycon B.V. ┇ 212.107.12.77
-trojan://acp9go84-b7x0-yv7u-rps9-e1j7wkzy0oky@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://f5xpi1nm-1w5w-2bjx-yody-h5piwbmrlk5a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0wj7i280-zq8m-74ke-3d24-zhe580v6euay@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://x4wk38sf-lgmi-dxkp-9dma-ow371o9ikt4g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

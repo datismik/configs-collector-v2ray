@@ -1,9 +1,9 @@
-trojan://psxdiq0r-dcvc-vnsr-6ibz-bu44gfmg1nwg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://k12wm3f6-e2mq-nxet-w7rh-tvhzf8u1txet@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tnjbqubm-r8gt-nlxe-orbm-gjuty2vwij3r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4pjlh5dk-mv9n-evf2-p9r0-i3q52yb8fndf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://8ksfq3h2-2w9d-6pcu-2p6o-f2ju0dolmwak@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ptwzumby-rut5-lqjk-fgvr-8dnprm9clym2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://add3d528-daf0-44e0-b981-e64e32417605@80.76.43.111:2083?type=grpc&security=reality&sni=refersion.com&fp=randomized&pbk=NPdXEraLlFLxdzT5jT-PMmJyoF85xj6Q5II8VEqbm08&sid=f1ebce9e3cc3a2a4#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Spacecore Solution Ltd ┇ 80.76.43.111
-vless://4409da5c-b5d4-4a7a-bea9-cedd0e50a8dd@80.71.227.131:443?type=tcp&security=reality&sni=website.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#NL 🇳🇱 ┇ VLESS-TCP-RLT - Spacecore Solution Ltd ┇ 80.71.227.131
 vless://de4f5606-baf6-4bc2-a715-7cfe39dda1ed@195.133.84.132:2083?type=grpc&security=reality&sni=miro.com&fp=firefox&pbk=tMVNburGfNg0IHRgzlmoqV22mx1GgkRe8qzBouEYY3Y&sid=a25aca9336#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Spacecore Solution Ltd ┇ 195.133.84.132
+vless://4409da5c-b5d4-4a7a-bea9-cedd0e50a8dd@80.71.227.131:443?type=tcp&security=reality&sni=website.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#NL 🇳🇱 ┇ VLESS-TCP-RLT - Spacecore Solution Ltd ┇ 80.71.227.131
 vless://371bba8c-1e17-4a67-aec8-80f594cb565e@nl.spirako.com:443?type=tcp&security=reality&sni=website.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#NL 🇳🇱 ┇ VLESS-TCP-RLT - Spacecore Solution Ltd ┇ 80.71.227.134
-trojan://pqfu5gwv-3phm-ak0i-brcu-cygli3hwjjw0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r3wnu58o-xnwa-mjhs-nrkh-lbtavru14pn3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://xscojawl-jm57-l3tc-no4s-q00rp2juemm1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c3sk4lm9-8211-i54w-5ebv-2qy4mfisgkve@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

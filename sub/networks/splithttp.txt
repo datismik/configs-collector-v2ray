@@ -1,7 +1,7 @@
-trojan://46afnjv0-mr4m-aafs-otw8-37hxst7clcr0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://81shakfk-odoc-9spg-oumf-if7380yr2251@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zq0p6dlo-j133-125r-tzxo-oxksg8uw0bpf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://5931f598-e766-4829-9e3b-89406b6b3606@89.187.183.14:443?type=splithttp&security=tls&sni=client.cdn77.com&fp=randomized#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 89.187.183.14
+trojan://mqijwqcz-lgnq-tpbc-ugwz-dpdyiggdg382@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://2oa5a7wu-w88a-zrbx-fcdn-jrjz0okli3mf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d8iit14k-tsvc-mv7y-9rja-neem2xd6ar6g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://60c245ce-18c0-429b-9653-1bb5efe105c1@87.248.133.220:23079?type=splithttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-SPLITHTTP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.133.220
-trojan://xliwak3u-650x-0z8o-vg4n-rcrp20eaktjq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dv4b5dio-i6nl-5u7b-t1pe-yzkyg5hokvxd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://5931f598-e766-4829-9e3b-89406b6b3606@89.187.183.14:443?type=splithttp&security=tls&sni=client.cdn77.com&fp=randomized#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 89.187.183.14
+trojan://o1swk68g-7qj0-oo3r-r6ax-l6qduth2za0m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mwa4vjbu-9g2u-ua1r-7zve-jrhaghckigpj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

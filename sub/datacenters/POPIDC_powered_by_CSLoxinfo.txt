@@ -1,6 +1,6 @@
-trojan://7dpfo15r-iwuk-7owz-4rbj-doeleg04rm8v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://xvfwjdpm-x3a2-3h32-jyo6-nezzo7zemw17@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://eh91iep7-qlru-kv5j-qim1-xv0picbr2knn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5fkx7jpx-6ibf-p7fm-n0w9-tte66l78bk8t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://864ab1a5-tv8i-1qx8-53fb-7xrdl8qfcr5j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vf18u2ad-dwrj-ftup-f0u1-chxdrk2tbccw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - POPIDC powered by CSLoxinfo ┇ 43.254.132.220
-trojan://n9m2cofe-5zo7-30j8-8swn-ymchat0mkze6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rzepx7iv-wwhd-anso-yed8-eov42ffw4ka9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://2bby02o2-mjxz-3rmq-70ly-82wgo563te68@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nvp2r4pq-hv7z-n5ei-tgz2-n2x7hrao5qqs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

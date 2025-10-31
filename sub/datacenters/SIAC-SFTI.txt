@@ -1,9 +1,9 @@
-trojan://h9c04yw7-5db0-ua93-00x1-wk4wrf8ii0ih@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://i0hmolgw-mt5c-rmcw-6i8n-788jol3jyhh5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rsnl148i-l3jy-47zd-uluk-hhkbvwtxzsrg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.221.213.149:443?type=ws&security=tls&path=/blue&sni=ar.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.213.149
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.221.213.172:443?type=ws&security=tls&path=/blue&sni=ar.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.213.172
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSUFDLVNGVEkgXHUyNTA3IDIxNi4yMjEuMjE0LjUwIiwiYWRkIjoiMjE2LjIyMS4yMTQuNTAiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSIsInBhdGgiOiIvb2JkaWkuY2ZkOjQ0My9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSJ9
+trojan://fqy92kok-fki7-i2g6-gch1-pxnqt2gyi6n8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://76lsn9u8-wrke-l2fe-aup0-gf8l6ax3gpwu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uv57vedd-t695-yd7s-0v5z-y2nbqgt48mzn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?type=xhttp&security=tls&path=/?BIA_CHANEL@JOKERRVPN&sni=xuy.cyberkotakbas.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - SIAC-SFTI ┇ 216.221.222.153
-trojan://fnyeikow-m1fd-icsf-c8x7-lfj771v3flj8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5hu7d6wz-a1yt-unt9-832v-41h4lzicyxno@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSUFDLVNGVEkgXHUyNTA3IDIxNi4yMjEuMjE0LjUwIiwiYWRkIjoiMjE2LjIyMS4yMTQuNTAiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSIsInBhdGgiOiIvb2JkaWkuY2ZkOjQ0My9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSJ9
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.221.213.172:443?type=ws&security=tls&path=/blue&sni=ar.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.213.172
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.221.213.149:443?type=ws&security=tls&path=/blue&sni=ar.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.213.149
+trojan://b5n9o5fv-nk1s-74m0-awx0-gxvcqtkuy62u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jzpc4lm7-n3ab-m3r1-dw7j-19x7xdoznlej@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://t7ptjx2j-izv0-c9wn-38d0-x5sgwjf9qa2x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://d1ge6w59-8fnh-8tiw-gxj4-qv768ofo71tn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ruopef7d-f164-ieip-vvla-g3chrexyz9mi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://578cbzef-t8yg-6uoq-xve5-t7s52cp0x7l0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://1rsr0pu7-h3ah-xhg3-wosl-6ut3lrmf3632@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://sq0hc0r1-1w8j-hgrd-zmya-p1ry70q06tbk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - 453 Ladplacout Jorakhaebua ┇ 119.59.98.58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - 453 Ladplacout Jorakhaebua ┇ 119.59.127.129
-trojan://dquoip5n-gemu-ppmp-zzkw-5cixl8ch5a9o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uincw1xe-v1gq-reo5-ta4e-blbs23c55iyf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://wmagt63t-b52o-o3ca-56zm-j6j7mc1d84mh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://oaljts3i-k8bj-w143-fwh1-4r9o2pcoesx3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

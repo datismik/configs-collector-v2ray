@@ -1,6 +1,6 @@
-trojan://hez5zi00-7z61-5zzp-1uxp-ukfnbtpnv77g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://rt5qenrv-ai9f-kzv2-ly9a-1f22uhxa2oyq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://umc9c1o2-hewx-moaa-7e7o-pn1nrwvspoe9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ohsl2p01-w7ot-entv-dlb3-5vmq9nmqfz46@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://3l8je0de-tej1-rsj3-vwak-3l4m38zdwa3v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://juhnbad5-gm9u-rhz8-aclq-1jwjf67eoz0r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbnNoZW5nIE5ldHdvcmsgVGVjaG5vbG9neSBDby4sIExpbWl0ZWQgXHUyNTA3IDE5OC40NC4xNzkuMTg1IiwiYWRkIjoiMTk4LjQ0LjE3OS4xODUiLCJwb3J0IjoxMDgxLCJpZCI6ImRmOWI3ODhmLTkyOWEtNDM0OS05NzBhLThjYmJlMTJkNmFlOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaGstY24tMDEueXVtZWlmYW5nLmNuIiwicGF0aCI6Ii9hc2RkIiwidGxzIjoidGxzIiwic25pIjoiaGstY24tMDEueXVtZWlmYW5nLmNuIn0
-trojan://un5qql7a-ncqv-qthz-oqka-t0zz7zssxyef@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xcmlcvu2-w8x5-6p5f-lxr4-z7y2pw8z6dfq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://1ufzbqph-c31j-6p2y-6wtk-zauvmi16sdjw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ravtvurg-ko7f-ltpf-wpzu-vaff0061gm0d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

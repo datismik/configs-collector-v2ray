@@ -1,13 +1,13 @@
-trojan://lcqalbld-lajk-djx2-5uiq-153k38yzr18f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://5uxg57cq-3272-nx19-62iw-59e0caywfi92@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tohqglhw-ukpd-da6a-9urh-oup82ggtc37v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://60fc8c3b-1bfb-498d-851d-6f7ffcbbeefd@fi.aliusvpn.ru:8443?type=tcp&security=reality&sni=google.com&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.144
-vless://9b4df1d5-78ae-45a9-9ada-6ca4ae84a456@94.159.109.168:443?type=tcp&security=reality&sni=wikiportal.su&fp=chrome&flow=xtls-rprx-vision&pbk=jDzuAXncvF7HN828s8ZqMNcncL-PiqYzFd7U_66Cwj4&sid=df#DE 🇩🇪 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 94.159.109.168
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJc0R6djFDcHg2ZUNDRThHdk55Um9o@94.159.96.245:11902#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - H2nexus Ltd ┇ 94.159.96.245
+trojan://kdf366lk-hvb6-mz25-bii0-ayaksb6bmuwn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://eq68oep3-qqku-maal-dsj1-jijjrzg4153x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h6jv1dih-pjqq-yna4-fbow-6nqpl7zaxq88@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://87b4408d-f2ea-4142-8550-8e2851e91cd8@94.159.109.161:443?type=tcp&security=reality&sni=pressable.com&fp=chrome&flow=xtls-rprx-vision&pbk=yV2d9wGJk4DYI_ubu3gUGOvG-6evWzsU85_xgFRMdCM&sid=4fed88d7ea37acd5#DE 🇩🇪 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 94.159.109.161
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEgybmV4dXMgTHRkIFx1MjUwNyA5NC4xNTkuMTA2LjI0OCIsImFkZCI6Ijk0LjE1OS4xMDYuMjQ4IiwicG9ydCI6ODg3NywiaWQiOiI2NTQyODVlNi0yM2ZiLTQwNzMtYjhkZS1lYmE5MGY1NjJmZTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://60fc8c3b-1bfb-498d-851d-6f7ffcbbeefd@fi.aliusvpn.ru:8443?type=tcp&security=reality&sni=google.com&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#FI 🇫🇮 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 85.192.49.144
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJc0R6djFDcHg2ZUNDRThHdk55Um9o@94.159.96.245:11902#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - H2nexus Ltd ┇ 94.159.96.245
+vless://9b4df1d5-78ae-45a9-9ada-6ca4ae84a456@94.159.109.168:443?type=tcp&security=reality&sni=wikiportal.su&fp=chrome&flow=xtls-rprx-vision&pbk=jDzuAXncvF7HN828s8ZqMNcncL-PiqYzFd7U_66Cwj4&sid=df#DE 🇩🇪 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 94.159.109.168
 vless://0f8eecbf-3d5f-4112-b7f3-32521ca114d4@94.159.103.254:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=r4Visq16WAEVR7yIvxfC36KpaiuVLyzyXxA5xZwNEGk&sid=a7970bf71a2aca0c#DE 🇩🇪 ┇ VLESS-TCP-RLT - H2nexus Ltd ┇ 94.159.103.254
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@94.159.98.123:443?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link#DE 🇩🇪 ┇ VLESS-WS-TLS - H2nexus Ltd ┇ 94.159.98.123
 vless://52171f0d-7b05-4494-aebf-d56de3475661@94.159.96.160:2052?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - H2nexus Ltd ┇ 94.159.96.160
-trojan://63rzafad-ju36-ayla-hhk2-nj8hein2tjzl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://o5vdk0ky-5qhy-abie-caq6-miusewfh89e5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@94.159.98.123:443?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link#DE 🇩🇪 ┇ VLESS-WS-TLS - H2nexus Ltd ┇ 94.159.98.123
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEgybmV4dXMgTHRkIFx1MjUwNyA5NC4xNTkuMTA2LjI0OCIsImFkZCI6Ijk0LjE1OS4xMDYuMjQ4IiwicG9ydCI6ODg3NywiaWQiOiI2NTQyODVlNi0yM2ZiLTQwNzMtYjhkZS1lYmE5MGY1NjJmZTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+trojan://ilzt49ch-r68t-7qhn-i2pd-k12ooy6gykf1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fibqyf7p-ap0g-swoe-5oqq-56z3yh2t0ia9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

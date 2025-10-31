@@ -1,8 +1,8 @@
-trojan://462ap45q-qv5g-0iv0-ctxp-isw3fi2lnf3w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://ribvdp6u-k41c-ohv8-tjoc-z1vm61zcd3pk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hcd4u0ua-59i7-geb6-fgf8-bdsaqsgvc64f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://95bbb722-7641-4247-b795-25a2f540e67b@nld1.webunbound.org:443?type=tcp&security=reality&sni=www.bol.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yug-Link Ltd. ┇ 185.138.88.15
+trojan://mohghghy-wvkk-2xui-0wbw-ljnj8rdxrnp1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://rkiqn78k-21tl-adpc-zujl-fle4mdgl216d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://51tsqqze-tlr9-my7c-0xcw-io07iqjgzj4u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://95bbb722-7641-4247-b795-25a2f540e67b@185.138.88.58:443?type=tcp&security=reality&sni=www.bol.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yug-Link Ltd. ┇ 185.138.88.58
 vless://7a96f5c6-f301-4bd0-b5a2-931582c71034@185.138.88.35:63243?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=l3OvkX00nJ0TURglh2g4ChZmxjrly6PQ8OkeBFYk-m4&sid=6b1badce8600a23c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yug-Link Ltd. ┇ 185.138.88.35
-trojan://y3gpz2tg-q4ca-rvfn-7e2m-8l1q46me778f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://07h7iq6i-rxi4-q86i-6m6q-cdpnjtf89m80@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://95bbb722-7641-4247-b795-25a2f540e67b@nld1.webunbound.org:443?type=tcp&security=reality&sni=www.bol.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yug-Link Ltd. ┇ 185.138.88.11
+trojan://0gvlb668-gmz3-p4tb-a5ew-3srhqjtqmvis@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://65rshfcj-ttxc-3xcd-l1qv-ig1uely2mjqy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

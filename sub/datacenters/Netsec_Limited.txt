@@ -1,7 +1,7 @@
-trojan://1vobthx6-3jwa-nf1l-ywr4-tse1wlkpicg1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://j89zike0-ysrn-2hp3-y6r2-qrqpbbpc1xlx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g3bnb5wp-cq4e-qg35-ot2n-edrvv55tnql9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6b6vvx3j-n07v-3ou0-tvpl-ejuq57uix01w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://xdr5wwcx-41zz-0eyc-34gu-5021w1ntu1mk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://07p1svj0-o9js-c6qc-g178-7fsluwbbdob7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@148.66.56.98:805#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Netsec Limited ┇ 148.66.56.98
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@148.66.56.99:804#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Netsec Limited ┇ 148.66.56.99
-trojan://pipxnqxb-c4ys-qamd-qxg9-sxa5j64bns0p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8fomtrll-jf1h-clz6-nt6j-mrndr4v7hpas@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@148.66.56.99:802#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Netsec Limited ┇ 148.66.56.99
+trojan://8yq3f4b5-gpgo-a345-4w65-qapvsns47iam@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p83ymh7g-6q8f-9dy6-cp0q-hhso2pcikk3e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

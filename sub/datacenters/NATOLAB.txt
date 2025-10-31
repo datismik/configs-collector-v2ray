@@ -1,8 +1,8 @@
-trojan://zy1xqtjf-3wv7-bapc-pygu-b4degaxmv4fp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://0s6riuza-5pct-5f1b-vrp7-9p1cifyt0bsz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hvss72md-q69n-j154-7auy-28m444dakw97@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xb3w6d22-p12m-zvyj-8a1n-e9vrizzhq4ps@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://wn13786j-tx0f-xwrs-0kph-bydzwurtbwm9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5yuiamcv-oh84-oyym-uxdw-34qkcxbvhrzl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.167:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.167
-trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.159:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.159
-trojan://zc2jvpe4-riw2-ladw-wo42-uxiibytx0tmr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e92ablpp-u12c-mpnz-5are-5snhw93p3ee3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.70
+trojan://721xjlv5-q5jt-3wqz-b1h3-wvsscahaytgl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pwjt77l5-wj5u-km16-dzp7-5p6lf26t3he0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

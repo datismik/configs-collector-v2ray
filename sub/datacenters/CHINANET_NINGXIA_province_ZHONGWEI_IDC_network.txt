@@ -1,6 +1,6 @@
-trojan://y2qiv1gr-lp4j-p1gx-kknv-per2pif7fqba@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://xy0s4zi6-64a4-13ph-e3vr-gm4dkv5fvhq3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zcnkq6my-0r4m-balc-67pk-ab70i5gti6wu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://47fgs172-4gr7-pjwq-05v6-1wapdws1y956@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://dngfvv52-f133-e24t-f4jy-4q57xlyst5dj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://srmfwolv-4f1l-se88-l3y5-gmstrhv2odm3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://267a9510-4ff5-4ffb-afaa-52e15423dadb@36.103.168.7:21874?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET NINGXIA province ZHONGWEI IDC network ┇ 36.103.168.7
-trojan://312yd6nr-gq9a-bf9f-2n0f-bckax1ng14dl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m0emfe4b-ru16-7mm6-ovqp-vuxq702yg2be@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jk76uej8-a0y7-qnao-a2za-emczub200uwt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ujb1wprz-hzdv-x58q-73zt-izano7lmyadp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

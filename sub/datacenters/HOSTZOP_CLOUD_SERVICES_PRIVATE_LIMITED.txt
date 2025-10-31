@@ -1,6 +1,6 @@
-trojan://24a5entt-f3j0-s8fz-swuh-5ui0262ku9un@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://p15z79mf-773m-0emo-apvq-7776nc9t3emz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://eu7fy12x-nvod-m6hl-qn1i-ip0u5n0wjuh8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://80ifgfqj-e4l1-qda9-g76r-j9a27mnotfds@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://7gh6dtwz-e7yn-96sj-npkj-1liiukhr70qx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fy0fjz40-dh7u-63gk-1c4p-7dlx0cyqymbn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://533e2499-00a2-40ef-b2b2-5f219248c258@157.20.172.163:443?type=ws&security=tls&path=/Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telegram-Amiir_FBIger-twix?ed&sni=h2e.salehpersian.com#IN 🇮🇳 ┇ VLESS-WS-TLS - HOSTZOP CLOUD SERVICES PRIVATE LIMITED ┇ 157.20.172.163
-trojan://1t6wk1q0-vqne-s4j4-10tt-wu8631apwk8f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://px3kxmnj-5bc1-gigb-l30p-kqx2cc9trikz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://4ipz8xyp-r28j-ect7-t14r-ydvmv0eeh9m8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k3rfw97d-hpx4-nsu8-gdy4-z1a4qpe98q6k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

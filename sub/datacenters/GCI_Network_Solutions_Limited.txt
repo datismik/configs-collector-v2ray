@@ -1,6 +1,6 @@
-trojan://yd2x743g-nkel-qk81-iojz-vy3sye0835bk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://up1fps7p-zet1-b6g1-b5hx-ti222y9lf3kq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qs6c0q4y-akx7-jgd8-hoiz-b5z1lqy5hvht@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://77hewbsh-rwjf-x5vb-b66j-zxwxe369hdfo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://mas6i869-d9c1-g58u-m7hx-dzr40pyxcwug@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://e5rko67u-5p5n-f59n-fs0z-r4az24vyffp0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZWMzMTczZC00OWFkLTQ5YzktOTViYS05NjMxZGY4Yzc3OTA@89.213.193.87:40008#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - GCI Network Solutions Limited ┇ 89.213.193.87
-trojan://czmmbcoc-ghpv-96tk-pvdu-vdy0uide8zo0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pka92h3e-2lrn-g574-qura-ph2d5n5rk68v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://gq0mii3g-68y3-29x1-p5af-u46pwpkaww29@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5hilbszg-1uby-ubsv-6s08-1yqythdfemph@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

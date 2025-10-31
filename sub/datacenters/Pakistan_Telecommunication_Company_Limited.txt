@@ -1,6 +1,6 @@
-trojan://fgbji9yd-mzuy-7h3m-jhjd-ltb6aoeocar9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://telxvdsn-6oz3-jzyi-jqvk-ydt41yjiophg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6oskv2rr-hu71-46j8-ulg4-mj6o6hji04or@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mhiejyae-kgly-mcck-65d5-2c2kgqi08owh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://9pwgpku0-yva0-udrc-8xaw-e1h7c5alq61i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6o5crgz1-e080-dox9-ic6a-1yy12fyrc36y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://cmM0LW1kNTphOWJjMjFlZGM4ODkxZTgy@119.159.245.24:26735#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Pakistan Telecommunication Company Limited ┇ 119.159.245.24
-trojan://9edg17aw-d0h8-9owd-bblk-ttdw2n7w1nze@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pycet16b-9xy3-7ogn-i15x-p404d5gn8dbm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ndgk0dpw-kgdk-v1ry-mmom-74u4bhbv9z8f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://peqqfzmq-34jh-r4m1-nxla-sctghgn5ckhn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

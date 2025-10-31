@@ -1,12 +1,12 @@
-trojan://5als6zq9-0lsx-u4fr-oab0-y64zy6c4nvzv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://i04h7mtp-iwc0-obm5-ebbs-k1cgxu33mtqz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://35cuq3hh-h07o-br7p-5u8b-9lrce1cnxplk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - iHosting Servicios Internet Ltda. ┇ 37.235.52.112
-ss://YWVzLTI1Ni1nY206RVRIVllJNDlVRThWUjZRVw@37.143.128.125:20012#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.125
+trojan://a2e6n47v-cnm8-4m5t-6wlk-e8m2qn1slnvf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://6w09v763-nizp-om2f-u1y9-0nv1f4830na7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6z6tp9y9-n52g-b7nm-1q3j-d7ho0tdolwxl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://32fe54d2-1605-41bf-aff4-8e24957a988d@45.82.249.35:35112?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=cl14G6KdRkNxGFpDGssxWDO09FRoV5QfI5lvco-dHVs&sid=e4#CL 🇨🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.82.249.35
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.128.195:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.195
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.153.107:990#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.153.107
-vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?type=tcp&security=none&path=/vless/#CL 🇨🇱 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.249.42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@cl-01.cloxynode.com:35515#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.99.94
-trojan://vw93bndg-w58d-m1w0-q0f8-dudraqcyxjy9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7oz87fvi-4q5g-0r56-3i1f-j26o341gemua@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.128.195:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.195
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - iHosting Servicios Internet Ltda. ┇ 37.235.52.112
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.153.107:990#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.153.107
+ss://YWVzLTI1Ni1nY206RVRIVllJNDlVRThWUjZRVw@37.143.128.125:20012#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.125
+vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?type=tcp&security=none&path=/vless/#CL 🇨🇱 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.249.42
+trojan://fxogvsve-odfb-e5tm-zrgb-1uhs8spgyuzk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://plqobfb9-karz-782a-nl3u-tr4p02ydz8ge@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

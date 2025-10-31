@@ -1,20 +1,20 @@
-trojan://1h3icfv2-1izr-xjr7-2wt3-0c5icgh5qqqk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://rmk8uyk1-rk9z-027a-vttt-eawl3feydl8w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://n4yho5ma-r3nt-bko5-r4un-l4t06gvjpu7h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.114:443?type=ws&security=tls&path=/blue&sni=dt.ylks.xyz#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.114
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.51:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.51
+trojan://3lovuun9-6geh-2u87-nrqh-i8pjkkcluqbo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://u57vpkn6-5mre-hn4p-dnke-303jqe9ng6g4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l7vikq32-n9aa-tvbi-wwje-dcnd9d2fa9v3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUFBMSUVEVUstQ0xPVUQtMDQgXHUyNTA3IDIxNy4xNjMuNzYuMTQ3IiwiYWRkIjoiMjE3LjE2My43Ni4xNDciLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.114:443?type=ws&security=tls&path=/blue&sni=dt.ylks.xyz#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.114
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.254
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.65:443?type=ws&security=tls&path=/blue&sni=ds.ylks.xyz#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.65
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.237
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.203:443?type=ws&security=tls&path=/blue&sni=lw.kpcloud.eu.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.203
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.227
-vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.97:443?type=ws&security=none&sni=vx.bgm2024.dpdns.org#GB 🇬🇧 ┇ VLESS-WS-NTLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.97
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.221
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@217.163.76.102:443?type=ws&security=tls&path=/?ed=2560&sni=il.ylkszy.eu.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.102
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.254
-vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@217.163.76.117:2052?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560#GB 🇬🇧 ┇ VLESS-WS-NTLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.117
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.89
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.203:443?type=ws&security=tls&path=/blue&sni=lw.kpcloud.eu.org#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.203
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.60:443?type=ws&security=tls&path=/?ed=2560&sni=ls.ylks.us.kg#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.60
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?type=ws&security=tls&path=/?ed=2048&sni=edgood.889876.xyz#GB 🇬🇧 ┇ VLESS-WS-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.107
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.89
-trojan://kgi4raku-7idk-3npf-e1au-fs1ffz08u2ch@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://52sfz806-lcyc-h61a-y5kn-xrbgadxkg6t7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.237
+vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@217.163.76.117:2052?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560#GB 🇬🇧 ┇ VLESS-WS-NTLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.117
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.51:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.51
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.227
+vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.97:443?type=ws&security=none&sni=vx.bgm2024.dpdns.org#GB 🇬🇧 ┇ VLESS-WS-NTLS - APPLIEDUK-CLOUD-04 ┇ 217.163.76.97
+trojan://jtrww0yt-9err-7f8a-5ger-bpf57nvr4pgg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y438k9s6-ji8d-ftu8-dr4f-v3gpuoilv137@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

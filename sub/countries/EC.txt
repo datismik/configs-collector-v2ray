@@ -1,9 +1,9 @@
-trojan://h82jilwc-9wjo-gh9u-3g76-hmn5h686lb4t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://usypvo2r-p99i-90zo-23ed-7u8dcnhhmw56@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9bcuuje0-85j1-1ify-2txb-3xo073o8weex@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 38.165.231.25
+trojan://md8bifi5-vtz1-8bko-agk3-zfiluf1h1n4r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://vnpnn7uj-oeld-c4ku-3y8m-hs5mtf3l18tq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lmofw2oy-ue0d-9rby-cux1-4m5w9fazlld5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiRUMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJyYWluU3Rvcm0gTmV0d29yaywgSW5jIFx1MjUwNyAxODUuNDcuMjUzLjMyIiwiYWRkIjoiMTg1LjQ3LjI1My4zMiIsInBvcnQiOjI5NTIwLCJpZCI6ImY1YTA3NTM1LTc1ZWUtNDBiNi1iM2NmLTFiOGE0OTZmOWRlZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.253.227
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 38.165.231.25
 ss://YWVzLTI1Ni1nY206QUlXN05JWVlZRVA4RzE2Rg@185.47.253.144:20010#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.253.144
-trojan://04s21laq-mhxx-nwv7-gr4k-1bqijusyapjt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jf8l4ydz-nsqd-3x3r-4utm-r68x7nv8qs1g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://8khwdpmp-pcl9-n8y3-fefl-p5hanqo5likl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://adf16b25-xr2d-32oe-4h73-ohlr03uqbssu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

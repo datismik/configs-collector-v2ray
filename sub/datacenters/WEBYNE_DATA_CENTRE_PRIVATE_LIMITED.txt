@@ -1,6 +1,6 @@
-trojan://59ftg1vx-me21-z78f-onsx-z4kfk4p0imdf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://isj1uije-ghdq-ajoz-aawm-eoozc6r8nv7o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e48ntmge-mp0m-0yvv-rpek-c6lsjzykbraf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://15c1ujf5-x7ji-7fuo-rx1t-uplrl2jwt1u4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://yh96pors-drs7-zk5b-r9kk-qxs3hwfcneb0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mt4aw8p9-sc8o-4xk9-1dh5-vpkhrznl4ah3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://55193d81-c11e-4af9-9215-c529175e3ef9@103.180.213.53:8443?type=ws&security=tls&path=/tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com?ed=2048&sni=api.lunarmc.ir&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - WEBYNE DATA CENTRE PRIVATE LIMITED ┇ 103.180.213.53
-trojan://x2mmugm5-aiao-b46t-2sx9-9hp7qu4snb11@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9gefgeuw-1eit-woxr-jcot-1fytc4hoycix@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jz7wrz9t-kxay-s2il-ut1r-7z6212pejqrw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://afn6i155-213k-9270-jruk-no50b7lfmzvb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://qtmbrh3g-vf17-mjml-0g3t-6mtqpuscl1ix@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://49xo7f8y-r016-gsxm-yl92-ovz0wv8jmd2m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://v9sfdubq-1br2-6hir-wqaf-741mr8jvc3fg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1kh7bcmv-i9h0-tn0r-0udw-zuw8u4vx4dlf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://94evzuaa-z2zh-kd90-w12j-5yr3ip41hd9h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://m6jgqijv-wl15-zcsu-u5jo-p24k12hke4ao@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?sni=ba24.ir&peer=ba24.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - 1GSERVERS ┇ 206.168.190.219
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSAxR1NFUlZFUlMgXHUyNTA3IDIwNi4xNjguMTkwLjIxOCIsImFkZCI6IjIwNi4xNjguMTkwLjIxOCIsInBvcnQiOjIwODMsImlkIjoiZGFkYzE1YzAtMzE2OS0xMWVlLWI0MzctMjA1YzZkNWY1ZDc4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvVjJSYXl5Tkd2cG4iLCJ0bHMiOiJ0bHMifQ
-trojan://8r4glmia-0j09-zwi2-4mjo-yknnf6hj6abi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u6fbm4hn-q2j1-w8mm-l2t1-avy17pm8aete@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSAxR1NFUlZFUlMgXHUyNTA3IDIwNi4xNjguMTkwLjIxOCIsImFkZCI6IjIwNi4xNjguMTkwLjIxOCIsInBvcnQiOjIwODcsImlkIjoiNjhiZDBjYTAtMzEzMS0xMWVlLWIwMzItMjA1YzZkNWY1ZDc4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvVjJSYXl5Tkd2cG4iLCJ0bHMiOiJ0bHMifQ
+trojan://jhqbdoz7-ys6h-r96b-r2sf-9bm5ilgspdct@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p9cpictf-kl40-pm5j-3qho-6w7g6f9lgtow@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

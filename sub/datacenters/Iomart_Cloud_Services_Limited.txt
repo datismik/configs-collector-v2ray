@@ -1,16 +1,16 @@
-trojan://gvx64x98-6w90-m36q-5ffa-0fzyaouy89td@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
-trojan://vyxnyzhc-gylw-5utm-i2ol-8hatl4r70o6t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://342yqv69-dsh7-wc73-7gbb-ved312mvonbl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@g-ns3.root.info.tr:443?type=tcp&security=tls&sni=g-ns3.root.info.tr&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Iomart Cloud Services Limited ┇ 78.129.208.181
-vless://7627df5b-8101-4230-dd73-47266d588ccd@88.209.249.84:38282?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Iomart Cloud Services Limited ┇ 88.209.249.84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@78.129.253.9:802#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Cloud Services Limited ┇ 78.129.253.9
-vless://66d32b28-5df1-4cb7-b352-a11619175748@78.129.155.89:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=zeExWvxwf-KRpC4nulicavAOeMfT8LQ-kaNZAyQoPh8&sid=0817d6#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 78.129.155.89
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdUpCdGlFY0VuR1QxcFVsTVJ4Qmpp@78.129.140.11:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Cloud Services Limited ┇ 78.129.140.11
-vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJb21hcnQgQ2xvdWQgU2VydmljZXMgTGltaXRlZCBcdTI1MDcgODMuMTQyLjIyNS41OSIsImFkZCI6IjgzLjE0Mi4yMjUuNTkiLCJwb3J0Ijo0NDMsImlkIjoiNTI2N2NhNzEtOTdlNi00NGM4LThmYjUtOWZlNGFmZTA5NTRlIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-vless://dbdcf9b0-990b-4c30-8166-8303ca64f505@archivetr.arenafile.com:443?type=ws&security=tls&path=/downloader/24741&sni=archive.arenafile.com#TR 🇹🇷 ┇ VLESS-WS-TLS - Iomart Cloud Services Limited ┇ 88.209.249.92
-vless://45ff5b82-c665-4056-94a9-e77afdea2dbc@78.129.155.100:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Iomart Cloud Services Limited ┇ 78.129.155.100
+trojan://vaji1926-w0ec-gjhd-j5e9-u4g6432u6hzv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:25 ]
+trojan://zxywpw61-gaut-yhy2-49zh-gjda63qm9gk6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g0zefyfy-0hp4-gnff-bm4s-qr3sgtbu8fcj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@uk.vpnsparta.pro:57456#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Cloud Services Limited ┇ 88.150.137.68
-vless://cb2fe166-ac66-404d-aa4e-8d16fb2ef412@185.214.101.118:20435?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=uob8UvGgvG-F3iz0PuOpam6nSh6789W7BQwtdbAS3S0&sid=a84ef4c84588b70d#ES 🇪🇸 ┇ VLESS-GRPC-RLT - Iomart Cloud Services Limited ┇ 185.214.101.118
+vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJb21hcnQgQ2xvdWQgU2VydmljZXMgTGltaXRlZCBcdTI1MDcgODMuMTQyLjIyNS41OSIsImFkZCI6IjgzLjE0Mi4yMjUuNTkiLCJwb3J0Ijo0NDMsImlkIjoiNTI2N2NhNzEtOTdlNi00NGM4LThmYjUtOWZlNGFmZTA5NTRlIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
 vless://87236aba-c500-468b-8c25-6d417b8c7bb9@78.129.155.112:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=CGxndWVzEmoJ6cFp23m4XukF5Ad5R_0TRWmJz_KJ6y4&sid=a221477f#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 78.129.155.112
-trojan://75xobadh-no76-g7so-llmz-iejz1rs4u8s7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p5yi9xms-jjwz-uugg-xdwe-8rd8vg9wseee@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://66d32b28-5df1-4cb7-b352-a11619175748@78.129.155.89:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=zeExWvxwf-KRpC4nulicavAOeMfT8LQ-kaNZAyQoPh8&sid=0817d6#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 78.129.155.89
+vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@g-ns3.root.info.tr:443?type=tcp&security=tls&sni=g-ns3.root.info.tr&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Iomart Cloud Services Limited ┇ 78.129.208.181
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@78.129.253.9:809#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Cloud Services Limited ┇ 78.129.253.9
+vless://cb2fe166-ac66-404d-aa4e-8d16fb2ef412@185.214.101.118:20435?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=uob8UvGgvG-F3iz0PuOpam6nSh6789W7BQwtdbAS3S0&sid=a84ef4c84588b70d#ES 🇪🇸 ┇ VLESS-GRPC-RLT - Iomart Cloud Services Limited ┇ 185.214.101.118
+vless://7627df5b-8101-4230-dd73-47266d588ccd@88.209.249.84:38282?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Iomart Cloud Services Limited ┇ 88.209.249.84
+vless://45ff5b82-c665-4056-94a9-e77afdea2dbc@78.129.155.100:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Iomart Cloud Services Limited ┇ 78.129.155.100
+vless://dbdcf9b0-990b-4c30-8166-8303ca64f505@archivetr.arenafile.com:443?type=ws&security=tls&path=/downloader/24741&sni=archive.arenafile.com#TR 🇹🇷 ┇ VLESS-WS-TLS - Iomart Cloud Services Limited ┇ 88.209.249.92
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdUpCdGlFY0VuR1QxcFVsTVJ4Qmpp@78.129.140.11:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Iomart Cloud Services Limited ┇ 78.129.140.11
+trojan://pqtm9axd-vnfy-07ok-6t5k-pjqi0ef7oyh5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://thn8ufpy-z01y-gt0s-jzqs-72p8vuuoe2qx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
