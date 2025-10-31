@@ -1,19 +1,19 @@
-trojan://fzplbkpm-3rig-waxy-pujg-aco9dosabedz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://fb6p59v5-citc-rboi-avu2-02dl2kber2yk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wq42e172-bm28-to3b-nft3-gkho2w5i1ug8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.43
-vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&sid=e1ac6d894342c318¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#AZ 🇦🇿 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 180.149.44.216
-ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@94.20.154.38:50006#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.38
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcHplNGx5ajhGRmREaXhPa2YySzJvUTRySFg3VnE5eEM5dUt3Qmd2UVlETnhMZjg@180.149.44.105:31348#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.105
-vless://953d84ee-2985-44b9-8a69-b4d31bceab32@azerbaijan.marzxox.shop:210?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#AZ 🇦🇿 ┇ VLESS-XHTTP-RLT - G-Core Labs S.A. ┇ 180.149.44.131
+trojan://t7ssub9v-yash-3a2d-izdk-7xkfabgjniux@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://po1fiwo1-54p4-xjlj-9obf-xvqygr8lh3v8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xejd9zbe-w4fn-jj1i-9z4r-mzmdxns4w3nv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b9dc54b4-d474-4087-96d0-81de47f4578d@180.149.44.224:4655?type=tcp&security=none#AZ 🇦🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.224
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.67:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.67
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.26
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.53
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.44
-vless://f90892dd-4ae2-403c-a159-6b42583537cf@180.149.44.235:2149?type=tcp&security=none#AZ 🇦🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.235
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.120
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.53
+vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&sid=e1ac6d894342c318¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#AZ 🇦🇿 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 180.149.44.216
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.44
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.45:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.45
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.43
+ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@94.20.154.38:50006#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.38
 vmess://eyJ2IjoiMiIsInBzIjoiQVogXHVkODNjXHVkZGU2XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIDI0ZmlyZSBHbWJIIFx1MjUwNyA4OC4xNTEuMTk0Ljk2IiwiYWRkIjoiODguMTUxLjE5NC45NiIsInBvcnQiOjMyOTUwLCJpZCI6IjU5YTBhZTk4LTUyZmItNDIxNy04ZDcyLTE2YWFmZjkyNjc3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://s6roecdi-be29-17iv-7qu6-v5y3pcrqrf1q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://obdiqhtl-dcwb-gved-rb0h-k957a85d1jqv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.26
+vless://f90892dd-4ae2-403c-a159-6b42583537cf@180.149.44.235:2149?type=tcp&security=none#AZ 🇦🇿 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.235
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcHplNGx5ajhGRmREaXhPa2YySzJvUTRySFg3VnE5eEM5dUt3Qmd2UVlETnhMZjg@180.149.44.105:31348#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.105
+vless://953d84ee-2985-44b9-8a69-b4d31bceab32@azerbaijan.marzxox.shop:210?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#AZ 🇦🇿 ┇ VLESS-XHTTP-RLT - G-Core Labs S.A. ┇ 180.149.44.131
+trojan://314np1ar-420y-poxp-rkmo-jyndb3ttvoko@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8rsej17n-u6xy-jryk-msg6-481hhy5vi3pb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

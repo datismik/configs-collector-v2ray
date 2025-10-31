@@ -1,6 +1,6 @@
-trojan://on8cr1e2-xooa-94ce-7xqq-1fnavypfhjnn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://gjrasaoi-9cgo-ocm3-vbzz-1izz6nfg0nfz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fqdft4qa-qit6-8gcl-36iq-r47ecs5yb7sl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lws8r791-ne9m-dnmk-42r8-uqx9qw4ovhbu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://4i6oq00l-bd85-k51j-1w9m-n195ugrs9h2o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1u6wl7u8-quwz-xzho-egx1-ipu5px2oittj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1lpxy6haqm@45.15.167.13:443?type=tcp&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&fp=chrome&flow=xtls-rprx-vision#LI 🇱🇮 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 45.15.167.13
-trojan://6gnkhrqw-i0sl-0c4w-dfkz-hffqmh1gmrv0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oiaqlotx-brn8-8d07-nhem-28dn94ift0h9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://6opmgnxx-mgcp-9ao8-g1gc-rhx0dvsuna9w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://axx3v2m0-62x2-2534-4ifd-v6s11ggwpgop@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

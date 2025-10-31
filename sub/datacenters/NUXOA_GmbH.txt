@@ -1,7 +1,6 @@
-trojan://66i0t9jb-kz1u-cjii-4mqj-dxskn98mlcip@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://at8c2nzx-9x32-ut0q-fqq1-xs62zcv8ofml@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yg91wkag-7sk6-d9lg-nxp3-gi768odlppii@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?type=tcp&security=reality&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - NUXOA GmbH ┇ 185.144.70.14
+trojan://p3s0mjg2-oz16-sqwq-n9yi-fo8cynjzhije@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://47zug0ts-hlcu-aa2u-4gmb-pyvp5fnai9fv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ygrnt6em-77xc-4dus-g6q1-ion4ux6sg1lk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@185.144.70.28:8443?type=tcp&security=reality&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - NUXOA GmbH ┇ 185.144.70.28
-trojan://gyk3zzny-86hs-i8dz-ejkd-8h4d5ywdt9fk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e7rt1lpl-v08y-bi0y-dvk2-16mq0s2rpg7d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://8sei12d5-fxr4-0jl0-l2fa-xzmxqoxpd1gs@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9hk8oe24-hb9l-5u8x-234w-a3tecau7wajs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

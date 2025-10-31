@@ -1,11 +1,11 @@
-trojan://4kj9h18i-egbi-7s4a-kkaf-smneuddceg30@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://0ajvk7ho-7qhd-p2lv-pas4-sysgzafttjhv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8o6ucmde-gbih-eo8v-5ilc-a1umb3e8okzd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206dDJKbm5GcWpETW16V3Vyc2VKUGdCc1lZ@185.166.84.79:47553#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 185.166.84.79
-ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@185.108.105.129:50168#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 185.108.105.129
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@194.150.167.52:47121#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 194.150.167.52
-ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@87.239.255.109:40282#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 87.239.255.109
+trojan://mwdzi9pl-ybti-tje9-hri0-jyvbzihbz2xf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://7wsdez79-lbjq-aq1p-838w-z374xn9tm7rb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://t48xjzhy-gqai-fv06-vsso-xwlsgbo8uytx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@185.153.151.164:40093#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 185.153.151.164
+ss://YWVzLTI1Ni1nY206dDJKbm5GcWpETW16V3Vyc2VKUGdCc1lZ@185.166.84.79:47553#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 185.166.84.79
+ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@87.239.255.109:40282#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 87.239.255.109
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@194.150.167.52:47121#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 194.150.167.52
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@185.108.105.129:50168#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 185.108.105.129
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 91.250.240.148
-trojan://skgaqrwv-xka5-h7wt-879c-qdg9ez1hafva@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0yl30hue-f0e9-eeyt-49gn-soki8f5bgb8a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://fapf8043-t6ck-82y5-40qj-h0yfofexcxd6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7hyam7cs-2urt-0qu0-a2o7-677yzfpz3lbo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

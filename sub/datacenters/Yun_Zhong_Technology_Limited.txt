@@ -1,10 +1,10 @@
-trojan://e1stedwo-95s2-nbac-cgy6-sfslcyp14mtb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://3jjlp37d-ca0d-ygaz-myvd-pk4yfwrik0ni@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m3mzn9wy-85q6-qggy-yhf5-qi6gb7zqko3o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.61:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Yun Zhong Technology Limited ┇ 103.149.183.61
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.10:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Yun Zhong Technology Limited ┇ 103.149.183.10
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1SQVctTlRMUyAtIFl1biBaaG9uZyBUZWNobm9sb2d5IExpbWl0ZWQgXHUyNTA3IDEwMy4xNDkuMTgzLjE3OCIsImFkZCI6IjEwMy4xNDkuMTgzLjE3OCIsInBvcnQiOjU0Njc1LCJpZCI6IjNhOTA3OTU2LWY2NjgtNGU2Yi1lYTAzLTA5NDlmMGM5YzBhNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0
+trojan://8shuccxp-3g7c-0iwa-tbab-0k2ibbncafts@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://0276bmo8-nby6-okcf-i9ny-84vndcl1i7kp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cddca0vt-iyzt-qrii-g24v-igike8606925@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.61:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Yun Zhong Technology Limited ┇ 103.149.182.61
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.10:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Yun Zhong Technology Limited ┇ 103.149.183.10
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.61:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Yun Zhong Technology Limited ┇ 103.149.183.61
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1SQVctTlRMUyAtIFl1biBaaG9uZyBUZWNobm9sb2d5IExpbWl0ZWQgXHUyNTA3IDEwMy4xNDkuMTgzLjE3OCIsImFkZCI6IjEwMy4xNDkuMTgzLjE3OCIsInBvcnQiOjU0Njc1LCJpZCI6IjNhOTA3OTU2LWY2NjgtNGU2Yi1lYTAzLTA5NDlmMGM5YzBhNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.191:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Yun Zhong Technology Limited ┇ 103.149.182.191
-trojan://54zsuvtd-b0zz-c9xb-a07i-900bosfw7jsr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hd19qhjs-od7h-vdek-4gl8-3qpzjsmm3u2n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://hqukjzco-6yia-4d7c-qn7x-vdxat4pb0131@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://98l1xduy-x0eb-btgn-lurj-sj879gc2gut9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

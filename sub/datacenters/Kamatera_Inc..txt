@@ -1,6 +1,6 @@
-trojan://erpzh4l2-p046-eyq1-70ol-ipc6fss18rhh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://im0cxu3u-rpt2-dl35-wh2g-uf7jrreffrqv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nsg0kewo-s9h4-3a4h-dxg6-k6pbf65l72mu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5d1ykn38-l8a9-92d4-9153-g3cp7v4shh2o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://ig4cv83s-hjvv-6euw-ezux-8sdvt98yxny3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://28puyg6v-voyz-zpur-xrbb-18rbfhht0yrf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?sni=hk.freeguard.org&peer=hk.freeguard.org&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Kamatera, Inc. ┇ 103.252.116.138
-trojan://18yhzn9h-d16b-4x3d-7xl4-wd0s3j7capt5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uc8oehit-s967-ek2p-82jr-9z7ebfgrwlrc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://95mpered-qd73-9b83-8mqr-1yvbyhku0zjs@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://a46vdoun-2fk5-xty8-92lj-yj7ylfebrs7a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://9k7ve2wa-wxch-knum-mbut-rj82siwdcv07@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://w8egrsa2-fx9j-i5vc-nuam-vxdqtn6zcj0p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://f0huugi3-x6zi-sakc-xdv1-upznhhuec7d9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cvrnkw2l-q7yu-uiuq-qngc-nak7n4o2czhg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://dp4lt9sg-piyq-rd6g-1mnu-g6u1mkje6ih4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://e7q34d5k-ilwb-1bgv-wg1y-w8iamrs1w3mm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.69:587?type=ws&security=tls&path=/?ed=2560fp=chromefp=chrome&sni=vless.ifx.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - HONG KONG Megalayer Technology Co.,Limited ┇ 103.180.161.69
-trojan://a94k7qjj-r8xm-pu3y-6362-zdd7qqmoou2w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tnb6k6e4-6qjv-mimn-3c7f-7pohcrsi4b6i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://xppamytk-w3v2-g6t9-gsnj-2s731z7l3jer@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4opqygst-bcuq-3k4y-mls2-g1wwhrsz50z7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

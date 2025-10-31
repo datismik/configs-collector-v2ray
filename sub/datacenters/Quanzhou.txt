@@ -1,11 +1,11 @@
-trojan://zsaoptk0-4z0q-yib1-ui96-115crj2fa6cf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://5504it82-oncn-okhk-gzhj-axlw9y4sptdn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tv714rha-f90w-qo4y-f924-syf9d7tbiipy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:6603#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Quanzhou ┇ 27.152.180.24
-trojan://1d99eb06-8f7c-4296-8c84-1e57084579a5@iepl.tube-cat.com:20063?sni=xysni.eos-shanghai-2.cmecloud.cn&peer=xysni.eos-shanghai-2.cmecloud.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Quanzhou ┇ 125.78.88.201
-trojan://d4ee748f-5778-4fc1-8b6b-a1c7f2b8a2ec@iepl01.tube-cat.com:20060?sni=sg.catxstar.com&peer=sg.catxstar.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Quanzhou ┇ 121.204.244.220
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr3.jymzffbquawl.com:6600#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Quanzhou ┇ 27.152.180.27
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr1.jymzffbquawl.com:3600#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Quanzhou ┇ 27.152.180.28
+trojan://c0a8ojl6-dapg-8gnp-ral4-dlm1lx4vkhej@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://ut61gjv7-d2it-iyvx-7l7r-ookhemfo0xr7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://128s7g5w-t4hz-gs7j-hi1i-3xz8zn7aojro@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3607#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Quanzhou ┇ 27.152.180.23
-trojan://6cczfqlm-qg5z-7035-j1vn-aawnnw3e3bkb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://agh2kdem-7sxv-6dv0-68gv-hw6kcf940ssd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://1d99eb06-8f7c-4296-8c84-1e57084579a5@iepl.tube-cat.com:20063?sni=xysni.eos-shanghai-2.cmecloud.cn&peer=xysni.eos-shanghai-2.cmecloud.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Quanzhou ┇ 125.78.88.202
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr3.jymzffbquawl.com:5601#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Quanzhou ┇ 27.152.180.27
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr1.jymzffbquawl.com:3600#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Quanzhou ┇ 27.152.180.28
+trojan://d4ee748f-5778-4fc1-8b6b-a1c7f2b8a2ec@iepl01.tube-cat.com:20060?sni=sg.catxstar.com&peer=sg.catxstar.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Quanzhou ┇ 121.204.244.219
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:3046#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Quanzhou ┇ 27.152.180.24
+trojan://xoqak638-65rz-s15u-en34-c9fh6b445bsc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q9eyb4b4-zrrx-jitz-ne3i-ccldbtpg22ge@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

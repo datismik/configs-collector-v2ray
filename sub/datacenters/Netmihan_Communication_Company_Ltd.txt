@@ -1,7 +1,7 @@
-trojan://5krqefu7-x5yi-mmmj-wsst-vzarac7esj8r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://l1x9u3xa-s5z3-d6ej-fp2o-9vzj2huwjjge@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9t1xcxah-8crg-fds6-bb5z-u8o69wdapevy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mh81yp1a-orwi-1hgt-5rvf-60mer80cxyh5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://dob2riu2-nxv6-asdk-0gme-typwozc8y6o5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z5cbv8up-l7et-mz0i-oquj-nfxp1nhkhqwy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0c8c9d22-41e1-4acf-a2a1-666e1737e382@86.106.142.25:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 86.106.142.25
 vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@downloadha.com.iraniantim.ir:80?type=ws&security=none&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Netmihan Communication Company Ltd ┇ 89.42.211.170
-trojan://pskr9vkc-extn-ggij-t9il-79rmth23jxgh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://44a4r5qd-n559-qmht-1no4-7p1yinzk71zc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://wi6qsv9w-ioio-iaac-412x-lelj89tbmyez@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qi3ijf8r-3xk4-tiv8-tkcq-q9pt2ldxrhkq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

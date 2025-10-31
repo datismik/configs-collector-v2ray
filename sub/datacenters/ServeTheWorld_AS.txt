@@ -1,7 +1,7 @@
-trojan://r3hj88jh-n5ay-fhr7-p51b-2kn1mrtv5amm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://ltpvbwb5-10uu-39jb-d8kr-stqwl33yqx3v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kiejks5h-z3ei-vfg7-owa6-x0nz9wpf7g7u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHVVMUdjYUdSanhMZjdkN1hicFFS@217.170.199.66:8443#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - ServeTheWorld AS ┇ 217.170.199.66
+trojan://oh4rawmy-vy9r-qe6i-z2be-0o22u9uu6bzj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://9ojk5pbv-3qmp-xivi-b7za-g2dqkticjpw7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://m2t9oq6t-ybvr-2u5u-lybf-0smcnswr3pin@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@217.170.194.203:808#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - ServeTheWorld AS ┇ 217.170.194.203
-trojan://nx4q2vn7-ipvj-ioak-lb9z-p5vpulkxcwlf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dlhz9fi2-vdeq-1qzp-lqhz-nflwlqm2gkeh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHVVMUdjYUdSanhMZjdkN1hicFFS@217.170.199.66:8443#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - ServeTheWorld AS ┇ 217.170.199.66
+trojan://n3ltkb4i-hbli-4z7g-8117-hnbgizotdgkj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bq33xant-hiiz-z4t4-k2q4-j7ccg2hy9et4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

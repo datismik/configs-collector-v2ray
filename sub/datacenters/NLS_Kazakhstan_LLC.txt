@@ -1,7 +1,7 @@
-trojan://qzr6r31u-bii2-hznr-mdn3-arqvki0tdllf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://09oemjtk-hezq-covs-yple-snji2j5f346l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zpyxn7e6-w7a9-x644-av8w-c85idq9ax3e4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl1.pokerad.sbs:80?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - NLS Kazakhstan LLC ┇ 45.151.139.205
+trojan://1jljfvv7-lffe-8eaz-rue7-xnp0sgh8rlyo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://qrhwtpo8-x9i6-1h36-97ww-nnop27vh99vd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iphk4ugx-behy-iu1k-jih1-poy1p4z1io5q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.36.83:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#KZ 🇰🇿 ┇ VLESS-TCP-RLT - NLS Kazakhstan LLC ┇ 38.180.36.83
-trojan://r55xclcf-fc39-t41o-wr7a-35x5u650atu3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://td3uncce-ewu6-mzwt-lj7x-j6v20mo2jruu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl1.pokerad.sbs:80?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - NLS Kazakhstan LLC ┇ 45.151.139.205
+trojan://i0kezd8x-deae-jdth-1ul6-3e4jyeqdtzg2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://23axgxxn-z77e-hfaj-1l3n-h4345iq8cx5g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

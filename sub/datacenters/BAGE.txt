@@ -1,19 +1,19 @@
-trojan://6feuolyy-fts3-nz3m-vxoe-kpq2kgb2wtw0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://kc2dlx8b-ay3i-lg48-pyjm-mdabaym4i4du@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1eu1scac-pl20-q52j-d1d2-nqlroi7copu1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f595h7yr-ocvq-3sqy-o1z0-o3ml6zgb1q37@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://cdo8vnlv-h2pz-d7le-87m0-3ffeqy7sdbee@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0j776a0d-e9bn-8eoq-dkfm-kylz2lc6exrp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@213.210.55.72:24443?type=ws&security=tls&path=/?ed&sni=miku.mikuru.ip-ddns.com#GB 🇬🇧 ┇ VLESS-WS-TLS - BAGE ┇ 213.210.55.72
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@89.213.150.45:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 89.213.150.45
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@hk.fastsoonlink.com:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 103.219.192.68
 vless://42113e3a-5f95-459b-b5a7-79688ffadc10@de1-5.9966662.xyz:20133?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=65E6IjBrQMYqhrtISS0F2kUFIjT5aSxgNPKCf88fGFw&sid=3b03febe#DE 🇩🇪 ┇ VLESS-TCP-RLT - BAGE ┇ 193.160.221.220
-trojan://dd6918a8-84bb-4a96-9ef4-34d186d11399@xj.cokecloud.top:32283?sni=xj.cokecloud.top&peer=xj.cokecloud.top&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - BAGE ┇ 178.239.124.134
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@kr.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 148.135.187.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@103.219.193.17:40001#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 103.219.193.17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@sg.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 148.135.187.100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@jp.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 155.117.19.124
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJBR0UgXHUyNTA3IDY4LjE2OC4yMC4xMDUiLCJhZGQiOiI2OC4xNjguMjAuMTA1IiwicG9ydCI6MTAwMCwiaWQiOiIzYmI1OWVkZC1iOWJkLTRmMzktZTg4Zi03ODY5NzQzYTU0YTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@194.105.89.58:40003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 194.105.89.58
+trojan://dd6918a8-84bb-4a96-9ef4-34d186d11399@xj.cokecloud.top:32283?sni=xj.cokecloud.top&peer=xj.cokecloud.top&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - BAGE ┇ 178.239.124.134
 trojan://79%3A99%3A78%3AD4%3A99%3A31%3AC3%3AAC%3A0B%3A6C%3A11%3A6D%3A5F%3A1B%3AA8%3AA5%3A7F%3A08%3A08%3A28%3A02%3A3C%3AC8%3A95%3A26%3A63%3A9A%3AB0%3A3B%3A18%3A62%3A35@uknode.soon.guru:40006?sni=uknode.soon.guru&peer=uknode.soon.guru&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - BAGE ┇ 82.26.82.229
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjhiNjI1Yy1lZmI4LTQ1Y2QtYjUwOS1jN2NjZWFiZTBjYzY@194.105.83.3:40003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 194.105.83.3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZWMzMTczZC00OWFkLTQ5YzktOTViYS05NjMxZGY4Yzc3OTA@155.117.19.179:40001#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 155.117.19.179
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@sg.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 148.135.187.100
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@hk.fastsoonlink.com:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 103.219.192.68
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@jp.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 155.117.19.124
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@89.213.150.45:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 89.213.150.45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@194.105.89.58:40003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 194.105.89.58
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@kr.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 148.135.187.118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@103.219.193.17:40001#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 103.219.193.17
-trojan://skd4k58a-x9yg-z12b-fm3o-oikt9fml2se9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://whi9k5ga-k2rj-r74h-6uuk-tb7ewaw8u9zn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3xc98yk3-uwct-7tfl-u6wc-3bzqvd6ibdgn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b6lx5k8g-loj9-uibb-14f0-64rq83307p5s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

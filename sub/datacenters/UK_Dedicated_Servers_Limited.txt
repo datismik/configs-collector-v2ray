@@ -1,10 +1,10 @@
-trojan://8idi8nnt-63dq-9xqm-qsxe-5nrx89dab90x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://fqokv1cm-1r3j-smy7-ydql-5vgmlh8ya8c4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i5lg2446-yat4-ifw3-2bjr-04ddq96jjd9h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2mle8w66-7if7-13xa-ylzk-xzr19bj7atau@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://wzudkska-kovk-t4by-zcjn-6rdf58eih5b6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d3pjt32c-11dj-vcox-isp5-0nlyxsx2mlxt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBVSyBEZWRpY2F0ZWQgU2VydmVycyBMaW1pdGVkIFx1MjUwNyAzMS4yMi4xMDkuMjA5IiwiYWRkIjoiMzEuMjIuMTA5LjIwOSIsInBvcnQiOjQ0MywiaWQiOiIzNjc5M2QyYy0wZDVhLTRhODQtODg2Mi1mOWM5M2U5YWY1YjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii80YmE5OWEzOWI5MGZhYS8iLCJ0bHMiOiJ0bHMifQ
 vless://29ee1647-2393-48ea-a8bc-af66587d0841@78.157.214.115:8504?type=ws&security=tls&path=/?ed=2560&sni=mot.morisi.ggff.net&fp=random#GB 🇬🇧 ┇ VLESS-WS-TLS - UK Dedicated Servers Limited ┇ 78.157.214.115
 vless://2a7e7613-d490-425c-a9f1-c7e503143b8f@96.9.215.198:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE&sid=4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - UK Dedicated Servers Limited ┇ 96.9.215.198
 vless://dbf2ba34-e854-44ab-9ed5-070b03dd2042@64.188.69.61:44850?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - UK Dedicated Servers Limited ┇ 64.188.69.61
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBVSyBEZWRpY2F0ZWQgU2VydmVycyBMaW1pdGVkIFx1MjUwNyAzMS4yMi4xMDkuMjA5IiwiYWRkIjoiMzEuMjIuMTA5LjIwOSIsInBvcnQiOjQ0MywiaWQiOiIzNjc5M2QyYy0wZDVhLTRhODQtODg2Mi1mOWM5M2U5YWY1YjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii80YmE5OWEzOWI5MGZhYS8iLCJ0bHMiOiJ0bHMifQ
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&sid=89dbda1a1c9369#GB 🇬🇧 ┇ VLESS-TCP-RLT - UK Dedicated Servers Limited ┇ 64.188.70.0
-trojan://xsur6dgl-tb97-o21m-wqa4-drltqr74n573@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://luu1y1xh-oijd-zwv1-uycb-kfnvn5ggz78c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://2u40qnyu-f39f-m08d-gt3w-hmfh2kmi4a51@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t9lu9udk-guhf-ifb3-762y-dfqxyp970knv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

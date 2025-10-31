@@ -1,8 +1,8 @@
-trojan://fu74x9qv-4n1i-fv1h-o69l-jlyslyrvnzce@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://77asmezx-3eur-qk80-09nt-xe7pspnplu2u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hne8gfj2-8z1o-c10e-cj7v-uosh84a6hatk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.130.20.40:1001?type=ws&security=none&path=/?ed=2560security=tls&sni=a.mifeng.us.kg#NL 🇳🇱 ┇ VLESS-WS-NTLS - Owl Limited ┇ 45.130.20.40
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT3dsIExpbWl0ZWQgXHUyNTA3IDQ1LjEzMC4yMy4zNSIsImFkZCI6IjQ1LjEzMC4yMy4zNSIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
+trojan://fx2c85bp-5ck5-wqfn-z6z2-dtnb8x9mrzh1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://jsapodr8-kypb-9nji-phrz-s1xr5x1reh74@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2qdjh4qs-qpg0-z6ie-5q23-4hbos6fzz8uh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@45.147.50.154:443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Owl Limited ┇ 45.147.50.154
-trojan://j7ttmh4i-q8mt-lsmm-ov8t-95udkc7ix9g6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oxk43qkf-5thj-b65f-l944-o0810q11mjz0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT3dsIExpbWl0ZWQgXHUyNTA3IDQ1LjEzMC4yMy4zNSIsImFkZCI6IjQ1LjEzMC4yMy4zNSIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.130.20.40:1001?type=ws&security=none&path=/?ed=2560security=tls&sni=a.mifeng.us.kg#NL 🇳🇱 ┇ VLESS-WS-NTLS - Owl Limited ┇ 45.130.20.40
+trojan://4jmdmd5l-j439-dd7a-zaff-cl6i9b8a9o2m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gxt0phs3-c8c5-hvxp-7uok-wlw9iqmpm7jz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

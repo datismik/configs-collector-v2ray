@@ -1,7 +1,7 @@
-trojan://boxil3a3-54ts-q896-eq4h-it4ffs87941h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://0njxx5jj-dwtx-4yry-fee4-82kvszky8zkt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://09ih92ni-ri24-6rm3-i0p0-7pnb1f728rkn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9mor4fo4-midy-45zw-rbpf-mkiyd3p6t08u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://9mxnuaky-tpvh-u4r2-3cic-nycqa8tr2w9b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://03ikndlr-qqe7-dham-6jl4-wpk12nplp6ry@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://607719a0-a074-488a-85bb-eacbcd410e3c@pooria102.asadi.newabzvp.mobile-juyom.com:8443?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.113
 vless://26d4cd7c-f8bb-4c51-a07a-e7ed2a161b7b@193.111.235.155:4912?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.155
-trojan://hkl8y2y8-42iu-dti0-zj2j-zzm5cwnefgvu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bulc8ibd-woxy-fxmm-4lb0-5ulv8g0v1go3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://4ipuoetc-cfy6-tckc-6gtz-ywe9lazrvhsz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dork3yp5-cepw-ydmt-g4tv-u9jn2qkovynf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

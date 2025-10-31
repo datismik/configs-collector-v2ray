@@ -1,20 +1,20 @@
-trojan://gpo6qgrm-9yjd-du9g-3dpz-ccy1wbqtrj1y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://cfx8z3at-eev7-tdkj-tz9i-9vc0f5hnz02b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8locqubf-rev1-b1ay-vv27-en7qfqoyqy3c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Keminet SHPK ┇ 31.171.153.181
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UjVsVDlwdzhucXdqVGtMdGdxaGJo@93.123.46.81:8443#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 93.123.46.81
-vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&security=reality&sni=pingless.com&fp=chrome&flow=xtls-rprx-vision&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&sid=b6#AL 🇦🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 78.159.131.107
-vless://91797950-f675-4e07-8735-dbc021e99a7b@103.167.234.99:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048#AL 🇦🇱 ┇ VLESS-WS-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.99
-vless://3175c0e6-2d00-4560-d90e-1a5a4810c4c0@45.38.139.104:45134?type=tcp&security=reality&sni=microsoft.com&fp=chrome&pbk=0exSjluSEfNvR4S1TYT7PIBHhLQS6ypHZXM25xtJa04#AL 🇦🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.38.139.104
+trojan://q7rbn4sb-ld77-rfi4-c20k-wf4rzgao5qc6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://ap2ime1f-flt6-61yb-z5du-dk76ye4q3vcu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ulq9zjc2-a0tp-o6vk-acc9-gnm3bvh9gt5p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.98
-ss://YWVzLTI1Ni1nY206dHhtSzlXaHdQNldQaFA3aHFTQkxWeHBO@31.171.153.133:34687#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Keminet SHPK ┇ 31.171.153.133
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#AL 🇦🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.170.80
-vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@45.15.170.183:443?type=tcp&security=reality&sni=mirror.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#AL 🇦🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.170.183
-vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@93.123.46.100:443?type=tcp&security=reality&sni=spirako.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#AL 🇦🇱 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 93.123.46.100
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.75
-vless://58f062b6-0bcb-4cd4-9b4a-0769fa468f84@al.marzban-locations.com:2034?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=FCTw1Jobo6_Da8-NRPN0H4JSNbt7GRww2VFjTyJQshY#AL 🇦🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 78.159.131.83
+vless://91797950-f675-4e07-8735-dbc021e99a7b@103.167.234.99:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048#AL 🇦🇱 ┇ VLESS-WS-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.99
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UjVsVDlwdzhucXdqVGtMdGdxaGJo@93.123.46.81:8443#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 93.123.46.81
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@93.123.46.250:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048/?Join_Bade_Channel@JOKERRVPN#AL 🇦🇱 ┇ VLESS-WS-NTLS - Albanian Hosting SH.P.K. ┇ 93.123.46.250
-vless://f2a4624b-4efc-4409-bf2f-c7ec5f77503a@al.spirako.com:443?type=tcp&security=reality&sni=spirako.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#AL 🇦🇱 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 93.123.46.156
+vless://3175c0e6-2d00-4560-d90e-1a5a4810c4c0@45.38.139.104:45134?type=tcp&security=reality&sni=microsoft.com&fp=chrome&pbk=0exSjluSEfNvR4S1TYT7PIBHhLQS6ypHZXM25xtJa04#AL 🇦🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.38.139.104
+ss://YWVzLTI1Ni1nY206dHhtSzlXaHdQNldQaFA3aHFTQkxWeHBO@31.171.153.133:34687#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Keminet SHPK ┇ 31.171.153.133
 vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?type=tcp&security=reality&sni=www.samsung.com&fp=firefox&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&sid=e1f576c5#AL 🇦🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 78.159.131.160
-trojan://nfq7m46y-a503-8lza-scld-h9g8yy30bmja@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rlbh58z4-49ac-41ao-f85l-hswpuy5mxvcx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@93.123.46.100:443?type=tcp&security=reality&sni=spirako.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#AL 🇦🇱 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 93.123.46.100
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#AL 🇦🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.170.80
+vless://58f062b6-0bcb-4cd4-9b4a-0769fa468f84@al.marzban-locations.com:2034?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=FCTw1Jobo6_Da8-NRPN0H4JSNbt7GRww2VFjTyJQshY#AL 🇦🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 78.159.131.83
+vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@45.15.170.183:443?type=tcp&security=reality&sni=mirror.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#AL 🇦🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.170.183
+vless://f2a4624b-4efc-4409-bf2f-c7ec5f77503a@al.spirako.com:443?type=tcp&security=reality&sni=spirako.com&fp=chrome&flow=xtls-rprx-vision&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#AL 🇦🇱 ┇ VLESS-TCP-RLT - Albanian Hosting SH.P.K. ┇ 93.123.46.156
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Albanian Hosting SH.P.K. ┇ 103.167.234.75
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Keminet SHPK ┇ 31.171.153.181
+vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&security=reality&sni=pingless.com&fp=chrome&flow=xtls-rprx-vision&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&sid=b6#AL 🇦🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 78.159.131.107
+trojan://e62fnx3m-qgdv-e7ks-vguu-eteloy05myc9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://albly38t-wtio-jnyt-7y8x-rmywlb2bbok0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

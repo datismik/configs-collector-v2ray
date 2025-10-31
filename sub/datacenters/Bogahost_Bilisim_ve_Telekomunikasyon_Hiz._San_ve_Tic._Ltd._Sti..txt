@@ -1,6 +1,6 @@
-trojan://5upmt3tu-9koe-k5d5-qnw1-c9yagyqvbwls@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://0v5d625x-p2ah-dfzz-1jfn-375xucbz0s92@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cqrk328e-dv53-xd18-gmcs-e2es4mbvjhkp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kmymr5af-rb10-032o-1qtl-01yfjnowoi8o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://9cc5nbm7-1tsw-sv5b-k8n3-0el975282djn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n1grsclu-qiuk-bui7-m87g-d4apfsbn2vj6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b622f3a5-ca1d-456c-8766-cc1d8c0d2110@tr-server-vip-n-g-s-is.tr-vip-nightgemshop.pledh.com:8080?type=tcp&security=none#DK 🇩🇰 ┇ VLESS-TCP-NTLS - Bogahost Bilisim ve Telekomunikasyon Hiz. San ve Tic. Ltd. Sti. ┇ 2.59.181.62
-trojan://hjq8mnwv-dbte-9tox-h7l2-c69zm8s8fsli@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://80dyxc07-1zfa-81rp-pib2-tv4l91ng7uca@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://vx5qb9js-4ssk-hdpk-xpg8-2gzxyhyput20@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://g93ey354-ejwl-f7xh-6u8m-bkl7pkno62b4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,8 +1,8 @@
-trojan://w486yf60-48eu-vw2m-15o7-s9jjwgkfx0kp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://8pvl76yy-yn2f-qd00-jwd4-hxvr94nimv8w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://arbrco38-0q6n-gy5z-3ygn-xb0ch59ri7p0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MGp0aDh6NTZEZDRnaHMxRGg3dHdV@178.208.91.118:19805#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.91.118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSjltcWVQaFhDYU5wVzh1MW15YUh0@178.208.78.170:23822#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.78.170
+trojan://20bsnwmr-nck3-5e9c-nrkc-ua0yddatus40@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://imip8sug-qg8g-0bmu-r3e4-h5o07h1cy66v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7jxgph7k-yztu-rhat-kigr-fci1yk9xchg5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://22a4d83c-5bc8-4ab0-ba38-90f55c359fc7@46.30.47.7:30992?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Iron Hosting Centre LTD ┇ 46.30.47.7
-trojan://au6ouhck-5kct-bxrf-7m19-m1h6anhg9hz3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5zw8ajt8-dmls-3nyx-7b6r-s2j9kcnu9h6x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5TE0xcGNuaFVlSFp4cnNFUU1rcGxJ@178.208.91.118:19805#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.91.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbTlBWTFMN0tXVmJOQVVCRGFFWWdW@178.208.78.170:23822#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.78.170
+trojan://cex85pk7-od3n-zyvl-u5oi-uynrk15oa0ab@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2kht2g1l-4t1d-zxet-ar3f-wctlbao47yep@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

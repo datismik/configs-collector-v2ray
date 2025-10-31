@@ -1,7 +1,7 @@
-trojan://xtze579s-pcne-unkv-y46h-5g10955epvmg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://9oiczedh-91j1-hdg3-w59g-g4qdg5hrwvhi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tlhqbykm-zrqr-evv2-4a7v-6km6ik4rx7sy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://696f0888-f81f-4bcb-a0da-6aa851ba0705@185.126.255.180:443?type=tcp&security=reality&path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config&sni=www.speedtest.net&fp=chrome&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw#UA 🇺🇦 ┇ VLESS-TCP-RLT - South Park Networks LLC ┇ 185.126.255.180
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTb3V0aCBQYXJrIE5ldHdvcmtzIExMQyBcdTI1MDcgMTg1LjEyNi4yNTUuNzgiLCJhZGQiOiIxODUuMTI2LjI1NS43OCIsInBvcnQiOjM5MTcxLCJpZCI6ImQwZTk3ZWUyLWM2ZGUtNDhmOC1iZDRhLThlNjNhOWNkOWU4OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInRscyI6InRscyIsInNuaSI6ImltYWZha2UubG9ja2VyIn0
-trojan://1fo47swx-azpo-lsmf-hpli-wyl13htqpda1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7uti99a5-vj9h-mme3-ok3o-9owktgpou00v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://74c6j9ca-qyqp-bymn-k9j7-o0rz9tppwn1n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://1wy3v66p-fom4-ajtv-4b8p-hopjppp6l0m9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oqzxnxn6-vcma-lvzi-haik-tff9w9jx9usv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw#UA 🇺🇦 ┇ VLESS-TCP-RLT - South Park Networks LLC ┇ 185.126.255.180
+vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTb3V0aCBQYXJrIE5ldHdvcmtzIExMQyBcdTI1MDcgMTg1LjEyNi4yNTUuNzgiLCJhZGQiOiIxODUuMTI2LjI1NS43OCIsInBvcnQiOjM5MTcxLCJpZCI6IjRlYzY2ZDgxLTk1NjUtNGQ4ZS1hZTU4LTJiYWNmZGU5NWY0OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInRscyI6InRscyIsInNuaSI6ImltYWZha2UubG9ja2VyIn0
+trojan://tvip0eso-iudv-e6ha-20ze-6x8ickqm7tql@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://olgkveuk-jxoh-ras2-fmqw-y0z68skliofr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

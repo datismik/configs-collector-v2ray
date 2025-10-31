@@ -1,8 +1,8 @@
-trojan://4jyvede5-0hmb-tuil-4pm4-z1kj9uy3orbd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://kedn6w1c-hupz-qg42-a3nc-2p64u5obomqc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hfrfhtkh-to3o-9rpy-9jhr-yw82iaz3hp2d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mzl1a8xx-bbnp-jqdu-qc9j-sum9fximnlp4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://aysrxay5-5k6c-388p-qwt5-p9sczmn5i28l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://sv1wrd6n-1xqk-l160-m9zp-djfuckpr32f0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - SonderCloud Limited ┇ 154.197.26.237
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU29uZGVyQ2xvdWQgTGltaXRlZCBcdTI1MDcgMTQ5LjMwLjIzMi4xMDMiLCJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsInBvcnQiOjMxNDY5LCJpZCI6IjUzODE0NDVkLTZhZTQtNDk0OC1iNjFhLWExNmQ5NDk4ZDIxYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@194.41.59.80:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - SonderCloud Limited ┇ 194.41.59.80
-trojan://8dsh5u6n-a692-j5k1-wizh-zg8ux00l8agz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rya6cftd-2uwt-64t4-t2sb-1t770rxav6fu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU29uZGVyQ2xvdWQgTGltaXRlZCBcdTI1MDcgMTQ5LjMwLjIzMi4xMDMiLCJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsInBvcnQiOjMxNDY5LCJpZCI6IjUzODE0NDVkLTZhZTQtNDk0OC1iNjFhLWExNmQ5NDk4ZDIxYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9
+trojan://nczk88k6-b6b8-5tcx-cvff-z6i33em68fcq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yx58ou1s-bsoq-2qsn-s2hb-vlvcwtec2anc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

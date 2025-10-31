@@ -1,6 +1,6 @@
-trojan://2apgup8s-6wg9-6t5f-mzxq-339sf812359f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://s1xivy5z-zsmg-kjvk-9g1q-iucf5e07ibu0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4c0yo8sw-c5kv-9jub-wfoq-whzfvhghroo6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dhno7fgi-7njl-k1g3-vqag-9ahrbrca8avm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://ccoqpo7b-ixd4-66te-n7gd-xx3x3kt8r2wa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bqypnlxe-2w0e-qe4g-kkzi-0jrnlquydk2c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206V1FhSXFWK0w5RjFkRGZPenhVODFqWUloYzNhSkVuQnc5MDVSUmVDVGxhST0@31.58.143.111:26284#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - VibeGAMES B.V. ┇ 31.58.143.111
-trojan://wucj4pko-jt72-mdgd-in60-6f6u8eh5htyu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://03l5ql3l-exh2-2byu-116j-eevho7jt5ex8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://vthm0p9z-wci0-vnqn-c900-jqlarhhzigw3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b9ctapva-rhxx-emez-mt8z-pdwkx0a7zp3g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

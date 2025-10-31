@@ -1,13 +1,13 @@
-trojan://jks92ocr-fvwl-xhxm-d5na-1qw0cqjoea3l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://wc5aqob9-xrc8-nahw-50rs-rpz3dru7r5wa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9xrxy9x9-zmue-v7id-rqyc-lgn7wvcblz1z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ahghkrpk-qkf0-d138-t9md-toihq9b33h3n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://14ye47nk-kbwy-my57-j9md-6bz55h1t8tvt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9iol9j0g-3efl-0n7q-8386-ksfub0dvalv4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@154.219.5.249:8443?sni=epccn.ambercc.filegear-sg.me&peer=epccn.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.249
-trojan://Aimer@154.219.5.87:2087?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.87
 trojan://blue2024@154.219.5.70:443?sni=ta.promote.icu&peer=ta.promote.icu&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.70
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.85.99.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.254
 trojan://Aimer@154.219.5.255:2087?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.255
-trojan://Aimer@154.219.5.56:2087?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.56
 trojan://Aimer@154.219.5.55:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.55
+trojan://Aimer@154.219.5.56:2087?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.56
 vless://0132a95b-c439-4396-82ae-13e27e865f0d@154.85.99.106:8080?type=httpupgrade&security=none&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - LARUS Limited ┇ 154.85.99.106
-trojan://ixawevqx-3tf6-iik6-8qpw-jm7y1x67qcf3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y1byuphs-u2ce-91nf-d70j-p9yzav16rn3s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://Aimer@154.219.5.87:2087?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#PE 🇵🇪 ┇ TROJAN-TCP-TLS - LARUS Limited ┇ 154.219.5.87
+trojan://gip2g6mo-6zk7-56ka-4vwq-idh4cj70emaq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6a2bz5s9-9hvm-ngk5-bvzu-0gi9degqyols@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

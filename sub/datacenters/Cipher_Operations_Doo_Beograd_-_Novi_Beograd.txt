@@ -1,7 +1,8 @@
-trojan://bvz05hpv-um6q-afl2-mphw-yogur2z5x7kh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://pce1l33t-wmuf-8prn-vw12-rd1h9h223j18@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://agebmuqn-nagm-fhqu-k1jz-6kkpee250m3z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://iv9dvrsz-h7z0-k4yn-v4es-obwbaoh83fkq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://52y1og4a-apaa-o6n7-neai-sanzo4uqxmpp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://eo31qk46-ojbr-h1gr-hm9x-vcgae1h8khd8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENpcGhlciBPcGVyYXRpb25zIERvbyBCZW9ncmFkIC0gTm92aSBCZW9ncmFkIFx1MjUwNyA2Mi42MC4xODguMjA1IiwiYWRkIjoibmhlbDEtdHUubW9ic3RvcmUuc3RvcmUiLCJwb3J0IjoyMDgzLCJpZCI6ImE5YjY4ZTM2LWViMzUtMWJiYy1iOTU4LWVjZDBlNDZiYTQyOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://a98b736a-3fb9-41ee-95f0-715d58c2158d@tnl2.tsto.ir:1090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Cipher Operations Doo Beograd - Novi Beograd ┇ 62.60.188.253
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@vpncityy3.aliha.icu:9089?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Cipher Operations Doo Beograd - Novi Beograd ┇ 62.60.188.52
-trojan://01ipu4v9-pqbp-v1rc-24p7-cofntrgtm41j@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://iollajab-g39v-mkaj-5xzr-ywfncgtboize@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://j00o2duc-ge10-j7uu-5ewi-aoabel0izpzv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://szmj6tm5-pura-z7pf-7k2d-uhyoqlrof20v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,9 +1,9 @@
-trojan://sfm9ny7d-mgrd-xzws-5xaw-dllk1f4y9tso@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://u4vf66zj-l8bq-te5r-9t94-asncsgi4dxyx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6hc3rftl-33vf-16ok-lx7d-vxrxksbjusw7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fjrvje2k-oa2u-22uo-fefd-2qnyjwt08e1o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://gg0nfn9n-ap5o-4dqc-ux7s-pj5oc244623y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://44bd1ive-82ov-cusx-a09z-wcvvycl0f704@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9a7ac68e-d1c1-4544-8d85-f8a9f95e6060@94.232.168.16:30501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.168.16
-vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.170.141
-vless://b756ab67-8181-4bbc-83fd-1edca44c211a@sv8.takdataco.top:8416?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=eNl9igWK4DQud2xfrMVpJy6VHI8JzvTN6dwckwko-HM&sid=502a76d3e038#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.219
 vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@185.232.152.148:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.148
-trojan://14u780s9-946l-afpl-osgz-2uzp3a8wtjzz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vzqnr5ma-x6u7-do32-yr64-qv436383n10h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://b756ab67-8181-4bbc-83fd-1edca44c211a@sv8.takdataco.top:8416?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=eNl9igWK4DQud2xfrMVpJy6VHI8JzvTN6dwckwko-HM&sid=502a76d3e038#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.219
+vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.170.141
+trojan://6dq21nfi-hx8q-j15w-1yu7-vwbn3g4jarj6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b7mcp1by-dnsg-6pin-fy4m-tq0ymgyoe644@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

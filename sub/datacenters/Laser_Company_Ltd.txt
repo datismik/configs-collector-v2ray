@@ -1,11 +1,11 @@
-trojan://mwbu1h0h-3fv8-mlmo-vu6x-87s2kh37awpv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://4j22erdi-ihvs-ubej-pgu9-xlaereu9wwbi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0lptw31i-bjgs-hy3i-21f5-5sjstt4ag60b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExhc2VyIENvbXBhbnkgTHRkIFx1MjUwNyA2Mi42MC4xNzUuMTEwIiwiYWRkIjoiNjIuNjAuMTc1LjExMCIsInBvcnQiOjg0NDAsImlkIjoiNWVmM2ZhOGUtNzE3ZC00NDI2LWFhMDYtYTE5MGM4NGEwZmQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://641c3372-5aa7-42f6-b93c-84d9402f7111@95.81.86.60:20360?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 95.81.86.60
-vless://4d91cb19-dbf7-4a01-9874-df9e167c619f@194.31.108.142:12972?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 194.31.108.142
+trojan://810bqzhg-fvfc-0j6w-4nk1-1debytsbqp4n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://kg2q2b3y-kknd-dr53-uhjr-on0x7caw55rv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rqk4hh21-zhzq-grau-dwr4-zeghyzh967kh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5a33c57e-18a3-4561-a763-f6207fda2677@62.60.174.99:4910?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 62.60.174.99
+vless://641c3372-5aa7-42f6-b93c-84d9402f7111@95.81.86.60:20360?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 95.81.86.60
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExhc2VyIENvbXBhbnkgTHRkIFx1MjUwNyA2Mi42MC4xNzUuMTEwIiwiYWRkIjoiNjIuNjAuMTc1LjExMCIsInBvcnQiOjg0NDAsImlkIjoiNWVmM2ZhOGUtNzE3ZC00NDI2LWFhMDYtYTE5MGM4NGEwZmQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplcjRPdUN3U2xVTFBuSm5DOFlBSUZB@95.81.83.131:8443#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Laser Company Ltd ┇ 95.81.83.131
 vless://e423b953-f182-4353-ab41-276deea064d0@95.81.86.61:44402?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 95.81.86.61
-trojan://73r89de5-un1i-xdpe-kphw-sws4ttrmvuft@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wkt3xh52-b79b-jfg7-dxn0-nhtzgogxafql@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://4d91cb19-dbf7-4a01-9874-df9e167c619f@194.31.108.142:12972?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Laser Company Ltd ┇ 194.31.108.142
+trojan://pnnpcgaj-aqkj-zd77-9ylp-wjzraai3s4ma@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cgrr367x-batg-ixn6-uerm-ep7nzc30rwqz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

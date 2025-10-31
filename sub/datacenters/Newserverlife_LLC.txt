@@ -1,34 +1,35 @@
-trojan://khvdr0xq-cy6d-df26-wd0t-qr5m319chya6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://sdkcnn3i-vml0-ixf2-uueg-xs7istwzzxfw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hoyibe9d-ef51-zw7x-f14l-n2uqcfm6bzny@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@45.144.51.23:8080?type=tcp&security=reality&sni=yandex.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#PL 🇵🇱 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 45.144.51.23
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@45.43.137.114:443#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.43.137.114
-vless://1f01fda5-6bdc-4c9b-8b52-1b5e174e1f7e@91.224.74.69:25568?type=ws&security=none&path=/#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 91.224.74.69
+trojan://86seyfci-4lfo-ntpl-79kn-ofuftroz765p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://y71odzpl-sb8d-0law-4amd-olu8n4ht51k8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5da2ec1d-eqqn-w2qx-5qrc-dhdo4ijgr8l7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 38.107.234.38
 vless://48cec39a-9755-47a5-84ca-7c36066a0eeb@45.144.49.141:2083?type=grpc&security=reality&sni=Python.org&fp=chrome&pbk=rVLde0wPhF0d3755oggysyD89VlOXn6v2EbOpfh7zlY&sid=29a81d#PL 🇵🇱 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 45.144.49.141
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.70
-vless://8a6caad2-0ffe-48e5-92fd-c3bf5d009b13@3h-unitedstates2.09vpn.com:8443?type=ws&security=tls&path=/vless/#US 🇺🇸 ┇ VLESS-WS-TLS - Newserverlife LLC ┇ 104.167.199.95
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaHNrVzQ1SnpjM1loSmk0MTVPdVhV@kazakhstan8.yourbot.me:58080#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 38.107.235.239
+vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35032?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 45.144.51.195
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMc3dMckV5UnNZU1h4bGFCVm8zb2Z3@91.224.75.60:1080#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 91.224.75.60
+vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzcy8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5ld3NlcnZlcmxpZmUgTExDIFx1MjUwNyA5MS4yMjQuNzUuNzIiLCJhZGQiOiI5MS4yMjQuNzUuNzIiLCJwb3J0Ijo0NjA4NiwiaWQiOiJiYjU1MjUxOS1lNzEzLTQyN2MtODVkOS1jOGQ4YzIxNDcyYzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@38.107.234.93:8080?type=tcp&security=reality&sni=yandex.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 38.107.234.93
-vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV3c2VydmVybGlmZSBMTEMgXHUyNTA3IDM4LjEwNy4yMzQuNTciLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzcy8ifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.144.49.140
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.144.48.58
+vless://4456abe1-63dd-472b-8565-8a9ce14e19dd@104.167.198.122:443?type=tcp&security=reality&sni=usa31.clearorbitllc.com&fp=firefox&flow=xtls-rprx-vision&pbk=izK-seieiFFBrtVWCLG17yHNSZI72rgGZ7WBLyQ24h0&sid=58a29b#US 🇺🇸 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 104.167.198.122
+vless://a6fe2ebd-a8df-4be7-a4df-d7f671513088@45.144.48.180:2083?type=grpc&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=kiWKh0alnh0SU6PPIWUOaJyByPoepDlCbfxHw94QHCI&sid=775e2976#PL 🇵🇱 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 45.144.48.180
 vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=grpc&security=reality&sni=stackoverflow.com&fp=chrome&pbk=J16xookBYAnMPvzeUrenWFifaDLYiUk84pI6IXCU9yI&sid=3e83ade3#US 🇺🇸 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 104.167.199.65
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEy@104.167.197.67:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.67
-vless://a6fe2ebd-a8df-4be7-a4df-d7f671513088@45.144.48.180:2083?type=grpc&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=kiWKh0alnh0SU6PPIWUOaJyByPoepDlCbfxHw94QHCI&sid=775e2976#PL 🇵🇱 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 45.144.48.180
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMc3dMckV5UnNZU1h4bGFCVm8zb2Z3@91.224.75.60:1080#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 91.224.75.60
-vless://ed7ec5f8-2808-45d3-a936-5732646f8c51@91.224.74.23:40132?type=grpc&security=reality&sni=microsoft.com&fp=chrome&pbk=GUJ5csU_INsTCiCMzcmDKA1c-GZgaYdgZmfSSXDxqEA#KZ 🇰🇿 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 91.224.74.23
-vless://88b9b7e2-7d97-4a6c-9c19-7e9d1da82183@91.224.75.112:443?type=tcp&security=reality&sni=poland24.clearorbitllc.com&fp=firefox&flow=xtls-rprx-vision&pbk=e83edrY4QdUvXdmwO2iQbgyTeYjemYh7tpCzwJUZAw8&sid=75a982c6#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 91.224.75.112
 vless://CHIK_881548@us1.chik-chirik.xyz:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&pbk=wsuNVssCC7Wh0VH_CpY3Th8z1brS70MpoqkgWmSdAk4&sid=ffffffffff#US 🇺🇸 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 104.167.198.80
-vless://4456abe1-63dd-472b-8565-8a9ce14e19dd@104.167.198.122:443?type=tcp&security=reality&sni=usa31.clearorbitllc.com&fp=firefox&flow=xtls-rprx-vision&pbk=izK-seieiFFBrtVWCLG17yHNSZI72rgGZ7WBLyQ24h0&sid=58a29b#US 🇺🇸 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 104.167.198.122
-vless://4bc56193-7c0b-4848-b57d-59b013b1a651@38.107.234.135:443?type=tcp&security=reality&sni=mega.io&fp=chrome&flow=xtls-rprx-vision&pbk=NWNM5iAH2aJMGuCXJRPzvdfAKvguxsX87eWE2C-IP3U&sid=42#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 38.107.234.135
-vless://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?type=tcp&security=reality&sni=poland20.clearorbitllc.com&fp=firefox&flow=xtls-rprx-vision&pbk=oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ&sid=2a22#PL 🇵🇱 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 45.144.50.206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 38.107.234.38
-vless://e381d107-3551-45b6-9597-8d9506be9b8c@45.144.48.237:55325?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=WrK40aQhFIbyutL_J415GVRHhOdaG_oyrGm_DCp8FW0&sid=13a5600f7e#PL 🇵🇱 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 45.144.48.237
+vless://8a6caad2-0ffe-48e5-92fd-c3bf5d009b13@3h-unitedstates2.09vpn.com:8443?type=ws&security=tls&path=/vless/#US 🇺🇸 ┇ VLESS-WS-TLS - Newserverlife LLC ┇ 104.167.199.95
 vless://48572af1-d091-457b-a86e-4a457e99927f@3h-unitedstates3.09vpn.com:8443?type=ws&security=tls&path=/vless/#US 🇺🇸 ┇ VLESS-WS-TLS - Newserverlife LLC ┇ 38.107.236.166
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.144.48.58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMm5waWdtVzFuWmVjV3A5U1prbU8z@91.217.10.60:1090#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 91.217.10.60
-vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35032?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 45.144.51.195
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@pl.vmagnum.win:57456#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.144.51.66
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.144.49.140
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.25
+vless://4bc56193-7c0b-4848-b57d-59b013b1a651@38.107.234.135:443?type=tcp&security=reality&sni=mega.io&fp=chrome&flow=xtls-rprx-vision&pbk=NWNM5iAH2aJMGuCXJRPzvdfAKvguxsX87eWE2C-IP3U&sid=42#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 38.107.234.135
+vless://1f01fda5-6bdc-4c9b-8b52-1b5e174e1f7e@91.224.74.69:25568?type=ws&security=none&path=/#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Newserverlife LLC ┇ 91.224.74.69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaHNrVzQ1SnpjM1loSmk0MTVPdVhV@kazakhstan8.yourbot.me:58080#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 38.107.235.239
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.90
+vless://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?type=tcp&security=reality&sni=poland20.clearorbitllc.com&fp=firefox&flow=xtls-rprx-vision&pbk=oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ&sid=2a22#PL 🇵🇱 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 45.144.50.206
+vless://ed7ec5f8-2808-45d3-a936-5732646f8c51@91.224.74.23:40132?type=grpc&security=reality&sni=microsoft.com&fp=chrome&pbk=GUJ5csU_INsTCiCMzcmDKA1c-GZgaYdgZmfSSXDxqEA#KZ 🇰🇿 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 91.224.74.23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.144.48.63
-trojan://x32utxcv-zslj-apqj-r1ui-b52ayamrsgc3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://al8lphm8-o2po-uv07-gghj-n3ykuxsx3tof@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://e381d107-3551-45b6-9597-8d9506be9b8c@45.144.48.237:55325?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=WrK40aQhFIbyutL_J415GVRHhOdaG_oyrGm_DCp8FW0&sid=13a5600f7e#PL 🇵🇱 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 45.144.48.237
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@45.144.51.23:8080?type=tcp&security=reality&sni=yandex.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#PL 🇵🇱 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 45.144.51.23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@45.43.137.114:443#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.43.137.114
+vless://88b9b7e2-7d97-4a6c-9c19-7e9d1da82183@91.224.75.112:443?type=tcp&security=reality&sni=poland24.clearorbitllc.com&fp=firefox&flow=xtls-rprx-vision&pbk=e83edrY4QdUvXdmwO2iQbgyTeYjemYh7tpCzwJUZAw8&sid=75a982c6#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 91.224.75.112
+trojan://zoys5vn5-g5v8-javb-quy1-zv00gkm2zexf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uqktr48s-kcse-1qv9-kgvz-0b1mxy8bg0er@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

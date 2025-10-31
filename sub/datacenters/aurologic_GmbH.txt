@@ -1,9 +1,9 @@
-trojan://rp2hz3z9-q7ov-p5sl-s9bp-1qy6frzed4e9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://25nfp38p-p3s4-biqf-ia6k-5i6k4zkz7cnl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://47a0abxa-myra-k98t-7tk7-oee54goswpjx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e7dc94db-a940-4bd0-8f98-a926b2f2b734@194.62.157.52:33162?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - aurologic GmbH ┇ 194.62.157.52
-vless://e699e9dc-c1a7-4ab8-a597-bbfae5219fe5@cloud.net0n3.shop:10443?type=xhttp&security=reality&path=@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3&sni=flask.palletsprojects.com&fp=chrome&pbk=gUEJWr93w_k1Xr9CLdEl03KzYj4cW7vgJjtWaEm_XWo&sid=ff9f#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - aurologic GmbH ┇ 172.86.92.74
+trojan://qa721ngi-udxl-16lj-u5jx-1djqo56ogghm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://hm7gjsra-grwr-rinh-h4xl-dv9q1s5hl2th@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8k88phhi-leob-8kj1-5xz5-01w6g3jt2ent@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://94a028e2-b2f8-5019-ade4-5e462ee6ae1e@nl1.xvless.online:80?type=httpupgrade&security=none&path=/httpupgrade?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - aurologic GmbH ┇ 5.144.176.131
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIGF1cm9sb2dpYyBHbWJIIFx1MjUwNyAxNzIuODYuOTQuMzMiLCJhZGQiOiJrYW0uZGV2cGlyYXRlLmJhYnkiLCJwb3J0Ijo0NDUxNCwiaWQiOiJlYjBlM2Y0Zi03Y2I4LTQ1MTItYWIxMi1mZTA2MzFjMDlmYmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://8u5qra1n-jkjm-1ea9-poic-7efvpgzx6wz3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zzzv53kh-b4wx-fchg-zq39-xxkqf9y936tr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://e699e9dc-c1a7-4ab8-a597-bbfae5219fe5@cloud.net0n3.shop:10443?type=xhttp&security=reality&path=@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3&sni=flask.palletsprojects.com&fp=chrome&pbk=gUEJWr93w_k1Xr9CLdEl03KzYj4cW7vgJjtWaEm_XWo&sid=ff9f#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - aurologic GmbH ┇ 172.86.92.74
+vless://e7dc94db-a940-4bd0-8f98-a926b2f2b734@194.62.157.52:33162?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - aurologic GmbH ┇ 194.62.157.52
+trojan://8a05698w-6tm9-c2rj-fawa-lnf4gwc61zu4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3qj608zp-5ch9-5tji-5oko-xka9mlunjf5t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

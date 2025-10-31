@@ -1,12 +1,12 @@
-trojan://gzgura2b-3miu-h0ie-zelr-ota7vxvalixw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://hnrqcav8-iu39-bqle-3g2n-tjxfaz9uuxth@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qkqs9upl-bnfa-aww3-aa3h-e2mn75ses5yc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw@31.40.212.221:20006#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 31.40.212.221
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.32
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWYzZTA5ZjZjYzQ0NDEz@163.171.110.9:14066#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.110.9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dGFMNENueUczU0g1RUVzN1BFNzVj@190.103.176.123:8443#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.123
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.45.129
+trojan://029eaedj-96ft-1v09-oa7r-moojeiwlm8ph@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://tcd7kg4c-4o3z-i9ck-5ddg-rlrq6bkq6nli@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1eo5b0lr-hqft-g83u-f5ch-685d3gua1glw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dGFMNENueUczU0g1RUVzN1BFNzVj@190.103.176.123:8443#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.123
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWYzZTA5ZjZjYzQ0NDEz@163.171.110.9:14066#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.110.9
+ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw@31.40.212.221:20006#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 31.40.212.221
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - InterBS S.R.L. BAEHOST ┇ 131.255.4.219
-trojan://ejvvar14-q96b-56z7-7s6p-z7hvdvo3x7k7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://itel2c2y-pjv6-enql-53rq-g4ya3ezri0vv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.45.129
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990#AR 🇦🇷 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.176.32
+trojan://dcc0zbti-jvkk-6wvn-f0it-cl6ao0x79p3b@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zpo33tvy-rmr8-3grr-pseg-k25yek4cqmg2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

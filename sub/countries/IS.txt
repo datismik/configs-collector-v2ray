@@ -1,23 +1,23 @@
-trojan://jcduteoo-vfes-pz0b-f8z2-8e1njzxf5a7r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://3rxhjg3y-42zj-8z43-ggts-5lvpacr6dw5q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://md3xiuw9-uabk-wga7-lqht-pcrh8ty4v5pt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMlkyT1RSaQ@89.221.224.93:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.93
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.29:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw@89.221.224.166:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.166
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#IS 🇮🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.21.107
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?type=grpc&security=none#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.239
+trojan://qiz46hgp-gf3o-j70t-mycy-w50wtuf2jb16@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://dfadv7fv-b665-hxil-46fs-4b8vjcd3mb80@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iu0pa2lw-m8j0-kn2l-yuyw-0hnw0vhi4n40@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?type=grpc&security=none#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw@89.221.224.166:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.166
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?type=grpc&security=none#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.239
+vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#IS 🇮🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.21.107
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.152
+vless://398d8602-0b18-5e04-815e-27a282fe03f6@45.83.21.136:2052?type=grpc&security=none#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@212.192.214.159:800#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 212.192.214.159
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.49:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.49
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakV3Wm1aaw@89.221.224.94:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.94
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@37.235.49.124:808#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.124
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.194:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.194
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.4:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.4
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.29:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMlkyT1RSaQ@89.221.224.93:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.93
+vless://e04fd6e4-d570-4bf0-9bd7-c7f7f830e521@91.194.161.15:80?type=ws&security=none&path=/vless#IS 🇮🇸 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.15
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.13:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.13
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.168
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.88:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.88
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.152
-vless://e04fd6e4-d570-4bf0-9bd7-c7f7f830e521@91.194.161.15:80?type=ws&security=none&path=/vless#IS 🇮🇸 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@212.192.214.159:800#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 212.192.214.159
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakV3Wm1aaw@89.221.224.94:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.94
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.49:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.49
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.13:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.13
-vless://398d8602-0b18-5e04-815e-27a282fe03f6@45.83.21.136:2052?type=grpc&security=none#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.136
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@37.235.49.124:808#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.124
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.4:443?type=ws&security=tls&path=/Telegram:@AZARBAYJAB1?ed=2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.4
-trojan://mmrntkd9-xnms-kjzs-gcd5-xhvziigtoh8z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wluoblmu-c8aw-670m-p40w-47cca2921qtt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://h18jhpkf-wziu-y6kg-ck2t-yz3smg6w4p0i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l0g2d65q-zunu-wohr-4jwx-05kiv6yyzy1r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

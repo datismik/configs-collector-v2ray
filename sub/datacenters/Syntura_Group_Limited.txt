@@ -1,8 +1,8 @@
-trojan://gkz3vdtn-wcp9-846h-5r7v-0p4pngejxrpr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://r45cxcq9-tyrm-r734-51lu-wuohojbvin98@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://26boe56e-6kdd-92ww-o0bb-konkt93hjnhw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zi3futxx-iabv-n22k-olb7-zvi3yqo45ckn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://jeuut57p-22sj-bhmy-xa77-mipc9v1ydpp1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lga19itd-0cue-vku8-9v0w-v0g4bpvcfapi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.55.21:989#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Syntura Group Limited ┇ 37.235.55.21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4UnB6dkpUeThrTWVyUzQ3MXJYUjNO@46.17.63.178:8443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Syntura Group Limited ┇ 46.17.63.178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMkU2bEl0aVJYbVlFUkN5dlBkZ0h6@192.121.113.60:8443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Syntura Group Limited ┇ 192.121.113.60
-trojan://95o2mbar-2nxw-4zdv-1dmg-4aggjn1iqiyh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ut97vh6l-7056-267j-vjgz-mc1trdiqzmx6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://h2c8d3gt-m51h-bp9h-hint-f3y2gfrxv556@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wnsb53ov-cj0h-xl6t-p919-gkfz2aux942k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

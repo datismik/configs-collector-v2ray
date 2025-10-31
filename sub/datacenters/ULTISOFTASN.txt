@@ -1,21 +1,21 @@
-trojan://hmpcu4lf-2dor-whj7-hxta-ic8dh4j0zxzq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://a4jo3pjz-6ii0-mgds-fq0z-r828mqorr4pu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1zt2i7tm-1ryn-tbzn-hzjh-1w9r70an22yf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.80:80?type=ws&security=none&sni=23-lsjfjwiposkfls.hc2021.cfd#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.64.80
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.67.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.67.29
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.150:2096?type=ws&security=tls&path=/&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.150
-vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@208.86.168.45:2096?type=ws&security=tls&path=/2096/@VRayyNGvpn&sni=bEAt.MIRaclETaxbiTS.Top.#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.45
-trojan://Aimer@209.208.227.79:443?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ULTISOFTASN ┇ 209.208.227.79
-trojan://Aimer@135.84.64.77:2096?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ULTISOFTASN ┇ 135.84.64.77
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443?type=ws&security=tls&path=/?ed=2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.210
-vless://76a39525-c67c-4bd9-b181-0e5d084786fc@135.84.67.95:443?type=ws&security=tls&path=/&sni=wss.ahmadi4ux.ir&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 135.84.67.95
+trojan://b3o2u7yw-kwq6-593x-nk0y-rv3adbt4fxkx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://ikwcot8q-yzd7-8rqn-jjzf-xvq3c49hcrkf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://agg48omp-e7av-shb8-th6a-vsuut0241jay@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.218:8443?type=ws&security=none&sni=CiR346yL3b.DeRaKhT.iNfO#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 209.208.227.218
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.51:80?type=ws&security=none&path=/Telegram🇨🇳@@pgkj666/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.64.51
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?type=ws&security=tls&path=/&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.229
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443?type=ws&security=tls&path=/?ed=2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.210
 trojan://Aimer@135.84.64.36:2083?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ULTISOFTASN ┇ 135.84.64.36
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.178:2083?type=ws&security=tls&path=/urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgeS.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.178
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@135.84.65.11:80?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=reedfree8mahsang2.redorg.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.65.11
-vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@209.208.227.239:443?type=ws&security=tls&sni=cr77.medicalhistory.ir#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.239
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.61:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.61
-trojan://b4wo5whd-cs0n-67e1-ezv7-hidgidgbsavn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://834b1gil-ha9q-8oe8-e38r-zdx9rx3vw53a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?type=ws&security=tls&path=/&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.229
+trojan://Aimer@209.208.227.79:443?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ULTISOFTASN ┇ 209.208.227.79
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.150:2096?type=ws&security=tls&path=/&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.150
+vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@208.86.168.45:2096?type=ws&security=tls&path=/2096/@VRayyNGvpn&sni=bEAt.MIRaclETaxbiTS.Top.#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.45
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.51:80?type=ws&security=none&path=/Telegram🇨🇳@@pgkj666/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.64.51
+vless://76a39525-c67c-4bd9-b181-0e5d084786fc@135.84.67.95:443?type=ws&security=tls&path=/&sni=wss.ahmadi4ux.ir&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 135.84.67.95
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@135.84.65.11:80?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=reedfree8mahsang2.redorg.ir#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.65.11
+trojan://Aimer@135.84.64.77:2096?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ULTISOFTASN ┇ 135.84.64.77
+vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@209.208.227.239:443?type=ws&security=tls&sni=cr77.medicalhistory.ir#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.239
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.67.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.67.29
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.80:80?type=ws&security=none&sni=23-lsjfjwiposkfls.hc2021.cfd#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.64.80
+trojan://tnehiytj-3l3p-fwee-6g1r-q9jxhf5swv38@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bkgqckd9-8ni0-bvw0-pg81-s42gplgr7ohg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://1b4drljx-1hvv-g1kv-oz13-40fsjgmb1cdd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://zqet8c6n-wdr0-ldks-0hej-95601tmlsnau@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jzo4ta3b-qj7a-cz9i-gbj9-jhbw0fvfq2nz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ws3s7r0k-ku5k-99hh-gvzf-dipc6uieinri@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://rumjs95x-rder-oqb3-dm92-wj21zebtwu28@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lw2uqnvq-qzby-alqm-ov8t-3cxbpqhw5xx8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f487032e-75d3-4902-9e45-5c5aa3f48e93@nl.staropay.ru:443?type=tcp&security=reality&sni=nl.staropay.ru&fp=chrome&flow=xtls-rprx-vision&pbk=p3FAj1Jt1aW7oAaNreiZbRr6EcE7OxXMb6gKslB_7zA&sid=83a5cc37ac4ea312#NL 🇳🇱 ┇ VLESS-TCP-RLT - ML Cloud Ltd ┇ 77.221.134.185
-trojan://od4uz07o-7uqe-q7m8-49f5-jd5957xqu5du@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g0ywop3l-zkbc-wo5l-hv4r-ug4rmsg4zt3s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://8begeay2-zen0-bvel-ybbu-8idkfmic3u82@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://teo7tvk6-u6za-t4r9-vms8-2g7rvmliqvvt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

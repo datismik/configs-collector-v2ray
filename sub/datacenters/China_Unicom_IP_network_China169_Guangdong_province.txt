@@ -1,6 +1,7 @@
-trojan://p1zgk4zo-nwz6-h4xc-tqlq-0ysjbxqka6jy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://df62bsh5-vbkm-yt33-r3pa-nnatkmhmyueu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://97arp5tr-94f3-enkc-3cpk-f17zja6yvs7x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n7tawi00-0yqu-lps6-4meh-ucafsfmw5h7z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://70sgttfk-hbdg-pnom-294z-dyq6ze8hborn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rwhneeg4-87f3-nglt-0w56-lmtilmoa9511@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?sni=hk-13-568.flztjc.net&peer=hk-13-568.flztjc.net&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Unicom IP network China169 Guangdong province ┇ 221.5.100.160
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmEgVW5pY29tIElQIG5ldHdvcmsgQ2hpbmExNjkgR3Vhbmdkb25nIHByb3ZpbmNlIFx1MjUwNyAxMjAuODIuNzAuMTQ5IiwiYWRkIjoiMTIwLjgyLjcwLjE0OSIsInBvcnQiOjM2MTAxLCJpZCI6ImVmYjc0OGVjLWM5MjEtNDJhMS1hYzllLTFkNTQ4NWQ2YzQ0NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Rvd25sb2FkIn0
-trojan://3d6r84fl-dyij-fieu-sao1-wc6aqc4ai3v3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7linftgh-163l-ruli-ltk0-kgq7k5z4j3nl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://mvoeb1nn-2bxp-1tlb-0kc1-4gifltf4ihv7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yuao3wdf-zkuj-1nl3-uzl1-ampgq7x7i8ig@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

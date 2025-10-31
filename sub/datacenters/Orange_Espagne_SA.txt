@@ -1,6 +1,6 @@
-trojan://dxexl66u-ralq-hzwx-9mx8-yavdpxai9l71@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://kadh4rho-17sk-slgz-eked-s05ae9cq0dle@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2cwtkmih-m4d3-d3df-oqkv-5ro6s9qguuz4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2zyunrmz-92zx-84hm-39qh-ct3ultma9uqp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://pe1hbwvs-0sth-owuu-5fki-wvlmdeql129d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://emk2elgh-wfwe-q74z-xl5m-wfedb5er9t2z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@90.165.204.7:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#ES 🇪🇸 ┇ VLESS-WS-NTLS - Orange Espagne SA ┇ 90.165.204.7
-trojan://e1xoyecp-4o00-zu4d-k9sj-ljgs2ihnbt2w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://386axm1j-5etx-i781-66ic-7ya6hcwumqnb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://18ifiqhg-dpmq-a4yb-jcxc-wrp1zqll5ur9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2hp9fee0-py8s-csf9-udhv-kckxfzpgbqz0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

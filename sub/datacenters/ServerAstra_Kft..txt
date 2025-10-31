@@ -1,8 +1,8 @@
-trojan://rbp049qm-cqio-yfnn-cwee-ahvs598ng3jt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://bby08gnq-rzj8-t03g-vdo3-0k7uh25k86gb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://niylkg6c-1369-gpdd-7j7k-5devzb3un179@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hhw0zmeh-ejaa-o4ub-9oig-uod0fl1v204t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://f35rgg61-hy0r-a9jq-qmvq-yn0vdfxvcwuu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zp60nerx-np58-ahpa-118m-205cp8ea8n3f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - ServerAstra Kft. ┇ 91.219.237.102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.219.237.163:990#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - ServerAstra Kft. ┇ 91.219.237.163
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.163.204.94:990#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - ServerAstra Kft. ┇ 185.163.204.94
-trojan://zlmpysk9-bdam-v66d-lth8-lajul4z4bz23@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e8f8vz5l-534i-l1zc-48l2-scpnnh2ybz4t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://6ulhvtcd-f8he-502v-05qp-9jsn2g826pzr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ne0kyn2i-o4o4-jdez-75dp-ykbnx7s8ma0t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

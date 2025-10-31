@@ -1,22 +1,22 @@
-trojan://pvbtwghl-z53l-xqq2-2hq1-t5b5st5h5ysy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://q31nftxa-7jt7-lm01-x95s-enwncffodmq6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b2ip2qji-xvan-vjp3-q352-84l1jtx6w2ii@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhdGFjYW1wIExpbWl0ZWQgXHUyNTA3IDc5LjEyNy4yMjkuNTQiLCJhZGQiOiI3OS4xMjcuMjI5LjU0IiwicG9ydCI6MTgwMDAsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@fl-copnmay-55548.need9ping.ir:9954?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#MX 🇲🇽 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.75.135.174
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWZmNDk4YjkwMzM0Y2Vh@89.223.88.145:43190#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.223.88.145
-vless://65d2dfe6-e2f9-5880-a799-ac6664053e25@45.134.9.188:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#MX 🇲🇽 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 45.134.9.188
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.179.23
-vless://3658ea17-0308-4ed4-c58e-75bb7b99b764@216.238.92.65:35900?type=ws&security=none&path=/moxige00#MX 🇲🇽 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 216.238.92.65
-vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyAxMzEuMTk2LjI1Mi41OSIsImFkZCI6IjEzMS4xOTYuMjUyLjU5IiwicG9ydCI6MjA1MjEsImlkIjoiNTgwOTkxMWEtYTE2ZS00M2QzLTkwYjAtMmM5NGNmYzIwMzVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?type=ws&security=tls&path=/vless/#MX 🇲🇽 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 45.134.9.133
-vless://35b43f8b-2bce-4c3e-d6a0-537f3b5df84a@216.238.76.134:8080?type=ws&security=none&path=/#MX 🇲🇽 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 216.238.76.134
+trojan://264i873l-5clt-0d2t-4gfs-u3jfbpzdabft@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://tyltxius-gf5e-z88f-jace-1p4e76tska31@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5xw99sd6-44a5-e1qw-42qd-j91smftbwyhl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVW1LS0FmZlhVVVhBR3F0cVJDMFY5@138.186.140.102:8443#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 138.186.140.102
-ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@154.205.152.9:13884#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.152.9
+vless://35b43f8b-2bce-4c3e-d6a0-537f3b5df84a@216.238.76.134:8080?type=ws&security=none&path=/#MX 🇲🇽 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 216.238.76.134
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWZmNDk4YjkwMzM0Y2Vh@89.223.88.145:43190#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.223.88.145
+vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@fl-copnmay-55548.need9ping.ir:9954?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#MX 🇲🇽 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.75.135.174
+vless://3658ea17-0308-4ed4-c58e-75bb7b99b764@216.238.92.65:35900?type=ws&security=none&path=/moxige00#MX 🇲🇽 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 216.238.92.65
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.1.230
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?type=ws&security=tls&path=/vless/#MX 🇲🇽 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 45.134.9.133
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.179.23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTV5WUVHR011OGpVMnAyNWFXTA@169.57.35.97:8389#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS ┇ 169.57.35.97
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.1.27
+trojan://3747000103274291200@216.238.77.127:443?sni=grateful-glowworm.treefrog761.one&peer=grateful-glowworm.treefrog761.one&security=tls#MX 🇲🇽 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 216.238.77.127
+vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhdGFjYW1wIExpbWl0ZWQgXHUyNTA3IDc5LjEyNy4yMjkuNTQiLCJhZGQiOiI3OS4xMjcuMjI5LjU0IiwicG9ydCI6MTgwMDAsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://65d2dfe6-e2f9-5880-a799-ac6664053e25@45.134.9.188:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#MX 🇲🇽 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 45.134.9.188
+vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyAxMzEuMTk2LjI1Mi41OSIsImFkZCI6IjEzMS4xOTYuMjUyLjU5IiwicG9ydCI6MjA1MjEsImlkIjoiNTgwOTkxMWEtYTE2ZS00M2QzLTkwYjAtMmM5NGNmYzIwMzVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@185.75.135.224:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#MX 🇲🇽 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.75.135.224
 vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthb3B1IENsb3VkIEhLIExpbWl0ZWQgXHUyNTA3IDE1Ni4yNDQuMi4xNDciLCJhZGQiOiIxNTYuMjQ0LjIuMTQ3IiwicG9ydCI6NDQzLCJpZCI6ImViNjQ0Y2Q3LTUyN2YtNDFjOS04Y2E2LWQ4NzdhZmQzMGFlYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTV5WUVHR011OGpVMnAyNWFXTA@169.57.35.97:8389#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS ┇ 169.57.35.97
-trojan://3747000103274291200@216.238.77.127:443?sni=grateful-glowworm.treefrog761.one&peer=grateful-glowworm.treefrog761.one&security=tls#MX 🇲🇽 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 216.238.77.127
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.1.230
-trojan://7vaiwjav-ce7m-cekr-v528-f60esdmvqn2l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3znvefns-0mhy-pxym-m1lq-0fslt3ionrf4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTEyOC1nY206OGFhMGIwM2ItZTRjNi00MzY1LWFkMmQtZjZlOGE2OTQxMWFh@154.205.152.9:13884#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.152.9
+trojan://92ho83nq-3r2a-4lds-wkv0-mx31fcrvmi1t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qq2hbgg6-ribr-b5m4-4i8x-hf6v0f4f04di@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

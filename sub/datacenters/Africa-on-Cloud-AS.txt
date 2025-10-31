@@ -1,7 +1,7 @@
-trojan://d19uqzdu-1ovo-55d8-8gah-km19jp2efo0j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://oll1muq7-w0sn-olcq-6kw4-ll6fzrj4hjh2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yq6q6e2p-bdkn-rvly-lf9m-60dbx1ca13ch@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bppfju34-qspd-qyvj-u04v-r9h4t3frd582@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://723x2pfl-h6or-evth-l1hh-80wj4q7lqyj6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vvdlgoh7-mj5d-3fd7-nb5g-z97ho730ihzh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://12345678-1234-1234-1234-123456789123@154.194.0.61:2096?type=ws&security=tls&path=/snippets&sni=vless.hubp.de&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Africa-on-Cloud-AS ┇ 154.194.0.61
 vless://22d373dd-baa2-44a3-995c-80898e052534@154.194.0.15:443?type=ws&security=tls&path=/Just/Way/ForFreedom/&sni=download.wablo.ir&fp=chrome#SC 🇸🇨 ┇ VLESS-WS-TLS - Africa-on-Cloud-AS ┇ 154.194.0.15
-trojan://dkalsd4n-l3d9-y2vj-4uvw-8rlz905mznmz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xgvr7u0j-xv1b-v7d4-fsug-t7oy1afe6lek@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jro1bgy1-e742-gmla-7719-06jyds61n1og@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3uopos5s-w27n-r1gs-etfc-37ek7nx20e7m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

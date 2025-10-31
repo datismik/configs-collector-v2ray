@@ -1,6 +1,6 @@
-trojan://cza6i8is-5tef-xjmi-qx3p-3voqk3qt61j6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://zlvkbb3a-lgnt-g76u-9idr-ue10y428uwzs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mjcfpgxv-mrac-2udl-p0lq-fdix40a4ikaq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fbwx8wpy-crtv-ggxy-pwl2-dqs9z01d32fl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://2qvkx7a7-tzbx-l6gw-7nf0-hbijq5pjpjcx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xdfbkix1-g0b4-wmd3-qmcw-b90orulf7h8q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:34313?type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Unicom Shanghai network ┇ 139.226.187.110
-trojan://xls0877g-xin7-lk9b-93ji-dj24vmzzid1b@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mn2ca2rr-g4ve-g2gf-09kd-k0izjcg9f5ed@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://n3s416g9-qx2d-agjy-rmrk-h0lxaeg4v3fd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ug6kdrq2-ro8k-yjk7-0gfy-vevdyndhbcja@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

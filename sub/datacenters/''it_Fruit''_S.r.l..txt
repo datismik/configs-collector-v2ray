@@ -1,6 +1,6 @@
-trojan://u7cb24ac-u19k-h0hb-m754-tr2yzb41bqsk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://3fug8zqw-nn9t-cxoe-c1cs-4dqilbmlpicr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tx42pbvq-ycrm-qaf2-i2rn-p6kgk6edc9u5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9ohy6k03-jf8k-u6uu-pe4t-i9oizavid77d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://7sm20dcg-jaqp-zcok-9xno-k0p0816rw00y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fwnh8glx-obqk-1hxc-zp1u-f7mk04phtssl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - ''it Fruit'' S.r.l. ┇ 185.153.197.5
-trojan://fuhxltv2-8z75-snlg-bpqu-dajufjgdgqyy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pjg1wzvd-kqrg-r610-u0p3-ahsgyvef0d6t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://isdwnzv4-zaqt-cvsy-p6s4-13b0tqcfo7oj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3bm0y7r7-npc7-ror5-ay0q-hrpwqfyjg5oq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

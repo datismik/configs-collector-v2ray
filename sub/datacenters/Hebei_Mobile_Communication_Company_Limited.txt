@@ -1,6 +1,6 @@
-trojan://qpfi1thb-qv4s-a8z4-n5tx-j5zfiirm42vp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://194kyrgt-yvsw-qdzx-mj19-laek8fnphxue@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dfcc15i3-4y4z-2x3n-0tog-pb85xuxkju3l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://aghqaxz4-7mic-zmgg-0v5w-o7wma0vfvvv6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://kr6tfat9-97eg-w305-ja3p-j94k1bu699s1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v2y1bx0x-oq46-ikqr-bp9x-bfpazcmqfzbl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@111.62.241.211:20083?sni=3.p5zqtpj2n7.xyz&peer=3.p5zqtpj2n7.xyz&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Hebei Mobile Communication Company Limited ┇ 111.62.241.211
-trojan://sx7m5sdo-7h0f-hww8-8rhi-vsqklswouf4r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5rwz0u4s-o725-0k1s-0b49-6dbltfvqx7jy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://1qotuu56-dog7-no2a-489h-y0fawvhlozou@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jntxkli3-fw36-7itx-fm7f-kajowfd10iyd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://wwr2kkgq-ijbz-2h6b-wr2o-b7tgqdyva4vm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://barfpbdr-iwfx-8dgp-sdim-o1kei6tpklqi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://k4m9pqpd-owss-egy6-oaz1-fv5ok2c1unp5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://agfylj82-91mm-b7ff-ri2i-hpznb5gle2eb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://ne29o93s-n20i-62lk-f7bl-orlzmthvac9m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://u33a0b98-0atb-yc8i-sewq-tf3to24x96x9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@45.151.183.78:9954?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#GB 🇬🇧 ┇ VLESS-TCP-RLT - Host-Telecom.com s.r.o. ┇ 45.151.183.78
-trojan://buth5cpx-ctvo-zb49-nwp2-n8m49hcxyqea@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ffbhk1on-xcp2-vrzc-yvk6-z4tv2u6eqeaa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://83683cll-qkkf-46y7-qlil-ossgah170v3x@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kmp7hxi2-l4pu-dnk0-6bfq-8ip9s8vlpogi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

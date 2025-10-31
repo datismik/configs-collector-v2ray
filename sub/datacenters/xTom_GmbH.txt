@@ -1,14 +1,14 @@
-trojan://1tzz3c99-bkt8-l1v6-meap-z0rhgjqybaf2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://k6asxzjs-aybn-ww7a-8nup-jl5l1r1rqie4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tmhdcexs-ppu4-irng-smv8-ytco2rnr10e7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@92.118.190.71:55555?type=ws&security=none&path=/?ed=2560security=tls&sni=a.mifeng.us.kg#DE 🇩🇪 ┇ VLESS-WS-NTLS - xTom GmbH ┇ 92.118.190.71
-trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.64
-trojan://GUGm7DHtpSx7SuPyUD@ee-1.kamediorg.com:443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.139.194.79
-trojan://R8ufkVqwRZAgtwjyrA@de-2.topeinstein.com:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 193.8.124.25
-trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 185.49.34.223
+trojan://04oqe6s9-qczq-gwj5-gxzf-t9kkg0x665ua@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://cwipsqds-0khq-1a5s-tnxs-uon4ikm4sjej@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://700wi2v0-emxb-9aus-n2er-nfovni738ukg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://49699004-a1ba-4621-9744-3d41e98040a9@92.118.190.131:80?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - xTom GmbH ┇ 92.118.190.131
-trojan://shenmegui@185.49.33.47:8461?sni=$jp.swiftfalcon.app&peer=$jp.swiftfalcon.app&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 185.49.33.47
-trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.66
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gR21iSCBcdTI1MDcgMTA0LjE5My44LjEzMiIsImFkZCI6ImM3MXM1LnBvcnRhYmxlc3VibWFyaW5lcy5jb20iLCJwb3J0IjoxMDg5MywiaWQiOiIwNWM3ZWNhYS0wNTZjLTRiYzEtODU1My0wOWM4MDYzNmY2MWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://ekmmiord-7nyd-og6z-zaqu-648fkkav43qu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3349n8dm-nx55-hv5w-wut9-z4cecq4ttcoq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@92.118.190.71:55555?type=ws&security=none&path=/?ed=2560security=tls&sni=a.mifeng.us.kg#DE 🇩🇪 ┇ VLESS-WS-NTLS - xTom GmbH ┇ 92.118.190.71
+trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.66
+trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.80.190.64
+trojan://shenmegui@185.49.33.47:8461?sni=$jp.swiftfalcon.app&peer=$jp.swiftfalcon.app&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 185.49.33.47
+trojan://GUGm7DHtpSx7SuPyUD@ee-1.kamediorg.com:443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 45.139.194.79
+trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 185.49.34.228
+trojan://R8ufkVqwRZAgtwjyrA@de-2.topeinstein.com:443?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - xTom GmbH ┇ 193.8.124.25
+trojan://h8mo9ksa-solx-m7wn-xjx1-ehjwbdu1cxc9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bj7sdryz-osdq-1ohc-1xiu-2bitg8fiicyy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

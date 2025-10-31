@@ -1,14 +1,14 @@
-trojan://tsxak1km-ueau-y6p5-i8ec-sn85i4600poq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://4o132a0p-gl0p-2e71-lbon-sb2b3m3yry91@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yotag39g-ipue-igjo-xpq7-c37us0ru0z8s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.155.96.153
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBTUY0SmFzS3F4dTNOUGZ4RzFtT0Ri@45.151.72.141:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 45.151.72.141
+trojan://ti4gmoa1-8mqj-0bhz-7ra3-6nn7vdajos3k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://bktr6qs0-vvkc-y7e1-11wu-2tx2rzw4rigr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://41e46c3g-282g-34i9-ndjz-crvupgv5os4m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNXVxVzBsNEVDeGY0Y0tTdHd3NkFa@185.193.49.175:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.175
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNm5Za0JPRXJuWWR2RTJ0eG11SWt2@45.151.72.28:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 45.151.72.28
-vless://562c71d0-f18b-402c-b1ad-5c2bbfcd6e02@est-0001-xr.packet-drop-society.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.186.109
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.186.65
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBTUY0SmFzS3F4dTNOUGZ4RzFtT0Ri@45.151.72.141:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 45.151.72.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTGtGSkg1SzhseHZhY3V3QmNXaDZE@188.214.36.221:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.221
+vless://2d76b61a-3a2a-48cb-8553-94e18e0ff81b@est-0001-xr.packet-drop-society.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=f79448a30d#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.186.109
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNm5Za0JPRXJuWWR2RTJ0eG11SWt2@45.151.72.28:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 45.151.72.28
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.88
-trojan://qwcerj8m-687n-8wh0-spqj-dah44x2z1dcu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wy6e3ri0-edaw-0mmc-sbdv-a5k62agxng7r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.215.186.65
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#EE 🇪🇪 ┇ VLESS-TCP-RLT - RJ Network OU ┇ 185.155.96.154
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNXVxVzBsNEVDeGY0Y0tTdHd3NkFa@185.193.49.175:8443#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.175
+trojan://ev0a7n7f-eqg2-wjua-97cy-zk8zvjj9h4qm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://atkaqzhn-6ugl-3tz1-gqzp-2gc2fwe58690@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

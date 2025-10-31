@@ -1,9 +1,9 @@
-trojan://1xy2ew5g-hyk9-0jf0-zqc8-vu02eknhu4ma@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://twk63wpa-wnpr-yztw-7aeh-24vz9h32hbrn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dtklil8i-rqrt-p1pu-4zfk-qgkatce5199x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://99jht69v-zz1c-3zfp-t4di-eavr6sxicwtw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://cv76khlz-5t9a-aoa4-1l5w-9z45grc6tyc2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fmhmydtb-1zg6-h8k4-cfo6-4x0j7sc8rls6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 151.236.29.225
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSZ3JvRVdXMnBwd09XZnA1a2pvUW9B@212.52.16.81:8443#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 212.52.16.81
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.100
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 151.236.29.225
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.102
-trojan://qa326b84-n8ni-y848-sr8b-o4r4um1cdssh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v48e8p4a-67ds-5mwm-q4y0-pn016qhtbl7f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://444m9x1a-342l-iuun-vob8-z2wwu2f27xb0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8pm22mlp-t5ah-3h6v-cbch-i76e1upprg1o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

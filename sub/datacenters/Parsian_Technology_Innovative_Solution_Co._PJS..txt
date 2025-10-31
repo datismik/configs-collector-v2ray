@@ -1,6 +1,6 @@
-trojan://6wkd1zz6-trje-41xb-mwzd-l850un95px9o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://eu86ne23-9d10-not2-auie-reuczd2peseq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9605q7gn-e39l-b5nx-r13l-5buz9iz5zapb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnNpYW4gVGVjaG5vbG9neSBJbm5vdmF0aXZlIFNvbHV0aW9uIENvLiwgUEpTLiBcdTI1MDcgODAuMjQ5LjExMy4xNDIiLCJhZGQiOiJnMTIuaGFtaWltLmNvbSIsInBvcnQiOjkwOTMsImlkIjoiYTI4MWEyNTMtZTkwOS00NjQ2LWI4YzgtODJhZWQ0N2YyMGE5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-trojan://sjilxos2-0sjv-pwhv-sobf-dxbr7atypwro@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://72azo233-1dcc-ou1r-3rjz-mycegeuvmrjf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://5shcytuh-bc7l-3cbn-sa04-xavppgs0o14z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://we921ech-ivu3-8731-8vhu-m9mbujzs0do7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://x9xsvy72-uqhb-n9bd-pzmq-m7hi30k6tvye@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://8b61ae2f-399c-4ee2-9df8-3a97746e44ed@vip.kazioshop.ir:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsian Technology Innovative Solution Co., PJS. ┇ 194.39.254.132
+trojan://677x2zsq-raeg-93zc-h4de-damgw3vgnuxp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kpg5r14h-g92q-rrns-eajm-v3o1b27a4fzu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

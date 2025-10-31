@@ -1,6 +1,6 @@
-trojan://sek1pxun-9u59-5v15-qpn0-0v2eiges22kl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://yolsbeel-z65q-5qlw-84z4-1hvy5sgh42jj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ez3lphv0-4ed3-9stt-zp9k-hm4vzfrm349f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://z95r2pu9-0kj5-hvvy-3l8k-a2wgsck5hyic@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://bd0tqtyo-xgu9-ltm7-nyej-0jv3myruw6y3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://eyej85k8-u8b6-2ek7-x26a-x2r1q5hie22r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@83.173.198.77:8443?type=ws&security=tls&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&sni=kejiland.freewarp.eu.org#CH 🇨🇭 ┇ VLESS-WS-TLS - Bluewin ┇ 83.173.198.77
-trojan://p8apdxo7-411o-zngi-8gy6-stahcsaim2h1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://222itevy-lifi-zo9x-dy59-vqvy7fn8nmfl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://bsrjpbrp-ekha-txac-bhsq-sf2wdh29105t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mtlk2l32-ud0d-tdf4-9e9m-2qiwcdugd46y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

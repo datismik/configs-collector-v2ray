@@ -1,6 +1,6 @@
-trojan://opo1azlq-17x6-ph5c-fvb0-6h13dam1crfr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://smdtrhyk-e4tr-5acc-cuyx-894dbexha9t9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dr0lcrq6-wuzr-c3jv-mw9v-ogez50ps6nab@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2idtp5g8-29nz-903i-pg47-tqxdbypo5es4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://cj0lziwk-da25-sev1-tuzb-ejdsxgnyo2i3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ssn3f2oz-dwpx-2qyy-c972-rbpbey13dx6v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://fa13e480-610b-11ed-b7c8-1239d0255272@th1-trojan.bonds.id:443?sni=th1-trojan.bonds.id&peer=th1-trojan.bonds.id&security=tls#TH 🇹🇭 ┇ TROJAN-TCP-TLS - CAT Telecom Public Company Limited ┇ 185.78.166.145
-trojan://frfr13vm-aw2a-dh2l-dmc9-hhkh8mx2mo7d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4xnqu42j-y6v7-q8qq-kx6t-xekwm8pno4kg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://l8s79hhw-a9x9-l9f3-04ry-uq8hnp6eyrfe@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://r3sy790y-7u9c-eq8n-ov9q-pctmnfaecebr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

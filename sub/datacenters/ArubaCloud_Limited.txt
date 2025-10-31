@@ -1,10 +1,10 @@
-trojan://e53r04jg-fub9-0d1d-z6cg-xa25247s8p3v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://7w647m5s-v3u3-4h8p-0720-ayi9zcb86gh0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6c6pwolo-jt0j-8ym5-w78s-xlatq3h7mbaf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://31c42652-a059-46e1-b7a7-76e9a8682bb4@217.61.20.57:38849?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.57
-vless://ZEDMODEON--joinZEDMODEON@217.61.20.228:55475?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.228
+trojan://vjopql73-k6e7-491k-4juf-hiyv2tn8wy7p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://faxjnvv7-z7l9-m865-q433-2ik07owneta9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8exiqnaa-1iv8-7mbo-mxxj-aqmmvd6itwb0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://ZEDMODEON--ZEDMODEON@217.61.20.130:16987?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.130
 vless://cf25a07b-798a-4912-9611-04d906a9189c@217.61.20.71:55443?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.71
 vless://f90892dd-4ae2-403c-a159-6b42583537cf@94.177.253.36:6667?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - ArubaCloud Limited ┇ 94.177.253.36
-vless://ZEDMODEON--ZEDMODEON@217.61.20.130:16987?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.130
-trojan://jggjnnrh-cgqv-wqfh-bdcd-r2bjcnrtfs6u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://55uehlrj-z6yg-yp40-k66n-4eglya09gszu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://31c42652-a059-46e1-b7a7-76e9a8682bb4@217.61.20.57:38849?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.57
+vless://ZEDMODEON--joinZEDMODEON@217.61.20.228:55475?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.228
+trojan://7xruku85-5v6f-jlbk-3n5g-m3sn0oy3duoc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://x5juuaf1-hcei-yoy0-41gb-y3open2pbp2n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

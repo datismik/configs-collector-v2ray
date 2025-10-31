@@ -1,8 +1,8 @@
-trojan://3jzp1tvn-5708-dh6w-r9ju-v11cwuxgk5xs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://pl56zmch-z3wj-0cgi-uljm-djc0g04mez4w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wukefga3-xik2-gedt-1af0-shghk7cyxsvd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://dcc7c67e-4ecc-4136-b9a0-2d4f6fdd1227@185.194.177.26:443?type=tcp&security=reality&sni=de.nosok-top.com&fp=random&flow=xtls-rprx-vision&pbk=9l7RFWj9tc1kyaO0JjxjAPdjw_OzlrRDv5BLbY9o0QI&sid=9c2378562188c3cb#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 185.194.177.26
-vless://69cc5658-e452-478c-9e81-d5b5299cb924@profile.shop2wordgames.store:5222?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=hb50Ey2iq21OmTnP3OL-wBZqTnUDjaOPPrm7M2rk00A&sid=da#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 163.5.63.178
+trojan://unska027-fxmp-qdt0-8a47-ryeo7o6fv88w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://s88z2do2-xva8-6las-1f0p-by32eja015kw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://a851ht6m-kcjh-2lh4-nitu-zcaf2avfzvmy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://15eabfb4-3465-4b5b-a0ad-3fa88a4ae005@5.181.187.123:45101?type=tcp&security=reality&sni=t.me&fp=chrome&flow=xtls-rprx-vision&pbk=ubK8xQYhwjyr8vc-vm4ITg7zaX07l745gRBqeT7QIA8&sid=2ffb83f30b7ae51d#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 5.181.187.123
-trojan://o7njwfqo-avd8-dgpb-s27j-2d0gh73x0pnj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j9bhr6jw-rahk-y1ym-yi0t-gm9irzch3add@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://69cc5658-e452-478c-9e81-d5b5299cb924@profile.shop2wordgames.store:5222?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=hb50Ey2iq21OmTnP3OL-wBZqTnUDjaOPPrm7M2rk00A&sid=da#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 163.5.63.178
+vless://dcc7c67e-4ecc-4136-b9a0-2d4f6fdd1227@185.194.177.26:443?type=tcp&security=reality&sni=de.nosok-top.com&fp=random&flow=xtls-rprx-vision&pbk=9l7RFWj9tc1kyaO0JjxjAPdjw_OzlrRDv5BLbY9o0QI&sid=9c2378562188c3cb#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 185.194.177.26
+trojan://iht054c2-n62p-q8gd-vjte-1smw8mldxxx6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b3j1732a-paw5-2aq1-9a5l-8m2zt5skofqf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

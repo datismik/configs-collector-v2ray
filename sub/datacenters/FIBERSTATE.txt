@@ -1,9 +1,9 @@
-trojan://is0opdsz-rmbb-15p0-3n3p-icd7736pillu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://bfd8nb74-xb11-6byb-4kkb-qvgkz22z8yhm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://etok15a0-mb99-37z1-sa08-ye7btwom2zv0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://8d73fe05-1b8b-490e-950b-62f92690ad5e@now.officedrbest.com:8443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=lZrWXYyXQZMkRvegqyOBxslKaB3bOt4F4D_xRURuaz4&sid=64d1dca8560d94f1#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 194.110.246.53
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZJQkVSU1RBVEUgXHUyNTA3IDM4LjE0Ny4xMDcuMjE0IiwiYWRkIjoiMzguMTQ3LjEwNy4yMTQiLCJwb3J0IjoyMzc3MCwiaWQiOiI2YzU2NTBjZC1hYWFjLTQxMTAtZmIzNS1iNjVlN2RkNDJiNDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
+trojan://vo1duchy-2a2l-2xu8-xgbb-1cw8i0uerb2z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://ccvdt2h2-h32o-s8gg-kdji-v8qeejl4obvf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://271mrbmr-x4m6-d0jw-rwi3-9tw0d8w6ug2k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://74ae6c80-64da-11f0-b277-1239d0255272@us1.socifiles.com:80?type=ws&security=none&path=/vlws#US 🇺🇸 ┇ VLESS-WS-NTLS - FIBERSTATE ┇ 23.158.72.133
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZJQkVSU1RBVEUgXHUyNTA3IDM4LjE0Ny4xMDcuMjE0IiwiYWRkIjoiMzguMTQ3LjEwNy4yMTQiLCJwb3J0IjoyMzc3MCwiaWQiOiI2YzU2NTBjZC1hYWFjLTQxMTAtZmIzNS1iNjVlN2RkNDJiNDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
 vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 194.110.246.61
-trojan://s8o4xlcf-5sda-1482-wfwq-3sfac27top23@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6bkidkl7-lfo1-y1t0-wy6k-tqh7ey2tqoqm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://8d73fe05-1b8b-490e-950b-62f92690ad5e@now.officedrbest.com:8443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=lZrWXYyXQZMkRvegqyOBxslKaB3bOt4F4D_xRURuaz4&sid=64d1dca8560d94f1#US 🇺🇸 ┇ VLESS-TCP-RLT - FIBERSTATE ┇ 194.110.246.53
+trojan://fp40rbre-orai-4iks-yuxb-2xhflvvgm15u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ll51mix3-bfu5-oc9r-nlot-g0r4hgs69o3z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

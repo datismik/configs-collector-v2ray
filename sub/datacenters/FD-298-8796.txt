@@ -1,19 +1,19 @@
-trojan://s2ijmaew-n4zs-q0vk-4d60-v9d57dmwwsww@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://uw74vhde-nw3q-r9zx-pmb7-7u1k3kcjrd0e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dv5bvc4v-yrzn-he1m-eqll-8urcw6694jyj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@23.159.248.195:8443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 23.159.248.195
+trojan://gms5uwqi-ibit-0hyg-91lr-x8mp4xbrqioc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://be5o9my9-4k9g-qhxw-ig0s-7hncmm1oj4jg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tmblbqgd-27fq-1gs6-pqwt-8cuqgpa4d9f1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@45.140.88.118:8443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 45.140.88.118
-vless://f25ebe08-6e49-40cf-954a-eb29ec82759a@154.23.163.160:30214?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=LJ5_nw7g-U1MMIEwyYZVi2JrqTmk7Bqrq5b7NCSPhg4#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 154.23.163.160
-vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZELTI5OC04Nzk2IFx1MjUwNyA0NS4yMDcuMjAxLjE1IiwiYWRkIjoiNDUuMjA3LjIwMS4xNSIsInBvcnQiOjM0NjI1LCJpZCI6IjM1NTEwZGY0LTk4OTktNDQyNy1lODI2LWQwMDVmMGFhYmM2YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://Aimer@38.60.109.124:52782?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 38.60.109.124
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.60.91.60:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - FD-298-8796 ┇ 38.60.91.60
-trojan://Aimer@154.19.241.230:10000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 154.19.241.230
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkQtMjk4LTg3OTYgXHUyNTA3IDE1NC4yMDEuNzYuMTcyIiwiYWRkIjoiMTU0LjIwMS43Ni4xNzIiLCJwb3J0IjoyMDUyMSwiaWQiOiI0OTZjZWM3MS1hMGZkLTRmMjUtYmJhMS1jYmE5ZTlkNWE1MmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
 trojan://Aimer@23.169.184.125:25526?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 23.169.184.125
-trojan://Aimer@23.169.184.28:13800?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 23.169.184.28
-vless://c52e1fc2-5201-4cd1-900e-b97bda12639d@45.205.25.42:54327?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=QnstTnhlVpg2jE7yQva2zDyvZpo6QNbc_W459OTB914#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 45.205.25.42
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZELTI5OC04Nzk2IFx1MjUwNyAxNTQuMjE5LjEyMC41NyIsImFkZCI6IjE1NC4yMTkuMTIwLjU3IiwicG9ydCI6NDIzODMsImlkIjoiYzEwOTBjODQtNzkxMC00M2UwLWY2YzgtMGIzODkxODgxMDg5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-trojan://Aimer@154.23.172.19:11000?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 154.23.172.19
+trojan://Aimer@38.60.109.124:52782?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 38.60.109.124
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkQtMjk4LTg3OTYgXHUyNTA3IDE1NC4yMy4xOTAuMTYyIiwiYWRkIjoiMTU0LjIzLjE5MC4xNjIiLCJwb3J0Ijo0NDMsImlkIjoiYjk5ODQ2NzQtZjc3MS00ZTY3LWExOTgtYzdlNjA3MjBiYTJjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-trojan://v5cafby5-2vkn-zsak-evrn-v54d771nro5m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://puimghr4-k8zv-3hrl-rtfl-eu6pxs8f3top@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://Aimer@23.159.248.195:8443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 23.159.248.195
+trojan://Aimer@154.23.172.19:11000?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 154.23.172.19
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZELTI5OC04Nzk2IFx1MjUwNyAxNTQuMjE5LjEyMC41NyIsImFkZCI6IjE1NC4yMTkuMTIwLjU3IiwicG9ydCI6NDIzODMsImlkIjoiYzEwOTBjODQtNzkxMC00M2UwLWY2YzgtMGIzODkxODgxMDg5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://f25ebe08-6e49-40cf-954a-eb29ec82759a@154.23.163.160:30214?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=LJ5_nw7g-U1MMIEwyYZVi2JrqTmk7Bqrq5b7NCSPhg4#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 154.23.163.160
+trojan://Aimer@23.169.184.28:13800?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 23.169.184.28
+trojan://Aimer@154.19.241.230:10000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 154.19.241.230
+vless://c52e1fc2-5201-4cd1-900e-b97bda12639d@45.205.25.42:54327?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=QnstTnhlVpg2jE7yQva2zDyvZpo6QNbc_W459OTB914#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 45.205.25.42
+vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZELTI5OC04Nzk2IFx1MjUwNyA0NS4yMDcuMjAxLjE1IiwiYWRkIjoiNDUuMjA3LjIwMS4xNSIsInBvcnQiOjM0NjI1LCJpZCI6IjM1NTEwZGY0LTk4OTktNDQyNy1lODI2LWQwMDVmMGFhYmM2YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.60.91.60:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - FD-298-8796 ┇ 38.60.91.60
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkQtMjk4LTg3OTYgXHUyNTA3IDE1NC4yMDEuNzYuMTcyIiwiYWRkIjoiMTU0LjIwMS43Ni4xNzIiLCJwb3J0IjoyMDUyMSwiaWQiOiI0OTZjZWM3MS1hMGZkLTRmMjUtYmJhMS1jYmE5ZTlkNWE1MmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+trojan://u08mmqru-n19k-a2ez-zcls-oqturvdc56f7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9t56i2oj-m553-1qfz-ns4s-4hcujsai57ky@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

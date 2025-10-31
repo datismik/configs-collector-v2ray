@@ -1,6 +1,6 @@
-trojan://oljdzk98-ep6l-2t42-mfqr-ywq2uyic0xsv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://wcadkg5g-nkis-5w7y-m8ok-zrcs0tu2hz9d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cikfyfnb-h6c9-48iw-shki-top9emjpeoec@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://154fbjtn-f2az-43rz-wpqu-m67bsv9jk2h2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://sv0icxnc-d252-hjo6-iac9-ki3bsmsge23m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kez1sfj6-t36y-slxq-u8to-wdyxnf05nr3e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjM0MmExNTQzMmMyNWIz@115.164.114.21:11201#MY 🇲🇾 ┇ SHADOWSOCKS-TCP-NTLS - DiGi Telecommunications Sdn. Bhd. ┇ 115.164.114.21
-trojan://gkq5h8m5-9c35-v9a2-3sqk-q1kfzcssulod@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xdul9tlt-7m0t-69w1-35w7-0au6ijojw7q0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://lvj4ny6d-cp2k-rtva-4dyy-ukto05nqbrko@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0gn44jzl-093b-7nql-c3if-7ldo6qixuhwm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://0jg1b6me-m0zn-pw8v-j4f2-j18g7v1yr12w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://6f38n7ja-qspa-p6jc-psi4-jwpb6x2eyrp1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://w0ilq0vy-xhvs-f6ph-il7c-nbyz4c1s5nq3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://v9ogy85l-8rni-2050-d7m9-2i7l3bfc1s3v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://rb4sqq9w-zgyp-f92t-nlzr-1fkfc4jjcj9a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://entvuwma-znn0-fa13-xptw-w3z8r1b76lyt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.47:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.47
 vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Telecom Armenia OJSC ┇ 178.160.211.182
-trojan://vk3h1m3h-tk1a-05sp-idza-gncna4vpbcvo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g1l16bgk-zbk8-5ovb-0nlk-2repmfvtuc3j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://p3kj4p1r-igi0-zhy6-rwqa-t200nmq4pwfk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ebquqq1s-1rim-yijm-a7mq-tgje9otefwpb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

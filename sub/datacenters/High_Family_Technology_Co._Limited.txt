@@ -1,11 +1,11 @@
-trojan://yhob0dmc-npqx-xk2j-kpg4-wg0t6d2olws5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://rkurg23w-ckws-ox1e-b7uq-x9u5usqnehxb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9zeufz2m-q22o-9plz-per5-psyx53lyrcow@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zg848bou-1gg9-h2bx-r0pu-ona3u5qwk5z4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://cjatfh98-k8ro-n37k-rci4-9qnucwyirvt7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nxacxcra-ixr5-zmcc-704l-jlkmy2ofa58p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSGlnaCBGYW1pbHkgVGVjaG5vbG9neSBDby4sIExpbWl0ZWQgXHUyNTA3IDE1NC4yMDEuODAuMjE0IiwiYWRkIjoiMTU0LjIwMS44MC4yMTQiLCJwb3J0IjoxMTE1OSwiaWQiOiJkOTIwMmZkZC01Njc5LTQzYTctYTkzMy0wZDA3NjA1YmFiM2MiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - High Family Technology Co., Limited ┇ 156.225.22.213
+vless://8a492ba7-8050-4ad6-85a9-40ea7f24027a@156.225.23.208:36200?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=XgjSwb4A053rAKukT4F18SrkeHlBm2Twi58hQjM5PFY#HK 🇭🇰 ┇ VLESS-TCP-RLT - High Family Technology Co., Limited ┇ 156.225.23.208
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSGlnaCBGYW1pbHkgVGVjaG5vbG9neSBDby4sIExpbWl0ZWQgXHUyNTA3IDE1NC4yMDEuNjcuNDAiLCJhZGQiOiIxNTQuMjAxLjY3LjQwIiwicG9ydCI6MjA4NDAsImlkIjoiNmJkZmY5NjktZGM4NS00ZjgzLTkyNDItZGRlYWNiOWQ2ZGYxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@103.106.190.208:34045#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - High Family Technology Co., Limited ┇ 103.106.190.208
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSGlnaCBGYW1pbHkgVGVjaG5vbG9neSBDby4sIExpbWl0ZWQgXHUyNTA3IDE1NC4yMDEuODAuMjE0IiwiYWRkIjoiMTU0LjIwMS44MC4yMTQiLCJwb3J0IjoxMTE1OSwiaWQiOiJkOTIwMmZkZC01Njc5LTQzYTctYTkzMy0wZDA3NjA1YmFiM2MiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vless://8a492ba7-8050-4ad6-85a9-40ea7f24027a@156.225.23.208:36200?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=XgjSwb4A053rAKukT4F18SrkeHlBm2Twi58hQjM5PFY#HK 🇭🇰 ┇ VLESS-TCP-RLT - High Family Technology Co., Limited ┇ 156.225.23.208
-ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - High Family Technology Co., Limited ┇ 156.225.22.213
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSGlnaCBGYW1pbHkgVGVjaG5vbG9neSBDby4sIExpbWl0ZWQgXHUyNTA3IDExMS45Mi4yNDAuMjQzIiwiYWRkIjoiMTExLjkyLjI0MC4yNDMiLCJwb3J0Ijo4MDgwLCJpZCI6ImVmYjc0OGVjLWM5MjEtNDJhMS1hYzllLTFkNTQ4NWQ2YzQ0NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2Rvd25sb2FkIn0
-trojan://0nymhvqd-2qfg-ae3d-kq7d-5p7bvhylks4n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1uh8ad3q-3ye5-pk6o-p2mz-t87gld02gzu9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://cauziymm-5wr6-iddj-zk91-rqj6z9f9epjm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9xnpg5w4-abgw-3sz6-0idg-vvh1h11vzm4f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

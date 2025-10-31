@@ -1,9 +1,9 @@
-trojan://hkjsk3m1-b3b6-uuv3-yo0d-63fllv181zo1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://4h6ejzmm-r1dv-tvk6-mhl4-pace4dp52fne@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e8a4pr17-bmxp-u4zw-hsm2-6yog0gte89vl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6mvgfvkg-v76l-dmhb-sjsu-amwdemd405in@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://x0oq2b77-ty0b-7ovw-wykw-kukcpwsymut8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qqdkwhuc-4ioc-jwp6-zh2t-6zum2xj9phvh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://cf1d29a2-926d-40eb-972e-6e11f7f28d57@my.aparatco.co.uk:2525?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.24.49
 vless://bb86bee3-a627-4312-b038-9261c2972315@185.73.114.139:17048?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 185.73.114.139
 vless://f9781036-3695-4f6e-a247-5dbf0538c42c@5.61.29.226:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.226
 vless://44fc47c2-87cb-4819-94ef-19cc2a934f96@azadnett1.set7.site:35420?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.175
-vless://cf1d29a2-926d-40eb-972e-6e11f7f28d57@my.aparatco.co.uk:2525?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.24.49
-trojan://4wxu3dey-v6wk-gc33-nd6r-wmmkonq3ko7c@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ekyjn2a1-w6sx-shoo-jfgs-gqltkw8etmm4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://u4fsov4l-bspu-j8z2-nch4-d5u9gw664blr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m9r1b5zq-xek7-kwic-mpbo-7stdg0kdb5eg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

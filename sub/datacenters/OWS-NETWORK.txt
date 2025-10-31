@@ -1,8 +1,8 @@
-trojan://tuk3hg5n-kpfo-pllt-o6e8-yurkv854abvt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://knn8e4t6-rz6l-vpvm-vgqt-f98q62dkjzj2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://py1m4js2-930r-z4q3-vy8c-28i72pfiardm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l2kpmmuh-zkng-aaur-ng6a-ul0j7cqqjsq7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://0fbkcg4j-k6mv-giet-u3ml-e9dmdico99lr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hvckxoj7-4j7j-apty-rjbu-55qp8x38jaxa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f7f284e5-0cc8-4441-b1a0-32b4ace6b280@156.253.234.12:443?type=xhttp&security=reality&path=/&sni=myket.ir&fp=chrome&pbk=7Nn2ipA73HTAIvueCOLXTHr1EEREz2lv3g8MkAeiMAc&sid=2c#SC 🇸🇨 ┇ VLESS-XHTTP-RLT - OWS-NETWORK ┇ 156.253.234.12
-vless://f64841cc-90af-4b5e-bd49-8ee5a57d0ff0@156.253.222.47:37826?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - OWS-NETWORK ┇ 156.253.222.47
 vless://ca75e000-ff1a-4117-a4f1-1d5ebe66e2cf@156.253.222.28:443?type=xhttp&security=reality&path=/&sni=myket.ir&fp=chrome&pbk=328tJfiuSwrDEPPIpsiT7C4BUUZNGVxdo2DKam7RmBI&sid=2cecca7813d0c575#SC 🇸🇨 ┇ VLESS-XHTTP-RLT - OWS-NETWORK ┇ 156.253.222.28
-trojan://eatkn2i7-2l8m-9m5r-56ec-dskudhsymf1m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6ehzswh4-u9lv-ml9y-e9t6-vxyr0q8le8is@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://f64841cc-90af-4b5e-bd49-8ee5a57d0ff0@156.253.222.47:37826?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - OWS-NETWORK ┇ 156.253.222.47
+trojan://jzvx4mwr-tp5s-xwia-pcal-3rp9w4tcqkei@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0xjgydzm-rp31-udrr-gcfb-ufghwd1trr50@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

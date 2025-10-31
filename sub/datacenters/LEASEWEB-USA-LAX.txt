@@ -1,9 +1,10 @@
-trojan://k2oxe89t-364w-ruih-yvdr-zqkwkpu5mi4r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://fa7cgeko-a7k5-f2hy-agst-c09nfmdygiiy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dtvjg0ay-aqxx-ar9z-m166-m9i9kpcaadip@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fymh6vuh-lydc-lhop-auc3-3jy0x4ofv549@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://mz1or89c-0vqe-neem-wc09-6m83zh1g4rcy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ovvzec8b-qqj7-8rim-x2gf-e3atunkrypyw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206YmUwY2E1ODItZTg1OS00ODEzLWEzMGUtOGUzNjMxM2ZlYWY1@us01.dns-node.top:45581#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.80.80.18
-ss://YWVzLTEyOC1nY206Njg2MWZjYmMtMWY5NC00ZjVkLTg0ZDUtZTFjZGJhOTkxNTEz@23.80.80.22:45582#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.80.80.22
 vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@23.80.81.249:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.80.81.249
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQi1VU0EtTEFYIFx1MjUwNyAxNzIuMjQxLjIxMy45NiIsImFkZCI6Im96Lm1vb25mcmVlLnRvcCIsInBvcnQiOjQ0MywiaWQiOiI5ZmJiNjEyMi00NmU3LTQxM2ItYjI5ZC03NDllZWY0NDZjOGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6Im96Lm1vb25mcmVlLnRvcCIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoib3oubW9vbmZyZWUudG9wIn0
 vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@23.19.230.88:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.19.230.88
-trojan://fspzc8pq-fyh6-xw3f-nyfs-5x76j02hhhyb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yfss7hlv-y62l-di7j-dtpe-ke6fm2yfaoyn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTEyOC1nY206Njg2MWZjYmMtMWY5NC00ZjVkLTg0ZDUtZTFjZGJhOTkxNTEz@23.80.80.22:45582#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.80.80.22
+trojan://bllqz1fw-3pqs-emfb-dwkd-10cgjol0i4m7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wny8qbfb-dlkb-hod2-hcag-7yf6gndyuf44@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

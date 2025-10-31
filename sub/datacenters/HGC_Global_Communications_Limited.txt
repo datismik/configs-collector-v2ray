@@ -1,10 +1,10 @@
-trojan://i2cszlz6-b3li-csvp-fehg-og7u5951y3pt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://tncmuzcz-rmi9-c3c0-ssmr-6prqhambjn39@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://33x5zmiu-5xoq-sd8h-iu1n-ekoc92e8bio8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206MzMzNDQ0@218.188.154.60:12001#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HGC Global Communications Limited ┇ 218.188.154.60
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSEdDIEdsb2JhbCBDb21tdW5pY2F0aW9ucyBMaW1pdGVkIFx1MjUwNyAyMTAuMy4xNTkuMTUwIiwiYWRkIjoiMjEwLjMuMTU5LjE1MCIsInBvcnQiOjQyNzE3LCJpZCI6ImI1ODAzZDc0LWM2ZjgtNDE1Zi1lMWU2LWViYzllNDI2OWI4NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:43373?sni=hk12.bilibili.com&peer=hk12.bilibili.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HGC Global Communications Limited ┇ 218.190.230.207
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@223.18.129.85:11263?type=ws&security=tls&path=/blue&sni=dd.ylks.xyz#HK 🇭🇰 ┇ VLESS-WS-TLS - HGC Global Communications Limited ┇ 223.18.129.85
+trojan://mhuw3138-u8r8-y5wg-v2xs-xdo9uhjvqkgo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://uwm7qvt7-wdnl-gwlb-fmrc-jna5u7vajs9s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xrf6khjc-1ldw-js66-837w-cf8l0keg3ie6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@210.0.158.220:28443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HGC Global Communications Limited ┇ 210.0.158.220
-trojan://yyzcbdhr-hb2w-k5es-472y-wikx6mx3g8tr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://04t5legy-pb5r-3rqy-ufsx-xxeotqj8j9fu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTI1Ni1nY206MzMzNDQ0@218.188.154.60:12001#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HGC Global Communications Limited ┇ 218.188.154.60
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@223.18.129.85:11263?type=ws&security=tls&path=/blue&sni=dd.ylks.xyz#HK 🇭🇰 ┇ VLESS-WS-TLS - HGC Global Communications Limited ┇ 223.18.129.85
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:43373?sni=hk12.bilibili.com&peer=hk12.bilibili.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - HGC Global Communications Limited ┇ 218.190.230.207
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSEdDIEdsb2JhbCBDb21tdW5pY2F0aW9ucyBMaW1pdGVkIFx1MjUwNyAyMTAuMy4xNTkuMTUwIiwiYWRkIjoiMjEwLjMuMTU5LjE1MCIsInBvcnQiOjQyNzE3LCJpZCI6ImI1ODAzZDc0LWM2ZjgtNDE1Zi1lMWU2LWViYzllNDI2OWI4NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+trojan://yzoq46d2-cc0y-c2id-11uj-ifj3lm64tilk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p66k6kbb-y6m6-oog9-man7-h191tffoqmc5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

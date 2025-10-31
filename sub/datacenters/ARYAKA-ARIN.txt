@@ -1,9 +1,9 @@
-trojan://yegao64o-uigb-ea2s-sla8-b05bkioyxhmp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://jsbacga3-izgv-4h0o-bten-2pcyokot7ba3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hupvse4o-ugo3-52aw-4txr-cyhoudhi827k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUllBS0EtQVJJTiBcdTI1MDcgMTU5LjEwMC4yMDYuODgiLCJhZGQiOiIxNTkuMTAwLjIwNi44OCIsInBvcnQiOjQ0MywiaWQiOiIwNzY0YTU5OC04MmM0LTRiNDEtYmExMC01NTFhNjI1YmVlZDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9zc2hvY2VhbiIsInRscyI6InRscyJ9
+trojan://xfe9bke1-o3um-6pif-rabg-305lec0joef8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://w8t65ogn-jhaa-6n4s-d0ns-om91kuf78evp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9tzu93lo-w459-xp49-l1le-7ketfa04zbqi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@147.75.225.105:443?type=ws&security=tls&path=/freecodes/&sni=gaosir.unfeeling.sbs#KR 🇰🇷 ┇ VLESS-WS-TLS - ARYAKA-ARIN ┇ 147.75.225.105
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUllBS0EtQVJJTiBcdTI1MDcgMTY3LjE3OS4zMi41MyIsImFkZCI6IjE2Ny4xNzkuMzIuNTMiLCJwb3J0Ijo0NDMsImlkIjoiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcmF5IiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUllBS0EtQVJJTiBcdTI1MDcgMTU5LjEwMC4yMDYuODgiLCJhZGQiOiIxNTkuMTAwLjIwNi44OCIsInBvcnQiOjQ0MywiaWQiOiIwNzY0YTU5OC04MmM0LTRiNDEtYmExMC01NTFhNjI1YmVlZDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9zc2hvY2VhbiIsInRscyI6InRscyJ9
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#IL 🇮🇱 ┇ VLESS-WS-NTLS - ARYAKA-ARIN ┇ 192.158.242.133
-trojan://3k43jtmg-sm4g-z59l-1kc3-950qxo57ldh0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6ys0gzg2-bkse-j0kg-ii5n-kwkwtk0zg2ms@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUllBS0EtQVJJTiBcdTI1MDcgMTY3LjE3OS4zMi41MyIsImFkZCI6IjE2Ny4xNzkuMzIuNTMiLCJwb3J0Ijo0NDMsImlkIjoiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcmF5IiwidGxzIjoidGxzIn0
+trojan://je435fvy-tk4g-tqc2-jtst-0lj7vosk67t3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rsyfth9a-npv9-a4ev-o0uk-kv9x8xt9i0vl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

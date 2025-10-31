@@ -1,8 +1,8 @@
-trojan://e46fwzxo-shdu-2fud-lkxq-rjbom5sfxi7y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 12:43 ]
-trojan://p5es3n2g-hkv1-m9pq-chyl-sl1x7e6025pc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mdqjlhsk-r19k-momg-mxf1-ox7zwlhmhxv3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@145.14.131.99:990#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Data Miners S.A. Racknation.cr ┇ 145.14.131.99
+trojan://ltv6p33w-kdyx-1o6m-dkrp-c2emvrqskz2e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 14:02 ]
+trojan://gra4oojm-2yfc-8451-g0ea-0vgyftsa3f4c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://79t2libj-tyxp-ot8b-4ydr-tspnvs2a8ev8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.59.16.146:989#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Data Miners S.A. Racknation.cr ┇ 138.59.16.146
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Data Miners S.A. Racknation.cr ┇ 145.14.131.37
-trojan://2cfz09b8-5l8z-9ekv-zmoj-lwjjjnehpp5h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://02pkzmw8-1yo1-y4yy-mbju-orntsezhjzs1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@145.14.131.99:990#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Data Miners S.A. Racknation.cr ┇ 145.14.131.99
+trojan://xhdo9kgs-gk5b-awfv-xnjy-urqepu41b619@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3jimhgog-dspd-9twv-ryx8-tdi2cuevceea@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
