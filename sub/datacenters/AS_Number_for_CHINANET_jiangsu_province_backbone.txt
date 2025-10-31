@@ -1,7 +1,7 @@
-trojan://y1ixq2u6-j5c0-d2pi-jwc9-61960f8ezz6t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://2ogj5xmb-ol3c-frs7-2b1x-88mmlo2emqfq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8fctynun-vyp3-l3e3-7cb4-ih5z3l9u9mcs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://25bs8gko-vzsf-o1pz-kyge-f8ef9s4y8g60@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://4vfqpq5i-qb9l-xtrz-tn6p-9876e9actxw8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n5abb9qc-nmnh-6762-f1d4-um6au3eu0vis@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NmVkYzdkNC03NDkwLTQ4ZmYtOTljYy00OTZiMGY0YTI3ZTk@ss.miloli.cc:19240#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.45.155
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WVRjM01qZzRZamd0TTJFeFlpMDBaakZoTFdGbU5HVXRaRGN5TVdOallqa3lNamsz@sx.75886993.xyz:41681#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - AS Number for CHINANET jiangsu province backbone ┇ 103.37.44.67
-trojan://k410ebh7-yse9-8yvo-pk8m-jcpzhwzvyp5u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s9kd2bh1-p1um-nmob-hl88-6556m4avv6hj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0h5vdje2-yous-yjkw-aukd-zgtg3iccvc8n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bg57sy34-625h-gv0h-aeqj-421kwnypsu88@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

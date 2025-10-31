@@ -1,8 +1,8 @@
-trojan://8ylgc8lw-7pk6-bz8j-oi7h-l2zy533w9eei@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://o4z1eact-jy4o-p27f-dmw6-r3m4jnc9ujaq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rwposdg3-5n8r-2o6w-2rjr-uegnxou636n9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ@tur.fastsoonlink.com:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - ibrahim tufek ┇ 185.255.94.128
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@93.115.10.213:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - ibrahim tufek ┇ 93.115.10.213
+trojan://ja70lbap-izzx-6pcf-6ggb-osxrlfytb86f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://qvx3te5b-xgmb-4awt-fc07-glakodrdbgn0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xc69oqoj-dbsn-5ia1-p9qg-xcv035aat2ck@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gaWJyYWhpbSB0dWZlayBcdTI1MDcgMTg1LjkzLjY5LjYiLCJhZGQiOiIxODUuOTMuNjkuNiIsInBvcnQiOjg0NDMsImlkIjoiZWMxNjEwMTktODUzNS00MzA3LWI1ZTAtMDMzODljYWM1YTc3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
-trojan://zer39opk-hwbf-jtbs-l0is-vrf3yas5xbz2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://i9o7tqtv-fhwf-lyg1-yykx-k5zr1xhdrip5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@93.115.10.213:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - ibrahim tufek ┇ 93.115.10.213
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ@tur.fastsoonlink.com:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - ibrahim tufek ┇ 185.255.94.128
+trojan://bvyc2trv-2yn0-kwjh-uqku-y1fspe434xeb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://alzcrpjd-e1vd-dvwx-wm4k-u6dw05euva44@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

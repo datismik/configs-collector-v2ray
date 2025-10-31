@@ -1,9 +1,9 @@
-trojan://ntky5uka-a66r-u9ex-h9nf-frcy842ai1fk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://o53nfi5h-nf9n-18j4-6rq7-24dhjz8iamk7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://j8fe0oor-pkr2-08am-rgl0-h937pbhir594@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://695ei08h-porp-rnlh-4v1n-jsw6jzhs9kw4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://o4vyf645-4rtf-gkx8-lo2f-4nv48h8u64cu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://il7yltww-8i2u-ms8v-tkmw-5vgaxntq0crr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.112:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.112
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.111:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.111
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.110
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.109:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.109
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.111:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Layerstack Limited ┇ 103.211.32.111
-trojan://vgli3fw8-q9rt-9chn-4rgy-tyc24kmnfttu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2b6ek590-423i-77mn-fb8x-9qp7czoxsl8f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0n3es5ao-j4bg-3wt8-zc6e-fab6gv9ewp8o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gv9phz2r-1i0c-3du9-n8xv-y2tus6pe6qpo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://uemqx4p0-6auu-6fao-jash-ghcypkzv2b67@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://iu1hfb7h-jjs0-mzgw-x6vx-4vxfaevud2hl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kanq5ry2-sdfg-dj2z-bxrm-a4huo0qzz9ig@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGFkZWggR29zdGFyIFNpbmEgU2hpcmF6IFBMQyBcdTI1MDcgMTg4LjIxMi45Ni4yMzUiLCJhZGQiOiIxODguMjEyLjk2LjIzNSIsInBvcnQiOjIwNTIxLCJpZCI6IjlmZTI4ZDEyLThjZjEtNDc4ZC1iNGQ0LWUzOGM1MjEyMzU0YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
+trojan://9uzfodtp-aiek-1j5q-z318-pnc7uf8ilamp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://t84ymr4h-g2qq-2m1g-c0as-2s059u5bgwmv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8w43ykr5-iy5b-4xu3-z60r-6fnzlnhd9vb0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://46153d1a-ebe7-4218-9155-19618285a286@188.212.96.165:1720?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.165
-trojan://0srveiot-btu5-9x36-9kj8-zmfk0slvz4oh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2fz7sbfz-uszn-92eh-3ypt-gr99gwuaqaui@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGFkZWggR29zdGFyIFNpbmEgU2hpcmF6IFBMQyBcdTI1MDcgMTg4LjIxMi45Ni4yMzUiLCJhZGQiOiIxODguMjEyLjk2LjIzNSIsInBvcnQiOjIwNTIxLCJpZCI6IjlmZTI4ZDEyLThjZjEtNDc4ZC1iNGQ0LWUzOGM1MjEyMzU0YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
+trojan://vcrfetra-og4f-2bcz-m65f-fx2ii8fq1pve@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xwpbelg9-jd8s-hwdy-6hk2-qdz7shzbwi2t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://9vcf3e7v-t7mi-umhx-9kfc-4k20ppn160f1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://d2fnanka-950p-oudl-0xg2-2tbhvgjpj9t6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vw2nvx6m-orhq-ppg5-6pf6-8x2vwgk3qazm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ykhc10e7-njqg-bcik-0n3c-kg8fnx1t4s1g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://39am5rot-nha6-dz9l-25go-s3c3z1nk3t0f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cmrjijqu-8m92-2f9k-671j-rfzm82r34133@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b0149cba-533b-47bd-b8ac-4053b5d6bb06@5litva.youtuber-vpn.win:11592?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=aoUiKPJt0zqUiKVto7zzcoZDJAdBUC3lo_Z_3TGItww&sid=93f9d91296bb334c#LT 🇱🇹 ┇ VLESS-TCP-RLT - UAB Baltnetos komunikacijos ┇ 181.214.147.36
-trojan://27w1g1hc-gx9s-q1bw-65dc-z1bj5eyiyi8z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6lub0pon-nloj-img8-7ox0-zh4dhkff65a6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://qqckok5p-ej0s-3fb6-q4td-qh4goxbwcvid@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7yjclmr2-44f1-qzse-y726-3vgnia4qqo96@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://r4lylcqg-6rc3-1ew2-cizw-bvriztx5bzgj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://dgbe9q1g-4c7l-hgj9-b0r3-r22scj2h36fy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://v8pquoim-q6e1-8y42-a5zk-r5qt4qwl7io4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0hPQ0stMSBcdTI1MDcgMTA3LjE2MS41MC40MiIsImFkZCI6IjEwNy4xNjEuNTAuNDIiLCJwb3J0IjoyMjQwMSwiaWQiOiJkMDY0ZDExYi00NzdjLTRjNWQtYTJkOC05ZmQ1OTllZjhlNzkiLCJhaWQiOjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+trojan://xo0f936i-g4fm-dqbm-hwe8-w96tlw7jgd91@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://py23ttv3-vdfc-wdes-ea5n-nfwf3t30ua9z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mqdr7sik-ujcs-xsiw-lopc-xfmlpyu6b945@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0hPQ0stMSBcdTI1MDcgMTQ2LjcxLjgzLjgzIiwiYWRkIjoiMTQ2LjcxLjgzLjgzIiwicG9ydCI6Mzk1MDYsImlkIjoiZjg5MjRlNmUtYzczOC00NTMyLWI3NjYtZGUxMTVjMzQ2Y2U0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
-trojan://oe6yun7t-3vgq-ilrc-2w6r-4aagzvnekz75@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://48dd1vo2-lcuy-ed4w-0d5o-lucewi9bspnb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0hPQ0stMSBcdTI1MDcgMTA3LjE2MS41MC40MiIsImFkZCI6IjEwNy4xNjEuNTAuNDIiLCJwb3J0IjoyMjQwMSwiaWQiOiJkMDY0ZDExYi00NzdjLTRjNWQtYTJkOC05ZmQ1OTllZjhlNzkiLCJhaWQiOjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+trojan://l3ytv2mp-sk3o-ejmj-6d5z-gqg4nsqfotim@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ug91g2fi-mvn4-2ms9-vcad-ca78f4tbvp3f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

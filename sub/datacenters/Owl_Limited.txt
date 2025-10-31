@@ -1,8 +1,8 @@
-trojan://1hunfuhe-y380-1ub2-m50r-yttpvqv2yomf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://m536xgcc-t6xi-8dx3-gh09-pv9ttgpobepk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kes898jy-47qw-2qgo-dkfc-6i3q58k3sde8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bgn3pd2v-tqmu-yfth-93ji-b8min43oktkk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://o28q1r3p-fvue-ifyt-5nqc-1tlnlghnz95a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5y204fda-j0w9-mssc-0qhd-7gcabi3w8s1a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.130.20.40:1001?type=ws&security=none&path=/?ed=2560security=tls&sni=a.mifeng.us.kg#NL 🇳🇱 ┇ VLESS-WS-NTLS - Owl Limited ┇ 45.130.20.40
-trojan://Aimer@45.147.50.154:443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Owl Limited ┇ 45.147.50.154
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT3dsIExpbWl0ZWQgXHUyNTA3IDQ1LjEzMC4yMy4zNSIsImFkZCI6IjQ1LjEzMC4yMy4zNSIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
-trojan://y63d67c5-d5ks-d4pr-tsbt-et424ve0pl29@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jmz9k353-0b83-h7al-12v7-25dgfvaxepew@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://Aimer@45.147.50.154:443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Owl Limited ┇ 45.147.50.154
+trojan://6floqrvk-m7zh-6ia1-0sba-o58kgwab935k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tnh1or6f-u0dh-lo2k-98bn-zclic6dej8m9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

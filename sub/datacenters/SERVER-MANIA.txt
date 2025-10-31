@@ -1,9 +1,9 @@
-trojan://8xdjg78m-mg2h-hjxy-yzgp-6pe6fbek2lev@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://ca581y59-yw1g-pux0-pt08-d5mvhr5tr2nz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ma86v7t0-tp5h-lgix-k7se-ywa5r53yr5hw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bi9uj7zg-5s9m-cnrj-nl4h-8qxiyt05v3ht@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://odeowa06-i8h1-qwgc-sfa7-bsmgo55jtej7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://984paf6t-mjk6-0ezb-6y2r-i8kpezo3gg41@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://8b3f5838-7129-4b8e-9ced-35c2940ca8bc@209.127.253.154:28957?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - SERVER-MANIA ┇ 209.127.253.154
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTRVJWRVItTUFOSUEgXHUyNTA3IDE5Mi4xODYuMTI5LjY2IiwiYWRkIjoiMTkyLjE4Ni4xMjkuNjYiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ1c2EtYnVmZmFsby5sdnVmdC5jb20iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoidXNhLWJ1ZmZhbG8ubHZ1ZnQuY29tIn0
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?type=tcp&security=reality&sni=www.pottermore.com&fp=chrome&flow=xtls-rprx-vision&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&sid=75#US 🇺🇸 ┇ VLESS-TCP-RLT - SERVER-MANIA ┇ 166.1.227.184
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.141:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - SERVER-MANIA ┇ 192.157.56.141
-trojan://oa09o9w1-oa5d-fwba-3vt9-cgdfq2jrfikk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h5yja33u-2ebr-jx1v-05k7-wc2tdi9j5psv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://2ctiple6-sbkj-bck3-4kxy-3r5ykfnlj3km@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jk4kcdds-dv0j-xc7g-l0lu-aomhdekzqzt6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

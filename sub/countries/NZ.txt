@@ -1,10 +1,10 @@
-trojan://jsyqzdxh-wufg-ta43-zlcw-qtmrgtlybcot@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://zp0i19h1-88h6-8a39-n0rz-pq7mka7y0gh4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sfw8k3zc-78jj-3je2-obge-u9s7q8rfp2lr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://v0qykp5o-drwe-7o2z-r0y2-sgvolnvhirky@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://1l547xvu-vm9n-lt1f-90ay-n2pfnzkm44a4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ibpb3ccb-vv5j-x9gm-u6v8-ux7ur0gi0vx7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTlogXHVkODNjXHVkZGYzXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1JQ1JPU09GVC1DT1JQLU1TTi1BUy1CTE9DSyBcdTI1MDcgMTcyLjIwNC44LjEwIiwiYWRkIjoiMTcyLjIwNC44LjEwIiwicG9ydCI6NTUwLCJpZCI6IjgxYmJjYTcwLWEzNWYtNDg3ZS04OGE0LThiZDU4NTZiMTBhNSIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6InRjcCJ9
-vless://b327d2bf-a1d4-530f-bf85-5f7033483334@ee1.xvless.online:80?type=httpupgrade&security=none&path=/httpupgrade#NZ 🇳🇿 ┇ VLESS-HTTPUPGRADE-NTLS - EGIHOSTING ┇ 23.230.179.92
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#NZ 🇳🇿 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.140.38
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@114.129.43.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#NZ 🇳🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 114.129.43.251
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#NZ 🇳🇿 ┇ TROJAN-TCP-TLS - Ministry of Education ┇ 202.37.33.80
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#NZ 🇳🇿 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.15.140.38
-trojan://ru6p1hbd-qcvl-1s4u-e8h6-ldfmodui21pe@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hydjezwk-joc2-24dv-hpj0-6fszxr49dody@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://b327d2bf-a1d4-530f-bf85-5f7033483334@ee1.xvless.online:80?type=httpupgrade&security=none&path=/httpupgrade#NZ 🇳🇿 ┇ VLESS-HTTPUPGRADE-NTLS - EGIHOSTING ┇ 23.230.179.92
+trojan://2wugvqc7-a17w-8rtd-uny8-6ju5o3fczoyh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3txjotel-hwa3-y7x1-v2rg-2dpsruzbpi78@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

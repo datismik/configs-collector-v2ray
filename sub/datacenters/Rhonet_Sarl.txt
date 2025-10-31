@@ -1,6 +1,6 @@
-trojan://0zwo6ajy-8nhu-gwrt-5rgl-7li7z7mnc6or@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://fnjaevhd-3k8t-oq12-zr9k-zejc4ns1x49b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hrjkrpdx-8bjd-a2gm-fnme-84vwodboo5mu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l9uyh7x9-hrxu-p975-smwi-usnt5fubodw8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ixtn31df-hfyr-li3l-rxrl-1ed794fq6niq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://an0f44m5-nc8l-y337-24fc-hgio5y7k11uc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@45.90.96.19:443?type=xhttp&security=tls&path=/ln2ray&sni=media.sanaiegh.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-XHTTP-TLS - Rhonet Sarl ┇ 45.90.96.19
-trojan://6bqaxf6f-4he6-rbo4-rxpi-652gc1ys9jiq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0ka0gl7k-tlwt-57k4-lcwe-6be5p1hvv96e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3bf8wb51-miz1-vuvh-6d86-yyjae27kmgcz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dx3v6r1v-lxjl-0hww-t3jx-aiou3lvgoxxm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

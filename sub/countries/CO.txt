@@ -1,10 +1,10 @@
-trojan://dhonmpjq-okp5-zgjk-tl5p-osyp0cvhbhth@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://ar1nlqs3-6vwq-1kdv-8uzk-e9vn4kfbxl42@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lgrphmvm-vp2w-va2m-yfa9-4ypksw7watss@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f8v3wpvo-3r3z-a2pc-6e3o-mmvtc7w0a9d0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://naooiu2e-mqci-0hyu-rdcn-wlhsvuycty1p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://shfyu0cs-b9bk-ps93-vbre-38m7s1391i6g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206NkJENFRaNVcxUzhPV0FVOA@91.148.134.106:20005#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 91.148.134.106
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@169.150.228.24:8443?type=tcp&security=tls&sni=bog-co-01.fromblancwithlove.com#CO 🇨🇴 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 169.150.228.24
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.16.212:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.223.16.212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - IFX18747 ┇ 181.119.30.20
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.231.45
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@169.150.228.24:8443?type=tcp&security=tls&sni=bog-co-01.fromblancwithlove.com#CO 🇨🇴 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 169.150.228.24
-trojan://l1laxhrv-msat-0kwh-uefw-r801hl82e6dg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1995nba8-w25n-fzbq-p4v4-ohpa3l3iwmro@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://mylubnaw-bt1y-lbc7-vfaf-ybh1kkhmv7lh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7k3hedkf-171e-4ehf-rjsq-8i6atw0vcmjb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

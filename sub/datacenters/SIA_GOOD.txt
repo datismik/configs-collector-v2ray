@@ -1,22 +1,23 @@
-trojan://rih4ky6q-iyb0-7hmg-7tfr-1ocj7liut4fk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://u7j0wl3j-oc1d-7sqo-x55i-20jz6a2aqw68@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4v2o59a3-cmtk-wccl-oq4f-3vh951ajyn7g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wqu8jxxd-q704-17ld-p98b-bco3vqw1wgxv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ofxbwzrq-2nrc-f440-rdf6-evalevaxribg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5qhqmi5q-l8oa-j0uy-5e9j-wqyb7tdsnrez@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@77.83.245.220:8080?type=tcp&security=reality&sni=yandex.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#PL 🇵🇱 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 77.83.245.220
 vless://882b695d-af12-4dba-b653-a8366624a315@185.100.159.28:49682?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 185.100.159.28
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXV21GZDlNQ3NkWWo@77.83.245.172:443#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - SIA GOOD ┇ 77.83.245.172
 vless://cc77a0fd-da60-4736-bee9-2f47666f6181@4.ariyanln.com:5051?type=xhttp&security=none&path=/brand/miscellaneous/#RU 🇷🇺 ┇ VLESS-XHTTP-NTLS - SIA GOOD ┇ 185.168.208.60
-vless://0b23f113-6bd4-42a6-887c-a47381f06f5c@185.100.159.10:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#RU 🇷🇺 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.100.159.10
-vless://f487032e-75d3-4902-9e45-5c5aa3f48e93@lv.staropay.ru:443?type=tcp&security=reality&sni=lv.staropay.ru&fp=chrome&flow=xtls-rprx-vision&pbk=blICa72jn9jcyqu4H0Joso4cAX7lOvSemYCkzxNeRUo&sid=2e7f1ba3a9b0937b#CZ 🇨🇿 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 193.124.254.40
+vless://63007c60-9f4b-4df6-aa01-0d2babe7854c@185.177.238.112:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.177.238.112
+vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@185.75.135.224:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#MX 🇲🇽 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.75.135.224
+vless://85ce09a3-389e-4b1c-9d14-e07378521fdf@deu454.unlocknet.org:443?type=tcp&security=reality&sni=www.df.eu&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#RU 🇷🇺 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.100.159.26
+vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&sid=84ba23f147ad6a56#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.177.238.18
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@77.83.245.223:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=3eGr9c-fUH929mb7yjP5DZJUH56fhkb_RsOp165s4W4&sid=783500cd7f#PL 🇵🇱 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 77.83.245.223
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS2d3cW1uWXdEc1g@77.83.245.192:443#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - SIA GOOD ┇ 77.83.245.192
+vless://0b23f113-6bd4-42a6-887c-a47381f06f5c@185.100.159.10:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#RU 🇷🇺 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.100.159.10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc@77.83.245.50:443#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - SIA GOOD ┇ 77.83.245.50
-vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@fl-copnmay-55548.need9ping.ir:9954?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#MX 🇲🇽 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.75.135.174
-vless://cd382d22-9471-4cae-99d8-a3b23f9eaccb@fast.lucypro.ir:2095?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 77.83.245.129
-vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@185.75.135.224:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#MX 🇲🇽 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.75.135.224
-vless://63007c60-9f4b-4df6-aa01-0d2babe7854c@185.177.238.112:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.177.238.112
-vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&sid=84ba23f147ad6a56#US 🇺🇸 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.177.238.18
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@77.83.245.220:8080?type=tcp&security=reality&sni=yandex.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#PL 🇵🇱 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 77.83.245.220
 vless://0b23f113-6bd4-42a6-887c-a47381f06f5c@deu106.worldunbound.org:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#RU 🇷🇺 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.100.159.248
+vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@fl-copnmay-55548.need9ping.ir:9954?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#MX 🇲🇽 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 185.75.135.174
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc@77.83.245.191:443#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - SIA GOOD ┇ 77.83.245.191
+vless://cd382d22-9471-4cae-99d8-a3b23f9eaccb@fast.lucypro.ir:2095?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 77.83.245.129
+vless://f487032e-75d3-4902-9e45-5c5aa3f48e93@lv.staropay.ru:443?type=tcp&security=reality&sni=lv.staropay.ru&fp=chrome&flow=xtls-rprx-vision&pbk=blICa72jn9jcyqu4H0Joso4cAX7lOvSemYCkzxNeRUo&sid=2e7f1ba3a9b0937b#CZ 🇨🇿 ┇ VLESS-TCP-RLT - SIA GOOD ┇ 193.124.254.40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk@77.83.245.171:443#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - SIA GOOD ┇ 77.83.245.171
-trojan://ani46lzy-t75p-a33p-v8j3-xtqg6rb8ini5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mrrb43kb-s9l7-f06d-umac-y1yqlu44ltwa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://027vj60d-one2-pmcy-r4xg-vsc6hxh178qz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mjsxd2cq-p10f-0ndh-lc5y-q625vav07fu5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

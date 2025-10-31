@@ -1,7 +1,7 @@
-trojan://y487ov1s-znen-45q3-tsth-iuccar09nnvv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://pdieyywz-jcsn-z0o1-cd14-od6o10470o39@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fdb9cqyw-qhis-1b5h-9vf6-7g2wyiawt2n5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ao2ochq8-tq4d-hokb-qd8h-5a5xtm53xhlj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://36qnl8zs-s9bn-7khe-dzzo-cyeezzho0e2e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hkpamdem-4vzm-044r-5csa-ljyr29817wcr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a718fc16-f4da-4546-a8a5-2afe60629c41@109.122.242.218:2086?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Avini cultural and Art Institute ┇ 109.122.242.218
 vless://497798a0-5661-ae2c-226a-19ae60d21269@lavin2.stevejobs-net.com:39044?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Avini cultural and Art Institute ┇ 109.122.242.178
-trojan://gyxbqq5n-sbxv-vvjh-52eo-3kx35czuiui6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3c1iz4uw-zpog-k1kx-dh83-x36ppzzoszwm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://r8cyszxg-x0k4-nssm-3nev-ibk8run072mp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://840602ax-6xax-xd5p-xnbb-vw8mqna06v0c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

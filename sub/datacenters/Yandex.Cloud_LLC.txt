@@ -1,7 +1,7 @@
-trojan://k98ohvk6-msyk-oobl-cuei-wxdnkuj1l1ud@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://0b88woq7-rdhd-pith-ct62-r02a0l6iichl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://37baoq23-uiqw-pj39-kgml-35gsve0ayztx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://u7a43uls-80kb-xj45-jyrm-dt0akuium9nd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ax5gp1dn-2arw-hr0s-18in-dpr37z69d0g5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://opoqntrm-7161-n9jn-4w5d-zoh3ug2des44@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.169.160.84:2053?type=ws&security=tls&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&sni=kejiland.freewarp.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Yandex.Cloud LLC ┇ 89.169.160.84
 vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc&sid=738a824c0bdf#RU 🇷🇺 ┇ VLESS-TCP-RLT - Yandex.Cloud LLC ┇ 158.160.131.112
-trojan://q2qt2jws-skel-yndu-nlgg-nzjp83y3wulb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dbr0oqsh-spkx-95uz-uky2-fox29a6s5kc0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://i1hehgaz-mzsk-gbqd-cvvx-ynaxm2ycj0gx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hr7wg2c7-9sqw-r0q8-puy6-5j4m0ddt9088@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://g0c42ksm-j51a-ulck-43w3-fm3gke11dit7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://9yienq27-et42-lvhr-48a0-5h3rvofwy3h8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h4hayjb2-hrlr-2vxb-c959-rrdubsv8kt2d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://y410pjx4-tjt6-mn1c-cyhu-rlzpj2ehhkwl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://dmrez4n3-2pc9-zluo-42mk-gifx6966hzo0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pwrck5m7-6ur2-p980-bgwb-xdhroyopkan6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206ZHBHakE0R2t6VjI4UVBEWXpFcDk0Y1Rl@180.149.228.179:49514#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Host Universal Pty Ltd ┇ 180.149.228.179
-trojan://dbunlq3c-bjha-8fos-f4cx-ri3cmxwyp539@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://koa7801n-pn4l-nt4y-5kc5-0qysvgb334qx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://7pgchc6r-nb8o-k44j-2vfv-6qbatsuxvqpz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dstvj112-v4yb-sc37-ccex-rov9ajt34i6x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

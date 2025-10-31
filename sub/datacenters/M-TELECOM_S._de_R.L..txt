@@ -1,6 +1,6 @@
-trojan://cdi16g1q-946w-r057-zdv9-ggh0w2y1t0cf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://d9lg7kts-ossg-gvcl-4aew-tflqszmj77c7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1k03960x-gttd-bzy1-lclv-5dmscjfvf6r8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mlcbn2t1-v8dq-kpvd-hmtp-54lvnnkyflw0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://kwosdivf-vxaw-1b5v-nr19-yn1665zr1owy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7gbqvqkh-0iz4-aqrs-usjt-q9apv7pr22gl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ce87782b-0306-a4ad-b26e-ae17462675c9@gr3.mehdikarimi3.ir:20199?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=KUgSYSMa6KCrBMYx81yuM1cC02QyQmmIMj6-_1atgQ0&sid=32aaf12b#US 🇺🇸 ┇ VLESS-TCP-RLT - M-TELECOM S. de R.L. ┇ 23.189.104.151
-trojan://x86dan5f-q1x8-gxps-78w1-ozmytueu6lpo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8ofoiq5n-70ya-0m4j-zm7f-v1458ad4y9dx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://zau4vu45-e60v-s6sf-kbge-1rsjh7mtk6hx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://aoqj91yo-osqr-vqxz-le4z-yxihq0s3jch5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

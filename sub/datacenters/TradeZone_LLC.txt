@@ -1,6 +1,6 @@
-trojan://161exogb-tlaz-s6ce-h2hh-3b79by5iqar2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://t5vuyat8-mqqw-k0b6-d9p8-unxg1reqzlbl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jc1r79rn-97ag-dwv3-isuo-3lcbvk561lui@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://czhzox2s-uezq-1g5m-9pqi-js8sjg3xsy1r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://z95rup0e-cdx1-gbue-zavm-9pfm4gxspist@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kp65v072-laf1-8zhv-zbn9-dwx2ck5o9d9d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://8e3c6679-5955-4e18-b25b-c29c718190a4@194.135.119.162:34909?type=ws&security=none&path=/اینستا#GE 🇬🇪 ┇ VLESS-WS-NTLS - TradeZone LLC ┇ 194.135.119.162
-trojan://1roxbfmg-ssuf-v8fn-jlpk-1db6t9j5de2l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nxt6t553-a050-a5u4-rj9k-6s2411fxn2nf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://s70ne2og-8v0y-kjx5-4obl-i4w9gac3biiu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://owrcjlny-h03y-gyci-o40w-sb7dig930fxq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

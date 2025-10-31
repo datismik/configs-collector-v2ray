@@ -1,9 +1,9 @@
-trojan://j1w0dls8-e9d3-owx8-czjg-ij5d9ywqj80f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://3ao4jo3w-fqzg-10ml-9ano-rygn8kpncw3f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pnk2ppst-wbkd-tjdx-mged-j62ea5smm7xa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lgiea3hl-el9n-9v3v-olsh-m92ks072t1y9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ce79jxwt-79gq-c77m-ugsx-fyb6wcx8ents@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8av8dgup-wtnx-4uht-4ugp-7nq94y26y5be@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 203.23.128.33
-trojan://ttfang@192.131.142.161:46639?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LEASEWEB HONG KONG LIMITED ┇ 192.131.142.161
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@43.249.36.70:443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 43.249.36.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdDMxS1lZQ0NBVUJ3dTA5UXdHOWZsUEJJdVA5akE2Vlhuak44U3RLVGtnYzQ1bnk@203.23.128.79:51348#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 203.23.128.79
-trojan://0dxboo2p-8oyo-mes1-vtcv-m4laq51iitq4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6sm0djfo-0hck-edyo-yx8t-3h6rt4r8plh2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@43.249.36.70:443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 43.249.36.70
+trojan://ttfang@192.131.142.161:46639?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LEASEWEB HONG KONG LIMITED ┇ 192.131.142.161
+trojan://u1ctt0cz-q4h0-5fg5-4mbc-aj87h4rnxb16@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://76r75936-s96x-6l3b-xqjw-9ty4ovkxsj6q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

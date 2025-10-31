@@ -1,11 +1,11 @@
-trojan://egvwicth-jv10-dgv7-o75w-y9usdq2ahcso@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://wvqcs1w1-2544-16p3-tdml-dmy1wws3c78n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7q2edqva-dwag-kqc7-1pg8-ap436mpizdl2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sgtqkfxf-92a4-voi8-ehu6-2oabbhn469rx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://6qztcj6l-yj35-7cwn-g4m6-9d6zigxonpa7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2o3lz6no-dqg1-mep5-yedo-8djkx7o4lnce@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.236.36.136
-vless://d786cf95-6203-46aa-bdc1-87a7c1db03fc@server2.lebon-network.com:21224?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.128.40.19
-vless://cbea02f4-e0dd-4e76-b7e8-b0a20752c171@node3.helishot.info:9050?type=ws&security=none&path=/translator?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sindad Network Technology PJSC ┇ 185.128.40.24
-vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?type=tcp&security=tls&sni=cdn2.azkhaktakhane.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Sindad Network Technology PJSC ┇ 185.236.37.23
-vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn28.saloonak.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.236.36.135
+vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn26.saloonak.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.236.36.135
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@185.236.36.134:8443?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.236.36.134
-trojan://1siodzqw-st6z-25h2-zuun-lsdkz8knmi7p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wg16esir-atp8-2mfh-wj4l-wwzbwan2vlnf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?type=tcp&security=tls&sni=cdn2.azkhaktakhane.ir&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Sindad Network Technology PJSC ┇ 185.236.37.23
+vless://cbea02f4-e0dd-4e76-b7e8-b0a20752c171@node3.helishot.info:9050?type=ws&security=none&path=/translator?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Sindad Network Technology PJSC ┇ 185.128.40.24
+vless://d786cf95-6203-46aa-bdc1-87a7c1db03fc@server2.lebon-network.com:21224?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sindad Network Technology PJSC ┇ 185.128.40.19
+trojan://mv4al0x8-erdz-8g1y-3e30-cdihb1b5ce5t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y4tk7dit-o7yb-r17s-h6fn-owupvyfv9inx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

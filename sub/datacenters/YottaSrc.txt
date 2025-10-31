@@ -1,12 +1,13 @@
-trojan://gzhxgkxp-4x5t-yqr5-qddk-6u7p67onoici@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://6ewot892-h9tu-ms7d-5a9l-z58mhd5bxxft@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qp81qmjj-tm2v-3dgj-q2kg-4w6maar17ozz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gWW90dGFTcmMgXHUyNTA3IDQ1LjY3LjEzOS4yMjUiLCJhZGQiOiI0NS42Ny4xMzkuMjI1IiwicG9ydCI6MjAwODYsImlkIjoiZDM5MjgzMzAtNDA1MC00N2Y2LTlkMWMtZGYxZmQ4MDFjNTY4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://cd382d22-9471-4cae-99d8-a3b23f9eaccb@frankfurtmain.mamadgholi.com.co:2095?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.13.226.62
+trojan://15kc6wgo-dvmd-o47p-748n-tnwsvt7c0sl4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://7m15we1l-x1ho-nd5u-nked-ccfqf4szn8bo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lc7n682g-9os3-iayu-o3af-r3g4i9jxob6j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://840dc994-d232-4b71-b133-4f36a874c867@45.13.226.18:29570?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&sid=37#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.13.226.18
-vless://2e562253-f6ac-4123-9648-3d7c944ec279@45.13.226.115:23386?type=tcp&security=reality&sni=lit.dev&fp=chrome&flow=xtls-rprx-vision&pbk=m6uJUaMJ3PHrcV2Rh92ACAcY0R04BNwoUVPcclfh8HY&sid=ff#DE 🇩🇪 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.13.226.115
 vless://45e91c56-0dbd-41a5-a654-287a53fc0ea4@185.117.0.180:8448?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.180
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFlvdHRhU3JjIFx1MjUwNyA0NS4xMy4yMjYuMTE2IiwiYWRkIjoiNDUuMTMuMjI2LjExNiIsInBvcnQiOjEyNDQ5LCJpZCI6ImIxMDUzYTY3LTg4YjktNDU1MC1iNWZiLTgyNjczNWFkYzA0NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@45.67.139.72:52673?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&sid=0a6891#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.67.139.72
-trojan://jj7rgh8d-8kzk-af5u-e87e-2xr42s6vj83a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ndggu6t4-kcs2-bovy-4ywh-t8k0saxsismx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://2e562253-f6ac-4123-9648-3d7c944ec279@45.13.226.115:23386?type=tcp&security=reality&sni=lit.dev&fp=chrome&flow=xtls-rprx-vision&pbk=m6uJUaMJ3PHrcV2Rh92ACAcY0R04BNwoUVPcclfh8HY&sid=ff#DE 🇩🇪 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.13.226.115
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gWW90dGFTcmMgXHUyNTA3IDQ1LjY3LjEzOS4yMjUiLCJhZGQiOiI0NS42Ny4xMzkuMjI1IiwicG9ydCI6MjAwODYsImlkIjoiZDM5MjgzMzAtNDA1MC00N2Y2LTlkMWMtZGYxZmQ4MDFjNTY4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vless://771ab910-7e59-459e-b4fe-468bccda2a42@auto.srv.dznn.net:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=0a6ba2716a409da6#US 🇺🇸 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.92.219.50
+vless://cd382d22-9471-4cae-99d8-a3b23f9eaccb@frankfurtmain.mamadgholi.com.co:2095?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.13.226.62
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFlvdHRhU3JjIFx1MjUwNyA0NS4xMy4yMjYuMTE2IiwiYWRkIjoiNDUuMTMuMjI2LjExNiIsInBvcnQiOjEyNDQ5LCJpZCI6ImIxMDUzYTY3LTg4YjktNDU1MC1iNWZiLTgyNjczNWFkYzA0NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+trojan://ufj626z4-kqof-kovl-i8nu-heh2a44nxabj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jzim6fwy-9mn2-az3x-l7az-spin1cg2nnrl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

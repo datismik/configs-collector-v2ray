@@ -1,9 +1,9 @@
-trojan://efih8ryw-6zih-zc79-sbj0-ms19smda1q2h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://3mf7qvbt-7239-4448-2vo5-nktjmhojl8e5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://oxv6ejm3-w38f-1aek-wq62-2hdqj3idfeqk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESTRUXTURE-QC-10929 ┇ 38.180.211.126
-vless://afe821e2-75a2-4b94-8960-c3f180c24d3e@ca01.pickvpn.live:443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=SfaN19bzY1LdAGU1cIOAW8YU2XaInYxMgonHlC_mTgg#CA 🇨🇦 ┇ VLESS-TCP-RLT - ESTRUXTURE-QC-10929 ┇ 38.180.12.190
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVGlROG5iZ2x5Z1ltWWttVG5oZkoz@38.180.210.53:20402#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESTRUXTURE-QC-10929 ┇ 38.180.210.53
+trojan://actr8yx3-yejp-ooe9-kcrk-ub2k79zsjvu9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://b4689gj6-jo9y-t57m-5sw2-oszvrkkhr1dm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1r6pf1fe-thd3-np0x-4s7v-j3edtxecalp3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gy01.hunheiydd.xyz:45883?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#CA 🇨🇦 ┇ VLESS-TCP-RLT - ESTRUXTURE-QC-10929 ┇ 38.180.210.209
-trojan://b2nm4tq9-1cbq-te07-kiyv-bswqffc9v1gc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://owedqwvp-5fd9-5unq-y4u2-eleade0dbna9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVGlROG5iZ2x5Z1ltWWttVG5oZkoz@38.180.210.53:20402#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESTRUXTURE-QC-10929 ┇ 38.180.210.53
+vless://afe821e2-75a2-4b94-8960-c3f180c24d3e@ca01.pickvpn.live:443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=SfaN19bzY1LdAGU1cIOAW8YU2XaInYxMgonHlC_mTgg#CA 🇨🇦 ┇ VLESS-TCP-RLT - ESTRUXTURE-QC-10929 ┇ 38.180.12.190
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESTRUXTURE-QC-10929 ┇ 38.180.211.126
+trojan://383fkhbg-dpa2-180f-fb2n-dr1pu4rmiwii@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ul3ya1ub-gg0c-ufud-1bp4-kz8p6dr0zb5p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://46l89z67-l2zw-w3hf-3wo6-3ubzluh58m9s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://phkkgnr4-6tww-egwa-8xrk-vtq2n3j6q3jp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://56yaman7-cwm3-nyt8-wwdb-hrvzu5xbjsgo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ff7k05ox-s7ai-3dca-nnpb-x55awii8q95k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://190c8ikf-b12b-gzdb-myil-ot622mhakc4f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://j400m9uq-ar0j-kbwu-2w2e-u3eet91r2x4f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://37e7881f-ff59-4858-83cd-c6b4b03cba4a@64.188.78.60:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=0ZbtEmi2lk_KUh1-w6g08hnSn863LZwj30vSHWS-NCU&sid=ee009b#NL 🇳🇱 ┇ VLESS-TCP-RLT - HURRICANE ┇ 64.188.78.60
 vless://f487032e-75d3-4902-9e45-5c5aa3f48e93@ee.staropay.ru:443?type=tcp&security=reality&sni=ee.staropay.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Cf9qhV2u44BbyI4nHmOrDWLq9qvj12fESTKCqYEAvzg&sid=8c860131f34dacc7#NL 🇳🇱 ┇ VLESS-TCP-RLT - HURRICANE ┇ 64.188.78.131
-trojan://nqzpvsgw-dpag-c6an-ljca-5z5rp35hfvln@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s9qs0gdd-odo8-5mb9-grbr-45xhwl4rfu13@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://9mkatg0t-jjp7-cyb1-fhbd-e0uxv3tn55nf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://htophn9e-khn2-wfg4-kr2h-qlkjj50l8cw6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

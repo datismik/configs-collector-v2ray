@@ -1,6 +1,6 @@
-trojan://gazadacb-4gft-dzgk-5nbo-sa2he7tzf486@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://r5ks617s-an73-r20l-260h-glzvz0r9bjwx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tmhdaftl-yq3r-yxd4-oua7-nm5qcsrbsolj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Zhipinshang Hongkong Electron Communication Technology Limited ┇ 104.251.227.182
-trojan://410u54gr-t6sx-hru1-quo0-0cvysrhe4ifz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e8wq7i4o-qbbg-hfa3-ifqj-ru5reyr4dg3s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://si8llsma-8ij9-jpdr-ncf4-6vc35eb4mmf6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://lxj88os4-gr3o-v411-n8xl-4x4pk2e6hexi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://x2o5zbfa-rio8-v9tx-34t7-p1dt7ke6958i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?sni=hezijiasuqi.com&peer=hezijiasuqi.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Zhipinshang Hongkong Electron Communication Technology Limited ┇ 104.251.227.182
+trojan://digtfa2f-on5h-y5fk-xonr-8n34hm1nqf2i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q5wsvg2n-eh0x-zp7k-pv8p-wvbufxtnrhy8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

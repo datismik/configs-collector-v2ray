@@ -1,13 +1,13 @@
-trojan://04l1q3u3-yq0h-o86k-8pgf-q05hesdj6uzn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://0q9lyyal-zfza-pwe1-0o2p-g5rz6lvgm8up@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nurl8umg-39ow-mv81-3ihb-gor3899lbpvz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f7d55b42-9c71-4e53-ade3-8932dc0fe950@185.4.31.200:22695?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Green Web Samaneh Novin PJSC ┇ 185.4.31.200
-vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 5.182.46.67
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@5.182.46.64:2054?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 5.182.46.64
-vless://23c4700f-06a2-478d-9ca0-9a562bd66e43@tun.v1pdomainsldz.ir:51588?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 185.4.31.135
+trojan://u1xk4ltq-b8zh-ys2w-tgdk-zebrtfgwzqn4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://nx1hetep-6isb-e76c-m5th-dcdwdqiiw8dq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://01pvpccz-qe2q-iww1-7z1m-ymt0txmqscso@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fa46fce9-8fd3-4cf7-a8a8-ab0bde7ea7ea@mci-nl.hxjxjxjxj.info:2089?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 185.4.31.112
-vless://083ed1d8-fd32-4d34-a521-de755e2596fd@ordibehesht.zagrosbot.xyz:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 185.213.167.251
-vless://58f69b21-e3f8-4f5e-976b-d738396ba1a4@185.255.91.90:443?type=ws&security=none&path=/arash#IR 🇮🇷 ┇ VLESS-WS-NTLS - Green Web Samaneh Novin PJSC ┇ 185.255.91.90
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdyZWVuIFdlYiBTYW1hbmVoIE5vdmluIFBKU0MgXHUyNTA3IDYyLjMuNDIuMTk3IiwiYWRkIjoiNjIuMy40Mi4xOTciLCJwb3J0Ijo0MTk0OCwiaWQiOiI2NTBlMTE3Ni00MjdmLTQ4MmMtYjgyOC1kMWEzNmMxZjI1YjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://2d2hgz9t-dfqm-z6il-5bki-xx2g6q3e6cnt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mx6s4ruz-nyaz-82xz-2y8t-isp5i5bfkb1d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://23c4700f-06a2-478d-9ca0-9a562bd66e43@tun.v1pdomainsldz.ir:51588?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 185.4.31.135
+vless://f7d55b42-9c71-4e53-ade3-8932dc0fe950@185.4.31.200:22695?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Green Web Samaneh Novin PJSC ┇ 185.4.31.200
+vless://083ed1d8-fd32-4d34-a521-de755e2596fd@ordibehesht.zagrosbot.xyz:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 185.213.167.251
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@5.182.46.64:2054?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 5.182.46.64
+vless://58f69b21-e3f8-4f5e-976b-d738396ba1a4@185.255.91.90:443?type=ws&security=none&path=/arash#IR 🇮🇷 ┇ VLESS-WS-NTLS - Green Web Samaneh Novin PJSC ┇ 185.255.91.90
+vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Green Web Samaneh Novin PJSC ┇ 5.182.46.67
+trojan://v651aalv-a0k2-o8jn-15oa-hls0l3lp34y9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5i6ylq3o-pvqw-wxdi-nz2q-x8giaq0ee8zv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

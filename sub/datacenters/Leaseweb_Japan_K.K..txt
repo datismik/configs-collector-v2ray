@@ -1,7 +1,7 @@
-trojan://n76aly4b-obgn-anxl-lfum-c6zahka2blw3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://c3g7dpy1-vpg0-v0ae-9lkt-gdp15483x808@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://03v8ywzp-ud6t-x9oh-z4lr-yujg4u4iul1x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206ZDlmNmIwNzktNmQ3OC00M2JlLWJlZjctNDAwNWQ2ZmU1MmQz@23.81.40.197:45572#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Leaseweb Japan K.K. ┇ 23.81.40.197
+trojan://l8tb6jol-pveh-45fi-szqx-ggdzon9z0pyn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://9s73357n-nr6t-7uib-dr88-sf6x4et7qtsj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://01wecb3q-9apl-mzes-i8gk-ez6pa9g69uia@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d7aeab39-577b-466b-8906-8632bcb97a24@142.91.105.219:10109?type=tcp&security=reality&sni=www.douyin.com&fp=ios&flow=xtls-rprx-vision&pbk=3Iq38XpqVknNjUrY0mCuiLgYuZpk4h5yf5JHcSIQUnA&sid=f340325d#JP 🇯🇵 ┇ VLESS-TCP-RLT - Leaseweb Japan K.K. ┇ 142.91.105.219
-trojan://heleggga-iqji-ql2w-x59c-mx0cpcui6il7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://x7cnayfb-arnn-musg-vi8a-7ls9x77dbl4s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTEyOC1nY206ZDlmNmIwNzktNmQ3OC00M2JlLWJlZjctNDAwNWQ2ZmU1MmQz@23.81.40.197:45572#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Leaseweb Japan K.K. ┇ 23.81.40.197
+trojan://1cnv1hdc-5uda-gt4y-4qb5-cbr08kzmk0dn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://od9y76oa-u9lf-dekk-rypz-89ydq0qtourm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

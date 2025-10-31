@@ -1,6 +1,6 @@
-trojan://5ufbajf6-m7pv-e88m-adp4-qjiakiqrfm8v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://1dyecvf1-4pzb-qkbz-j53y-iv7z28uen87n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://r9v69xbm-5efo-0jjh-eq4t-owoal3a0axnr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ug2i714o-tfc8-42ha-3ahe-7z76tt964ofd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://luhgf9tl-pd1q-w8az-rr2f-t4nu9z5j0ipe@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g0x29a36-6wii-dt2a-3u4i-z8a9b9s1c019@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@160.30.160.134:443?sni=cmc5.5gsieuvip.vn&peer=cmc5.5gsieuvip.vn&security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - Vietservice Technology Company Limited ┇ 160.30.160.134
-trojan://shia60h8-iur7-9r9n-dyie-60wxf8bkqu3d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3o6yvf0d-xk7j-hlq7-aed6-so91ijgsnumu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://v50j73k8-fe3a-1etk-2noz-8esdwan8of8w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c32cnxkc-5l3o-6xpm-bpy5-ogyjprbhx4g3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

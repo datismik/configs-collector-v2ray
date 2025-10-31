@@ -1,7 +1,7 @@
-trojan://27k5agqs-rcsh-6wl2-2nb9-60btg0kfs7ok@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://gguwy2pr-8yke-8tqc-j7qn-oni170039woh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jx0chfn0-oqbw-xt2h-hp8j-ksa3tvok48wf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://vvip-periantara@38.9.140.66:443?sni=id3tr.jagoan.vip&peer=id3tr.jagoan.vip&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT. Media Antar Nusa ┇ 38.9.140.66
+trojan://vz1fl2nz-0ugv-2x9x-ra0g-wa79u7aw40kj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://vnqrfu4k-jz9n-w63e-xiku-3g4s8jdxhft9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://m20y6fr0-lchb-d63o-9rg5-xbdl53zal46e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@202.155.138.134:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#ID 🇮🇩 ┇ VLESS-TCP-RLT - PT. Media Antar Nusa ┇ 202.155.138.134
-trojan://82k9aeju-65l2-ewql-jt91-xspc0hap8yhb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fqoesa35-v5dr-3ene-7so1-pg7nd1v2uqpp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://vvip-periantara@38.9.140.66:443?sni=id3tr.jagoan.vip&peer=id3tr.jagoan.vip&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT. Media Antar Nusa ┇ 38.9.140.66
+trojan://ulu62qas-pncx-xr6o-pfuk-f2ulgvevkkfh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ig7xihyx-05i5-n437-milh-zbz4fep9lq1v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://85z5fkqv-nol6-hrbl-u3vj-f21y4owbj2gd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://63bhp9hu-hmwu-ee0y-l6cu-6btv1zrl3k30@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aqkt2573-h3u6-skm4-mxv5-v3guo19ht8hc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fg76lgjl-gs7y-ojz7-x2jp-lpuqh3xqtfcg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://0yycjde8-1jwr-bf3y-dz15-9czqzn78ndsg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gh7lknxv-07qa-vnsu-brtf-lr9463aqky4g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#PR 🇵🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.255.22
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.219:989#PR 🇵🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.255.219
-trojan://wm00o012-wj8w-ic5k-ruax-crd529ezo1n2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1ru7nls2-y1f5-u2pa-ff14-sev6myp5180w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://sybjbu57-twl3-dsye-9jme-t0xo17gz95er@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1xopmfti-6f4f-1gcq-1tly-le4bcygdzbfw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

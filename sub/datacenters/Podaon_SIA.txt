@@ -1,17 +1,16 @@
-trojan://vdlqlur6-xl6z-t6y9-nbib-4sr46vh3phus@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://zmf3qscz-1w9c-c2z5-j5ls-jn2skuc5vclb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ezkol5yj-r8kc-ob7e-gj1b-rwk14eau7v81@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://5c105446-0e06-48ad-e3d0-6ccc3f97a574@185.209.21.36:40887?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 185.209.21.36
-vless://74ae5e63-ce7a-4ea5-bb83-4761c0a37328@balfot2.tunnelfree.org:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#PL 🇵🇱 ┇ VLESS-TCP-RLT - Podaon SIA ┇ 212.162.155.15
-vless://4e1be948-3942-4819-826d-6bbe4fc84982@193.169.105.181:14255?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 193.169.105.181
-vless://f09771b9-939d-4e54-bedf-e427d8f38db9@77.83.175.102:443?type=tcp&security=reality&sni=arvancloud.ir&fp=chrome&flow=xtls-rprx-vision&pbk=Pz9b7HA09301wd-c0F95FCdeDVew8eFxnjPbM30atzU&sid=7778175fcd#NL 🇳🇱 ┇ VLESS-TCP-RLT - Podaon SIA ┇ 77.83.175.102
+trojan://722et3v4-addp-7aa4-tmh1-ogvy2wjwoj1n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://kv7nlr8q-24l2-brs9-f7iz-zdb08vd4kf90@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fiefj8bj-9q2d-8d96-p00z-x308kkr3spli@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://853e2fc4-6ea7-4487-abc6-115dbae312d8@212.86.115.14:443?type=xhttp&security=reality&path=/ashkan&sni=yahoo.com&fp=chrome&pbk=oXKb-dBmwW-cMxbJILr54Szy6sG7hmz1ykuI\_wEbXUQ&sid=5c2fe3c232b5fc#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Podaon SIA ┇ 212.86.115.14
-vless://97d3345e-107d-4712-8204-f169b7098e4d@45.88.76.236:17919?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=dQVIhLg71fK2sKDXYj2jkCRcTh_tWw83bqV-5VEeyQI&sid=3e88c2#NL 🇳🇱 ┇ VLESS-TCP-RLT - Podaon SIA ┇ 45.88.76.236
 vless://e5c3ce9a-91a7-45f0-a526-2d01c028e9cb@v2raybluecrystal.v2raybluecrystal.dynv6.net:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=0cGE8r11iI_iAWgLyvUvt8kAKuUpEMP6xU4ZSkco8Q8&sid=ebfef96e18#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Podaon SIA ┇ 185.219.81.33
+vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQb2Rhb24gU0lBIFx1MjUwNyA0NS42Ni4xMS41MCIsImFkZCI6IjQ1LjY2LjExLjUwIiwicG9ydCI6NDQ3NDksImlkIjoiNmQ2MDA4NjQtMzJkYS00OWZkLWJhZjQtN2RmMDUxNzYyNDU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInBhdGgiOiIvc3BlZWR0ZXN0IiwidGxzIjoidGxzIiwic25pIjoiaW1hZmFrZS5sb2NrZXIifQ
+vless://4e1be948-3942-4819-826d-6bbe4fc84982@193.169.105.181:14255?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 193.169.105.181
+vless://5c105446-0e06-48ad-e3d0-6ccc3f97a574@185.209.21.36:40887?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 185.209.21.36
 vless://36694a88-1fad-40f5-d449-519b3b6113d5@185.253.7.131:20738?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 185.253.7.131
-vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQb2Rhb24gU0lBIFx1MjUwNyA0NS42Ni4xMS41MCIsImFkZCI6IjQ1LjY2LjExLjUwIiwicG9ydCI6NDQ3NDksImlkIjoiNGVjNjZkODEtOTU2NS00ZDhlLWFlNTgtMmJhY2ZkZTk1ZjQ4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInBhdGgiOiIvc3BlZWR0ZXN0IiwidGxzIjoidGxzIiwic25pIjoiaW1hZmFrZS5sb2NrZXIifQ
-vless://af39d2e0-5a7e-4bd1-bb81-4fd8bf765151@45.132.107.218:57121?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 45.132.107.218
 vless://ea58cfd6-3ad7-466a-a931-038453c728b7@95.215.206.140:57870?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 95.215.206.140
+vless://f09771b9-939d-4e54-bedf-e427d8f38db9@77.83.175.102:443?type=tcp&security=reality&sni=arvancloud.ir&fp=chrome&flow=xtls-rprx-vision&pbk=Pz9b7HA09301wd-c0F95FCdeDVew8eFxnjPbM30atzU&sid=7778175fcd#NL 🇳🇱 ┇ VLESS-TCP-RLT - Podaon SIA ┇ 77.83.175.102
 vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&sid=89e6599a89c8372b#NL 🇳🇱 ┇ VLESS-TCP-RLT - Podaon SIA ┇ 77.83.175.25
-trojan://hh66nh0n-1zgs-q2qt-9ng1-008np4bugo10@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c8b42fci-t8st-nzw6-urxp-ino8crg5rlcy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://af39d2e0-5a7e-4bd1-bb81-4fd8bf765151@45.132.107.218:57121?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 45.132.107.218
+vless://97d3345e-107d-4712-8204-f169b7098e4d@45.88.76.236:17919?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=dQVIhLg71fK2sKDXYj2jkCRcTh_tWw83bqV-5VEeyQI&sid=3e88c2#NL 🇳🇱 ┇ VLESS-TCP-RLT - Podaon SIA ┇ 45.88.76.236
+trojan://6cc5eg2n-tgj7-0oqw-rxp6-87rwrbpxow7z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kp52dhke-2s4w-acxw-3lgn-b7yzaoa3em64@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://xb2bs70o-7gyq-fj78-n44i-s3yeay77xq3h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://wmju3gva-mepn-4u55-1lo9-v5mmsykd4vtq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jf1efdrj-5oco-vc5c-kbaz-u62lpl5lkwan@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jjt9epw2-ms3i-4ezw-38jo-ramvh6ebevhf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://isb6mnmq-wkoy-hso6-6954-usjomfssg8pz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5ktsh8ea-h42y-uq3c-5xbt-nthwwkj2xulu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206YW10YitDbTNEZWZKL3pkTHRhdnlCOTdIWEZEbGkvNmk4clFVa3RSWmRFcz0@outoutline1.drinfoo.com:1443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - SYNLINQ ┇ 103.252.88.81
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU1lOTElOUSBcdTI1MDcgNS4xODAuMjUzLjMxIiwiYWRkIjoiNS4xODAuMjUzLjMxIiwicG9ydCI6MTc1MTEsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
-trojan://aqdwt9xf-283w-st8l-33zb-4nhjgby6082w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g6u7drvp-94sc-sczw-r9vt-071r0e591eph@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://4ke16k1t-v93t-ny8t-339c-32ca694bgi44@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8wni7o9m-5op0-cthv-qqb5-hpz9tazkilho@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

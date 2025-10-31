@@ -1,6 +1,6 @@
-trojan://jypwzhnw-175o-oi9s-kwer-am1xndmkziu9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://p930570v-ralz-d2rt-38ye-bntjplxv2l3r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yyz2isis-0hgx-vh7e-r1qg-vh7bcdpnhobd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ccuef2ee-m0uu-pbgp-8evy-ujhuezx1c28l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ms3rtppg-jhyv-mn9b-pjly-w9pn4c6b0a9b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iraxgzey-p6xt-tjt7-eg6w-kzrej3crp1se@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e26f7c15-5805-4082-aa3c-91553d53cb03@195.200.77.228:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=de1.blackismyfavorite.ir&fp=firefox#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Mizban Gostar Dade Alvand Ltd ┇ 195.200.77.228
-trojan://1r2v7nuu-g43w-bbc7-qhp6-alcstef309gr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9my63dhh-4pc8-cmay-1pnp-1hiot1hjspob@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://f779rm70-3424-f9wl-r5yt-5hxsp67cywmj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e6m8ntyn-1h57-uv3m-gttj-wg0j6vcnpnob@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

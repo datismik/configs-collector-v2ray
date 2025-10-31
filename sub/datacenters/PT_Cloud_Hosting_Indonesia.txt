@@ -1,10 +1,10 @@
-trojan://yql8aaqu-fp0p-hoqv-p9vp-jr1cu25gjow1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://yaw6x6ws-eh3s-l44i-vjcb-p0hnskcqu6jy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s63ym943-51vm-cbya-f54c-dcqb9nzbmiv1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBUIENsb3VkIEhvc3RpbmcgSW5kb25lc2lhIFx1MjUwNyAxMDMuNjcuNzkuMTU3IiwiYWRkIjoiMTAzLjY3Ljc5LjE1NyIsInBvcnQiOjQ1MzY1LCJpZCI6IjdkMmE0ZTY2LTE1MmMtNDlmNS05ZmY1LWMxOWE4MzZlOGM4OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://idc117okt@103.176.78.153:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.176.78.153
+trojan://9qzyd1gn-3xh0-rkqv-y001-vm92vwb0tq1k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://k9klb6xc-k9c0-jqt5-ukzi-b46k88dx8pvr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://a7q22lcn-9lgv-wad4-ydyh-7i7f04u6w1pa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@idn.fastsoonlink.com:40033#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - PT Cloud Hosting Indonesia ┇ 103.146.203.84
+trojan://idc117okt@103.176.78.153:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.176.78.153
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@103.28.53.21:40033#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - PT Cloud Hosting Indonesia ┇ 103.28.53.21
+vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBUIENsb3VkIEhvc3RpbmcgSW5kb25lc2lhIFx1MjUwNyAxMDMuNjcuNzkuMTU3IiwiYWRkIjoiMTAzLjY3Ljc5LjE1NyIsInBvcnQiOjQ1MzY1LCJpZCI6IjdkMmE0ZTY2LTE1MmMtNDlmNS05ZmY1LWMxOWE4MzZlOGM4OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 trojan://idc117okt@103.226.139.201:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT Cloud Hosting Indonesia ┇ 103.226.139.201
-trojan://5085wx14-n64d-5i1v-6rw9-ivoycw6ue0yy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3gw8jezu-9dqb-l26x-1gme-9ynmhgy1dm6z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://32fussei-139v-3md5-sw3c-evdjfbrox4ok@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://aljprkv8-sgmz-svh5-qtcz-rh0pltetejlo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

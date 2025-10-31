@@ -1,7 +1,7 @@
-trojan://parun279-xp89-u310-4img-emwwbykyzngr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://fyc52ona-94am-h2mu-wh4m-j9g9i8u90hz9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fowrbg29-sinl-dw0h-z88y-pqvjb1xw9wba@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n5fkoauc-mxoo-cjwz-eg2w-6bpzw32xuj27@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://8ayrs2cf-2vi5-0cjw-yz0z-hncqlszbknxw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tqtg2ikj-hb3z-zuks-2tit-kym1f0hpgxnl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://26d4cd7c-f8bb-4c51-a07a-e7ed2a161b7b@193.111.235.155:4912?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.155
 vless://607719a0-a074-488a-85bb-eacbcd410e3c@pooria102.asadi.newabzvp.mobile-juyom.com:8443?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.113
-trojan://zzcipwvm-yd21-dc4t-hhh1-87qc5v0x571u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1r3sktl3-cpgc-xt92-i4t9-a4od84pq1huf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://qaart477-tn5r-e79y-rtxk-yd9b8medar9f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pbtgf1zs-i8cr-57nf-8hi6-ad4hysgk200v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

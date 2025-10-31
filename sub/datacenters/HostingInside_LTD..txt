@@ -1,9 +1,9 @@
-trojan://k220t0n3-ddtg-36k0-4dz1-119ijr86tyd4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://irjx7pub-yz9s-9lbk-k2dz-u9ubveo4y03s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h7cpaohe-tj6i-b65z-bg82-bc0vbww3jbzp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.43:33992#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.242.43
+trojan://sbckuolq-gd2e-0ent-o9e1-8drdgzr7jpm8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://mvpbz4nl-7wm4-mfpy-ksjd-g6nna9tmjx84@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nm0a4wiy-j406-y52f-6jaw-9fpcak0lu8cb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.157:33992#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.242.157
-ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.241.45:38033#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.241.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@2.58.241.42:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.241.42
-trojan://4zzk18ef-twxw-zhzx-rcmu-nkihjxh6mzzf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://goe9darg-z5i3-4dil-u7o1-vo2sywkxbp9t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.43:33992#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.242.43
+ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.241.45:38033#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - HostingInside LTD. ┇ 2.58.241.45
+trojan://a31m533h-12z8-f1ut-wobn-pyi3erkuw1mf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0vzixiwi-uh08-sm1w-t50a-lwi5w9iqggfs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

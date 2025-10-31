@@ -1,9 +1,9 @@
-trojan://m5i8dbds-sra9-wslu-jpcx-c5hjeahsaksp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://rckmy7w0-ogh3-e6br-fx4d-bbabu562cscy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lp1tny2n-0acu-ubko-u30j-86cc6dmagoi8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8nxs24ms-txnh-4klm-iclu-rveke9cveffr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://xzjf0n5g-o0k9-vyg0-8grc-f6mo0rxdwhyb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2jj855m0-3ikj-hffr-5di0-a6g3t0m884to@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://dbe17297-3c29-5348-33c6-fae3d706d9e7@94.154.34.112:443?type=tcp&security=reality&fp=firefox&pbk=Sx5gCel0sEdt1jvh7UWiQeff-jkqOAoq6yoWJvi-SSY#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 94.154.34.112
-vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@try-global-company.need9ping.ir:5901?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 185.240.104.152
 vless://c5477343-3db8-4486-c60f-3f7d59%65d%6181c@45.133.36.230:443?type=tcp&security=reality&sni=www.latimes.com&fp=safari&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 45.133.36.230
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtFWVVCVSBJbnRlcm5ldCB2ZSBCaWxpc2ltIFRpYy4gTHRkLiBTdGkuIFx1MjUwNyAzMS41Ny4zMy4xMDYiLCJhZGQiOiIzMS41Ny4zMy4xMDYiLCJwb3J0Ijo1NDkyOCwiaWQiOiJkZjgzYmNmNC1mYmU2LTQ4ZWMtYmRkNy04YTBhM2I5N2RiNmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://ptvc71f6-ywoo-8mse-gred-jwf6rlh0ifa3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p8ke0vmx-zvda-aps2-rln1-uoadlh1i0svq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@try-global-company.need9ping.ir:5901?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 185.240.104.152
+trojan://t7gv7jsj-jc85-ybd0-jmz5-fr7wced4hn34@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rdv2bg77-3vhq-99eb-g06g-ibt8xpvtuotm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

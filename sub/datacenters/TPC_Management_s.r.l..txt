@@ -1,6 +1,6 @@
-trojan://wruvx8sb-z5t4-6us6-090v-flhz8ywut934@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://p1j1k564-na2f-pp02-ssje-0hn7kbgtu9b8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://f6qdstdr-gwqd-gtqj-914z-1msp10vcx5ad@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ardmy1ys-gqi9-l7oi-oh2z-v2hyjhny00is@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://37su460s-78tc-vkgt-ij1j-xdwg64w9v362@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9r8xfv0m-g1pz-8wvr-2mp3-1neeweke8q5d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://381a4e2b-9380-431c-94b3-58b529de0aef@doc.leperfume.ir:2323?type=xhttp&security=none&path=/Bmarz#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - TPC Management s.r.l. ┇ 104.193.193.200
-trojan://oramq4dg-nzk9-nwu4-h439-kghs47lqdptr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3wl5sfo8-oytb-bfn5-1vp2-gzsla1iax99k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://c4q2xkmk-zisk-iq2r-82he-j67ut156n7nq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bxim05bd-q8a5-17wp-v0ui-v11h6nh5w4c2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

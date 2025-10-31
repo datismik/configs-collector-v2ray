@@ -1,7 +1,7 @@
-trojan://dr41dmy7-uom3-zqas-8987-0fbojf2yla1k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://iv18emvz-638l-8f8p-glt9-gnuv5e3ewk31@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hvz7xuca-dqki-0cu0-vabr-h4c9iotwao0z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://i0vl6rcs-8dnp-r1h1-vest-5yctk1f9iqtc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://m8v0clpf-ox54-wnld-4flj-xartfjppyayg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7gl95map-h0zs-c2uy-mplp-wav13ax9ymzx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://635e0c48-911e-4488-a9d4-c5b2a047d8b1@free-nl.vpnkey.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Clodo Cloud Service Co. L.L.C ┇ 80.74.29.212
 trojan://ae300c91-94c8-49f9-bb6a-06d9d86cab76@103.137.249.117:443?sni=joss.krikkrik.web.id&peer=joss.krikkrik.web.id&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Clodo Cloud Service Co. L.L.C ┇ 103.137.249.117
-trojan://hjkw4uvj-thqs-2sde-7mho-zrjdqy0zogjp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lycnc78m-vzf2-p22e-7230-vuh0lytmw796@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://hv2c7k3m-0anh-voh7-jkpm-dyotl22ue5p2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ja3x7hov-8fp3-z6m1-iw0q-ep6rvhg1iy5y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

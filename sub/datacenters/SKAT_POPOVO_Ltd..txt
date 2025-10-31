@@ -1,6 +1,6 @@
-trojan://b3xlwv5k-msav-6108-o4m6-koqc1n7cz82w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://jlqg2zri-idkn-qpwx-uz99-xmyq7kaejftm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://k90s7344-np76-2rfd-kwbe-g9mx86djr3ap@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tjrjdoya-81we-4icw-2u8o-0n291k6lcnul@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://l8ckf4nz-mmou-aesy-3w9d-n2uos2hiszj3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d458lmnj-2kkh-zdf9-rofk-da0j4ra1ovko@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e3f5a7c9-2b3d-4e5f-9a1b-0c2d3e4f5a6b@94.156.76.225:443?type=ws&security=tls&path=/ws&sni=v2ray-config.sohala.uk#BG 🇧🇬 ┇ VLESS-WS-TLS - SKAT POPOVO Ltd. ┇ 94.156.76.225
-trojan://ri7pd7qv-tcxo-4vbj-6n8f-r46wntjp2sj8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1678qro3-cgsi-gia4-wunk-z9xvwk3vryo9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://1sldr3cr-zhfm-jnbk-39tn-jrku71fsg0ww@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wq1x3f4d-8rvn-x9o8-g64f-bzgqo3fmxcwq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

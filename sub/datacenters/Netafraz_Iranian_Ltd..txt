@@ -1,6 +1,6 @@
-trojan://bmb96sj3-v444-y5bo-jc12-i130h01vodh9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://vd58nair-wq5z-3adm-rg2k-l3ruhonms7j0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xiat7v1p-p140-wsro-7fkb-roszy8babxms@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qhoj73qk-hlps-0zup-v0xl-661pnhutoo6i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ixh7r4gj-eovi-dfve-dx0h-9bxmh5hjv9nf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l9iywzdz-maqf-pafq-9h4w-4jc5kxrt9jtg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e7bc7c8e-07bb-4ff8-a06a-39b8665be2d4@195.28.169.253:2053?type=ws&security=tls&path=/admins?ed=2560&sni=chat.neshaan.org&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Netafraz Iranian Ltd. ┇ 195.28.169.253
-trojan://rqjid6pm-5z89-9bw5-9czg-gmqcn0pzu5ag@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s7xm7ewa-o1zr-0iwb-06ey-2sd074pddil3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://nntpsy3b-jedo-iphy-njwg-drxcumo9rlrz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q14f0ntz-9wee-7wes-gzw8-xhlimqu4k6gn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

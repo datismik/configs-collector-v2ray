@@ -1,9 +1,9 @@
-trojan://myvq8quo-csgf-vug4-vmwg-pxaythz6gpr5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://18s771f2-bc1a-u3yy-ajut-4he7b0gn61n8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://r5rwvi0q-jvhq-gy4k-ghlm-odax4i9bemw4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e699e9dc-c1a7-4ab8-a597-bbfae5219fe5@cloud.net0n3.shop:10443?type=xhttp&security=reality&path=@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3&sni=flask.palletsprojects.com&fp=chrome&pbk=gUEJWr93w_k1Xr9CLdEl03KzYj4cW7vgJjtWaEm_XWo&sid=ff9f#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - aurologic GmbH ┇ 172.86.92.74
-vless://94a028e2-b2f8-5019-ade4-5e462ee6ae1e@nl1.xvless.online:80?type=httpupgrade&security=none&path=/httpupgrade?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - aurologic GmbH ┇ 5.144.176.131
+trojan://tkzik4df-kem7-au6i-xc1l-j9h9x2xshdld@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://mwponh66-5ahn-3rk9-5p95-qm0520l1aqpx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pczn16h8-pmh4-jwkg-60gb-ucdny52k8imv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e7dc94db-a940-4bd0-8f98-a926b2f2b734@194.62.157.52:33162?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - aurologic GmbH ┇ 194.62.157.52
+vless://94a028e2-b2f8-5019-ade4-5e462ee6ae1e@nl1.xvless.online:80?type=httpupgrade&security=none&path=/httpupgrade?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - aurologic GmbH ┇ 5.144.176.131
+vless://e699e9dc-c1a7-4ab8-a597-bbfae5219fe5@cloud.net0n3.shop:10443?type=xhttp&security=reality&path=@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3&sni=flask.palletsprojects.com&fp=chrome&pbk=gUEJWr93w_k1Xr9CLdEl03KzYj4cW7vgJjtWaEm_XWo&sid=ff9f#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - aurologic GmbH ┇ 172.86.92.74
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIGF1cm9sb2dpYyBHbWJIIFx1MjUwNyAxNzIuODYuOTQuMzMiLCJhZGQiOiJrYW0uZGV2cGlyYXRlLmJhYnkiLCJwb3J0Ijo0NDUxNCwiaWQiOiJlYjBlM2Y0Zi03Y2I4LTQ1MTItYWIxMi1mZTA2MzFjMDlmYmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://uyljk6e4-2gom-1eup-00l1-hym0ii6r480s@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9y5c3zq0-ser5-9p04-zx2b-8h5b4ivmm140@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://cjnhr7eh-88dx-xqn6-oyjx-5fhctmfnzy2o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hr4hvo5l-vdci-ts7d-64ul-7oep4scn2azf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://7ipfkc3b-twcv-r86i-tqto-dh7bcy9yojfj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://n6ur5xrm-i54k-wacu-z5su-7zw8ht7emm3k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0t4r1get-xmxx-fn2a-g7ck-0w9rfrercgo7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fg8d3v5v-8cdb-b7ss-rusi-sggpj8zj7ae4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://5rud5e41-9i7s-13xl-wqa3-w7jqfqwviyul@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://a6gyjsq7-mj9q-cl21-87lw-d7m7e9td69to@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@84.236.171.229:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#ES 🇪🇸 ┇ VLESS-TCP-RLT - Aire Networks Del Mediterraneo Sl Unipersonal ┇ 84.236.171.229
-trojan://2bah3t60-z4r2-hrs7-gxqd-4wkgoxaejwrk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yxi1tqcz-vts0-n1wm-ly21-wgvfdowefsuv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://4a49iztk-jee2-v37q-vohu-alh14zbstbr1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://w3b0hz64-1x0w-oqga-vcle-6kkx1vu9qw7d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

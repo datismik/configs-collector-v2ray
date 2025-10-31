@@ -1,8 +1,8 @@
-trojan://bg8xyjme-p7ik-6ys5-kydm-gqgbnj5wadt6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://7fe6zf3h-hzae-7ieu-lt1g-ga7ik7k8yqbr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://x7vm4g3s-io8k-ux1x-227h-4fj3oqgi2z6w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.23:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - GREYWOLF NETWORKS PTE. LTD. ┇ 103.36.91.23
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.90.195:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - GREYWOLF NETWORKS PTE. LTD. ┇ 103.36.90.195
+trojan://hy9h9o4b-0inu-mbkf-wuy5-7a7ls13co6fe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ome7skvn-rds9-duq4-4kib-1fi7rdbhdbbq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gjp0kug4-6rcx-1jmv-wfz2-iure9xtiwnx8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - GREYWOLF NETWORKS PTE. LTD. ┇ 103.36.91.32
-trojan://gkhz62ys-82pw-e1o4-c8tm-u37ou44hjx7v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qo8cycpl-udd0-ckj3-jb9y-yrgpzp8hjpxm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.90.195:8388#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - GREYWOLF NETWORKS PTE. LTD. ┇ 103.36.90.195
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.23:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - GREYWOLF NETWORKS PTE. LTD. ┇ 103.36.91.23
+trojan://0lqoe0sx-s6zp-x55z-aex8-mb2c7f1679jr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://trquhqhi-ccop-3y3l-wjai-tcly4x0tlq9l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

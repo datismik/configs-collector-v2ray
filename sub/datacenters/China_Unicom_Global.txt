@@ -1,7 +1,7 @@
-trojan://05ixlga8-3rzi-mie5-7trd-v3mpd4rjnn96@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://pfw1jwhg-mipg-a4hc-c30e-a823v5fp00t1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2w3wkhed-a2k9-ek3y-fiaw-5vsk0ldoyazt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8vdgjj7d-5jn3-8tqt-9cfd-t6q5u9ywtwux@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://h0n5nfd5-8cvk-fy21-vpux-s6dts0w7f7ks@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://75ochj2c-g10h-av01-fqej-fxrp8yrhd963@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://adad57ce-8a4d-4272-bb71-b297ca370165@162.247.5.96:443?type=ws&security=none&sni=hk.qhahd.shop#HK 🇭🇰 ┇ VLESS-WS-NTLS - China Unicom Global ┇ 162.247.5.96
 vless://274cbadb-1f50-42cd-81c3-a1a3969af291@162.247.5.91:443?type=ws&security=none&sni=vn.cayuo.me#HK 🇭🇰 ┇ VLESS-WS-NTLS - China Unicom Global ┇ 162.247.5.91
-trojan://5zow13yo-navs-4zpf-8p3o-hw0utl8n76qo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6tpa8hs7-44vb-j73o-04u5-jnztwkfboaph@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://zpynttko-0ajh-7saj-njak-y71qgk4emsiv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1g0mqmxg-3avq-07x3-sexk-7r2gln1up87h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

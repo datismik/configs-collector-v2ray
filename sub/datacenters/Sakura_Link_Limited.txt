@@ -1,12 +1,12 @@
-trojan://3dcnokxy-j9cz-qicr-pywk-ql2exprjg1x5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://8nokavdz-ubkh-mmga-8rv2-11ynuda60bdh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nifoycz2-ojuk-dsky-gzlb-uo3y4frth1p5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTYWt1cmEgTGluayBMaW1pdGVkIFx1MjUwNyA0Ni4zLjI2LjEyIiwiYWRkIjoiNDYuMy4yNi4xMiIsInBvcnQiOjQ0MywiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyJ9
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@46.232.57.180:3333?sni=yxjphy.yuwenle.vip&peer=yxjphy.yuwenle.vip&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Sakura Link Limited ┇ 46.232.57.180
-vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@46.3.100.3:443?type=grpc&security=reality&sni=www.yahoo.co.jp&fp=safari&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681#JP 🇯🇵 ┇ VLESS-GRPC-RLT - Sakura Link Limited ┇ 46.3.100.3
-vless://d9e61826-ac59-470e-ac80-515afa9d557f@kb.aws5.yydjc.top:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=ios&flow=xtls-rprx-vision&pbk=yzIdIf5RpR-rTzlULRjJoCgcQdx3-yXKl7eT7IuThn4&sid=bb9ab0d5242d53e9#JP 🇯🇵 ┇ VLESS-TCP-RLT - Sakura Link Limited ┇ 46.232.56.132
+trojan://mpoj5k4b-z9sw-pirf-5jz5-ea6e0jfi5kw0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://gf68ru6h-67vb-pt5w-qjoa-alngvwbq1um5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://f3yds7i7-wm0n-heke-4llo-9uwas5c0k6d8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@c8217-b2a.h2.49d2.dje11.1.b297.djjsvip.cfd:443?type=tcp&security=reality&sni=www.cremedelamer.com&fp=ios&flow=xtls-rprx-vision&pbk=DGzXhLIUE3NQXX-IVo5YCSeANn1vECVBdnw7dtC0sTQ&sid=92388f50ce26394f#JP 🇯🇵 ┇ VLESS-TCP-RLT - Sakura Link Limited ┇ 46.232.56.153
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@46.232.54.100:443?type=ws&security=tls&path=/?ed&sni=edfgk.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - Sakura Link Limited ┇ 46.232.54.100
+vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@46.3.100.3:443?type=grpc&security=reality&sni=www.yahoo.co.jp&fp=safari&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681#JP 🇯🇵 ┇ VLESS-GRPC-RLT - Sakura Link Limited ┇ 46.3.100.3
+trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@46.232.57.180:3333?sni=yxjphy.yuwenle.vip&peer=yxjphy.yuwenle.vip&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Sakura Link Limited ┇ 46.232.57.180
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTYWt1cmEgTGluayBMaW1pdGVkIFx1MjUwNyA0Ni4zLjI2LjEyIiwiYWRkIjoiNDYuMy4yNi4xMiIsInBvcnQiOjQ0MywiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyJ9
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f1-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - Sakura Link Limited ┇ 46.232.56.152
-trojan://iww3v41s-ehlb-4d6f-hoob-2gq3p1hiebli@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ofc7cd0a-qeeg-jjho-8as8-oatekglrchwp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@46.232.54.100:443?type=ws&security=tls&path=/?ed&sni=edfgk.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - Sakura Link Limited ┇ 46.232.54.100
+vless://d9e61826-ac59-470e-ac80-515afa9d557f@kb.aws5.yydjc.top:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=ios&flow=xtls-rprx-vision&pbk=yzIdIf5RpR-rTzlULRjJoCgcQdx3-yXKl7eT7IuThn4&sid=bb9ab0d5242d53e9#JP 🇯🇵 ┇ VLESS-TCP-RLT - Sakura Link Limited ┇ 46.232.56.132
+trojan://215gofuy-pdr7-jq3h-63j2-0lgcj2w0wu16@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0cv0yzg8-lim0-s9eg-42b3-4j4lt0jfr3sb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

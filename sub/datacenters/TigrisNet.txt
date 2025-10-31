@@ -1,7 +1,7 @@
-trojan://fy366b6k-kfa2-oowb-8xbi-eo0t02xpp451@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://u0799d6f-p49p-t48v-7dbp-j3v1ry6bpb5z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zoznqvbj-vmca-tvn7-osgd-jegxdc5ipjby@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dzv2dfk4-nsts-gosh-r373-c5bx0g57cfkl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://4tvik09s-k3uv-27no-cpau-vq9eiu5sbakf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tmn78xkw-2vmm-f4i9-k9xy-4txd40bcn7fj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMejY4V2Y4bm0zMUVjZkIwVjdIQzFU@81.90.31.219:443#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.31.219
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS3dxUGEwZm90bko2b2FGc0VwR1dJ@h110vpnnl3.outlinekeys.net:58080#IQ 🇮🇶 ┇ SHADOWSOCKS-TCP-NTLS - TigrisNet ┇ 81.90.29.169
-trojan://iibgdx7n-s49u-ys08-56ih-u9jw5yukimv2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n8w9ehc4-kk2w-qx3p-ztk5-dpm0e7r3asc4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jxlt11b7-fama-48ec-43w0-sgaupe5wo7ah@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1jyteexr-npqi-ijat-v2nf-mwvn4mweyjs0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

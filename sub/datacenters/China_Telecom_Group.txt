@@ -1,10 +1,11 @@
-trojan://9h3ehxcn-x4ea-f7qe-hbxo-dvbtkabq4v78@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://fh5v8mtc-kxwc-t751-j1dn-4vcbohjqkb4d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://n8h4tc82-50n2-xp1b-g8ho-78gzlv5eokor@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@103.44.255.81:443?type=ws&security=none&path=/?ed=2048security=tls&sni=v2.yunchun.top#CN 🇨🇳 ┇ VLESS-WS-NTLS - China Telecom Group ┇ 103.44.255.81
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmEgVGVsZWNvbSBHcm91cCBcdTI1MDcgMTA2Ljc1LjIxOC4xMTIiLCJhZGQiOiIxMDYuNzUuMjE4LjExMiIsInBvcnQiOjgwLCJpZCI6ImEzMjcwZTc0LTRkMjItNDg5YS04M2Y0LWRhYzFmNzI2NmMxMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3ZtZXNzIn0
-trojan://d0cfea6c-2052-4add-aef5-501a4714d2f8@lbso.bnnodeservice.com:32016?sni=cert.bitbyte.one&peer=cert.bitbyte.one&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 113.31.100.78
+trojan://3m7b0rtk-fef6-ylot-1qoe-k70san8wlmlu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://o1l1g0bo-r3ok-bnmg-zkzd-wj48s2pdejcc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://olek0dyd-lhi9-y6rr-vj51-p4zcpr9yrj50@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hIFRlbGVjb20gR3JvdXAgXHUyNTA3IDEwMy4yMTkuMTAzLjEzMSIsImFkZCI6Ijg1MTI3OS5zdXBwbGFudGVyLnh5eiIsInBvcnQiOjMxMTAyLCJpZCI6IjM4OEJCNTM2LUM5N0ItQ0MzRi1EMTA0LTQ5MjQ3QjlCMUI2NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNFpEQm1NemN5T1Mwd1l6QXhMVFJoT1RRdE9XSTFOeTAyWldNNFpUTTFNbVJrWWpZ@61.172.235.22:11001#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Telecom Group ┇ 61.172.235.22
+trojan://d0cfea6c-2052-4add-aef5-501a4714d2f8@lbso.bnnodeservice.com:32016?sni=cert.bitbyte.one&peer=cert.bitbyte.one&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 113.31.100.80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@103.44.255.81:443?type=ws&security=none&path=/?ed=2048security=tls&sni=v2.yunchun.top#CN 🇨🇳 ┇ VLESS-WS-NTLS - China Telecom Group ┇ 103.44.255.81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTcyYWJjZS0xOWM5LTQ5YzgtYWE1NS03NmFlNDBkNzFlNzE@xm.miloli.cc:41667#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Telecom Group ┇ 103.219.103.126
 trojan://e7313acb-7af6-4fee-8483-eeaded7cf3a2@f10011.flyflylflyflyssssnode.sbs:34664?sni=jp04.ckcloud.info&peer=jp04.ckcloud.info&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 218.78.134.65
-trojan://6n65op55-vkte-kewl-130z-jpv5bmem4mhe@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t4vlv7px-jeyi-gvzt-jqs1-fpyntkezvdn7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://3lok4ol2-uj2e-qp3o-r18t-o0bn2h9i3uwq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5xpbv9yr-nlxy-u4ql-2zg7-iznnz7w76eub@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

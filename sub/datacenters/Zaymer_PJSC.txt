@@ -1,24 +1,24 @@
-trojan://2yl8pcaj-l6x2-mp18-2buh-r7wqett73fh2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://pqjjgs20-vn19-ekx4-5ccr-4a1a4a31rqae@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i4yss324-8zo8-w6gr-h5cb-vns092tehh6s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.98:443?type=ws&security=tls&path=/?proxyip=proxyis.oracls.fxxs.dedys.io&sni=ds.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.98
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.242:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.242
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaYXltZXIgUEpTQyBcdTI1MDcgNDUuNjcuMjE1LjExOSIsImFkZCI6IjQ1LjY3LjIxNS4xMTkiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://12345678-1234-1234-1234-123456789123@45.67.215.54:2096?type=ws&security=tls&path=/snippets&sni=sni.aizrf.com#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.54
+trojan://4udt5w77-wz5f-0aux-hzk8-dlsc6103xpmn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://kpa4q9f2-ssgs-7atu-wkjv-07ai9fmm2loa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bww34j6z-0kuk-l78n-m53r-ws0nj3ezocfq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@45.67.215.217:2087?sni=epccg.ambercc.filegear-sg.me&peer=epccg.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.217
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.67.215.254:8880?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.254
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?type=ws&security=none&sni=hl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.165
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.196
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.218:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.218
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.242:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.242
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.29
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.63
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.67.215.20:8880?type=ws&security=none&path=/?ed=2560#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.20
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.5
-trojan://tg-fq521free@45.67.215.95:443?sni=torjan.xn--xhq44j.eu.org&peer=torjan.xn--xhq44j.eu.org&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.95
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.6:443?type=ws&security=tls&path=/?ed=2560&sni=lu.ylks.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.6
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?type=ws&security=none&sni=vb.bgm2024.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.117
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@45.67.215.168:443?type=ws&security=tls&path=/&sni=0229.patterdeng.pp.ua#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.168
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.5
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.67.215.254:8880?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.254
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.0:443?type=ws&security=tls&path=/?ed=2560&sni=cb.dong2025.cfd#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.0
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.98:443?type=ws&security=tls&path=/?proxyip=proxyis.oracls.fxxs.dedys.io&sni=ds.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.98
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.234:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.234
-trojan://9yxftoda-d0la-7utt-04bm-8a2h7vm7fgy9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hfuc46fi-3yj1-ybnw-eyur-d4qqn3nexntf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaYXltZXIgUEpTQyBcdTI1MDcgNDUuNjcuMjE1LjExOSIsImFkZCI6IjQ1LjY3LjIxNS4xMTkiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.218:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.218
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.67.215.20:8880?type=ws&security=none&path=/?ed=2560#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.20
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?type=ws&security=none&sni=hl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.165
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.6:443?type=ws&security=tls&path=/?ed=2560&sni=lu.ylks.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.6
+trojan://tg-fq521free@45.67.215.95:443?sni=torjan.xn--xhq44j.eu.org&peer=torjan.xn--xhq44j.eu.org&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.95
+vless://12345678-1234-1234-1234-123456789123@45.67.215.54:2096?type=ws&security=tls&path=/snippets&sni=sni.aizrf.com#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.54
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.196
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?type=ws&security=none&sni=vb.bgm2024.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.117
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.63
+trojan://pgc6guwa-qext-rest-x8o3-nhrabml0ayyj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fpdo0nyf-hdyv-qxgs-x3ig-6a40hpbl3acs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

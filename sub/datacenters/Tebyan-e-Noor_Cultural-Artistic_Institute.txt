@@ -1,9 +1,9 @@
-trojan://unh0jpcl-0kri-6vno-4i4f-pio4rvcmp8sj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://7flmvm6n-ldq2-ylzh-hv06-349ifmfivptb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pkdpocsr-e28p-na34-hez6-ymgycbminv9t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.170.141
+trojan://omio0mx7-gze4-n4up-usmh-kywpy3m5upg5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://pc7gcfe1-hf3r-i0os-prgt-o8p77xctoylx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ldfyw0b2-k4pi-g4c1-w4c5-puh0e9qk4zfl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9a7ac68e-d1c1-4544-8d85-f8a9f95e6060@94.232.168.16:30501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.168.16
-vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@185.232.152.148:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.148
 vless://b756ab67-8181-4bbc-83fd-1edca44c211a@sv8.takdataco.top:8416?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=eNl9igWK4DQud2xfrMVpJy6VHI8JzvTN6dwckwko-HM&sid=502a76d3e038#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.219
-trojan://rlcgwrai-1szy-sotq-icef-99hav4rqlaeo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://inagsdn3-00fk-ova5-3cm1-44msgblgt7vh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@185.232.152.148:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.148
+vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.170.141
+trojan://jwvz2ipz-9xqu-u5rx-hzby-ppaviegclkx0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4iodufgu-kth0-d79e-qx61-n8aqwd2j26av@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

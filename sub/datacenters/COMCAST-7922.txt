@@ -1,7 +1,7 @@
-trojan://8pay6xc0-m0n0-c7xt-59j0-gcjkaj29y3ff@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://ngkpj1lh-tspe-tmzy-tcat-r6ak7tdzrc4u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bfykw2xl-t1kk-1skk-n5kg-swf17998047y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDT01DQVNULTc5MjIgXHUyNTA3IDE0MC45OS40OS42IiwiYWRkIjoiMTQwLjk5LjQ5LjYiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3BhdGgvMTY4OTUwMDE1Nzg1NSIsInRscyI6InRscyJ9
+trojan://p6o5rjaf-kybv-g2kn-lwna-mb8da2a9id9i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://uq2rg0e9-1nj5-4hob-08un-jnhhjmdhcjyj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8z5fwxzb-bg4e-8zgd-cwdd-f1nwqktfxmtg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://FACEB00C-2023-0604-DADE-FEEDCAFEBEEF@rhome.iopcb.com:32768?type=tcp&security=tls&sni=rhome.iopcb.com&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - COMCAST-7922 ┇ 73.162.166.197
-trojan://kfdxco5y-p98u-bdue-mnjt-9x2cc7j2zlg5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://udba9r76-uovg-ajb2-8urc-6d8xap3vdov3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDT01DQVNULTc5MjIgXHUyNTA3IDE0MC45OS40OS42IiwiYWRkIjoiMTQwLjk5LjQ5LjYiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3BhdGgvMTY4OTUwMDE1Nzg1NSIsInRscyI6InRscyJ9
+trojan://tjw8aiyd-9i2p-50aw-2iio-pfk02koaxeyf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6si33zrv-3xiq-gvd4-94gg-fr10fyaezq4o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

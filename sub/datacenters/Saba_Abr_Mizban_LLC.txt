@@ -1,9 +1,9 @@
-trojan://9n0esr2h-6n2g-tk3u-jlgo-bqs6kyc73xbw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://jtzcfsj6-bpfm-6a6z-jkqu-vs2vvzb2sdqt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e7q77zvo-3xs6-jsib-bmjd-m1wtpgqz0708@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.143
+trojan://p5ak88g5-0bhq-h58i-zsoc-e9ox4buo73bg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://hyh5zcvo-hhpy-65na-lz58-xvqt5sc5jr9g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0h1l9fn3-g65s-niad-xbop-4edkhytcfi79@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5bb972ce-dacf-4313-9c54-e321a84f83fc@rathole.jolf.ir:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.61
 vless://b999801f-c751-484c-bb04-51e417e4bb7a@host.iranservers.space:1020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 5.57.37.108
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@193.37.37.24:80?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Saba Abr Mizban LLC ┇ 193.37.37.24
-trojan://r8db64m8-n6tf-yltj-0reg-0ta4n6y89ize@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j0yeh6nt-ug5h-0pp7-31pi-m72ag34oz7ei@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.143
+trojan://0xj7rj0y-rfi0-zacc-4gi7-3v6mt7pdws8h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6spqe57t-gq4i-5yqz-arff-3wsa1ibbiasq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

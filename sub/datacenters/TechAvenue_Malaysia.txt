@@ -1,6 +1,6 @@
-trojan://jfscra0g-olew-bsjz-bof7-25cioco1yjlm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://ebabnquj-n610-u78k-o51e-na69ihf4pk0d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vfc071tg-usn2-n4kl-llx1-mokn2af38qo5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://k405c33m-t2oo-xgwb-yaon-mxbef0582a82@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://3i1v0t6y-u2r8-abm9-dy5z-ka2nq7976ftj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uyp83gtc-4krw-ilzp-hzzq-d5r99sa88acs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@my.singaporenodeserverone.kyiv.ua:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#MY 🇲🇾 ┇ TROJAN-TCP-TLS - TechAvenue Malaysia ┇ 202.43.102.57
-trojan://ij1r7wg0-1ppt-7rbl-accg-f1d5h5vq5kgk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ekl00wer-2opz-6ly9-1aup-mhbe77ddm98j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://kxkakgui-khmd-g0rm-rp69-62l9yczip12f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://24kxaw9j-9d00-y6tb-2b71-n3ya5l2hv9xa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,6 +1,6 @@
-trojan://edgubukn-pdvn-0r5e-c96o-q5kbyo5uvt56@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://9ee01lbb-pvc9-uwji-wnxr-uu4sg6t0ye6o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://etxdxcsq-fmbu-yx72-8een-34solw7p1ruh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://u456yt1o-yp7s-dgss-fj0p-fcziypwhnqyv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://3ge8306o-ypuh-80ay-fbuk-pg9eshtl9k5z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0y3m3jo1-zlm4-wmq9-vf9o-bko75lxm8oh9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0b51d2d5-5d2b-477d-8948-c058ef15224a@185.211.101.15:80?type=xhttp&security=reality&path=/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal/@v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=r1spa6FN44mjaZK7_It_l0Non0e0Jd8BN5G5uJ0jkgc&sid=0ca7e8f6c43488#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - DigiRDP, LLC ┇ 185.211.101.15
-trojan://wjqdnuue-yymi-h7o1-7lie-0srrdx8nik4b@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u3fwd6wp-p9ao-0lzr-360p-88behymbvwlz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://xw34gdji-ls03-qruk-e5a7-nt0q64uae9w2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gy1agdxu-cxjd-90qv-ays9-dkatxsnu0dxh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

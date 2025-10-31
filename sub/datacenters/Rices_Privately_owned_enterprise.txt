@@ -1,8 +1,8 @@
-trojan://uxkcv27b-c85g-d2fc-h2y9-c22tfr703h78@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://su7wr70g-u9or-f3w1-f759-gq524mst64qq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://21saclgx-if6u-3omm-962d-jzvd1t01udlp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://58750ffe-ba34-4b1b-b965-d763a88fbcfc@ukraine.epiconline.ir:33727?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Rices Privately owned enterprise ┇ 185.243.99.83
+trojan://4143kk41-ccg0-iib3-pij8-ain4h33fidoe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://bfeyxjor-egyj-7ywu-3hii-rva7cpwabt73@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rawnq8ue-ko5t-2zg2-8mkt-4lapndw2lz5d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://67525da1-a606-4725-98f3-513c13904d9d@h.hafman.lol:11928?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Rices Privately owned enterprise ┇ 185.243.99.8
 vless://113d5d7f-14ef-2a2e-6a3b-b52bc4f82432@ukraine.marzxo.biz:8090?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#UA 🇺🇦 ┇ VLESS-TCP-RLT - Rices Privately owned enterprise ┇ 185.243.99.16
-trojan://j8p0koeo-ujwt-t0wh-2itx-sdij5tzksnnb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://68f031jh-khmb-3u8i-zz2i-s9ne7dkc2n8b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://58750ffe-ba34-4b1b-b965-d763a88fbcfc@ukraine.epiconline.ir:33727?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Rices Privately owned enterprise ┇ 185.243.99.83
+trojan://f9wyiq2p-gddc-bft8-nejx-zr41fznlujvz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8a43xv5l-w2g0-yhdw-wtlc-et5ihl5bev7s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

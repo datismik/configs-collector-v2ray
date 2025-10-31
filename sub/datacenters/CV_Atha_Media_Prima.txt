@@ -1,6 +1,6 @@
-trojan://w5z1pna3-30eh-al7g-nfpd-e0h0fzp9qrjq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://y7t90ic8-1xo2-8ypa-c4cy-7x0p1m4bt2oh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zssc0tmj-510j-qceg-vfu4-h8t38tm5smi7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fh0sucql-nxoc-evob-g8ey-5y5fqwwrbble@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://02ohaewz-k3e8-4st7-pjep-jkyngqjln9dv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o0pjnl27-ayse-ay5r-zxdb-prvn4n33xxc6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - CV Atha Media Prima ┇ 41.216.177.41
-trojan://4w6z1l05-22c5-okkf-sdjm-jx5xju3f2d9b@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3s9upm7y-f5ss-rp48-5hh9-th2xz649vi55@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://mowedlbj-yfck-a0gc-8gp5-6ogp8j9x5797@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0du2b8p1-u29w-1s3n-lykn-bqtfyvsfidyz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

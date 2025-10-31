@@ -1,14 +1,14 @@
-trojan://ca8is1a3-bn1h-r4s9-mhmk-v5y1uftkxq69@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://jo19jom2-sw7d-lsmo-sequ-oj1r3zns0roh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ilmd1otk-oyeu-vdvs-xn4t-h8pw96azbrt1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.129.141.130:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#SK 🇸🇰 ┇ VLESS-TCP-RLT - eServer s.r.o. ┇ 45.129.141.130
+trojan://l9sdf7ff-6b5t-6hcu-kq16-g2kwoj4apxn8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://p2wp7xo3-d3y8-vi1t-lgm3-05307yetlcao@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hqf6ywfi-p7zz-w0ts-ds1g-qhgvkibkevtf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a97f4280-2bdf-561c-a73b-e60634c20e41@5.252.23.173:2052?type=ws&security=none&path=/vless#@V2RAY#SK 🇸🇰 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 5.252.23.173
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
-vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?type=ws&security=none&path=/#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.4
 vless://ad13ec86-8dfc-4be9-a2e6-ab0379715a16@5.35.103.218:2083?type=tcp&security=none#SK 🇸🇰 ┇ VLESS-TCP-NTLS - eServer s.r.o. ┇ 5.35.103.218
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@5.35.103.233:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=random#SK 🇸🇰 ┇ VLESS-WS-TLS - eServer s.r.o. ┇ 5.35.103.233
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.5:2052?type=ws&security=none&path=/@XS_VPNROBOT#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.5
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.129.141.130:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#SK 🇸🇰 ┇ VLESS-TCP-RLT - eServer s.r.o. ┇ 45.129.141.130
+vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?type=ws&security=none&path=/#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.4
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@5.35.103.233:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=random#SK 🇸🇰 ┇ VLESS-WS-TLS - eServer s.r.o. ┇ 5.35.103.233
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.40.194
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.37.255.38:990#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 193.37.255.38
-trojan://k86mrh5h-yqec-5s4r-apgq-lyhiu7m9rjmf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://71r3rph2-4fsd-74gt-38ec-8pxyx09d2vyt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://kdeu1asm-lrfz-r097-o9gx-rtnqsbqme9c9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pllov9sm-v0k5-9e95-siq0-0pxjw6u7rxgb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

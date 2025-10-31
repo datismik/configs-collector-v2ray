@@ -1,12 +1,12 @@
-trojan://h4jbpj7w-6lyc-oebp-x88j-avmt3dxh3i2n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://ztt0fonq-6zp1-fktw-1fzo-54rx6n0005xz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mljqd581-l94m-3k3l-widp-f99yzz21clm8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://o3j03hld-j5eo-e5g6-vwpt-sdluu5drxmde@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://lth19lwu-cua7-dz5s-v07u-sgpilrdti5km@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bi0t18u5-waja-0mhh-7id4-e0o5m58tn782@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://a6ce661b-d6ef-431b-904c-75086f4dc12f@217.60.236.113:2021?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.113
+vless://91774e31-8e83-4949-b8af-b3ddc0b8b9f1@217.60.198.33:80?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.198.33
+vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@217.60.198.158:40665?type=ws&security=none#AE 🇦🇪 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.198.158
 vless://90ac533c-dec4-4f92-a7bb-62041d9a0c17@217.60.236.41:3032?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.41
 vless://77371595-b7aa-472a-9d61-e9731861af07@217.60.236.215:8443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.215
 vless://fe9c83ff-977d-4049-be62-a18e8cd59368@217.60.198.28:9918?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.198.28
 vless://9da21010-6025-430a-9ce9-6096673d86d1@x3.snaapppfree.com:1360?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.144
-vless://a6ce661b-d6ef-431b-904c-75086f4dc12f@217.60.236.113:2021?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.236.113
-vless://91774e31-8e83-4949-b8af-b3ddc0b8b9f1@217.60.198.33:80?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.198.33
-vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@217.60.198.158:40665?type=ws&security=none#AE 🇦🇪 ┇ VLESS-WS-NTLS - Iranian Server Processing Limited Liability Company ┇ 217.60.198.158
-trojan://w53h3gwm-hbut-h7r8-1mzf-hv2rqixrfvua@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fr1kfj9a-fs7v-cl9s-l2gd-4zlaafpbjg1i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://27v0zhr7-rmo1-zm0e-9zea-8x66itgff332@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6jjw516h-jrl1-kk9b-y2v9-v0xhmifjo64e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

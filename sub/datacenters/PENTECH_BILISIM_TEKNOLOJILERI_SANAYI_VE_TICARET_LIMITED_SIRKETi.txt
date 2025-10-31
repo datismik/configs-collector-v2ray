@@ -1,7 +1,7 @@
-trojan://vh3naru5-vgw2-j8zs-s9pj-cj0tbhx8tae4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://9p07d7km-xan2-4vij-ajhr-ufi87vzoiweb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jaf69p31-oh81-paqi-n9gg-wwuagm3w2zf7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ojlh6cda-lteb-c18w-wyrx-msriok6y4col@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://3k8ajcmu-ilq0-93zd-s4n4-i9emx0s93wb5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lm39o9ur-94qr-ylhd-e1wq-zplmxvd9yo0k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f046c76d-7639-45d6-84fe-60666e0b7ae8@savteam.savfasf.ir:14420?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=f2mZcxuMFBWHhxyy2MPA3E-aRh6pasVvZe_6OkF_Njc&sid=fecc0d646553f4b4#AE 🇦🇪 ┇ VLESS-TCP-RLT - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 91.132.51.10
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 217.60.244.234
-trojan://91lb2wwb-26g0-g131-f7yq-xwcl7c09o0fy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qbpbjx01-7eaj-hplf-fub9-c14ovwh987mi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://weih5pff-cfi2-lkm4-tpye-77wqo16akvya@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://arapkwf3-0f0m-94lp-h4th-bqkyt04hbgeo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

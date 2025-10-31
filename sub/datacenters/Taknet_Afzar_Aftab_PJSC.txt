@@ -1,11 +1,11 @@
-trojan://y6c5mo18-10j1-iswe-x2z8-i8vgpghqw4cp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://3nr47fl1-vwls-y5k3-tfbd-byku6096tnp2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0lm327re-lymx-9hcx-vbyk-44jzo3m2856t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xml5orfv-mu0l-vk4s-duil-iuezhnd9bfla@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ttet7imv-yyh3-mixv-ku3e-vl1meent5hmn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://en5jug7c-4mqw-5lya-sidk-l1gg393fxmvv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ba6b0be7-0a4e-4e12-a1f2-aaa506977f7c@85.9.104.85:55579?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.85
-vless://950961e0-a930-41c4-b8be-696139a0cca6@dow.spslean.pw:36505?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 91.239.214.39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnUmoxdFNrWnhoY2lYTlk3UnV6Zmx3@85.9.104.32:1080#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.32
-vless://3d7ab522-f92c-4964-8d13-404d954743af@vix4.iranpr.site:22912?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.23
 vless://53f41a07-0b56-4b50-8f92-99c0518e2c1e@ma.team.mateamma.top:46678?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.88
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnUmoxdFNrWnhoY2lYTlk3UnV6Zmx3@85.9.104.32:1080#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.32
 vless://feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.89
-trojan://yq6z05a6-40t4-dl7k-aqaf-e01qh6sfk5td@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dvzanh57-6iju-73gd-gxiu-kxvxx0azxfss@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://950961e0-a930-41c4-b8be-696139a0cca6@dow.spslean.pw:36505?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 91.239.214.39
+vless://3d7ab522-f92c-4964-8d13-404d954743af@vix4.iranpr.site:22912?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.23
+trojan://5i7lev7k-izcg-cppy-46d3-mx36te3b1v3h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6rzxj3o9-2hz4-67lr-a97w-06dftuyul3tt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

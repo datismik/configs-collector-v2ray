@@ -1,6 +1,6 @@
-trojan://ylee3mdy-dpjz-9gww-6npq-lkontxphkqx7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://jskb8etx-hfki-sc2o-boeg-4cljxo8mx4jv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7vpr286t-yrfp-pvan-2lsg-7peui7xnse3c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://085793ua-qi48-fm5d-qg50-jt9s3gf9vhh8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ymtob531-xr2r-n9d5-ckag-wfgw2a6a5sbw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xfdt6kre-hwf5-6e3i-p7te-s7pdnxy72698@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@mobinhost.com:443?type=ws&security=tls&path=/ao0s41N5cxHj2bMQx1iv8oR&sni=cdn-two.mr-cloud.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Mobin Arvand Infrastructure Company LTD ┇ 80.75.213.253
-trojan://9nbcce33-z7ct-ifds-n1z8-b0c8qm2x0f7f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7ewdbrqe-q4gi-83lp-8z4l-3vo7wt10zzr5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://txfucwff-m8f6-t4g1-i9dw-6v7vgz89xfrj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jsmqehnr-4jr8-6rb9-pmbv-zgb5qc2hzi42@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

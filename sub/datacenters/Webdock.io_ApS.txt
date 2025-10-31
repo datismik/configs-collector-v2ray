@@ -1,8 +1,8 @@
-trojan://edpyzpvh-fbb3-kkct-8vfp-i6n5kjdngf5l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://njetf54d-oz3m-1tlg-m9kw-2ocfk5b7bnoo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ks3i29iy-47qb-27v7-gogr-d8wcon59ipoo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://74ae5e63-ce7a-4ea5-bb83-4761c0a37328@193.180.211.106:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#DK 🇩🇰 ┇ VLESS-TCP-RLT - Webdock.io ApS ┇ 193.180.211.106
+trojan://p5b6cpqt-g6zt-fqe9-0wte-4zw45cnl5ay6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://zmlgd5vr-homd-wif5-29f5-kn4a4lfh6wf4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6vm2w1kj-s94y-v6j4-19gv-rvvceqhbveo3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@89.28.236.243:443?type=ws&security=tls&path=/?ed=2048&sni=01.91md.fun#DK 🇩🇰 ┇ VLESS-WS-TLS - Webdock.io ApS ┇ 89.28.236.243
 vless://331563eb-831a-4744-b51c-78e7bf4f1562@77.37.97.59:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#DK 🇩🇰 ┇ VLESS-TCP-RLT - Webdock.io ApS ┇ 77.37.97.59
-trojan://rjid6hdf-uvtu-nsol-aju7-8uvu2vckhinm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nd9vwvxs-zr9n-k15d-zevh-uwylfzw41evy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://74ae5e63-ce7a-4ea5-bb83-4761c0a37328@193.180.211.106:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#DK 🇩🇰 ┇ VLESS-TCP-RLT - Webdock.io ApS ┇ 193.180.211.106
+trojan://pmxnewck-i5en-xh5h-yip1-2gr0wa8nmwjv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i9tgofco-xf9i-8o0a-dv2t-imzeig0e0otq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,9 +1,9 @@
-trojan://unh24m0y-8pbz-gk36-dh3w-nzesatmdm8ki@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://zmqoa8bk-j5es-qjyi-h42l-6a3wg8ur1r0e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6pn8vd4t-kxjm-5e9n-5sa4-iir72kajw3mo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://cf1d29a2-926d-40eb-972e-6e11f7f28d57@my.aparatco.co.uk:2525?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.24.49
-vless://f9781036-3695-4f6e-a247-5dbf0538c42c@5.61.29.226:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.226
+trojan://43o6d3pj-8o3z-kkqy-3gva-qkmwton779o2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ezqxhu8n-mif3-5afi-heyg-txk0suqoz3cg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c5p0kce7-2vdm-hwqf-gj3n-9zc9r51nxch4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://44fc47c2-87cb-4819-94ef-19cc2a934f96@azadnett1.set7.site:35420?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.175
 vless://bb86bee3-a627-4312-b038-9261c2972315@185.73.114.139:17048?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 185.73.114.139
-trojan://nhpecwb9-4ulv-6vir-qbl7-mg769nwigg0e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gg1p8pbm-copi-5qf4-3r8o-2fqrqjoth2n0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://cf1d29a2-926d-40eb-972e-6e11f7f28d57@my.aparatco.co.uk:2525?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.24.49
+vless://f9781036-3695-4f6e-a247-5dbf0538c42c@5.61.29.226:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.226
+trojan://sgavy608-1cki-cvjs-vkv3-nkeqa6qrv6b2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7kde0nbs-nsje-sree-vwgi-056vpukpdnmo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,8 +1,8 @@
-trojan://gcxbrr6u-sk2y-j7pv-2yq2-qcp9pbys9wov@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://5lvv128m-6clo-h15c-2rg7-gafmp2wg0d0h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7qst1y8h-xvog-zxpu-afc1-exmv6sunbrmy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.up.railway.app:443?type=ws&security=tls&path=/@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.58
-vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@nl-raiv2mmr-telegram-join.up.railway.app:443?type=xhttp&security=tls&path=/@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - RAILWAY ┇ 66.33.22.122
+trojan://sp1vcfq5-0o1i-eps2-cvk7-dews1aezw6bj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://rwjq348e-lucy-3k52-te5k-xhcdm0l8ya7n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fepgab9t-h1k0-plud-ncw7-b9vw0uhru1dq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@us-raiv2mmr-telegram-join.up.railway.app:443?type=xhttp&security=tls&path=/@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr#US 🇺🇸 ┇ VLESS-XHTTP-TLS - RAILWAY ┇ 66.33.22.124
-trojan://aa4jax20-ecrf-yau8-j27r-0twrz6ezkpmb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7xtgzak8-ilpo-ikak-r94t-86gyr08d07tx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@nl-raiv2mmr-telegram-join.up.railway.app:443?type=xhttp&security=tls&path=/@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - RAILWAY ┇ 66.33.22.122
+vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.up.railway.app:443?type=ws&security=tls&path=/@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.58
+trojan://zpwv1jg6-u2vu-t6ir-yc94-4in41e07edxb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i87hcztt-61d6-y584-w4dn-5r6wqgepaadd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

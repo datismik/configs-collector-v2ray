@@ -1,11 +1,11 @@
-trojan://z5eves1l-cwm6-ilq8-xkd7-ajeo3cr863az@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://sry0m2m2-avr6-8kw0-11rn-ekswvx5afyfb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://p7hf8i4o-j2dc-ewk7-phqc-5vqs2b1yc69c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://r468bxdv-020t-w22g-o0it-wv97ht3bcccd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://g6hatasy-8djd-sc9r-8ert-vjhpxox5pxqm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fa2s1zw3-ffbu-cy2r-p3nm-tq3ephf30lz4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@27.255.82.134:57643#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - LG DACOM Corporation ┇ 27.255.82.134
 vless://948f6596-66f9-4707-aa92-3107a214ce53@123.143.9.5:14041?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 123.143.9.5
 vless://70186b61-319d-42f2-9807-7df9594aa385@106.240.1.52:20443?type=ws&security=tls&path=/?ed=2560&sni=amedo.esslh.filegear-sg.me#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.240.1.52
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@106.244.68.249:50000?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.244.68.249
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@27.255.82.134:57643#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - LG DACOM Corporation ┇ 27.255.82.134
 vless://948f6596-66f9-4707-aa92-3107a214ce53@112.223.212.219:10543?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 112.223.212.219
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@106.244.68.249:50000?type=ws&security=tls&sni=photosair.ir#KR 🇰🇷 ┇ VLESS-WS-TLS - LG DACOM Corporation ┇ 106.244.68.249
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p080.panda001.net:36379#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - LG DACOM Corporation ┇ 27.255.82.135
-trojan://d7ktir1r-qc30-sxao-96ef-zlznm0hnm6f5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q4ijpswq-2df5-djzy-7pc9-b7efotzvw513@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://qnrbuodi-ab2d-utul-k89y-r51895nyzy19@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6w6quoe8-seaq-jdhw-waf3-10j02h84vkmt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,8 +1,8 @@
-trojan://g2vve4sf-41yl-7u5e-82k3-9stnw4n6p7ps@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://ngrm9upf-7k0r-ineh-tak4-zs9h5728vts3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hsyrtz3d-ku1u-wq3b-anne-isema2ryil83@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lswtbgbx-oilx-hx5x-wjwi-65ci3ac6jfby@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://jqivq0wp-367f-hkx7-53kp-qp6uiza69o9u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bdajyqg5-hgia-9ele-h3pv-vhdcuh78yokr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmY2lhbC1ubA@nl-1.stunnel.cc:8444#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Deutsche Telekom AG ┇ 45.112.192.29
 vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
 trojan://bpb-trojan@146.19.21.61:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Deutsche Telekom AG ┇ 146.19.21.61
-trojan://ag7fd72s-odgr-odyv-000c-asupbwsygxnc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://x4bhp96i-rs93-f6f0-k5zw-5whm5iyubed5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://67s3oxnk-wn2v-dpfn-3y94-6rqyzrg1cttk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qdig0ep6-gibw-7ln7-v84z-dwapuoeyr8n2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

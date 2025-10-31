@@ -1,9 +1,9 @@
-trojan://kzt0kpk5-hv10-boqz-d9ue-aafijzrtgogv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://n1rignid-52av-wtci-9ibz-pp1zkzyfoxg4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9vk3sjax-9qsb-sv86-51mc-2mqj23ed7v7f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://ba5b3b07-0320-4a44-93c7-f60b211de28a@37.230.48.85:16080?type=ws&security=none&path=/#PY 🇵🇾 ┇ VLESS-WS-NTLS - OVH SAS ┇ 37.230.48.85
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.165.233.93:989#PY 🇵🇾 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 38.165.233.93
+trojan://suydo10k-8s97-24qc-sjj8-kgmveu36r436@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://oluzt2ov-ymht-mq4l-rqn8-atn51mj57nvm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1lwbizdr-1ekz-5wnl-7eh0-7jsfsshgtk89@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#PY 🇵🇾 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 38.165.233.18
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@37.230.62.172:8080?type=ws&security=tls&path=/?ed=2560&sni=a.mifeng.us.kg#PY 🇵🇾 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 37.230.62.172
-trojan://nnpkzv9f-9nas-1p8k-g72o-j4iq16lteyvh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c250mt23-caxa-gyvk-zk92-c0k6z4us4wiy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://ba5b3b07-0320-4a44-93c7-f60b211de28a@37.230.48.85:16080?type=ws&security=none&path=/#PY 🇵🇾 ┇ VLESS-WS-NTLS - OVH SAS ┇ 37.230.48.85
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.165.233.93:989#PY 🇵🇾 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 38.165.233.93
+trojan://x55ul62g-rhsp-d9aa-vwsq-m3e1ur6ec72y@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6fesy0n9-4pom-f7bj-c36g-t6r73hb8xvzl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

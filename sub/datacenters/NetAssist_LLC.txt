@@ -1,7 +1,7 @@
-trojan://hbw231ec-wknj-tldx-kz2f-d9ouzrb8mh9k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://qz8gbgfi-z2af-0pyh-e06q-x0johet3be4k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yoxwos3o-j8fr-4ote-asly-blq0bjoqh8el@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbkV3NXpvMlpoZFM4R3k5ZkFNUGZiaG9ndXV2OGJpTllwb3lIb05RTEgyb1pYV0E0VTR5NmlOVFlNZXhqYWlCdlFXdjJONGI0M2dwOVNWRUczbll2TWY3NXA0NkszSGU@imap.roomyinmita.name:40565#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NetAssist LLC ┇ 94.131.22.134
+trojan://xni4gs6g-ggji-evld-j446-jyv92055pckn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://lceihb3b-i93u-gggm-idjd-3cyit9pw04of@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1rnyyqvi-aglv-4pv5-036y-hcb7ltg9l36b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM@94.131.21.174:54075#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NetAssist LLC ┇ 94.131.21.174
-trojan://brye134p-ggy2-cqac-rwf6-jfhp3ryol4x2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wng807gr-hv1k-m33y-4tp8-ih34zng2np8a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbkV3NXpvMlpoZFM4R3k5ZkFNUGZiaG9ndXV2OGJpTllwb3lIb05RTEgyb1pYV0E0VTR5NmlOVFlNZXhqYWlCdlFXdjJONGI0M2dwOVNWRUczbll2TWY3NXA0NkszSGU@imap.roomyinmita.name:40565#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NetAssist LLC ┇ 94.131.22.134
+trojan://iln3nvsy-4k6z-72m3-xjgf-glv6cz0br38y@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ccah5bgx-n1xz-ah78-w5ch-fviyj4q7p5tk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

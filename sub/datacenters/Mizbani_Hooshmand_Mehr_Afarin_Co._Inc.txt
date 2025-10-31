@@ -1,9 +1,9 @@
-trojan://qx9k4usf-269r-cope-dubd-33wh2a09clfz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://9h67o1jn-xyvp-52p1-3woj-hf9wbnl86l61@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://midndbl5-onga-1qvj-j8aj-q6x0v1h8jn0i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://6867a06824476@178.239.150.103:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 178.239.150.103
-vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 178.239.150.221
-vless://ad7594f0-2373-40de-ba8c-52330fb785ad@ir2.server11net.ir:1010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.244
+trojan://pqxd2nvw-3fol-v11a-4sxh-ypusu9fcptg2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://9k3whye0-9tzr-7mjj-bh9o-rxzpwjnnek3d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kpb2pjrn-rw90-6zs8-1tfk-hmuw8bb6wfw4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cdac7fb1-0a6c-5d35-0573-cb41667eca46@germany.mytopmedia.xyz:46958?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.166
-trojan://799oixku-24ga-ln85-3b54-cxtd59nu2pmq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3b9tcum3-3rtx-xyqo-irc3-6wfrah6151et@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 178.239.150.221
+vless://6867a06824476@178.239.150.103:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 178.239.150.103
+vless://ad7594f0-2373-40de-ba8c-52330fb785ad@ir2.server11net.ir:1010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.244
+trojan://gxkihsrr-xe2v-rxvq-55qc-md15fs0axl2g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uh3e7k85-oott-9wyc-2l4w-87dldobz2lbh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

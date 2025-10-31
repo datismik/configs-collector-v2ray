@@ -1,11 +1,11 @@
-trojan://adrlccr7-wrof-lxlb-77dm-xszts2d4ugic@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://8dmvtm50-uqxv-nlbf-5kwj-63qzyium33e1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e828fhhl-h323-rzdp-txhj-2wmr34vbp5ig@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://ca2ae03c-75a2-4956-b86c-8784484aa263@95.128.196.217:3232?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 95.128.196.217
-vless://62149ca3-9870-49b2-9104-ef084f1de137@217.60.239.124:17479?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 217.60.239.124
+trojan://u2hvr03z-mx10-qux3-pz3p-qi9oeqcxqn3k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://7fmpvk16-ikg4-uxn4-ier7-g64dm0vg0hzh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ui34kmek-j7om-x475-vczk-hx07rtaoilmy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0387f978-a7cc-47c9-b421-39087bfd5845@217.60.239.58:26165?type=ws&security=none&path=telegram: @summertimeus#AE 🇦🇪 ┇ VLESS-WS-NTLS - Moon Dc ┇ 217.60.239.58
 vless://7e7002f1-bb3a-4706-bca4-b03ace4eec93@tun.vipship.ir:4040?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 217.60.247.3
-vless://d82fb66a-1bbf-484f-b0f3-9df421c77c63@vip4.richardserver.xyz:2081?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 95.128.196.155
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vb24gRGMgXHUyNTA3IDIxNy42MC4yMzkuMTIwIiwiYWRkIjoiMjE3LjYwLjIzOS4xMjAiLCJwb3J0IjoyNjU1MCwiaWQiOiJkZTIzMmFkNy00ZDI2LTRkNTktYTBmNC1lZTA3ZjE2NjI2OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-trojan://vi4zalth-v436-xk3p-124j-wi1gyxzhs7tt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vycn3jja-e1ng-adov-m2s7-snsfndilni7e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://62149ca3-9870-49b2-9104-ef084f1de137@217.60.239.124:17479?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 217.60.239.124
+vless://d82fb66a-1bbf-484f-b0f3-9df421c77c63@vip4.richardserver.xyz:2081?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 95.128.196.155
+vless://ca2ae03c-75a2-4956-b86c-8784484aa263@95.128.196.217:3232?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 95.128.196.217
+trojan://vysbjuim-3f93-thgg-cqhf-8euyy5c0lf1a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nik8vgdu-evfc-523o-j4qw-8qkr8960zoiy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

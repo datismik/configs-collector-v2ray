@@ -1,6 +1,6 @@
-trojan://vp7qoj1a-ipi4-5lmr-6v8i-3hhs1lz3vcv9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://ewi1edg8-2mpp-keyl-xkuu-ppe7gkj8w9gk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ul1k1cr7-1xbt-gqt5-i6r3-fgi23eaiq674@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dfb2nv9t-n2ad-r0dc-su6u-36400lusn3kt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://vsiq9nah-774r-y8c8-y0yt-csniaesu7vg8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xk8chaa6-2qki-arir-46ro-qwhms5coert2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6ea73e99-ff74-40c7-9fae-d02520bf429e@88.218.227.193:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Bieber IT GmbH ┇ 88.218.227.193
-trojan://jdd05l76-o0t8-eia8-yrqz-gjqzscpowp20@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://eqvncicn-l3lc-brko-yi25-pa28q74r8301@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://jva3mof2-k2j4-8dbr-2gbb-f3nftlf3a7vv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e5iy5zzi-jdcf-959i-syu0-mpqhsowl2pg5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,11 +1,11 @@
-trojan://84afbh1d-qoek-p5uh-6409-d3b6s4ncv8ef@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://is2wrax7-7gsd-6k6w-onol-wzsf2rw2ldiz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1p15gmy7-0uaz-5qo6-ztzs-vkeb04gft8q6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f3918c00-6d57-4f23-8ca5-2ee61c13adef@193.111.125.198:53904?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 193.111.125.198
-vless://5bb406d5-413d-4e4c-990f-fe6358820303@2.59.117.134:8443?type=ws&security=tls&path=/45f4d22d.Mareza.pages.dev?ed=80&sni=115794818s.servers801.ir#TR 🇹🇷 ┇ VLESS-WS-TLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 2.59.117.134
+trojan://iltzg21d-ffbi-wcrw-y82j-pzezzonocg8s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://1cyw6rdm-ojum-mp1t-igrn-syycd11szpbj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o3ricrn5-iqiw-xv4k-8h8u-gakuyhf05ule@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5bb14abb-58e2-42ad-8214-382b6dcd801a@91.151.90.231:443?type=grpc&security=reality&sni=feminists4jina.net&fp=chrome&pbk=gXCdbHLSxlT4DCgtd7oc33EtZrbQyoh8ztm7ELKSfyw&sid=7d891e2de36c#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Ph Bilisim Teknolojileri Limited Sirketi ┇ 91.151.90.231
+vless://a77c744a-a9fa-47a3-92e8-fc4e6a78bb7d@193.111.125.82:443?type=grpc&security=reality&path=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&sni=stackoverflow.com&fp=chrome&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&sid=05a6d4aa5e314637#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Ph Bilisim Teknolojileri Limited Sirketi ┇ 193.111.125.82
 vless://09f1d928-05ab-4ba2-80c5-f33edc244024@242488292719828919.m.www.servers801.ir:2096?type=ws&security=none&path=/fscsxfVgdzhrefjgsBgaa?ed=80#TR 🇹🇷 ┇ VLESS-WS-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 2.59.117.117
 vless://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096?type=ws&security=none&path=/fscsxfVgdzhrefjgsBgaa?ed=80#TR 🇹🇷 ┇ VLESS-WS-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 2.59.117.173
-vless://a77c744a-a9fa-47a3-92e8-fc4e6a78bb7d@193.111.125.82:443?type=grpc&security=reality&path=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&sni=stackoverflow.com&fp=chrome&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&sid=05a6d4aa5e314637#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Ph Bilisim Teknolojileri Limited Sirketi ┇ 193.111.125.82
-trojan://cnkp7oph-qpvx-9txj-kgzm-8ryqfw3hieut@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jkgwss25-71u7-dfvq-404d-5rjysh6jvmnt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://5bb406d5-413d-4e4c-990f-fe6358820303@2.59.117.134:8443?type=ws&security=tls&path=/45f4d22d.Mareza.pages.dev?ed=80&sni=115794818s.servers801.ir#TR 🇹🇷 ┇ VLESS-WS-TLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 2.59.117.134
+vless://f3918c00-6d57-4f23-8ca5-2ee61c13adef@193.111.125.198:53904?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 193.111.125.198
+trojan://8nrcj5un-yc46-6i3y-89j4-0lnh1znkv9gi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wv8kl9ce-ha6d-mheo-3d9p-39aqgxerja5e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

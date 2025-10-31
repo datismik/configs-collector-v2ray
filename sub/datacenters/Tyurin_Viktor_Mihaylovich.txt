@@ -1,6 +1,6 @@
-trojan://yrmz1skf-zna0-u2gb-bdal-ai1oz7tigv0g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://c3j8m4oi-z26t-hlvf-yrpy-aljgqr4xgeok@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9has3oc1-cmil-i7ty-om90-ibah9347u79u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3nmakxcf-maa5-ubii-h3ce-7zd6w217d2cx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://wersj4q0-wqjx-firb-0t6c-1k4ivuj1bind@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tygg7jcz-qnnc-tafw-2ssc-es060otubhgc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY3gzZG9TS0V5b2I2eUEwQ0t5RmdX@91.132.196.176:44324#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Tyurin Viktor Mihaylovich ┇ 91.132.196.176
-trojan://286mh0jg-k2eb-9r9d-1k8s-h4xz44s9brq2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hozswzhu-1djt-9lf3-6yyj-wofpd29d31rg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://gonw4fkh-ixtr-41a5-4zlt-7rtwzzyoo9sb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0oqdob3s-q4ls-vedn-3s4f-fmyarxhv9c9t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

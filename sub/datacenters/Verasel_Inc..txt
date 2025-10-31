@@ -1,6 +1,6 @@
-trojan://0vpiu6ol-3ga1-rnfl-e1w4-s8tzx0xzhs40@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://sk5cgadd-hx31-7685-a6od-bp90ybu8sg65@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://atl0e9tf-6x6y-fssq-f158-lyxc5ddn9buv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ezzfg89j-vbxm-l31v-r6d0-d3gp2sgfeoem@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://6txtr6jv-7vkb-vmkz-ga1n-i9t6oohqz2ai@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3gp2ax68-ex9g-unvc-mu05-ekddkuanpfqc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://id6061308608@185.40.4.142:443?type=tcp&security=reality&sni=www.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&sid=a8fd0db853b135#SC 🇸🇨 ┇ VLESS-TCP-RLT - Verasel, Inc. ┇ 185.40.4.142
-trojan://c8dintff-mrad-1bsx-23rl-aumi0mdyn6la@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://o09lnvhb-nd8c-wer4-fvac-zfzhj5xaqyan@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://fiqaukcm-uh99-dzh5-8jkd-jt7ik9m8hqv0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://r5hwpxsn-z84j-dvug-pr16-0em9ejk8dpe7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

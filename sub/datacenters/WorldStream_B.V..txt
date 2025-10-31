@@ -1,8 +1,8 @@
-trojan://rchlaahs-katt-1hpi-elny-u52qkechs220@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://juwixtt5-ns3m-yg44-bo0h-v8j87h7sygvu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://94tuls1b-by0s-aq2h-wxup-kbzq9fl2v6f2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://b95uceb6-ik9l-z8im-19pl-wlv51onkve9w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://sls5h228-ud9k-32m5-7zpq-mnui52ged16b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://znq1x1yn-np2f-mr5c-vw5e-0wep799lso1a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://0xwjL4wkfo@91.238.93.127:51708?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS - WorldStream B.V. ┇ 91.238.93.127
-vless://19deefa6-1a61-4466-8515-d24540956959@185.177.127.125:10801?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - WorldStream B.V. ┇ 185.177.127.125
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@91.232.105.253:2375#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 91.232.105.253
-trojan://dgveh7i1-vzww-g932-qy7z-zn5co4kvhqny@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l81nu8yn-ijec-z454-zb3i-o4cuhq6zxz53@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://19deefa6-1a61-4466-8515-d24540956959@185.177.127.125:10801?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - WorldStream B.V. ┇ 185.177.127.125
+trojan://depqkp0o-nqgb-90lo-8iu7-0ls9djrn2uu5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8td6e0vq-djl6-f1dr-p8sq-p42odj4u578o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

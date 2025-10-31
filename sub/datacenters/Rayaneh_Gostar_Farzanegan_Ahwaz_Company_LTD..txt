@@ -1,7 +1,7 @@
-trojan://gkcs7kxu-d64s-mgps-kko8-01723zsh57h7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://72y1fxo5-nh8r-hf44-2033-ijocjnv6cmfs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9ytoo5aj-uakx-l9gt-wobt-redu7x9atfsh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://phf2pvwb-u1i7-gt09-rstx-altrg2kn8n8o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://a14quwqt-b3rz-hrzs-707a-alars3whu7en@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ynf7coul-cws1-nm09-wlv8-pj3slkh04ffk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://310dffcd-5f4b-43eb-ba9b-6d74eab01a40@world1.royalping.org:44283?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Rayaneh Gostar Farzanegan Ahwaz Company LTD. ┇ 91.108.145.221
 vless://74c925ef-a199-4f9d-85c1-5282cf979892@tu.filterchi.shop:2089?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Rayaneh Gostar Farzanegan Ahwaz Company LTD. ┇ 91.108.145.42
-trojan://2ezrgmng-c8xa-qakv-as87-fvvfomvakaq5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ven7zc82-wmpd-vj5h-4xqs-ypf1w7omn2t9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://xqyc3qfo-9jiv-fqn0-krwk-xab9bda2hpbd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qycc9fhc-bcjj-edry-et0z-ewuussvl270g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,15 +1,15 @@
-trojan://9g1zg42b-vhdf-ftx1-k2jy-8lmmehfws70l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://hnscxcmh-vdpd-0qcv-ayt6-subgw4wklqgr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://oqfaldne-6vij-gjl3-nthd-q815mdl53g1j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgTW9oYW1tYWQgTWFzb3VkaSBcdTI1MDcgMTg1LjI0My41MS4xMTYiLCJhZGQiOiJrMS5kaWRpc2VydmljZXMuc2l0ZSIsInBvcnQiOjg4OTIsImlkIjoiZTY4ODI5OWQtNmU2Zi00YzNkLTkzZjMtYWRjZTczYTliMTlkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
+trojan://dcnf4qlr-rzj4-cb4x-4if9-kdyxcv7g0cv7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://ig9thm19-so1x-1juf-2co7-zhc8p28fpee0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o6at9p9n-xkqw-kux5-xr9a-afxjsakbh98y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e57fa5f8-78a1-4198-8fba-88354bf6b4dd@185.243.51.73:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.243.51.73
 vless://4c46c990-86c4-5489-b560-923943d009d6@213.21.245.59:80?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=midwlERxVPTIICiHDIPQn6mynPOHhpIRahRdvZ6VezY&sid=d5c38fd320#LV 🇱🇻 ┇ VLESS-TCP-RLT - Amir Mohammad Masoudi ┇ 213.21.245.59
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.243.51.67
-vless://b190ed58-a8db-46ce-a68b-8aefcb8a6866@213.21.245.91:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#LV 🇱🇻 ┇ VLESS-TCP-RLT - Amir Mohammad Masoudi ┇ 213.21.245.91
-vless://1fadbc66-03c3-43db-a134-1ca7703eca0e@37.32.41.184:5050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.184
-vless://367ee021-7c4a-4ecf-aef0-5f7e55e3551f@aratel.pcc-guide.site:57652?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.95
 vless://0ec7224a-6a95-4f4b-9039-d6c87cd47959@test.vipfastconnect.top:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.243.51.7
+vless://b190ed58-a8db-46ce-a68b-8aefcb8a6866@213.21.245.91:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#LV 🇱🇻 ┇ VLESS-TCP-RLT - Amir Mohammad Masoudi ┇ 213.21.245.91
 vless://71075f29-256c-430e-93c7-42f432bc8abe@213.21.245.83:443?type=tcp&security=tls&sni=tgju.org&fp=chrome&flow=-udp443#LV 🇱🇻 ┇ VLESS-TCP-TLS - Amir Mohammad Masoudi ┇ 213.21.245.83
+vless://367ee021-7c4a-4ecf-aef0-5f7e55e3551f@aratel.pcc-guide.site:57652?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.95
+vless://1fadbc66-03c3-43db-a134-1ca7703eca0e@37.32.41.184:5050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.184
 vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@37.32.41.247:2095?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.247
-trojan://sfydun7h-0h8d-d7ob-66zh-9kb1e6w3bs8q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://no78aaa0-pn5a-sh37-wa5e-vxdiowsjnx0h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.243.51.67
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgTW9oYW1tYWQgTWFzb3VkaSBcdTI1MDcgMTg1LjI0My41MS4xMTYiLCJhZGQiOiJrMS5kaWRpc2VydmljZXMuc2l0ZSIsInBvcnQiOjg4OTIsImlkIjoiZTY4ODI5OWQtNmU2Zi00YzNkLTkzZjMtYWRjZTczYTliMTlkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
+trojan://3fzf3bsh-0h9l-gz7p-fkcj-ee1kv7oyyyl3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://f3sqsdh7-x60q-9jl6-3b9m-58lmp6a076w2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,9 +1,9 @@
-trojan://e1ytrap2-iq7y-y0fj-eykw-mgam16z61ubo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://wlssusym-wsfe-bbdi-34bf-s7nfbvct71xp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b5rwkqbf-agc2-5o71-h1ni-gkfzcaqfcb3j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206MTAwOTVmMGQtNTJmNy00MTdlLThhY2YtOTM0NzgwYzVjNmNi@sg03.dns-node.top:45606#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB SINGAPORE PTE. LTD. ┇ 142.91.98.102
-ss://YWVzLTEyOC1nY206ZjM0N2I2NDQtNWNlNy00OGIyLWJlMDctOTc0NzQ4MDVhOWFm@sg04.dns-node.top:45609#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB SINGAPORE PTE. LTD. ┇ 142.91.98.103
+trojan://njx97xl6-lz1l-lk21-ch1h-z896whc4d8jf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://cbujil4k-zww8-fmzq-hzvu-ivi63lryhs3d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pow6el33-taba-otjg-dsww-pj8p66rgrnbe@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBTSU5HQVBPUkUgUFRFLiBMVEQuIFx1MjUwNyAyMy4xMDguMTAwLjEwMSIsImFkZCI6IjIzLjEwOC4xMDAuMTAxIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0
+ss://YWVzLTEyOC1nY206ZjM0N2I2NDQtNWNlNy00OGIyLWJlMDctOTc0NzQ4MDVhOWFm@sg04.dns-node.top:45609#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB SINGAPORE PTE. LTD. ┇ 142.91.98.103
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQiBTSU5HQVBPUkUgUFRFLiBMVEQuIFx1MjUwNyAyMy4xMDguMTAwLjEwMyIsImFkZCI6IjIzLjEwOC4xMDAuMTAzIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0
-trojan://ll060pw1-9knj-555c-mska-ej3lsswkv9k8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dujti93p-cy2k-ifh4-vnu5-iv7nuoqu6dut@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTEyOC1nY206MTAwOTVmMGQtNTJmNy00MTdlLThhY2YtOTM0NzgwYzVjNmNi@sg03.dns-node.top:45606#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB SINGAPORE PTE. LTD. ┇ 142.91.98.102
+trojan://nnxwvcxr-u6ty-djah-jod1-dy3z2jj13got@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n2px0jfu-tqkw-53wg-gktf-6dr4kbvadh6v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

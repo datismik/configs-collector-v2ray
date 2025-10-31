@@ -1,7 +1,7 @@
-trojan://omgd8qx2-llkt-5958-hzky-hbkxzsy07eal@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://z4s6ptdp-a6b5-tjux-3i9g-0t1qxq5cx9nk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tzd4ndgs-uu4v-fccf-76i0-8xn1wvs1jieo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://styjfl2o-nohe-tmo7-aq35-ds3f0nislbwl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://7a8e5yt0-8unk-hbzz-yyv9-7m1wis0wz8sj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3kbapiqm-03l1-3go9-vxer-2zoswdk1ugi9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://37ec1122-1f20-1498-24b1-a99f8d915f94@87.229.100.156:80?type=ws&security=none&path=/IVApi/DE/2#HU 🇭🇺 ┇ VLESS-WS-NTLS - Seed Technologies LTD. ┇ 87.229.100.156
 vless://676973db-f43b-48f6-0607-0fe1bed7266e@45.88.8.147:80?type=ws&security=none&path=/IVApi/NL/2#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seed Technologies LTD. ┇ 45.88.8.147
-trojan://0dl16l57-x02b-okys-8uav-8w6onkm2d1np@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6u7xmze3-xojb-6yuq-sgos-s7rx8yid9mom@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://u5yq38m6-ifyl-vlm4-k0dp-9xk9xkl8bwyx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lab8ychp-tjfy-afw8-d5s6-ml6pmu76fmlk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

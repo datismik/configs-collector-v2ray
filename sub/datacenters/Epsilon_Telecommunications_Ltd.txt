@@ -1,6 +1,6 @@
-trojan://dncboezk-kyes-sgf9-fnpc-ffb0iiv90clz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://vxef6o06-98au-6y39-fswo-1j2753mqoezj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2dbuu8z3-xk59-hvg9-14ez-5oqijnyehtck@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xnerom93-89q6-roc4-b335-cyog1jrexnfu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://xpmdacsw-57yb-6ec2-zxd9-erimx0cxmkz6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://k1elnzsq-lbsa-9cgj-o1vp-ulohwsjj371o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.229.96.166:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#SG 🇸🇬 ┇ VLESS-TCP-RLT - Epsilon Telecommunications Ltd ┇ 103.229.96.166
-trojan://eaorgh8f-y8zd-cmlw-xjqd-46ic79peuemf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rn68oghm-4vn9-t3cr-zit8-2gd6qme3ljwa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://j47q428t-a6xq-4r58-6b4c-uebf97zmeoay@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2kzvljt1-4fl6-78nj-0337-1f57frs7qgu3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

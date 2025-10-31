@@ -1,7 +1,7 @@
-trojan://9g7rrdc8-6ug8-pnt0-0ldq-eteizpb9ss3h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:30 ]
-trojan://hsos2lfx-f4as-qu51-8euv-3w8k6l7yax2k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://65hv4f0a-ploc-ivj4-jo2z-xyrhacy7qxw5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://6AC378EE-C9AE-9D3C-3DD9-8C034898BE44@36.111.157.249:14504?sni=mpvideo.qpic.cn&peer=mpvideo.qpic.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET SHAANXI province Cloud Base network ┇ 36.111.157.249
+trojan://nqzzf3dh-8y7i-ewq6-473n-sqc33ejfdaev@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 18:26 ]
+trojan://rt9brbo8-juf8-hy14-6p4y-dzjc8a0cpjp1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z140ajyt-7sg7-3j1r-w5dk-udwr26p7ioi3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDdhZDMwZi0zNjI3LTRlZWItODY5YS1jNzEwNzhkNDY1NGY@chiyu.myfczy169.top:50691#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET SHAANXI province Cloud Base network ┇ 203.2.160.236
-trojan://3hevwhjk-aqf0-jh3g-71ih-tkpjlnvzeh3d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://b6qhmlg2-b76c-v4gx-8hxz-x76szexs1r7a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://6AC378EE-C9AE-9D3C-3DD9-8C034898BE44@36.111.157.249:14504?sni=mpvideo.qpic.cn&peer=mpvideo.qpic.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET SHAANXI province Cloud Base network ┇ 36.111.157.249
+trojan://izubtw9t-xspk-gg9x-nf2b-7ri9t7myvwvv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1gaf8ixf-u298-dadg-l7f5-e7u18qpjwl7r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
