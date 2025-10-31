@@ -1,12 +1,12 @@
-trojan://3otsfn0d-68w9-6brm-cxyq-5d4fvvhrtlao@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://sjqqziv4-fyc2-f611-dvf5-s6oh6gs63bbw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xzddo2yf-6nwv-4j29-vebx-6sguwn083r8i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc@112.54.160.36:30232#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 112.54.160.36
-trojan://e7313acb-7af6-4fee-8483-eeaded7cf3a2@f10002.flyflylflyflyssssnode.sbs:42751?sni=sk01.ckcloud.info&peer=sk01.ckcloud.info&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Shanghai Mobile Communications Co.,Ltd. ┇ 117.135.31.20
+trojan://5pw9xiv1-lzif-p0vx-vz7i-76ik0inrottd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://4kggufmf-e3ux-1dtk-j9c8-2e41x2x1jm5l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kcuqw9oz-l1ww-fli4-fb9i-6j7as64wj63c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6AC378EE-C9AE-9D3C-3DD9-8C034898BE44@117.186.219.179:14424?sni=mpvideo.qpic.cn&peer=mpvideo.qpic.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Shanghai Mobile Communications Co.,Ltd. ┇ 117.186.219.179
-ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc@112.54.161.141:20406#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 112.54.161.141
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTaGFuZ2hhaSBNb2JpbGUgQ29tbXVuaWNhdGlvbnMgQ28uLEx0ZC4gXHUyNTA3IDEyMC4yNTMuMjQyLjIzMyIsImFkZCI6ImpwNi52aXAyLmcyLm1vb25iYXNlLmxpZmUiLCJwb3J0IjozNTI0NiwiaWQiOiJjMzEzNjgxNC1hMDdlLTQxZjYtYWQ5NC04ZTIwNDU4YzBkMjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9ob21lIiwidGxzIjoidGxzIn0
+trojan://e7313acb-7af6-4fee-8483-eeaded7cf3a2@f10002.flyflylflyflyssssnode.sbs:42751?sni=sk01.ckcloud.info&peer=sk01.ckcloud.info&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Shanghai Mobile Communications Co.,Ltd. ┇ 117.135.31.20
 trojan://e7313acb-7af6-4fee-8483-eeaded7cf3a2@f10021.flyflylflyflyssssnode.sbs:49148?sni=tw02.ckcloud.info&peer=tw02.ckcloud.info&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Shanghai Mobile Communications Co.,Ltd. ┇ 117.135.31.6
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTaGFuZ2hhaSBNb2JpbGUgQ29tbXVuaWNhdGlvbnMgQ28uLEx0ZC4gXHUyNTA3IDEyMC4yNTMuMjQyLjE5NCIsImFkZCI6IjEyMC4yNTMuMjQyLjE5NCIsInBvcnQiOjM1MjE0LCJpZCI6IjQ2YTUzOWQyLWQzYmEtNGE2ZS1hZWRiLWI3MjdkMmZjNjBmOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoianA0LmcyLm1vb25iYXNlLmxpZmUiLCJwYXRoIjoiL2hvbWUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqcDQuZzIubW9vbmJhc2UubGlmZSJ9
-trojan://t1e7hkc3-aodn-yq5p-plsl-us96b4zdo2tn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qrx73gpo-txz2-pu01-k6n8-x0peyflk2xah@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTaGFuZ2hhaSBNb2JpbGUgQ29tbXVuaWNhdGlvbnMgQ28uLEx0ZC4gXHUyNTA3IDEyMC4yNTMuMjQyLjIzMyIsImFkZCI6ImpwNi52aXAyLmcyLm1vb25iYXNlLmxpZmUiLCJwb3J0IjozNTI0NiwiaWQiOiJjMzEzNjgxNC1hMDdlLTQxZjYtYWQ5NC04ZTIwNDU4YzBkMjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9ob21lIiwidGxzIjoidGxzIn0
+ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc@112.54.160.36:30232#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 112.54.160.36
+ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc@112.54.161.141:20406#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Shanghai Mobile Communications Co.,Ltd. ┇ 112.54.161.141
+trojan://cxa5l50u-kbrg-ek45-051o-krqt1zbjoz5g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cks0h98b-ft3f-gfpm-z8cz-iiv30cowocbx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

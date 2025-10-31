@@ -1,8 +1,8 @@
-trojan://a17c493j-uaqv-wawa-z0rr-wmhjrcmfbhw5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://knurio6k-hdci-3wrw-q6ez-djjf4r8tbsph@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2e4w2h9c-pqh5-kfto-pzgx-s5fuhiuw0yas@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UEM0S3p0UXdSaXhDUzgwOVpGRWxsUXBtQU1uNG9FME85cWRyQ1lvNE1kRVhKVTU3N2NqWWVhRzB0WkR5Umww@95.173.180.35:21657#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Netinternet Bilisim Teknolojileri AS ┇ 95.173.180.35
+trojan://dwg4rbcu-2bbh-39lt-1b9p-fnf46k47c7ud@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://42mmivop-tr9q-g0nr-7wmq-5jti3rc55yhn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ofv05ib8-pyjb-vyl7-jai4-r4pdkeld7366@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://bb890f4d-c655-47ec-8dea-2537df4946a7@185.95.84.110:18?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netinternet Bilisim Teknolojileri AS ┇ 185.95.84.110
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.34:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221#TR 🇹🇷 ┇ VLESS-TCP-RLT - Netinternet Bilisim Teknolojileri AS ┇ 95.173.180.34
-trojan://xxb0tspq-uw8o-hzbp-3j8n-azyjyycafdp4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7781x5vy-jhf1-8xtb-hbsg-648wui437h5k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UEM0S3p0UXdSaXhDUzgwOVpGRWxsUXBtQU1uNG9FME85cWRyQ1lvNE1kRVhKVTU3N2NqWWVhRzB0WkR5Umww@95.173.180.35:21657#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Netinternet Bilisim Teknolojileri AS ┇ 95.173.180.35
+trojan://1qi63idu-07y7-66o0-d8u6-xyjgso6xstuz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v2669e11-cytp-4o9m-zbrr-iord39x1ltxk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

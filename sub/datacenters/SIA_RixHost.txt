@@ -1,8 +1,8 @@
-trojan://p9crn4p7-u9nw-zsgp-w36k-92hyfrs5oq1z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://3cftrveb-iiwt-k1pa-uaky-oy4wuxyreft3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wq2xj252-23sl-hl42-ss30-8iy6qqwo2qgh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://smfu3ydw-7res-7tw3-5lw7-etybbh4vocdj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://er4kzfkt-wkor-rxbk-2gev-uh02i40ecp3v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pjk2hgb6-e67o-siak-r0qm-dag36zxger6u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.217.204:990#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA RixHost ┇ 46.183.217.204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA RixHost ┇ 46.183.217.232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@lv.vpnsparta.pro:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA RixHost ┇ 46.183.219.202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.217.204:990#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA RixHost ┇ 46.183.217.204
-trojan://pd8fxif8-avv3-z5pe-ckyd-a8znz1afb9nl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4bofoo0e-u8dp-15g7-4hrh-9aif3s5c57ti@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://elwnhbgx-moo3-uhwl-kzs1-rb0gk1wdkycc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9f103vw2-4y03-t89w-8sz6-nuwabm7s97op@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

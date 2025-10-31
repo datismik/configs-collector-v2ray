@@ -1,7 +1,7 @@
-trojan://fpx1kevn-q04l-ol8k-kbnt-vz6nz3ote6wr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://wrbz1d0u-fzr6-1bhb-7d1t-60j0uolnc1yv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://v4u2qm7v-76xn-fj10-5tdp-3lbbja7xal1c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d9a2c56e-30e3-4e35-9a49-cf49dfb1d489@31.6.1.187:27229?type=tcp&security=reality&sni=store.steampowered.com&flow=xtls-rprx-vision&pbk=1_vS_JKpOvJnqPUDyaREbXWd5M59bIIKsNyV5Kt0uD8&sid=cd1f804d#RO 🇷🇴 ┇ VLESS-TCP-RLT - Promo Plus SRL ┇ 31.6.1.187
+trojan://3s8mc5tf-cn8y-o3p7-hd5m-uyrqjv6pf4vt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://3ehf2o48-6bp9-zv93-0c77-js7r565k3nqj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4xl4dkh7-9xy0-639q-0eqp-215kvqgre36b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a1f51e2b-cc02-4eb6-938c-ba3d147d6bef@31.6.1.186:48900?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=Jw3O-jHc_8zh0MBeIoodZZr8f6zCBDRlm4MU56WkWmg&sid=45a64f6db317adcd#RO 🇷🇴 ┇ VLESS-TCP-RLT - Promo Plus SRL ┇ 31.6.1.186
-trojan://qza50j7f-5mw3-or39-lcdf-bdhe8dsv8pgc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://izxa4hjx-q628-m2bo-6kju-w4c0usu6lg0u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://d9a2c56e-30e3-4e35-9a49-cf49dfb1d489@31.6.1.187:27229?type=tcp&security=reality&sni=store.steampowered.com&flow=xtls-rprx-vision&pbk=1_vS_JKpOvJnqPUDyaREbXWd5M59bIIKsNyV5Kt0uD8&sid=cd1f804d#RO 🇷🇴 ┇ VLESS-TCP-RLT - Promo Plus SRL ┇ 31.6.1.187
+trojan://tz6ctu25-gh2m-q4ey-g5no-1qt8s6mxwdc4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zt2fdgkb-kztq-jtne-k850-5zm04bcl0ny7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

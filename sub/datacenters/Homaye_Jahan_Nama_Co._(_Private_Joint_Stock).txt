@@ -1,9 +1,9 @@
-trojan://dbj73xq6-rsxm-lhe1-2bbd-ctkg82ci61cm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://sc0p5a3z-ew59-aowa-3dov-6hh248tyf7tg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://apgtyexy-mtso-8h9x-bsbq-9ms23c3h07fi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f14pa633-tp2q-07je-0evv-nd3nq5ia1fv6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://hdjyjn7z-xocu-5xby-ul93-6i3whu1jf1ps@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0s28gwzo-0wi3-heaq-u1rf-k30cwnlmik96@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9b6dc8a1-e4ef-45ca-a697-6451f15f297e@212.86.94.250:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.250
 vless://846ff6ba-eb3d-4edf-a18b-05fa814bf5cb@212.86.94.182:57350?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.182
 vless://e3ad2103-0f2d-4926-bc46-562dd3fbd3ba@212.86.94.176:31388?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.176
 vless://3779d8de-63f4-40d4-a266-406c0f885ae6@212.86.94.234:57350?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.234
-trojan://qa9t9cle-x5vc-q7kx-r0e1-qjq37bypfp0q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mkeb6lz7-rwd3-ksa6-vlff-2kv0yx7293gb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://pfbohfta-ehrz-s0u1-nsz1-f0edem6dcrk8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://34ffr5op-al3d-gwte-970f-g380ovfqdxt7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

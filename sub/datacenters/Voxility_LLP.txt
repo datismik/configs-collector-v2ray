@@ -1,6 +1,6 @@
-trojan://js0ke6o6-lema-5v7u-ydef-s7a24r8bksvk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://m2sij1rs-8uwu-9suj-m4re-wjg1udu6pyi5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://05xr2ziw-nxeq-t9l2-me2y-aojj0fzms96z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mx7s0b07-cctz-w872-xg46-lwpgq141t6c4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://wxv4bg14-l9be-w6lx-ng7l-70trp6q8potl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bjn6w2az-zy3n-jgsp-tko9-e4oa9jmc505b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://2bfa08e0-ae1e-11ed-a3a0-1239d0255272@de2.socifiles.com:443?sni=telewebion.com&peer=telewebion.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Voxility LLP ┇ 5.254.17.52
-trojan://2xmwcwkh-95ry-w7w2-s20o-d61b4q0fr87z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mcwx5nx1-87xn-2fit-wco1-79fr63po3y3u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://yix6kded-s6k2-v29i-vwjk-km2cjpsz6utq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://thxq282c-ii0w-ht3p-czzc-pgpx13m2zfsi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

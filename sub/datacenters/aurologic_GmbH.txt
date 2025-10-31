@@ -1,9 +1,9 @@
-trojan://kz1oyy5n-1hze-xc9e-uez6-2d84yxcdrmgq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://hq4ib96w-dwm5-uq88-ifm8-gfi7kada1wrr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ufw3rso3-bldo-3goq-izfz-rqe9686g43e1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ci6xgxw6-f9de-c1m4-2fv8-p4so7fk47avl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://c6izh5mt-oooq-oil4-bv2r-n63enag3emcr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zw7kac86-25l0-2g6g-aswb-yy8tsd5t7t8s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e7dc94db-a940-4bd0-8f98-a926b2f2b734@194.62.157.52:33162?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - aurologic GmbH ┇ 194.62.157.52
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIGF1cm9sb2dpYyBHbWJIIFx1MjUwNyAxNzIuODYuOTQuMzMiLCJhZGQiOiJrYW0uZGV2cGlyYXRlLmJhYnkiLCJwb3J0Ijo0NDUxNCwiaWQiOiJlYjBlM2Y0Zi03Y2I4LTQ1MTItYWIxMi1mZTA2MzFjMDlmYmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://94a028e2-b2f8-5019-ade4-5e462ee6ae1e@nl1.xvless.online:80?type=httpupgrade&security=none&path=/httpupgrade?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - aurologic GmbH ┇ 5.144.176.131
 vless://e699e9dc-c1a7-4ab8-a597-bbfae5219fe5@cloud.net0n3.shop:10443?type=xhttp&security=reality&path=@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3&sni=flask.palletsprojects.com&fp=chrome&pbk=gUEJWr93w_k1Xr9CLdEl03KzYj4cW7vgJjtWaEm_XWo&sid=ff9f#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - aurologic GmbH ┇ 172.86.92.74
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIGF1cm9sb2dpYyBHbWJIIFx1MjUwNyAxNzIuODYuOTQuMzMiLCJhZGQiOiJrYW0uZGV2cGlyYXRlLmJhYnkiLCJwb3J0Ijo0NDUxNCwiaWQiOiJlYjBlM2Y0Zi03Y2I4LTQ1MTItYWIxMi1mZTA2MzFjMDlmYmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://w2lxa42d-vejc-3u30-p76o-lgok7zis33ku@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1xeqfglt-j3ev-0u9w-y6eo-0dii3u57j3ao@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://hvp809h7-86wx-wwra-uym7-xp6fjciiew2g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://f7pj5jj9-fr5s-9a6i-yoe7-e0jkr8qre0gd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

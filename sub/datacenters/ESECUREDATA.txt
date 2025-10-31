@@ -1,7 +1,7 @@
-trojan://75j0qo7c-r7dz-pnge-l8eb-hlm7i1ivjv2a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://5gyoojs3-5o1v-hlt5-x4dw-vlgsnyl1r56l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://10ghdi19-4972-p4qd-fb2x-tan6jq6ngkg7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SkVKcFFITlRaU2MxYXV6VmsyV3Mz@162.221.207.62:8443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESECUREDATA ┇ 162.221.207.62
+trojan://ved6rgdb-jot7-rnfr-w1v0-e45299oju73l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://rp1xez79-8m5v-xu6w-n170-ui171zcczd3c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ggaoawno-zb0g-53wc-mwob-dqmiksc0gi4k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESECUREDATA ┇ 162.221.207.189
-trojan://73cfy9on-jdd6-oihe-0i0l-zsibmpd4zi3o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ac77l91w-60x8-dsva-ad1m-4u9h8wd9six4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SkVKcFFITlRaU2MxYXV6VmsyV3Mz@162.221.207.62:8443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESECUREDATA ┇ 162.221.207.62
+trojan://wxf9v6x6-wrha-hzhy-5pei-k1rcpv0ltsot@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ecpgl4aq-g0j3-wj0i-mkzh-zgk6remjzagt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

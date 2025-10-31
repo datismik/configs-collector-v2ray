@@ -1,7 +1,7 @@
-trojan://jxzhmvgg-ays4-sutg-t7cj-g5ebfdjb6in9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://hukojhxf-u4xe-b8ew-3tur-3mu3uigc88w3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://64qlrv2u-f44c-96x6-g8j4-o8neaj6dp04l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://x5c2u6fz-91aj-a3b9-j63u-7rkz3ndx9lyh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://0rm9o5i0-gzeb-01t4-nswy-4786i737l9sp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://alf9pp7o-52p1-q4pz-rsri-ad48l8wj6dzm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206dHhtSzlXaHdQNldQaFA3aHFTQkxWeHBO@31.171.153.133:34687#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Keminet SHPK ┇ 31.171.153.133
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#AL 🇦🇱 ┇ SHADOWSOCKS-TCP-NTLS - Keminet SHPK ┇ 31.171.153.181
-trojan://rvc0k1so-eezp-57i7-8l61-xjp0q3cezxhh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xwqvazaq-b893-a92u-9hev-0giel2ra901r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://osxciu4k-m092-myde-0m3k-31sq7b6jcng0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://g75g9dk1-pl94-n75n-j1td-7ndfnib3fv73@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

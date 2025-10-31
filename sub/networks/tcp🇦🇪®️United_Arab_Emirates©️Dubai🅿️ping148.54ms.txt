@@ -1,6 +1,6 @@
-trojan://mfvu7vae-y7h0-1gnt-ucwk-vhl8j4p56aci@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://wu9ij7jm-xy5b-e6w9-x7if-139j2in9bqyg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://oj3bthaq-wye2-4pet-s2m0-w9we9uzjihty@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4eqb4zf0-53u0-kt95-dm64-lrg5ozyf7rzv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://d2uezmv5-bna2-iiv9-ch7l-7ol88y4ntxbk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0xbbobbl-b9sh-z8la-bfm9-z32qgxwostx2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://855a7a3c-8a57-4d4a-b41e-efb8c928ffed@93.127.180.151:3030?type=tcp📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:148.54ms&security=none#AE 🇦🇪 ┇ VLESS-TCP📡🇦🇪®️UNITED ARAB EMIRATES©️DUBAI🅿️PING:148.54MS-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.151
-trojan://mza3r7p6-0xou-b7jd-4kzl-95mbee1myk1p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fuwlggv9-mff2-e9s7-3wt4-dlyw7mzeqocq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://f9227bk8-30cj-bh9l-y1i7-eknolk9gpz53@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4eln9fds-me8b-e1ye-ewu5-acrkojcms37w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

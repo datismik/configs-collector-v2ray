@@ -1,9 +1,9 @@
-trojan://z63o9qjd-hcvc-34aw-e1bz-rnlipaewi551@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://lih1cxyh-iv85-h0op-ep8l-o4pi77xgcmlz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sn710dx1-tezj-hn1u-24v8-deh55iip7vgl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 45.12.75.242
+trojan://t4ei4ztc-5hkw-oybf-j8pq-ddc6o67tth3h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://9ij1ujaq-sad3-bvft-2ae5-0v98as4j2r6g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zewyznv9-btmx-9qb7-f0p3-1o3bndehsz4m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://id6856346113@s2.nodu7.ru:443?type=tcp&security=reality&sni=vk.com&fp=random&flow=xtls-rprx-vision&pbk=bWATFn02Eb2vDUoSYiycIcNfkTqn-wqeqFJ2i56ZdGY&sid=cc59#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 46.173.16.185
 ss://YWVzLTI1Ni1nY206ekdkRndxRzU4b0pOdkJpWjlKOVlHNjdVdldHSFFlTC94TkZvK1gzY2JLOD0@31.129.109.128:22147#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Beget LLC ┇ 31.129.109.128
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQmVnZXQgTExDIFx1MjUwNyAzMS4xMjkuMTA1LjIzOSIsImFkZCI6IjMxLjEyOS4xMDUuMjM5IiwicG9ydCI6MTYyMzEsImlkIjoiNzkzZTAzY2MtMmIwOC00ZDFiLWJiMGItNTkyNTY3ZDE5MDQzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
-vless://id6856346113@s2.nodu7.ru:443?type=tcp&security=reality&sni=vk.com&fp=random&flow=xtls-rprx-vision&pbk=bWATFn02Eb2vDUoSYiycIcNfkTqn-wqeqFJ2i56ZdGY&sid=cc59#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 46.173.16.185
-trojan://9hpsxrkk-zzwk-ybf1-0etj-uzgc2uf0uqbj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bz5l0rcm-ft89-mu5o-mb7z-movxleutxsqa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#RU 🇷🇺 ┇ VLESS-TCP-RLT - Beget LLC ┇ 45.12.75.242
+trojan://6nlx1cun-5w70-fly4-kp20-z1uelu18x9m1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://41zmh9o0-r5ka-xnk3-zsx6-g4vd6awpoqee@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

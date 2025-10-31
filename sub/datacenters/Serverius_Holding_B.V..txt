@@ -1,8 +1,8 @@
-trojan://cyyricou-tovw-dyi4-84n1-xmu6im59rcyc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://hs2tjo6y-pcfe-82u5-6lro-4drryhvdhcve@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://owabw611-c0yd-wwap-ixe3-zipl3r497jwb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ckkpee6j-5udx-d2we-gjjg-pm2m0rrv4p1i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://zjqcvhn3-lf93-bsr8-sd8i-vnwuglwngegu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://648afnc1-5o51-c7a0-rjck-7mh6gw28bdrs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://96f97d12-d89e-4ffc-9d33-77927f041570@46.249.35.171:50175?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Hhu0s3MQbVt6XEggtDYUoy4DnzuIJw5VOhXC2QMQ_io&sid=ead5fbe08ecf49#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serverius Holding B.V. ┇ 46.249.35.171
-vless://cbc043ca-bef6-431b-a182-5ca6446253bb@mech.sharghidustrial.ir:443?type=ws&security=tls&path=/9GUmETb6BT7sPyZ4Bfz0qA&sni=mech.sharghidustrial.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 88.218.17.244
 vless://82f726c1-9d81-4ec5-881d-2da53a4d1a38@91.198.77.59:650?type=tcp&security=reality&sni=dolat.ir&fp=chrome&pbk=aMttwESaYXl_Gh2EOT8BHNGkX7K9n_7iQg8a0SEs5R4#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serverius Holding B.V. ┇ 91.198.77.59
-trojan://nk372cok-80sm-79x4-r4ie-lln2mrm0k8dw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mcazgp7v-oult-k6eh-7whq-upxl0dn9lk6c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://cbc043ca-bef6-431b-a182-5ca6446253bb@mech.sharghidustrial.ir:443?type=ws&security=tls&path=/9GUmETb6BT7sPyZ4Bfz0qA&sni=mech.sharghidustrial.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 88.218.17.244
+trojan://3zqwrctx-atxm-ijgy-jelv-e4jo9eyscuev@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5wre0tkt-onpn-anvb-w857-pie03a15zgxt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

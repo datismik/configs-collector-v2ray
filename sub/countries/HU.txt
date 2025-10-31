@@ -1,15 +1,15 @@
-trojan://5brmbopd-sn76-lxde-u11w-93j795ssqbj1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://ms76jfr7-rw2o-26r1-ic66-8rwhhtxnhgs8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hxsr3kpl-ebe0-tl9e-oa77-o694z91fp29b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443?sni=customer-77-91-72-197.stark-industries.solutions&peer=customer-77-91-72-197.stark-industries.solutions&security=tls#HU 🇭🇺 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 77.91.72.197
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 86.104.75.103
-vless://37ec1122-1f20-1498-24b1-a99f8d915f94@87.229.100.156:80?type=ws&security=none&path=/IVApi/DE/2#HU 🇭🇺 ┇ VLESS-WS-NTLS - Seed Technologies LTD. ┇ 87.229.100.156
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.163.204.94:990#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - ServerAstra Kft. ┇ 185.163.204.94
+trojan://ugweaakw-gwmb-6zlg-658l-058g16ln9u9z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://mf2coinq-is2a-zd33-jvb3-7ok5il37empv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gzar8xfp-wg7h-3xa0-5z83-yavookbolkp8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.130.160:989#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - Magyar Telekom Plc. ┇ 194.71.130.160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VzNLTmxzdzc3QmtPbWh2MzZCNzZpS2VPek5pRUNjTzFxdm1wdlAyeVRYQ3VPRHZjdFRLZ1JUTnFjNWRQUkxZ@5.182.38.211:42658#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 5.182.38.211
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#HU 🇭🇺 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 5.182.38.91
-vmess://eyJ2IjoiMiIsInBzIjoiSFUgXHVkODNjXHVkZGVkXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDUuMTgyLjM4LjEyNCIsImFkZCI6IjUuMTgyLjM4LjEyNCIsInBvcnQiOjgwMDAsImlkIjoiNWMxYmIwZjktYWFiZS00ZTJkLTlhNWYtMDNjNjAwZWIyNjA3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.219.237.163:990#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - ServerAstra Kft. ┇ 91.219.237.163
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - ServerAstra Kft. ┇ 91.219.237.102
-trojan://cq4iscpm-9w20-xht0-c6sg-hgcx1jv9044s@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ylei0g28-c67l-ozrd-zflf-rac13w15nhqo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VzNLTmxzdzc3QmtPbWh2MzZCNzZpS2VPek5pRUNjTzFxdm1wdlAyeVRYQ3VPRHZjdFRLZ1JUTnFjNWRQUkxZ@5.182.38.211:42658#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 5.182.38.211
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.163.204.94:990#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - ServerAstra Kft. ┇ 185.163.204.94
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443?sni=customer-77-91-72-197.stark-industries.solutions&peer=customer-77-91-72-197.stark-industries.solutions&security=tls#HU 🇭🇺 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 77.91.72.197
+vless://37ec1122-1f20-1498-24b1-a99f8d915f94@87.229.100.156:80?type=ws&security=none&path=/IVApi/DE/2#HU 🇭🇺 ┇ VLESS-WS-NTLS - Seed Technologies LTD. ┇ 87.229.100.156
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#HU 🇭🇺 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 5.182.38.91
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.219.237.163:990#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - ServerAstra Kft. ┇ 91.219.237.163
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#HU 🇭🇺 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 86.104.75.103
+vmess://eyJ2IjoiMiIsInBzIjoiSFUgXHVkODNjXHVkZGVkXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDUuMTgyLjM4LjEyNCIsImFkZCI6IjUuMTgyLjM4LjEyNCIsInBvcnQiOjgwMDAsImlkIjoiNWMxYmIwZjktYWFiZS00ZTJkLTlhNWYtMDNjNjAwZWIyNjA3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+trojan://49zm41kb-da1q-t8wf-3nsf-r8yk51ksuk41@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://98rss73z-3lcj-26pc-3a7w-dlvl8lhwqkbd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

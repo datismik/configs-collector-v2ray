@@ -1,7 +1,7 @@
-trojan://vvupm5wt-zvdf-h62r-4uo3-u9z50koxn119@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://4y1prhnh-f1pc-l7r7-oo8v-fukgqsp1cqtp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u59junku-8vlk-2x4x-4vfc-otjjy29n5ju1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lvtigm9e-xahj-ajsx-bzgu-72tfum0o9sv0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://lczwmfff-me09-e7om-9apz-erkk6io1ke32@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lsnuqfy3-an28-tiuu-1iqd-8zgvcnm09y4t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://cmM0LW1kNTpQYW9mdQ@111.6.86.80:1157#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Henan Mobile Communications Co.,Ltd ┇ 111.6.86.80
-ss://cmM0LW1kNTpQYW9mdQ@111.6.86.119:1154#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Henan Mobile Communications Co.,Ltd ┇ 111.6.86.119
-trojan://wevg3v7j-34om-wwm1-u0fw-nl7yfis230qq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ttmf3glx-dgc9-cp6i-j297-a7sh7igelm6g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://cmM0LW1kNTpQYW9mdQ@111.6.86.119:1190#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Henan Mobile Communications Co.,Ltd ┇ 111.6.86.119
+trojan://ekuebq71-8cnn-iee4-s60j-mjwndyeph1al@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://te25ot4q-p5zr-2r7z-z3c9-rnot515obeyq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,7 +1,7 @@
-trojan://1zxoonzk-7iq5-iwg4-8hx6-eiziz3bhbksi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://59i4wncf-0rag-u7cv-vli8-kg238n6r3m5g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://de7eawex-14pb-xe8x-k6a2-qxvy00opoyed@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://bm9uZTo5MmNlM2RkNC02ZTA3LTk5NDktOWQ5OC03OTFiNjRkNDM1MTk@106.75.128.205:46257#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 106.75.128.205
+trojan://jrv94bme-xq2j-a8jd-whye-g1mxy92uc4l7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://28bnklmg-vvac-l1vj-feu5-8vtuocr3u5t2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://k6ja9xzk-jm7b-w8r0-tkav-r1gfxslptfcx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://069a7054-7269-554b-bfab-a7f2651f92e5@160.22.188.200:5306?sni=tw-06-592.flztjc.net&peer=tw-06-592.flztjc.net&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 160.22.188.200
-trojan://9cjvcazw-ziym-0ukr-iaxq-c19ft7w9wjdi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z1vjmnot-v70x-but0-g7l1-4vcxeyony5jp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://bm9uZTo5MmNlM2RkNC02ZTA3LTk5NDktOWQ5OC03OTFiNjRkNDM1MTk@106.75.128.205:46257#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 106.75.128.205
+trojan://pcfolm42-5x9w-ulpd-cww9-kurco2kj7eps@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hyi5knpf-q65j-86bb-qmc9-tk6101v5onc9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

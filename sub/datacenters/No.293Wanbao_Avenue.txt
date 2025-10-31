@@ -1,7 +1,7 @@
-trojan://zid7aoqi-ouod-m2dv-akf9-zdu4xfwj48vy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://ageqdtvv-9xvm-wk65-204n-htg30yrb4pr7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bwnzojg5-xzhi-e7w8-eanh-0c0p54677r1t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://55vw3ia3-myav-4ip5-fo6u-vsbawyvoefmb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://63lufqxm-p174-phwc-lh3j-osjokc5otqau@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mqny89me-8q1y-732m-kf2c-llsi070kipzo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19949?sni=tw01.ckcloud.info&peer=tw01.ckcloud.info&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - No.293,Wanbao Avenue ┇ 203.3.113.13
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTm8uMjkzLFdhbmJhbyBBdmVudWUgXHUyNTA3IDE3NS42LjExMC4xMTMiLCJhZGQiOiIxNzUuNi4xMTAuMTEzIiwicG9ydCI6MjA1MjEsImlkIjoiMzI0YTU5M2UtZjUyZi00NGJiLTliNDMtMjA0ZjQxNTZmZGUxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
-trojan://9dpa68zl-w5tc-8fjo-hi4i-q57jlzqooi3v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://227ti85t-py2i-jk7d-ffst-28ehrtyjf6ur@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://elab7e6u-nnff-089q-x96e-gxsmtaiogk8g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0o2z5tao-ds5o-hkif-gwgh-tv3r06kpojdo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

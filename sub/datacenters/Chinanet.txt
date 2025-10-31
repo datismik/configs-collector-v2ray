@@ -1,44 +1,45 @@
-trojan://38id4j02-lwrm-vv44-hba0-4ocma4u19d4t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://vwqhg5kl-i7wq-rymt-unff-3jqwg8s047sy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://l5wdemki-0vm1-zu5d-rh7k-bos9ts0hwj7q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://b6200af42ccadea353f5b5856dd20d70@113.99.140.184:39001?sni=113.99.140.184&peer=113.99.140.184&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 113.99.140.184
-trojan://6307d00e-56e0-4d0d-afe9-254155638bdf@219.135.231.205:40037?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 219.135.231.205
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAxNC4yMTUuNDAuMTM2IiwiYWRkIjoiMTQuMjE1LjQwLjEzNiIsInBvcnQiOjE1NzA4LCJpZCI6ImY4MzdiNTEwLTcwNTAtNGRlYy1iMTgyLWE3NzdkYzM1ODQ2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmFuZXQgXHUyNTA3IDIxOC4yLjIuMiIsImFkZCI6InN0ZWFtLmRuc3Byby5pY3UiLCJwb3J0Ijo1MDAxLCJpZCI6ImQ0YzkzNDY1LTcwZjAtMzBkNS1hYjVmLWE4ODgxZjNmNDllNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2lzbyJ9
-trojan://63eb517b-1455-4845-bc3f-97cb20bc0787@183.2.150.64:22271?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.2.150.64
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 14.215.39.157
-ss://YWVzLTI1Ni1nY206ME1YMTY3UkJGMDBaSTlDUg@58.63.250.61:15014#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 58.63.250.61
-ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@113.99.143.139:40316#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 113.99.143.139
-vless://98635c25-7ce5-416e-9a45-3fcadc878f93@36.62.139.178:1111?type=grpc&security=none#CN 🇨🇳 ┇ VLESS-GRPC-NTLS - Chinanet ┇ 36.62.139.178
-trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@125.94.40.162:21170?sni=k39.tudou211.com&peer=k39.tudou211.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 125.94.40.162
+trojan://vcxmtp3z-yzci-jftf-711x-ztii7jtkposo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://8k4riyfv-iogq-scc1-hecs-v9up0ml02l5h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tas3ppnl-xzz5-r3v1-qggk-f985axwg81df@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@121.14.61.174:8313?sni=hk-13-568.flztjc.net&peer=hk-13-568.flztjc.net&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 121.14.61.174
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 119.147.118.191
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzQ0MjZhYS1hMTJmLTQ5ODMtYmYyZS1kOGYxZDQ2M2Q0N2I@n9.apps.ru.net:56403#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.60.123.112
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 14.215.39.158
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2T0RsS1MxbFpTbFE1UjFKTlZsZFdWdw@219.135.227.210:16008#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 219.135.227.210
-trojan://7445c93f-f1f5-4ce1-9ae0-af2cfcaa721d@183.2.150.98:27201?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.2.150.98
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNGEzY2UxMi01ODg5LTQ3N2YtYTBiNi1kYmRlZTJhZTE5OGI@blog.andnsqd.com:5021#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.60.124.91
-ss://Y2hhY2hhMjA6R3FiY0NmaDM2NWFU@14.18.253.178:8331#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 14.18.253.178
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@59.42.247.247:3601#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 59.42.247.247
 ss://cmM0LW1kNTplZmFuY2N5dW4@113.99.143.13:8712#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 113.99.143.13
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11048#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 14.29.124.174
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VFVJeVNVdENSRUZEUlRCTVZVVkZXZw@113.99.142.152:17001#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 113.99.142.152
-ss://YWVzLTI1Ni1nY206MEhCR1NaUDFVQ09HUURaVw@183.61.177.234:16002#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.61.177.234
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAxNDQuMjU1LjM2LjI1NCIsImFkZCI6IjE0NC4yNTUuMzYuMjU0IiwicG9ydCI6MTQxMDAsImlkIjoiZjY4NjZiMGItZjk0Ni00YTAzLThkZjAtYzdlMDAxNmI1NWFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?sni=hk-13-568.flztjc.net&peer=hk-13-568.flztjc.net&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 125.88.149.133
-trojan://6AC378EE-C9AE-9D3C-3DD9-8C034898BE44@aexgzbgp01.114837322.xyz:14411?sni=mpvideo.qpic.cn&peer=mpvideo.qpic.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 113.108.0.136
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmFuZXQgXHUyNTA3IDIxOC44Ny4wLjIxNyIsImFkZCI6ImJsb2cudm9ld2wuY29tIiwicG9ydCI6NDM4MTUsImlkIjoiN2E5ZjAyNmYtZjdhOC00MGNhLWYyZjktM2IzODBjMjg3YzBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYWJjIn0
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAxODMuMi4xMzMuMjQ5IiwiYWRkIjoiaGFhLmRhc2h1YWkuY3lvdSIsInBvcnQiOjQ1MDU0LCJpZCI6ImFhN2FhOTgzLTRiNWYtNDcxYS04YzdmLTEzYTk1MDJiNzI0MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25226#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 14.29.124.168
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmFuZXQgXHUyNTA3IDU5LjQyLjI0Ny4xODkiLCJhZGQiOiI1OS40Mi4yNDcuMTg5IiwicG9ydCI6ODAwNCwiaWQiOiI2NzZmMTEzZC1mMmFiLTRmYTUtOWIyYi00MzQyOGE0ODllNTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9ubWtqIn0
-trojan://f43d30ee-7a5d-408f-a32e-b74935eeb7d7@zz.mgxyt.fogvip-zz.uk:40005?sni=ld.mgxyt.yuiuingkig.icu&peer=ld.mgxyt.yuiuingkig.icu&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 14.119.118.183
-trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@2.elk3b3nwfy.xyz:20012?sni=2.elk3b3nwfy.xyz&peer=2.elk3b3nwfy.xyz&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.60.123.27
-ss://YWVzLTI1Ni1nY206U0U5Q0Q4RFRGN0UzNU1GRw@183.2.157.134:17006#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.2.157.134
-trojan://7d2e5374-809e-4a9e-b7c3-7b24842695e1@183.2.150.90:27101?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.2.150.90
-trojan://2fa1279f-a0c1-4bb0-b5c2-42c787e5cfad@125.94.45.119:27102?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 125.94.45.119
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U2tvMFVGTlZOMDFPTVZaU1NFNDFXUQ@219.135.227.209:18015#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 219.135.227.209
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAyMTkuMTUxLjIwLjYyIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOjQyMzQ0LCJpZCI6IjQzODFiZWFlLTQ1YTYtNDQyMS04NTQ3LTY1ZTMxMmRkMjA0YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-trojan://f43d30ee-7a5d-408f-a32e-b74935eeb7d7@14.152.45.234:50311?sni=ld.xjpsghkg.yuiuingkig.icu&peer=ld.xjpsghkg.yuiuingkig.icu&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 14.152.45.234
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.2.195.51:2053?sni=official.tokyometropolis.ivano-frankivsk.ua&peer=official.tokyometropolis.ivano-frankivsk.ua&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.2.195.51
-trojan://a8vwv2uj-hg9p-ev5j-nuwe-osz40z55nj5g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oxly7dtk-l9ve-fyck-2wam-y1f50kacktyh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://7445c93f-f1f5-4ce1-9ae0-af2cfcaa721d@183.2.150.98:27201?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.2.150.98
+ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@113.99.143.139:40316#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 113.99.143.139
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmFuZXQgXHUyNTA3IDIxOC44Ny4wLjIxNyIsImFkZCI6ImJsb2cudm9ld2wuY29tIiwicG9ydCI6NDM4MTUsImlkIjoiN2E5ZjAyNmYtZjdhOC00MGNhLWYyZjktM2IzODBjMjg3YzBkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYWJjIn0
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 119.147.118.191
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 14.215.39.157
+trojan://6307d00e-56e0-4d0d-afe9-254155638bdf@219.135.231.205:40037?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 219.135.231.205
+trojan://63eb517b-1455-4845-bc3f-97cb20bc0787@183.2.150.64:22271?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.2.150.64
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U2tvMFVGTlZOMDFPTVZaU1NFNDFXUQ@219.135.227.209:18015#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 219.135.227.209
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24009#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 14.29.124.168
+trojan://f43d30ee-7a5d-408f-a32e-b74935eeb7d7@14.152.45.234:50311?sni=ld.xjpsghkg.yuiuingkig.icu&peer=ld.xjpsghkg.yuiuingkig.icu&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 14.152.45.234
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2T0RsS1MxbFpTbFE1UjFKTlZsZFdWdw@219.135.227.210:16008#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 219.135.227.210
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VFVJeVNVdENSRUZEUlRCTVZVVkZXZw@113.99.142.152:17001#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 113.99.142.152
+trojan://2fa1279f-a0c1-4bb0-b5c2-42c787e5cfad@125.94.45.119:27102?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 125.94.45.119
+ss://YWVzLTI1Ni1nY206U0U5Q0Q4RFRGN0UzNU1GRw@183.2.157.134:17006#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.2.157.134
+trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@2.elk3b3nwfy.xyz:20012?sni=2.elk3b3nwfy.xyz&peer=2.elk3b3nwfy.xyz&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.60.123.27
+trojan://b6200af42ccadea353f5b5856dd20d70@113.99.140.184:39001?sni=113.99.140.184&peer=113.99.140.184&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 113.99.140.184
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAxNC4yMTUuNDAuMTM2IiwiYWRkIjoiMTQuMjE1LjQwLjEzNiIsInBvcnQiOjE1NzA4LCJpZCI6ImY4MzdiNTEwLTcwNTAtNGRlYy1iMTgyLWE3NzdkYzM1ODQ2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNGEzY2UxMi01ODg5LTQ3N2YtYTBiNi1kYmRlZTJhZTE5OGI@blog.andnsqd.com:5021#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.60.124.91
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmFuZXQgXHUyNTA3IDIxOC4yLjIuMiIsImFkZCI6InN0ZWFtLmRuc3Byby5pY3UiLCJwb3J0Ijo1MDAxLCJpZCI6ImQ0YzkzNDY1LTcwZjAtMzBkNS1hYjVmLWE4ODgxZjNmNDllNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2lzbyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmFuZXQgXHUyNTA3IDU5LjQyLjI0Ny4xODkiLCJhZGQiOiI1OS40Mi4yNDcuMTg5IiwicG9ydCI6ODAwNCwiaWQiOiI2NzZmMTEzZC1mMmFiLTRmYTUtOWIyYi00MzQyOGE0ODllNTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9ubWtqIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAxNDQuMjU1LjM2LjI1NCIsImFkZCI6IjE0NC4yNTUuMzYuMjU0IiwicG9ydCI6MTQxMDAsImlkIjoiZjY4NjZiMGItZjk0Ni00YTAzLThkZjAtYzdlMDAxNmI1NWFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAxODMuMi4xMzMuMjQ5IiwiYWRkIjoiaGFhLmRhc2h1YWkuY3lvdSIsInBvcnQiOjQ1MDU0LCJpZCI6ImFhN2FhOTgzLTRiNWYtNDcxYS04YzdmLTEzYTk1MDJiNzI0MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+ss://YWVzLTI1Ni1nY206ME1YMTY3UkJGMDBaSTlDUg@58.63.250.61:15014#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 58.63.250.61
+trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@125.94.40.162:21170?sni=k39.tudou211.com&peer=k39.tudou211.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 125.94.40.162
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAyMTkuMTUxLjIwLjYyIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOjQyMzQ0LCJpZCI6IjQzODFiZWFlLTQ1YTYtNDQyMS04NTQ3LTY1ZTMxMmRkMjA0YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?sni=hk-13-568.flztjc.net&peer=hk-13-568.flztjc.net&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.2.154.185
+trojan://f43d30ee-7a5d-408f-a32e-b74935eeb7d7@zz.mgxyt.fogvip-zz.uk:40005?sni=ld.mgxyt.yuiuingkig.icu&peer=ld.mgxyt.yuiuingkig.icu&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 14.119.118.183
+ss://YWVzLTI1Ni1nY206MEhCR1NaUDFVQ09HUURaVw@183.61.177.234:16002#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.61.177.234
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11005#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 14.29.124.174
+trojan://6AC378EE-C9AE-9D3C-3DD9-8C034898BE44@aexgzbgp01.114837322.xyz:14411?sni=mpvideo.qpic.cn&peer=mpvideo.qpic.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 113.108.0.136
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@59.42.247.247:3601#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 59.42.247.247
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8775#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 113.108.84.104
+vless://98635c25-7ce5-416e-9a45-3fcadc878f93@36.62.139.178:1111?type=grpc&security=none#CN 🇨🇳 ┇ VLESS-GRPC-NTLS - Chinanet ┇ 36.62.139.178
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzQ0MjZhYS1hMTJmLTQ5ODMtYmYyZS1kOGYxZDQ2M2Q0N2I@n9.apps.ru.net:56403#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.60.123.112
+ss://Y2hhY2hhMjA6R3FiY0NmaDM2NWFU@14.18.253.178:8331#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 14.18.253.178
+trojan://7d2e5374-809e-4a9e-b7c3-7b24842695e1@183.2.150.90:27101?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 183.2.150.90
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 14.215.39.158
+trojan://9mr6ilgp-h8yn-4bm6-lw6p-eyn56wzke4ih@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://btaabsk0-wj1s-ijrg-f63q-j2lxuwog1h8k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

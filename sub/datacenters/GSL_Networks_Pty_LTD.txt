@@ -1,9 +1,9 @@
-trojan://o6fdp4gd-go02-125o-gl01-6bkomq65sm82@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://rdl7rcwd-litu-iggl-8p5y-fhvt6gt971th@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://diadmwrc-b1v5-e77q-crk9-s7fucctygtk6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.214.68.133:587?type=ws&security=tls&path=/?ed=2560&sni=a.mifeng.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - GSL Networks Pty LTD ┇ 103.214.68.133
+trojan://ov6ygdx9-oa3c-s2ig-3yfp-sahatzzjbhwy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://zyqc3qzn-qsld-m4fm-xom0-lqa2xrpp8xbn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3zlm1s89-0zpm-dlwb-cfek-r22wkya87058@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GSL Networks Pty LTD ┇ 173.244.56.6
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GSL Networks Pty LTD ┇ 173.244.56.9
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f6-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - GSL Networks Pty LTD ┇ 203.10.98.188
-trojan://i3hskku9-7947-4f68-f6hy-svmcsu9wewhb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bm2c2zac-o298-4rgq-4i8a-hgaq1prgtwru@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GSL Networks Pty LTD ┇ 173.244.56.9
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.214.68.133:587?type=ws&security=tls&path=/?ed=2560&sni=a.mifeng.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - GSL Networks Pty LTD ┇ 103.214.68.133
+trojan://103zgjbz-5vg1-58k5-11hq-swa5vfjm5wru@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xseonoff-i2bm-o6o9-3k7v-4pwnwwzzy3wb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

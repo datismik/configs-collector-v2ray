@@ -1,7 +1,7 @@
-trojan://nbt0n6pa-owx9-53jp-fkba-yxztt5qd56y2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://1s3ri1s8-lczk-iuii-7idv-b9srhrwxo0xc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rpnjajtf-61qr-68zk-ajgt-nwszoz9inenq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cnkj360v-cmrh-3po7-42y5-1ja7rshmx7cl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://v6mo6gq7-7f70-41dj-0po1-3dqliaevbdxt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nu931p3f-zu9w-6ovv-mi9i-zh70liueq058@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?type=grpc&security=reality&sni=www.speedtest.net&fp=random&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c#RU 🇷🇺 ┇ VLESS-GRPC-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.82.167
 vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&flow=xtls-rprx-vision&pbk=3q2rJ0IljIdNL0YvlAy7TwqtnPCr1woQv9KjoHjG3gE&sid=366e5433f6196a6f#RU 🇷🇺 ┇ VLESS-TCP-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
-trojan://x7xtv8p6-mgb2-dm8n-qqec-jhxbknltpvre@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m7jvccjs-3sgi-tx0w-q6uu-hifgqfj6mez0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://17oh02y4-dhgu-6cnp-btfg-vdrwpixv3x7v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zvgv79r0-v6au-p6mh-4ghn-vh1vo46jndsa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,11 +1,11 @@
-trojan://3lf3ah82-zsf2-6j26-kvuk-vgzw8434xk3r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://pbqp70qc-wu0m-kg25-4l2z-re4ua91lhi27@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gq8hyfu2-yum9-wgbi-ujd2-0wo886eoa1bc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQTAwblRRbVRzM01WYlV1TlFMdkNi@65.38.120.217:65283#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - BLNWX ┇ 65.38.120.217
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVWd3dmU1UnpvU0tuS2lUOGlheXB4@64.7.198.124:34255#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - BLNWX ┇ 64.7.198.124
-vless://358bccd3-aa6c-4afb-9a39-68cf23f032ea@193.149.189.205:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZJQpYoxYzfgkWXRmIasamZKkPvQc_a1PaCUdQ_WVzVo&sid=5c438db12cee9c#GB 🇬🇧 ┇ VLESS-TCP-RLT - BLNWX ┇ 193.149.189.205
-vless://241039cb-2396-4a3d-832b-3e3fa21db2b7@149.248.76.13:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=eJAx8p3teHDSj_x99qIJJNEXIRe6l-1GUzKalcF-FQY&sid=d18273#US 🇺🇸 ┇ VLESS-TCP-RLT - BLNWX ┇ 149.248.76.13
-trojan://Bw5Mz7QkVp@45.61.136.197:443?sni=z-v2-077015.kailib.com&peer=z-v2-077015.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - BLNWX ┇ 45.61.136.197
+trojan://trazo5tb-03bu-pj8l-p8ht-cn5nkdsynl1j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://3q6tochz-qejb-bndm-7c5g-uoj7bl4dykct@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nozt1jcq-r41m-5k8n-bghi-dtvo84lukib9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b41bfc57-24af-42c7-a791-89e7099958c5@ro.otunnel.icu:443?type=tcp&security=reality&sni=www.orange.ro&fp=chrome&flow=xtls-rprx-vision&pbk=_e4RpYgOhpfmdPLtqzEzSbEnl0a6moiCKtU9DXK0phI&sid=bc60d5de#RO 🇷🇴 ┇ VLESS-TCP-RLT - BLNWX ┇ 65.38.120.48
-trojan://ce0y5e6s-vce5-oeye-cyex-buej6032m5fm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4n7z8tpv-290d-7yk4-dh15-nnhrvl5u4x8n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://358bccd3-aa6c-4afb-9a39-68cf23f032ea@193.149.189.205:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZJQpYoxYzfgkWXRmIasamZKkPvQc_a1PaCUdQ_WVzVo&sid=5c438db12cee9c#GB 🇬🇧 ┇ VLESS-TCP-RLT - BLNWX ┇ 193.149.189.205
+trojan://Bw5Mz7QkVp@45.61.136.197:443?sni=z-v2-077015.kailib.com&peer=z-v2-077015.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - BLNWX ┇ 45.61.136.197
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVWd3dmU1UnpvU0tuS2lUOGlheXB4@64.7.198.124:34255#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - BLNWX ┇ 64.7.198.124
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQTAwblRRbVRzM01WYlV1TlFMdkNi@65.38.120.217:65283#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - BLNWX ┇ 65.38.120.217
+vless://241039cb-2396-4a3d-832b-3e3fa21db2b7@149.248.76.13:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=eJAx8p3teHDSj_x99qIJJNEXIRe6l-1GUzKalcF-FQY&sid=d18273#US 🇺🇸 ┇ VLESS-TCP-RLT - BLNWX ┇ 149.248.76.13
+trojan://j1ckpcux-9rbs-alh2-rpz5-0ne5bgruv7p6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pf6375ha-dtzr-85lq-55rh-jfvd9yt8ptv3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,8 +1,8 @@
-trojan://1wg4myl0-x4x0-jot8-09ff-ecui76zb8aq9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://r35o2bzm-29yx-8ej6-kec3-b5aum3toix4c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://szqej9vy-ird3-uhr6-dmjm-pqtop0jpzoh0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI#GB 🇬🇧 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.65.28
-vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.65.205:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#GB 🇬🇧 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.65.205
+trojan://h6zchl40-ek1p-ri0j-2zfk-y27jcnjszupj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://8chsfq6l-mit7-x2x3-m8fu-6d0qsxpjrc5e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jx73aasz-wuk6-xnue-bl9d-cc6osps71kdm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://05f3181c-ae29-480d-bc66-436f8f959005@38.135.122.152:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#US 🇺🇸 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 38.135.122.152
-trojan://h1fziyse-px45-g740-0pp9-nwiwol0zicxk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5p8dpshn-rqu1-gyde-kn0b-uz32ene25w2i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.65.205:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#GB 🇬🇧 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.65.205
+vless://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI#GB 🇬🇧 ┇ VLESS-TCP-RLT - Foxcloud Llp ┇ 194.156.65.28
+trojan://vvuwbgbq-v3qa-wlqv-zl11-oimamqn2047w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tkkpk1ed-r6x1-h2r5-8vqo-pk1cklvci5to@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

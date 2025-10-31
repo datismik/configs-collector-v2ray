@@ -1,9 +1,9 @@
-trojan://ice1ruan-719l-ghgq-6mo7-vmv9zbqei7n6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://kzz1z0i0-rf0b-zw3f-ui0a-c4tlgukxwkh2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vd95g0si-mixt-l8lq-adov-fqa3g80isjps@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://fbddfdbf-d505-51ee-b6a6-bc1f4f4e0195@46.102.157.79:58210?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Hohl IT e.U. ┇ 46.102.157.79
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.177.8.26:130?type=ws&security=none&path=/security=tls&sni=juzi8186.5112233.xyz#AT 🇦🇹 ┇ VLESS-WS-NTLS - Hohl IT e.U. ┇ 94.177.8.26
+trojan://3bbtolje-8gr3-evt9-las8-560j3oipklnq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://4wvim5ou-yjs6-znr2-3wgd-45y4r2f7zecr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gnuc72lu-mota-qxmh-wr9j-stsus3szik1e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@94.177.8.10:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.10
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.177.8.26:130?type=ws&security=none&path=/security=tls&sni=juzi8186.5112233.xyz#AT 🇦🇹 ┇ VLESS-WS-NTLS - Hohl IT e.U. ┇ 94.177.8.26
+vless://fbddfdbf-d505-51ee-b6a6-bc1f4f4e0195@46.102.157.79:58210?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Hohl IT e.U. ┇ 46.102.157.79
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@94.177.8.51:443?type=ws&security=tls&path=/blue&sni=cy.ylks.xyz#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.51
-trojan://ss9e93xs-seqr-2au3-whcf-6kn47dembi28@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2vf5d529-tejw-wzl5-bjrq-clqa3vu7j9ns@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://iql0c8rb-tkea-gqrf-t4hl-fe4ly450tj97@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://s8mq50g3-6q6w-1uv0-elq6-5n9box62mfob@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

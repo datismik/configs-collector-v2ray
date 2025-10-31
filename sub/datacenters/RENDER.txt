@@ -1,28 +1,28 @@
-trojan://6nbo402b-9j4m-mcik-kvdw-ogd6xg8fr2xn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://vbjg2or8-fv8f-caaz-o3nj-8vqndo1z6u9u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://39zzyxed-ofh6-vaub-av1g-gemkxrc313hz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBSRU5ERVIgXHUyNTA3IDIxNi4yNC41Ny4zNiIsImFkZCI6IjIxNi4yNC41Ny4zNiIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-trojan://Aimer@216.24.57.186:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.186
-trojan://slch2024@216.24.57.195:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.195
+trojan://44c0brim-ocis-spvg-xu4y-4tsp78crqfcq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://boanxih6-dw09-coh2-d34k-az19hs9emg2o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xi6yjqwm-g4zc-1ffy-akti-3x4s4qrlsy4b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.91:443?type=ws&security=tls&path=/?ed=2560&sni=lx.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.91
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.98:443?type=ws&security=tls&path=/blue&sni=cj.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.98
 vless://a88cb5df-7efc-44a5-a078-d1dde8bfc327@216.24.57.126:2096?type=ws&security=tls&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.126
-trojan://tg-fq521free@216.24.57.30:443?sni=torjan.xn--xhq44j.eu.org&peer=torjan.xn--xhq44j.eu.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.30
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.129:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=dd.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.129
-trojan://Aimer@216.24.57.207:443?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.207
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.35:443?type=ws&security=tls&path=/?ed=2560&sni=ll.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.35
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBSRU5ERVIgXHUyNTA3IDIxNi4yNC41Ny41NyIsImFkZCI6IjIxNi4yNC41Ny41NyIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.92:443?type=ws&security=tls&path=/?ed=2560&sni=ls.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.92
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBSRU5ERVIgXHUyNTA3IDIxNi4yNC41Ny4zNiIsImFkZCI6IjIxNi4yNC41Ny4zNiIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBSRU5ERVIgXHUyNTA3IDIxNi4yNC41Ny41NyIsImFkZCI6IjIxNi4yNC41Ny41NyIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+trojan://Aimer@216.24.57.207:443?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.207
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBSRU5ERVIgXHUyNTA3IDIxNi4yNC41Ny4xNzEiLCJhZGQiOiIyMTYuMjQuNTcuMTcxIiwicG9ydCI6NDQzLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiMjAyMjU4NWEtODZhNy00MjMxLWIzYTAtZWVkYTE0Zjc3ZjRkLjhmMTgyMzdjLThlNWYtNGZmYi1hNDM0LTFiMjk0OGM4N2JlMy5kZG5zZnJlZS5jb20iLCJwYXRoIjoiL29iZGlpLmNmZDo0NDMvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiMjAyMjU4NWEtODZhNy00MjMxLWIzYTAtZWVkYTE0Zjc3ZjRkLjhmMTgyMzdjLThlNWYtNGZmYi1hNDM0LTFiMjk0OGM4N2JlMy5kZG5zZnJlZS5jb20ifQ
-trojan://slch2024@216.24.57.87:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.87
+trojan://tg-fq521free@216.24.57.30:443?sni=torjan.xn--xhq44j.eu.org&peer=torjan.xn--xhq44j.eu.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.30
+trojan://slch2024@216.24.57.195:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.195
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.48:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=lu.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.48
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.129:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=dd.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.129
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBSRU5ERVIgXHUyNTA3IDIxNi4yNC41Ny42OCIsImFkZCI6IjIxNi4yNC41Ny42OCIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@216.24.57.130:8880?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.130
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.35:443?type=ws&security=tls&path=/?ed=2560&sni=ll.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.35
+trojan://Aimer@216.24.57.186:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.186
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.230:443?type=ws&security=tls&path=/?ed=2560&sni=lt.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.230
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.111:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=lu.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.111
+trojan://Aimer@216.24.57.1:2053?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.1
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@216.24.57.3:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.3
 vless://a88cb5df-7efc-44a5-a078-d1dde8bfc327@216.24.57.38:2096?type=ws&security=tls&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.38
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.98:443?type=ws&security=tls&path=/blue&sni=cj.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.98
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.91:443?type=ws&security=tls&path=/?ed=2560&sni=lx.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.91
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.48:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=lu.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.48
+trojan://slch2024@216.24.57.87:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.87
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@216.24.57.20:8880?type=ws&security=none&path=Telegram@WangCai2/?ed&sni=us.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.20
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.230:443?type=ws&security=tls&path=/?ed=2560&sni=lt.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - RENDER ┇ 216.24.57.230
-trojan://Aimer@216.24.57.1:2053?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.1
-trojan://hnx81crx-yqy8-olm1-230n-e4ia1r857fym@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hviiszvg-5h42-4tso-ddgj-epcb6qyyc77y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://o2xsm5pu-9iwz-ef3z-o75i-5vzj8gjshogc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kqc713n8-r44i-jqc1-oc1c-z1frrlui5dks@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

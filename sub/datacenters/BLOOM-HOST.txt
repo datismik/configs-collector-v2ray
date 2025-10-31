@@ -1,7 +1,7 @@
-trojan://n7vi1kd4-5efq-jf66-25du-h9la7bmh4kgw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://6cu7c7x8-wdbs-613a-ww1g-k5xz6r6eefme@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cpiq2cwc-pa35-8lsw-esk3-5v553vtsap6u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://mXP68BRNvU@66.59.208.7:17136?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - BLOOM-HOST ┇ 66.59.208.7
+trojan://hq6x2mpv-scty-av84-rjqj-kjv60ub2ihg5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://rijzep7l-sm4w-gmk7-dz1l-4gvkj21rfcg7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4usxncwz-fyqe-reox-zniq-o0sylbud2tp0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://TelPJ@emojiran.gg-moviez.ir:60000?type=grpc&security=reality&sni=speedtest.net.www.speedtest.net&fp=chrome&pbk=hfgQY4Ru_ArYQEG9p9mTOHCzkBKXycC9AtO-hSwSEAI&sid=13228a61#US 🇺🇸 ┇ VLESS-GRPC-RLT - BLOOM-HOST ┇ 161.129.183.250
-trojan://4f3ounbk-zmkb-4swh-l277-x8ialvdfpvfm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0ugqm187-odg0-pjeq-bsat-s4dw5hd1ihyv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://mXP68BRNvU@66.59.208.7:17136?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - BLOOM-HOST ┇ 66.59.208.7
+trojan://othc7o6c-ux20-9nij-r1el-8rr7on95oqkd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nfry639m-6h9m-slsm-ld94-yqbjexmo1pw9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

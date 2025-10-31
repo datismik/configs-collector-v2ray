@@ -1,12 +1,12 @@
-trojan://ddaatakg-phbq-8oau-lu8c-xwlt4z7y4vpy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://bm7sthre-o42o-zhww-0di2-5g5d7sjt28fh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tdc2ljn8-34o6-k0iu-6v5b-13eiaixy8f0h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f1-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - Sakura Link Limited ┇ 46.232.56.152
-vless://d9e61826-ac59-470e-ac80-515afa9d557f@kb.aws5.yydjc.top:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=ios&flow=xtls-rprx-vision&pbk=yzIdIf5RpR-rTzlULRjJoCgcQdx3-yXKl7eT7IuThn4&sid=bb9ab0d5242d53e9#JP 🇯🇵 ┇ VLESS-TCP-RLT - Sakura Link Limited ┇ 46.232.56.132
-vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@c8217-b2a.h2.49d2.dje11.1.b297.djjsvip.cfd:443?type=tcp&security=reality&sni=www.cremedelamer.com&fp=ios&flow=xtls-rprx-vision&pbk=DGzXhLIUE3NQXX-IVo5YCSeANn1vECVBdnw7dtC0sTQ&sid=92388f50ce26394f#JP 🇯🇵 ┇ VLESS-TCP-RLT - Sakura Link Limited ┇ 46.232.56.153
+trojan://usvt6fv6-w2w6-2flc-5e4h-okrxjshmdl7t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://vvmh24mw-um9d-4lii-dd4z-wbp1xnve1n2p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5fp4az5t-b914-1gc8-75xx-6e5sji90phzr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@46.3.100.3:443?type=grpc&security=reality&sni=www.yahoo.co.jp&fp=safari&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681#JP 🇯🇵 ┇ VLESS-GRPC-RLT - Sakura Link Limited ┇ 46.3.100.3
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTYWt1cmEgTGluayBMaW1pdGVkIFx1MjUwNyA0Ni4zLjI2LjEyIiwiYWRkIjoiNDYuMy4yNi4xMiIsInBvcnQiOjQ0MywiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyJ9
+vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@c8217-b2a.h2.49d2.dje11.1.b297.djjsvip.cfd:443?type=tcp&security=reality&sni=www.cremedelamer.com&fp=ios&flow=xtls-rprx-vision&pbk=DGzXhLIUE3NQXX-IVo5YCSeANn1vECVBdnw7dtC0sTQ&sid=92388f50ce26394f#JP 🇯🇵 ┇ VLESS-TCP-RLT - Sakura Link Limited ┇ 46.232.56.153
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f1-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - Sakura Link Limited ┇ 46.232.56.152
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@46.232.54.100:443?type=ws&security=tls&path=/?ed&sni=edfgk.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - Sakura Link Limited ┇ 46.232.54.100
 trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@46.232.57.180:3333?sni=yxjphy.yuwenle.vip&peer=yxjphy.yuwenle.vip&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Sakura Link Limited ┇ 46.232.57.180
-trojan://lsw6ky45-nve0-4m5h-h7m4-29kf8ypxn54q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://liripmrr-02md-9nz7-ie2p-r2l01ozchy5c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://d9e61826-ac59-470e-ac80-515afa9d557f@kb.aws5.yydjc.top:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=ios&flow=xtls-rprx-vision&pbk=yzIdIf5RpR-rTzlULRjJoCgcQdx3-yXKl7eT7IuThn4&sid=bb9ab0d5242d53e9#JP 🇯🇵 ┇ VLESS-TCP-RLT - Sakura Link Limited ┇ 46.232.56.132
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTYWt1cmEgTGluayBMaW1pdGVkIFx1MjUwNyA0Ni4zLjI2LjEyIiwiYWRkIjoiNDYuMy4yNi4xMiIsInBvcnQiOjQ0MywiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyJ9
+trojan://dg4hnq0r-ocay-0t9r-5byl-52194ml2gxxz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0jf24yj5-key5-5bbh-bk9z-t9ls6fomq0jp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

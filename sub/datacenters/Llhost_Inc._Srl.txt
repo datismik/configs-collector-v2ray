@@ -1,6 +1,6 @@
-trojan://430phya5-04ld-yj5n-549z-sx511tjg6ogg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://yz0j4o71-bnrc-a1xs-76yl-hl1l775ay6gt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ffm9gw69-2f7f-119o-meg0-2vfqd4bel07l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sliourhy-f5ga-qh84-n2ig-gmmovthc4oo6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://zp2ku5ab-rqdc-hwtw-g3mb-33k6eesi5dbi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2rjq6y3z-m94n-8z9j-hm6m-4yn6ej2k9yau@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@45.155.121.169:443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Llhost Inc. Srl ┇ 45.155.121.169
-trojan://guneruwp-0e6y-3qf7-q1lt-mdxqo8rw9p4y@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g50qk0j2-g60x-bux4-b5pm-vbd26wbmg7xu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://xq0m5nku-28t4-qxr0-zikn-t5kl1rbjrhvn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://iebil7kb-0v74-n7sz-24mk-z3pko3xtn6z8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

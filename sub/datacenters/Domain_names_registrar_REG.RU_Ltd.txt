@@ -1,9 +1,9 @@
-trojan://tgl54fh8-hpuo-yjla-9cxp-6yafw7d1dlr1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://gc250rfj-c3h8-u66q-e71j-df91qfv4eza5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kg02afss-llro-rdt3-6sq1-u3rvwclxq6xd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://7jrkfixo-3zvu-sjyz-acqm-fs1tw1sn4i54@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://vvhmr05y-y4cr-ab0d-1wt7-2lx8rpz8bekm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2t50z7it-pkbw-vpz9-h7a4-440uiwnszwtj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphdWZmc2Fscw@194.58.114.23:443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Domain names registrar REG.RU, Ltd ┇ 194.58.114.23
+ss://YWVzLTI1Ni1nY206NGloMkVLUVMwaVlOTXdJVm1xK0xNbDBqdlgwSFE4WmZFS0E3WGN4eXVKUT0@95.163.221.233:41596#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Domain names registrar REG.RU, Ltd ┇ 95.163.221.233
 ss://YWVzLTI1Ni1nY206aVVxRjkwVnVybjZCREFrODdERzgvSWhYTGpxaGhSSGFlNWZiR0pQaENJVT0@193.227.240.37:39705#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Domain names registrar REG.RU, Ltd ┇ 193.227.240.37
 ss://YWVzLTI1Ni1nY206RzlOVWxXS28yVWRXMkZ0V3h1dW9Pa1RXVktWUEkvR09hQnVWVndScmRtMD0@79.174.85.241:59927#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Domain names registrar REG.RU, Ltd ┇ 79.174.85.241
-ss://YWVzLTI1Ni1nY206NGloMkVLUVMwaVlOTXdJVm1xK0xNbDBqdlgwSFE4WmZFS0E3WGN4eXVKUT0@95.163.221.233:41596#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Domain names registrar REG.RU, Ltd ┇ 95.163.221.233
-trojan://f08tzhvm-ho67-e63a-ihl3-crospa6l4b6y@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9mxbrkoh-vd9n-620c-dv01-blbu70yoqa1i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://52dmcn7k-fe3c-yhj7-sm9a-c61e8uqolsb3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wkcy084z-bn7n-0ddk-3fel-p28hu2lhyquy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

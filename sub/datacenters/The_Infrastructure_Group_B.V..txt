@@ -1,12 +1,12 @@
-trojan://0iomoqh0-ifg2-1lz8-4cyp-95hluitmwxnx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://h2w4af8c-ss6j-ek6e-olvt-ts113u1h7333@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mi4e3tya-80zn-5mk2-vpi3-reen9ix3a7f4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRoZSBJbmZyYXN0cnVjdHVyZSBHcm91cCBCLlYuIFx1MjUwNyA1LjI1NS4xMTguMTUyIiwiYWRkIjoicGFuZWwtbmwyLnR1cmtjbG91ZC5pciIsInBvcnQiOjg0NDMsImlkIjoiNmIzYTcwMzQtMzllYy1mMDU3LTM3N2QtY2Y2YWY1N2I0ZGI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - The Infrastructure Group B.V. ┇ 5.255.124.97
-trojan://02XtoczO7V@5.255.102.41:17590?sni=mooshali.arshiacomplus.dpdns.org&peer=mooshali.arshiacomplus.dpdns.org&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - The Infrastructure Group B.V. ┇ 5.255.102.41
-vless://aaafd33e-bda8-47e9-bc33-116ce13c0b27@5.255.120.217:80?type=xhttp&security=reality&path=/pwp&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&sid=8c#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - The Infrastructure Group B.V. ┇ 5.255.120.217
+trojan://rj306xfy-nrdv-bmw7-459o-mnbsdh8g0krs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://k2m9v4ce-xg31-bgr1-99f7-8gbj0q593mpl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1z71sl8a-bu89-9fhx-38aa-rlbzhf2uw35n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://XWnVX2ASHl@5.255.103.217:37757?sni=moshali.arshiacomplus.dpdns.org&peer=moshali.arshiacomplus.dpdns.org&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - The Infrastructure Group B.V. ┇ 5.255.103.217
 vless://e3a78bb2-df38-4ca6-a07f-696a6b62b1a8@lomia1lopmaliz1.mongral.ir:7936?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.104.192
 vless://fa64f7e4-5bb2-4490-a752-784d7133c5bd@5.255.115.68:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.115.68
-trojan://XWnVX2ASHl@5.255.103.217:37757?sni=moshali.arshiacomplus.dpdns.org&peer=moshali.arshiacomplus.dpdns.org&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - The Infrastructure Group B.V. ┇ 5.255.103.217
-trojan://hbn8djxh-900q-jef6-7vzd-0e90djj020gx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://clf16vo1-cv9o-pe5c-arj3-htcmizs2v1a2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - The Infrastructure Group B.V. ┇ 5.255.124.97
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRoZSBJbmZyYXN0cnVjdHVyZSBHcm91cCBCLlYuIFx1MjUwNyA1LjI1NS4xMTguMTUyIiwiYWRkIjoicGFuZWwtbmwyLnR1cmtjbG91ZC5pciIsInBvcnQiOjg0NDMsImlkIjoiNmIzYTcwMzQtMzllYy1mMDU3LTM3N2QtY2Y2YWY1N2I0ZGI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+trojan://02XtoczO7V@5.255.102.41:17590?sni=mooshali.arshiacomplus.dpdns.org&peer=mooshali.arshiacomplus.dpdns.org&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - The Infrastructure Group B.V. ┇ 5.255.102.41
+vless://aaafd33e-bda8-47e9-bc33-116ce13c0b27@5.255.120.217:80?type=xhttp&security=reality&path=/pwp&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&sid=8c#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - The Infrastructure Group B.V. ┇ 5.255.120.217
+trojan://c4wgb523-n75a-j8e6-f5hc-ekdlazgokcf6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lxu5si9h-jvya-8eq3-b3an-2q68um1pwnh5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

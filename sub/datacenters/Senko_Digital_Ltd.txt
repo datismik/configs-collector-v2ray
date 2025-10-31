@@ -1,6 +1,6 @@
-trojan://sza19b35-itq3-dl3s-snhs-7eozkqzum26l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://0l3jaldn-onns-8zzl-u2qn-26cx1rt1la3h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ixojh5md-zrh2-nq4g-4yyj-tbaodnth07hd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wv199t9m-qrfr-qg4c-c508-v4niqrp1tv8j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://skmub4u9-nyww-lb6y-lcsy-dwdppb2mmac7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yw1494nk-52ht-osk3-1wxd-xr7o82twbysg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://00651706-0d2d-448b-80f2-7678f3e5187c@93.185.158.14:443?type=ws&security=tls&path=/bing&sni=uk.rtot.me&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Senko Digital Ltd ┇ 93.185.158.14
-trojan://7qj47h98-hnmh-u9f5-06hv-6azrm7sv818x@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ncq2nno2-n70n-cf8y-a9wk-t2mhu52t46bp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://db91np0z-47zy-z3fj-anxd-wjd4rqbqom19@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9r6ylx6x-u946-olcc-5gg1-xxbje1u916zv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

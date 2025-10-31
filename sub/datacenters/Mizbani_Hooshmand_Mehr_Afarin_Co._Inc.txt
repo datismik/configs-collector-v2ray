@@ -1,9 +1,9 @@
-trojan://9zba5kyi-0bth-v0y9-mm66-dnpo6w0e1fur@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://1kmgq90p-urzi-c7s9-c8or-6mxn2php406e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://atxlzmud-x8it-13xs-7ncw-5hgo0swmcz8o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://cdac7fb1-0a6c-5d35-0573-cb41667eca46@germany.mytopmedia.xyz:46958?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.166
+trojan://v4xggwzl-4pop-uq1q-kykz-b8mmwbza5kcz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://4779zewx-5e2l-d7a9-26mr-72v5l113lqww@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dh1196os-0kcu-0ak1-v1vc-q713g9gzyl03@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 178.239.150.221
-vless://6867a06824476@178.239.150.103:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 178.239.150.103
+vless://cdac7fb1-0a6c-5d35-0573-cb41667eca46@germany.mytopmedia.xyz:46958?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.166
 vless://ad7594f0-2373-40de-ba8c-52330fb785ad@ir2.server11net.ir:1010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 109.122.251.244
-trojan://chyoct8b-spuy-folg-ep3z-f24n07kh057t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7uqkly08-0tu2-mfbs-w2yg-2zumhbllbxef@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://6867a06824476@178.239.150.103:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Hooshmand Mehr Afarin Co. Inc ┇ 178.239.150.103
+trojan://23o5j79x-x53m-8xix-14cx-b5gcfrlsuvxs@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://40erkr6u-hr24-sa17-lovb-srrfs73dn6pa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

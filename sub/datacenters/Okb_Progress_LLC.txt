@@ -1,7 +1,7 @@
-trojan://pv02z7te-8l3y-w602-gic2-6nkcl8vv6ghx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://8uogwjsw-r00c-l0ur-e79g-hnok0wn4l8kn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qfqkboy7-p08s-w045-t2fs-ta14v8ab0fcx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://c7l1pw5x-91oa-n5d1-p6fv-yk9ler7aca08@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://kkn49a2c-hh4o-jbq2-gyr4-c0s2fa2bjhdi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r0cxyad5-bgdf-73r7-wpgm-9bv69t3dx0a2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#GB 🇬🇧 ┇ VLESS-TCP-RLT - Okb Progress LLC ┇ 138.124.186.201
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.202:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#GB 🇬🇧 ┇ VLESS-TCP-RLT - Okb Progress LLC ┇ 138.124.186.202
-trojan://cduarizb-wifa-k5lm-6zos-za0r4e1oq721@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a9oldcbk-1hix-asue-uo8u-sn8o1e0dqcga@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://9gx6y9bc-dq67-7kud-u7qh-zor399k40tlt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1836vnpp-nhcz-1tmd-6bjc-0k1oea0r18h3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,9 +1,9 @@
-trojan://ay51d9fo-5mn1-wiz8-i1kq-cdrana1j6woc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://s34mw6ay-9z1m-bmdg-mw1b-r6xwxf120mzo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://96xdmddb-pj0p-rr0v-6ot8-sghee2x50h1g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8winew1y-q8im-6sau-knvp-60kppu5iduvq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://2w9hmuvv-ix8i-02hz-qz4g-oo36f5fuiqrf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://flwc8uuw-rp0c-vbkp-z742-x4h6tw1i1on5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.253.227
-ss://YWVzLTI1Ni1nY206QUlXN05JWVlZRVA4RzE2Rg@185.47.253.144:20010#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.253.144
 vmess://eyJ2IjoiMiIsInBzIjoiRUMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJyYWluU3Rvcm0gTmV0d29yaywgSW5jIFx1MjUwNyAxODUuNDcuMjUzLjMyIiwiYWRkIjoiMTg1LjQ3LjI1My4zMiIsInBvcnQiOjI5NTIwLCJpZCI6ImY1YTA3NTM1LTc1ZWUtNDBiNi1iM2NmLTFiOGE0OTZmOWRlZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 38.165.231.25
-trojan://yiqkf0r3-9f9q-mrjb-127l-7iciklyhjq3d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lf04hrcv-9fyd-e6qa-my4g-0mxk2yjbav44@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+ss://YWVzLTI1Ni1nY206QUlXN05JWVlZRVA4RzE2Rg@185.47.253.144:20010#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.253.144
+trojan://0mb5tub6-6xuj-tzcx-wpjo-cm3pcf1o0gy3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0x3m9swg-4vvu-4glv-c76n-a36ch44wys1o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

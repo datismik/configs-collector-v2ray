@@ -1,7 +1,7 @@
-trojan://ollajmox-plnp-o1n7-zkgy-tu0s2k2xdhl7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://f2nigjfp-drx3-ye2j-nu00-5t19aycavvb9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2msze5y5-5bfa-ubtk-xen1-59xn0bx3snwo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3xb7qfhl-7y6v-pge5-5oei-hv5rwjfadhal@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://ze6t5fiq-65k9-nu33-s3j1-xekqi9rlo8un@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ac1oyo6b-i77f-2b7b-kdvs-0tx0gi5kw167@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9b76e072-4c99-459a-ba9d-53479a665110@gervip.midnight1.top:300?type=tcp&security=none&path=/api#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Closed Joint Stock Company AbkhazMedia ┇ 194.87.77.51
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENsb3NlZCBKb2ludCBTdG9jayBDb21wYW55IEFia2hhek1lZGlhIFx1MjUwNyAxOTQuODcuNzcuOTciLCJhZGQiOiIxOTQuODcuNzcuOTciLCJwb3J0Ijo1NzMwLCJpZCI6ImYzZjY0Mjg0LTM1ZDktNGUxMS1hODRkLTIwODM3Yjc0MWMzNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://tnbla0od-lsep-o75b-4kos-ffm0gjcqimfi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xi6g0q3v-flyf-m2pk-ulbr-nzjty110nkzi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://6352ldj0-7j3c-27aj-h82k-2wae6qjanej2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5jnjojup-cb04-wy9y-plpo-iz8f1asdkqc1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

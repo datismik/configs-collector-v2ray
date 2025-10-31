@@ -1,6 +1,6 @@
-trojan://xq1ticmz-cqvd-28q3-udh7-wzjqbijorho3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://mzf8fuko-f79s-s4i8-i8br-8ykpfbjqxvd2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kwah132v-pb1k-3bjl-2xp4-ugbso5yl54zj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ep8v6ew5-a75r-sqiw-js7j-1vg2cyxcxaco@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://388njw0q-3jb9-mevx-mkxo-u73816t8wp2z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jv9fvitk-oapd-q99z-vqc4-lwq0lqzt8r3v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@155.146.227.100:1212?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - CELLCO-PART ┇ 155.146.227.100
-trojan://o5lm969a-b3l8-06wh-7xeo-ux62jjf1ipwb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mbliuv0m-ku7j-v3fu-4pbd-ecrobmlm4chb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://j2fbz0ku-pg6m-8uqj-ecwl-bxjzjs9rp558@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cbfibs3k-mvrb-xwrn-yl95-ret568022k92@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

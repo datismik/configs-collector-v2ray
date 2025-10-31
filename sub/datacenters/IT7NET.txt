@@ -1,29 +1,29 @@
-trojan://tnr5jinc-16a7-dojb-b5ph-0dcb1948rv9c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://ajc3n74x-zjj3-9qiy-jt3k-nro323o37egc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://a8xapsol-tezm-lnz8-5k7t-ymqzit5wtj4e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206Vkp3MGVocnJlbw@98.142.141.198:16219#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 98.142.141.198
-ss://YWVzLTI1Ni1nY206NUFzSnBUMzZXcGRXYnY1cg@45.78.5.173:57998#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 45.78.5.173
-trojan://Gl123qwe@us.playstone.info:23443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IT7NET ┇ 104.224.176.186
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@104.243.30.252:246#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 104.243.30.252
-vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@95.169.26.188:38557?type=ws&security=tls&path=/snippets?ip=tw.tp81.netlib.re:81&nat64=6to4&sni=saas.cfliu.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 95.169.26.188
+trojan://youfdajg-3iom-bm4f-z781-4zdpu69v5cd1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://6uiskcfb-4sz8-w6mw-5u2q-crgp14lbhcjd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lwru1yen-x86t-u2e4-yl0p-mrfvpz56z8zt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@172.96.192.100:246#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 172.96.192.100
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAxMDQuMTI4LjkzLjk3IiwiYWRkIjoiMTA0LjEyOC45My45NyIsInBvcnQiOjgwLCJpZCI6IjEyMmNmMzI1LWY2OTYtNDk0NC05Mzk5LTA0YjhkMmY5MmIwMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
-vless://74049a59-4a76-48bb-9689-efa31e4dad6f@192.243.113.108:443?type=ws&security=tls&path=/bing&sni=usa.cayuo.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 192.243.113.108
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@199.115.228.30:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 199.115.228.30
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@172.96.192.58:254#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 172.96.192.58
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyA4OS4yMDguMjQ1LjYzIiwiYWRkIjoiODkuMjA4LjI0NS42MyIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
+vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@23.105.220.138:20018?type=ws&security=tls&path=/snippets?ip=tw.tp81.netlib.re:81&sni=saas.cfliu.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 23.105.220.138
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@144.168.60.70:252#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 144.168.60.70
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@67.216.210.229:15677?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 67.216.210.229
 ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@97.64.31.80:247#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 97.64.31.80
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@97.64.122.63:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 97.64.122.63
-vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@23.105.220.138:20018?type=ws&security=tls&path=/snippets?ip=tw.tp81.netlib.re:81&sni=saas.cfliu.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 23.105.220.138
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@198.181.56.163:238#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 198.181.56.163
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY@93.179.112.70:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 93.179.112.70
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@172.96.192.58:254#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 172.96.192.58
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAxOTkuMTY4LjEzOS4xOTYiLCJhZGQiOiIxOTkuMTY4LjEzOS4xOTYiLCJwb3J0IjoyMDA4NiwiaWQiOiJhYjFkNzljNi1mMGRlLTQ5YTMtYTM1Ni1jZDc3YjVkODAzNGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLz9lZD0yMDQ4QEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTiJ9
-vless://ecc00fef-7a10-48a2-a985-e4ea561260fc@64.64.252.50:27911?type=ws&security=tls&path=/?ed=2560&sni=n7a3zsazr6pp5rsdo4gs.pages.dev&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 64.64.252.50
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyA4OS4yMDguMjQ1LjYzIiwiYWRkIjoiODkuMjA4LjI0NS42MyIsInBvcnQiOjgwODAsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG93bmxvYWQifQ
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@162.219.120.218:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 162.219.120.218
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@198.181.56.163:238#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 198.181.56.163
+trojan://Gl123qwe@us.playstone.info:23443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IT7NET ┇ 104.224.176.186
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAxMDQuMTI4LjkzLjk3IiwiYWRkIjoiMTA0LjEyOC45My45NyIsInBvcnQiOjgwLCJpZCI6IjEyMmNmMzI1LWY2OTYtNDk0NC05Mzk5LTA0YjhkMmY5MmIwMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
+vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@95.169.26.188:38557?type=ws&security=tls&path=/snippets?ip=tw.tp81.netlib.re:81&nat64=6to4&sni=saas.cfliu.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 95.169.26.188
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@199.115.228.30:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 199.115.228.30
 ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@104.243.25.95:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 104.243.25.95
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@144.168.60.70:252#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 144.168.60.70
+vless://ecc00fef-7a10-48a2-a985-e4ea561260fc@64.64.252.50:27911?type=ws&security=tls&path=/?ed=2560&sni=n7a3zsazr6pp5rsdo4gs.pages.dev&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 64.64.252.50
+ss://YWVzLTI1Ni1nY206NUFzSnBUMzZXcGRXYnY1cg@45.78.5.173:57998#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 45.78.5.173
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY@93.179.112.70:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 93.179.112.70
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@104.243.30.252:246#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 104.243.30.252
+vless://74049a59-4a76-48bb-9689-efa31e4dad6f@192.243.113.108:443?type=ws&security=tls&path=/bing&sni=usa.cayuo.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 192.243.113.108
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@97.64.122.63:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 97.64.122.63
+ss://YWVzLTI1Ni1nY206Vkp3MGVocnJlbw@98.142.141.198:16219#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 98.142.141.198
 ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@144.168.58.170:254#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 144.168.58.170
 ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY@95.169.4.174:254#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 95.169.4.174
-trojan://ssa5mte5-qgv0-z1iz-jehv-v8vszw5p092m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rud6leza-omqm-mqev-vulc-w4hyb6lddsr9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAxOTkuMTY4LjEzOS4xOTYiLCJhZGQiOiIxOTkuMTY4LjEzOS4xOTYiLCJwb3J0IjoyMDA4NiwiaWQiOiJhYjFkNzljNi1mMGRlLTQ5YTMtYTM1Ni1jZDc3YjVkODAzNGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLz9lZD0yMDQ4QEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTiJ9
+trojan://hqcfof8b-31iw-4kne-9bji-z02029u4bcy6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://daaed2gg-pcww-01hn-02u2-eeqrxu19ajc6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

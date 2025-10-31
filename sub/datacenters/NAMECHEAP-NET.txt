@@ -1,9 +1,9 @@
-trojan://tcczj24d-52bq-r7qv-vc3u-afb72548p3ml@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://iu61v86q-qlc5-8y2p-99a1-ar8kmxl9hbim@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fwwe5lyb-acje-bqaj-q9wp-sis3q4x6qufd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://csr77y92-io8f-p43v-h8go-q56aj3fxhnrv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://gs95yad1-sinw-w0lc-38x9-q765tnqf2jei@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r5unttp3-m08s-nmjy-mcqe-4mfz7z4pu78v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBOQU1FQ0hFQVAtTkVUIFx1MjUwNyAxNjIuMC4yMzIuMzYiLCJhZGQiOiJob2htLm1pY3Jvc29mdC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMmIyMTQxMjItMTkwNi00MjhhLWJiYjctYTAzOWNiYjdjZDVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvOUpaRkRUS0UiLCJ0bHMiOiJ0bHMifQ
 vless://66816f2a-4a3e-4697-e24a-9d219589b9e8@203.161.47.109:21901?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NAMECHEAP-NET ┇ 203.161.47.109
 vless://6f1eebdf-4cb5-40c4-96e5-bf8b5d0a79ba@www.rexo.online:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - NAMECHEAP-NET ┇ 198.54.117.242
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@jalurtepat.com:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shorekeeper.cloudns.org&fp=randomized#US 🇺🇸 ┇ VLESS-WS-TLS - NAMECHEAP-NET ┇ 162.0.232.190
-trojan://rbbw9anq-rwkl-otd7-su6l-oatmk8adzxj7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://x88qtwe6-nybs-3cs3-kbwd-mngko1go127u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://105xw3em-rkww-5fko-eipr-250bbrfu8i9u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wt1vhiaf-vj4g-2oft-fo6t-eh23bbxd3r3k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

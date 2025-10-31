@@ -1,10 +1,10 @@
-trojan://m253rabv-2at8-pvto-xnox-cy07xqagbpnh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://z122apgh-ays5-r6hn-sxj8-l6huw8eroh61@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mlrb01k4-aiq2-2ns6-nh8j-3xzwfrt3l12k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://01996549-6892-dbf0-0453-f700236936bd@159.255.33.66:2053?type=ws&security=tls&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&sni=kejiland.freewarp.eu.org&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 159.255.33.66
+trojan://qyyntrdn-sd5g-58hk-bdpq-cntwkp2y3xzy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://346wkzf5-ct82-6lsk-hjs8-1mqczosyfhju@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gyclmqar-g37k-y6o7-5baz-qhnqqxrdncja@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.125.217.104:8443?type=ws&security=tls&path=/TG@ShadowProxy66?ed=2560&sni=jj.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 185.125.217.104
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.188.181.214:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#FI 🇫🇮 ┇ VLESS-WS-NTLS - I-servers Ltd ┇ 185.188.181.214
+vless://01996549-6892-dbf0-0453-f700236936bd@159.255.33.66:2053?type=ws&security=tls&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&sni=kejiland.freewarp.eu.org&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 159.255.33.66
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.87.48.78:8443?type=ws&security=tls&path=/TG@ShadowProxy66?ed=2560&sni=jj.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 185.87.48.78
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJLXNlcnZlcnMgTHRkIFx1MjUwNyA5NS44MS4xMTQuMjUyIiwiYWRkIjoiOTUuODEuMTE0LjI1MiIsInBvcnQiOjQ0NzQ5LCJpZCI6IjI1NDU1MWY2LWVjMjgtNDkzOC1hZDBlLTBhYTRhYTE5NjVlYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInRscyI6InRscyIsInNuaSI6ImltYWZha2UubG9ja2VyIn0
-vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.125.217.104:8443?type=ws&security=tls&path=/TG@ShadowProxy66?ed=2560&sni=jj.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 185.125.217.104
-trojan://sjgd06np-f6ym-tcfa-3ur5-bqn4lyk02mg7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6z0r90wt-oq9r-c5gx-1evj-ro1efxqiszp9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://497syppv-0kb0-1yux-aznn-fsrqghqhav1m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pqfttqk6-sqwq-usbh-n339-x21lueujdq9w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

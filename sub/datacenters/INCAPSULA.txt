@@ -1,6 +1,6 @@
-trojan://aqoser5z-30a7-kfdv-voxg-ln885ek3lot0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://cajk0pca-jv60-vqew-rpku-dhnhiz2xykpz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://okqdy98o-xl5k-ak5c-wya8-or25p8d1qdqd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?type=ws&security=none&path=/ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - INCAPSULA ┇ 45.60.76.210
-trojan://4rospxr5-ouav-xl1u-4thl-ecryzx0c2mf5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bijssygc-96cm-9jq7-811i-wpur6fr591bw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://p60socwx-myzg-r678-llr6-63gjt0fvb4hc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://pzodh2qd-zbio-wtz8-l53s-ol8m8btp3xl6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1r47ri8f-1ndm-ed2t-yohz-2uucw8heyqoa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?type=ws&security=none&path=/ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - INCAPSULA ┇ 45.60.85.210
+trojan://3g05om6z-c6i9-pbec-obw4-aqr35mjsg90v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e1u6xap9-wyrt-idvk-z4gc-op73nfkfiqfj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,11 +1,11 @@
-trojan://yy08wqmy-d934-bcqx-x402-8yowjf7duktc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://eo6mrg65-lf2j-lq60-bd8u-jkkbvlb78b79@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hshc637o-1mx7-w87k-hpek-gqv9fw69o2bu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://30bcf69c-1818-4581-988a-842f53ee6bea@android-config.gstatic.cyberscaler.net:443?type=xhttp&security=reality&path=/s2/oz/images/notifications/nt8.png&sni=ssl.gstatic.com&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=e3a97c5b21#CA 🇨🇦 ┇ VLESS-XHTTP-RLT - TELUS Communications ┇ 99.199.83.31
-vless://cfa392db-7445-4aa6-964f-2a3e20103936@99.199.60.164:56565?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=59iI-5g0yQ3r6ZaoBOQSWOCnMw6_t_q0oS4gXngXhW0&sid=2e3b0488#CA 🇨🇦 ┇ VLESS-TCP-RLT - TELUS Communications ┇ 99.199.60.164
-vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?type=ws&security=tls&path=/dsjh5tGfRgUy789-jU/&sni=sport-shop-online-02.cyberscaler.com&fp=chrome#CA 🇨🇦 ┇ VLESS-WS-TLS - TELUS Communications ┇ 99.199.73.27
+trojan://lvv5we4k-benx-1vez-v8ln-esxvumhjtleo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://6xc1xowa-hw0e-ewkn-391j-h24032vvtr68@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ruf8kwy8-8en2-yeyk-ql6z-jrfez56l0u9h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuNzMuNTMiLCJhZGQiOiI5OS4xOTkuNzMuNTMiLCJwb3J0IjozNzMzMywiaWQiOiIyZjE2NWFjMy01NzNmLTQzNjEtYjdmMi02YzJkNGRjMzYwNDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvP0JJQV9DSEFORUxASk9LRVJSVlBOIn0
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?type=tcp&security=none&fp=chrome#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.47
-trojan://evgzqj7s-9618-8kcl-u3gf-b2mulfcmpztz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://f616tq25-9nyi-hnl3-psh2-70wkngrjr5la@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://30bcf69c-1818-4581-988a-842f53ee6bea@android-config.gstatic.cyberscaler.net:443?type=xhttp&security=reality&path=/s2/oz/images/notifications/nt8.png&sni=ssl.gstatic.com&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=e3a97c5b21#CA 🇨🇦 ┇ VLESS-XHTTP-RLT - TELUS Communications ┇ 99.199.83.31
+vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://cfa392db-7445-4aa6-964f-2a3e20103936@99.199.60.164:56565?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=59iI-5g0yQ3r6ZaoBOQSWOCnMw6_t_q0oS4gXngXhW0&sid=2e3b0488#CA 🇨🇦 ┇ VLESS-TCP-RLT - TELUS Communications ┇ 99.199.60.164
+vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?type=ws&security=tls&path=/dsjh5tGfRgUy789-jU/&sni=sport-shop-online-02.cyberscaler.com&fp=chrome#CA 🇨🇦 ┇ VLESS-WS-TLS - TELUS Communications ┇ 99.199.73.27
+trojan://kphekoo6-c277-r55w-huze-9u4w5jadro8k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mjnvkfr1-abmo-cxbw-8dx6-xc28h7z698fv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

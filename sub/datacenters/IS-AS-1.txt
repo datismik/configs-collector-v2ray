@@ -1,6 +1,6 @@
-trojan://b9b7x0il-hcea-c3ko-b3p6-cfmrubdr7dti@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://jijvsewz-qweb-ao68-ish7-g50gwau3lgl5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://46g2vhcs-wokt-8rhi-4pv3-74i4feyo59xn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://z2fvmt2r-jrul-q3sb-qbva-mbsulw7585is@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://5dyo1l07-2ol4-8t17-9xbv-9612dh7uhrep@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://afpmg1br-x1sf-mveo-rnle-8h4td0qakiwi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://tunnel-astrovpn_official019@69.42.222.177:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IS-AS-1 ┇ 69.42.222.177
-trojan://weyuy0y2-4f7r-5tlt-77gj-8j34n6h604bf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j67v161f-wgvb-wsnb-84ig-rvrj1kwt6mxr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0o4fvcoo-w8yo-x00f-zku5-oj34zhv7ap36@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fb4brgtw-9cwz-ij2h-4cm5-x2s9lsuc2zvt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

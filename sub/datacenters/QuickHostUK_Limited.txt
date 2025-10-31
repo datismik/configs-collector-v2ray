@@ -1,8 +1,8 @@
-trojan://im91hq82-km9f-xm8w-825v-wodx3wbz7f6y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://j3a594b4-imus-vcs6-avlq-je2pw5grnm5h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cp28pyjo-gf8e-a09v-ziqk-7c9vckgxwt9e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c71e6d1e-f52f-453f-ba4e-0bc76be0d72b@80.64.216.67:57773?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - QuickHostUK Limited ┇ 80.64.216.67
-vless://cadc1269-7cc6-6506-2a80-7fa8f031f253@8816.uk-uk-uk-settings.need10speed.ir:5901?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - QuickHostUK Limited ┇ 80.64.216.77
+trojan://4mva61aa-idop-4yfk-efv2-q029v4u001zz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://9y3cipl6-17hl-ij5k-bht5-7ivu9vzabq3i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7p508xue-nk03-h36n-x39x-c10rnjh5x3p0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206clczL2ljVjc0ei9nTk4xVmNwZ3IvRFgvVUxGcDh3OE9aZytoUFdHb2hodz06ZmxUcTB3OUQ3RzFqN2lUd2JXTVlDRDRhVDFMRlVKYmd2V0prenpjQ3ZHZz0@195.22.157.104:24754#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - QuickHostUK Limited ┇ 195.22.157.104
-trojan://llsika4w-r0gn-1cks-p1m9-irnyuh9b5ce7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://54ciaepy-147h-4cxr-g651-bgbj3e7z0if0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://cadc1269-7cc6-6506-2a80-7fa8f031f253@8816.uk-uk-uk-settings.need10speed.ir:5901?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - QuickHostUK Limited ┇ 80.64.216.77
+vless://c71e6d1e-f52f-453f-ba4e-0bc76be0d72b@80.64.216.67:57773?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - QuickHostUK Limited ┇ 80.64.216.67
+trojan://808p8t79-y75w-0jcs-ico9-dloc8jych3ll@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ep9mtm2t-v1em-vexa-a202-yluj0uqsckfm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

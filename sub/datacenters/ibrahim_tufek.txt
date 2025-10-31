@@ -1,8 +1,8 @@
-trojan://cn50zjx5-3xty-u4pv-enon-vz5gsd66jkyw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://gr28htv8-0n6d-fbnm-4riv-p03apraqd7cs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://oni589gl-vexj-xx3t-v075-6ette948tcmb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@93.115.10.213:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - ibrahim tufek ┇ 93.115.10.213
+trojan://0l0h3d6k-2jrg-gvvv-mbfr-8lag70woru5s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://d702ehqv-qbtv-r5on-er66-i0i5jfpxivqy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5bi8iqiy-1emb-kywo-2dt5-lnk3049kvhzm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ@tur.fastsoonlink.com:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - ibrahim tufek ┇ 185.255.94.128
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@93.115.10.213:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - ibrahim tufek ┇ 93.115.10.213
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gaWJyYWhpbSB0dWZlayBcdTI1MDcgMTg1LjkzLjY5LjYiLCJhZGQiOiIxODUuOTMuNjkuNiIsInBvcnQiOjg0NDMsImlkIjoiZWMxNjEwMTktODUzNS00MzA3LWI1ZTAtMDMzODljYWM1YTc3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
-trojan://c8jnettn-2na7-za2e-pyza-wbxerab0ns45@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://05b5ij2f-xhaf-1lpk-pnm6-sg4beypqdqil@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ygt0hxmr-w558-1c59-ufr8-t2rcbzrxjdl2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sgzw7un8-6od1-8uir-9vay-jnaak1n5yw8j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

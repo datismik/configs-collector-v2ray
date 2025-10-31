@@ -1,32 +1,32 @@
-trojan://165qk277-gmw3-uzsc-6jlx-szey1ew19ep3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://svg03d6k-7z3k-wj6q-bhns-r2po8farosyw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dmsg8v9b-t311-scbr-bzye-be2xz9wqlkcx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e24ae773-a59b-4504-90f8-8cffbc2bf9fe@s60.tizping.top:8880?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.98
-vless://0815223d-7855-42b0-b526-76fa691101ea@ir-netherland.v2shop2.xyz:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.38
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?security=none#IR 🇮🇷 ┇ TROJAN-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.51
-vless://1e6266d9-be23-479b-c03d-1f340acb7b8e@46.38.148.25:1117?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.25
-vless://2cc5ac24-0d64-47fc-a321-7c7a6d7a135b@46.38.146.80:5000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.80
-vless://064ba335-b5f7-4bd8-83b7-81255581b220@185.29.223.151:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 185.29.223.151
-vless://1dd0a7c0-7b03-4b55-a344-9ee48fd362fd@46.38.150.212:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.212
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBleW1hbiBFcnRlYmF0YXQgUG91eWEgQ29tcGFueSAoTHRkKSBcdTI1MDcgNDYuMzguMTQ2LjgxIiwiYWRkIjoiNDYuMzguMTQ2LjgxIiwicG9ydCI6ODQ4NCwiaWQiOiI4Zjc3MmY3MDZiZDY0MTJkYTg2Y2U0NjAxZDJiZjk4NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBleW1hbiBFcnRlYmF0YXQgUG91eWEgQ29tcGFueSAoTHRkKSBcdTI1MDcgNDYuMzguMTQ2LjY4IiwiYWRkIjoiNDYuMzguMTQ2LjY4IiwicG9ydCI6Mzg1ODUsImlkIjoiZTNjYzEyODYtODQwMS00YjFmLWIxMTAtZGFjM2EyYjE1MDUwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://4fdfb022-d452-4fa6-a6c4-529c73900791@vip.sodogodping.ir:211?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.186
-vless://56353c19-c412-3670-5c98-2948cef1e151@s.hservice.sbs:2323?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.22
-vless://f388ff19-134f-4690-991a-5b73130b8325@46.38.144.243:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.144.243
-vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.250
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@46.38.149.151:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top#IR 🇮🇷 ┇ VLESS-WS-TLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.149.151
-vless://adb34ed3-d31e-40cb-8e54-4d2d83f5908e@46.38.148.83:4002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.83
-vless://742a8c7b-6c96-418c-8d0f-c8f49ff7d257@sun3.webbaz.pw:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.41
-vless://64274cc4-6375-407c-8670-13eaf31a5eba@turkey3.v2shop2.xyz:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.177
+trojan://ske8s4pn-tn96-xv3c-ycox-kzjh0pava2at@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://ko6xuwrb-zm7g-ftbd-z141-027hojvi4dme@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0ae8u5ky-jf5g-llog-hi08-mmib4tasdchi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a4210a46-0113-4a69-b656-29d48436e8fb@46.38.148.157:8447?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.157
-vless://31a0713a-2c36-41ec-8bc5-52a5f546cc4e@46.38.150.199:9090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.199
-vless://b756ab67-8181-4bbc-83fd-1edca44c211a@46.38.146.177:22443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.177
-vless://5d98e99d-9b92-4992-85ef-9d627a26f091@46.38.146.16:46443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.16
-vless://9ff3d204-513b-4771-8e46-f60184b77ef6@s21.mydoping.shop:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.205
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBleW1hbiBFcnRlYmF0YXQgUG91eWEgQ29tcGFueSAoTHRkKSBcdTI1MDcgNDYuMzguMTQ3LjEzOCIsImFkZCI6IjQ2LjM4LjE0Ny4xMzgiLCJwb3J0Ijo2MDYwLCJpZCI6IjY0ZTA5Zjc3LWQ0YTMtNDEzOC05Nzk3LTM3ODQyNWFmNmVlZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://f388ff19-134f-4690-991a-5b73130b8325@46.38.144.243:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.144.243
+vless://e24ae773-a59b-4504-90f8-8cffbc2bf9fe@s60.tizping.top:8880?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.98
+vless://742a8c7b-6c96-418c-8d0f-c8f49ff7d257@sun3.webbaz.pw:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.41
 vless://68ede8b9-28ee-4620-b8f0-c4947dcf073f@turkey4.v2shop2.xyz:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.241
-vless://2d949dda-1d2e-4b2f-834c-244fac90294c@46.38.148.89:48822?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.89
-vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@mr.reiisvezze2.ir:39387?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.93
+trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?security=none#IR 🇮🇷 ┇ TROJAN-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.51
+vless://064ba335-b5f7-4bd8-83b7-81255581b220@185.29.223.151:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 185.29.223.151
+vless://4fdfb022-d452-4fa6-a6c4-529c73900791@vip.sodogodping.ir:211?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.186
+vless://56353c19-c412-3670-5c98-2948cef1e151@s.hservice.sbs:2323?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.17
+vless://adb34ed3-d31e-40cb-8e54-4d2d83f5908e@46.38.148.83:4002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.83
+vless://5d98e99d-9b92-4992-85ef-9d627a26f091@46.38.146.16:46443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.16
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBleW1hbiBFcnRlYmF0YXQgUG91eWEgQ29tcGFueSAoTHRkKSBcdTI1MDcgNDYuMzguMTQ2LjgxIiwiYWRkIjoiNDYuMzguMTQ2LjgxIiwicG9ydCI6ODQ4NCwiaWQiOiI4Zjc3MmY3MDZiZDY0MTJkYTg2Y2U0NjAxZDJiZjk4NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://31a0713a-2c36-41ec-8bc5-52a5f546cc4e@46.38.150.199:9090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.199
 vless://9e2f0824-1a4e-471a-9818-4dd231978c1c@germany.a1mshop2.xyz:21483?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.31
-trojan://5q0zybi0-snhb-gbb1-oomx-txxpj3pfcsbc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9a13ka03-720m-19sc-lnmx-jl9unaarjmws@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://1dd0a7c0-7b03-4b55-a344-9ee48fd362fd@46.38.150.212:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.212
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBleW1hbiBFcnRlYmF0YXQgUG91eWEgQ29tcGFueSAoTHRkKSBcdTI1MDcgNDYuMzguMTQ2LjY4IiwiYWRkIjoiNDYuMzguMTQ2LjY4IiwicG9ydCI6Mzg1ODUsImlkIjoiZTNjYzEyODYtODQwMS00YjFmLWIxMTAtZGFjM2EyYjE1MDUwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://2d949dda-1d2e-4b2f-834c-244fac90294c@46.38.148.89:48822?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.89
+vless://0815223d-7855-42b0-b526-76fa691101ea@ir-netherland.v2shop2.xyz:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.150.38
+vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@mr.reiisvezze2.ir:39387?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.93
+vless://9ff3d204-513b-4771-8e46-f60184b77ef6@s21.mydoping.shop:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.205
+vless://1e6266d9-be23-479b-c03d-1f340acb7b8e@46.38.148.25:1117?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.25
+vless://b756ab67-8181-4bbc-83fd-1edca44c211a@46.38.146.177:22443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.177
+vless://2cc5ac24-0d64-47fc-a321-7c7a6d7a135b@46.38.146.80:5000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.80
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@46.38.149.151:443?type=ws&security=tls&path=/api/v1/irc&sni=vod.ensf.top#IR 🇮🇷 ┇ VLESS-WS-TLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.149.151
+vless://64274cc4-6375-407c-8670-13eaf31a5eba@turkey3.v2shop2.xyz:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.148.177
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBleW1hbiBFcnRlYmF0YXQgUG91eWEgQ29tcGFueSAoTHRkKSBcdTI1MDcgNDYuMzguMTQ3LjEzOCIsImFkZCI6IjQ2LjM4LjE0Ny4xMzgiLCJwb3J0Ijo2MDYwLCJpZCI6IjY0ZTA5Zjc3LWQ0YTMtNDEzOC05Nzk3LTM3ODQyNWFmNmVlZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd) ┇ 46.38.146.250
+trojan://hf3nm1ov-6408-ipi8-0dw8-akd876m2wjw7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zh78fi54-1gpk-2kmj-14mu-zn6v7gu6k23d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

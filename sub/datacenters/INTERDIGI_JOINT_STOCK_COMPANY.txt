@@ -1,7 +1,7 @@
-trojan://9l5z165m-c4uf-umaf-lqxy-vntmuqschjkm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://nln7v34e-cdgr-1kd3-ftyh-6bbpfmrit1l3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gwpqora5-xgtf-kmer-fg7v-pcp84ymv8uth@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tr1zygt3-2ovr-mrmt-l4ar-cfoaf9yb1gd9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://7yh8ntjv-00fp-zumj-ovle-hbzzpnoaa0jz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wbb97g1g-9jjg-pifi-b9aj-po5sb7cx4z5j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - INTERDIGI JOINT STOCK COMPANY ┇ 103.195.236.24
 vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM#VN 🇻🇳 ┇ VLESS-TCP-RLT - INTERDIGI JOINT STOCK COMPANY ┇ 157.10.53.146
-trojan://go7y9o4r-wixc-swbb-nlda-9m0xs2lc3vcv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ynxtdmgx-881w-523c-ur29-ibuvgrxnmn3x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ol7tbafi-xnjl-cxpm-j85j-a1i8qylaqbwh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ahvrubol-18d3-hang-kgdu-vdwmv2rhxs24@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

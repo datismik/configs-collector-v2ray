@@ -1,6 +1,6 @@
-trojan://q2hiz3vt-n029-m0rt-tp0f-d0d4y47vajmg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://dq9rf0to-vlot-atyy-rrxd-ber256px94k6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zed9kfqm-nvxg-b3r1-h9ev-14jekbvvmq3d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://nd27hca1-e93b-9etc-b84o-md0axhsea3p7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://omfdicoi-t07z-8fvx-m17u-5suicze92omc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ppp59jvs-di9s-4tkt-b4dz-hzcipfi4ig0m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWpkbFptWTRZV0l5WkRVME9HTmtOdz09Ok5XVmtNVFZpT1RrdE1EUmpOaTAwT0E9PQ@61.147.93.243:46826#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhouJiangsu Province, P.R.China. ┇ 61.147.93.243
-trojan://ep5dmytn-pf2r-gtc4-oeu1-r754fxnd0q8q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://o786rex4-z9u7-3ufb-bmii-dgca0x4wlrxz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://o5g8rpvq-fz90-ocai-t5t1-esul63j1bd2x@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2xg3wj95-d7al-3sop-8fk8-237hd5ytnbuy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

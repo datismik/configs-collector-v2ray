@@ -1,6 +1,6 @@
-trojan://sa5wly9e-8njr-56wj-0863-3lyqe6t4ecnq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://kdxnwksx-ldwy-594s-v9ez-hrb8m1wbg8vw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o6bpcfuf-z9mr-770y-i8mm-iixr46gwk93a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://g8d5p55m-nh3j-s79c-ql2l-g6k14janjw22@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://aklm00ck-zv8q-9xtw-0tme-u0zbmx20d4u6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5fbgnjfb-v0xu-gia8-5hud-0r5xq4zr5r7y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@185.238.74.193:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-TLS - ZINET.NET.PL Sp. z.o.o. ┇ 185.238.74.193
-trojan://v8rcvha5-zxbo-eznw-789h-ac13dj3b8qsv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gsx46cd0-tu84-4by8-onii-qpbnzizt5crq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://vj5geek1-11fr-b2oq-mgin-fq9gomb5aj9m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5a2jf4s9-iv74-b91e-gjpq-5fpakn5kh793@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,11 +1,11 @@
-trojan://t6pjljhr-mbh5-f2ze-6s4k-mhntev2jr0tu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://h6np3lz2-o3ww-32xc-dkub-8kxwk7jqqbr4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kjkpomqf-qpu1-zzcz-usz0-4fycyncsm1tv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://008ed7c3-29a6-4187-a1a9-84a4533705a8@online.slashve.info:45468?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.51
+trojan://c0asyvcz-k3dy-9tb4-8xsu-3vdskf3zdlu6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://uuafmye8-d5wx-nnhc-n2wu-ivqtfowvmvu2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yoimmyxn-wfrt-dpj1-kjb1-20tme7qwww66@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://053381ac-6c3d-4272-ba3d-ca1f5220fb57@81.12.92.135:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.135
-vless://41f14179-648c-4554-963c-2c09d43e901f@fin7.ipstatic.info:34574?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.162.9
-vless://e5bf98ca-4d2d-45bd-b88d-b9491210bf03@81.12.92.228:17498?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.228
+vless://008ed7c3-29a6-4187-a1a9-84a4533705a8@online.slashve.info:45468?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.51
 vless://b976f215-3def-4271-8baa-511c4087cf17@sv1.provps.fun:443?type=tcp&security=none&path=/?---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.144
 vless://384be267-665d-40f6-a418-999bd2744fba@del.moon.od.taptaptoon.ir:1674?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.109
-trojan://e8vtez7k-a6ux-orxx-lv3e-4qgt17mka3fi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3mc61686-qr8g-67cy-pys6-hmcewiswdkjb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://e5bf98ca-4d2d-45bd-b88d-b9491210bf03@81.12.92.228:17498?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 81.12.92.228
+vless://41f14179-648c-4554-963c-2c09d43e901f@fin7.ipstatic.info:34574?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Shabakieh Isfahan Co PJSC ┇ 85.133.162.9
+trojan://kuta7zre-93y7-fkr3-z7nn-conpii358sv1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j2d964b3-691s-rrdp-9xww-k7uwzwqerhgh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

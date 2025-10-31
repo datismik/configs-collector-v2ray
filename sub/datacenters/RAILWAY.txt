@@ -1,8 +1,8 @@
-trojan://1c3ixqyw-c7z5-siln-8ezs-0v5aka2dauon@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://fxnxd5hd-qzfb-vlil-5qsd-vpiu80h914aq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://f1iys6lq-xflw-hes5-k88c-dapfrdgybwrp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9g5i35wj-rkes-cuyq-bcqm-af63r39mw3x4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://9t14p7b2-lm40-bpjm-8y5n-6thyrjohgf27@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://inv5ah89-ggf8-e1f0-6aey-0vxdvyb85jjm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@nl-raiv2mmr-telegram-join.up.railway.app:443?type=xhttp&security=tls&path=/@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - RAILWAY ┇ 66.33.22.122
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@join-raiv2mmr-telegram.up.railway.app:443?type=ws&security=tls&path=/@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr#US 🇺🇸 ┇ VLESS-WS-TLS - RAILWAY ┇ 66.33.22.58
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@us-raiv2mmr-telegram-join.up.railway.app:443?type=xhttp&security=tls&path=/@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr#US 🇺🇸 ┇ VLESS-XHTTP-TLS - RAILWAY ┇ 66.33.22.124
-trojan://2v69t4l3-gcm6-azqp-da3q-1rkvk5bis6aj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2ympc0nc-iklp-cwu9-9g9g-0c50uhqkphi2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://fzfkoopn-db29-t13f-ss2w-293racd2v074@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://saiw5mr8-ei33-8g8u-z3ck-a76xfqkl4sjk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

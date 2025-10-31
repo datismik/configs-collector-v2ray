@@ -1,7 +1,7 @@
-trojan://r01im5uc-oxbg-6b20-x6np-gokdsxrhcwk2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://smu99bmc-aobl-s9dw-4yt7-0wanzxu4vvef@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gee3cr70-jppv-y1la-mk50-3xo2r25g1uhy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cfbuwana-o5ka-vh0t-de3l-959m5heqrvay@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://ib3csuiw-99pr-oqzl-h6rb-ziqd6xafn7s6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mb9v4u9a-b62y-b4dn-idkj-kvy4b1v4km68@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9455a3a8-bc7b-4577-bef5-7a8757fdda13@74.63.11.211:1002?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik#PL 🇵🇱 ┇ VLESS-XHTTP-RLT - CloudFerro S.A ┇ 74.63.11.211
 vless://489d84ab-2895-4dea-adf2-8915349742b4@185.254.220.229:1002?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=O1Qz_PG-FGREdqahdH6ZjWADCK8n97IwszExalkxunk&sid=77a2017d25f1be8d#PL 🇵🇱 ┇ VLESS-XHTTP-RLT - CloudFerro S.A ┇ 185.254.220.229
-trojan://i3fdsopt-7jah-chke-kzle-y39v00rru2qg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://18d9lfua-u1rj-1495-isyl-alpeg5dln460@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://yjdnk17j-a74b-veyc-13o5-bry2zyy0v5hb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4j72som0-juw7-zy5i-nai0-ie2oflg20sz5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

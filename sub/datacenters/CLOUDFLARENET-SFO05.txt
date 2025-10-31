@@ -1,6 +1,6 @@
-trojan://s0qwjy57-rdy3-bgsu-2dfq-6c58rveyewg8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://y3ftqlg3-gbe5-f1l3-wkty-6y4ezgqzjm5q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://43ezzolv-0cce-zl3y-i6kb-fi1cf5rx160n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sk6kf1al-mvw4-8dcs-7x0k-6jvysfst9hp6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://lqibpz1i-z18a-2x0x-f3zc-c3n56clno8i4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i55t373z-j0dd-yyzl-hshu-o7qmw3wp72a9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@8.20.125.1:443?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CLOUDFLARENET-SFO05 ┇ 8.20.125.1
-trojan://det6r5sa-6da4-7831-bkfr-srhwnnm1hhs4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t90mkguw-0xju-lzi6-76ot-dcr7yrddbpfa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://9srv30du-q7f0-r0k0-jvw9-rqjyn8nymgks@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zhx6jvxw-nxr6-0rzv-vpzn-n3muh87do4nc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

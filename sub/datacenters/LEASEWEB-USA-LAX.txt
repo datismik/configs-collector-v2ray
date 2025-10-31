@@ -1,9 +1,9 @@
-trojan://ngqku9va-ryr8-pk1o-lfu8-wrva2bhjd430@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://4a27w3nq-vmig-eoy5-cxl8-a7n1unsqhho0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lcqzd8me-bcx4-0y32-yse0-69beirpcr6b1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://syq94nns-pcu9-hh57-wgjf-y6bhibg4ljx7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://x7jb29h8-as1b-07j7-igat-vrlyvlhsu9fq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4yp59f16-gzan-q02p-4w6d-c0a8vslozrzs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTEyOC1nY206Njg2MWZjYmMtMWY5NC00ZjVkLTg0ZDUtZTFjZGJhOTkxNTEz@23.80.80.22:45582#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.80.80.22
 vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@23.19.230.88:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.19.230.88
 ss://YWVzLTEyOC1nY206YmUwY2E1ODItZTg1OS00ODEzLWEzMGUtOGUzNjMxM2ZlYWY1@us01.dns-node.top:45581#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.80.80.18
 vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@23.80.81.249:8880?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.80.81.249
-ss://YWVzLTEyOC1nY206Njg2MWZjYmMtMWY5NC00ZjVkLTg0ZDUtZTFjZGJhOTkxNTEz@23.80.80.22:45582#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB-USA-LAX ┇ 23.80.80.22
-trojan://wggweruy-75dh-z5ox-njcz-ctkpecdqv2kf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8n1n6h2r-hdyz-gcst-ngjb-55xt6607ic9n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://hi7hco2a-c5fa-766v-b48u-8hc02f2c1s5v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wl6fp338-ihcw-zsl1-rvx6-r62vyvc5z84f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

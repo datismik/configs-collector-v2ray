@@ -1,7 +1,7 @@
-trojan://ib9j0sqf-0n2t-sl9q-8xl2-8q6n4m4ev7g7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://z676g2bv-1040-gkbl-vp5y-xkoxflqghbyo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1iyhel9j-yww1-ni8u-xnzf-unogcl8rgg0g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e281fd41-85fc-465e-9299-356e31ae57a4@connection07.evananet.com:45839?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sepanta Communication Development Co. Ltd ┇ 85.133.213.203
+trojan://82fbul5l-7wsa-xq92-gkot-ubcczjtfqfpl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://tmzpwk4o-kddf-4x6i-ht4k-rx5m9qmy5v9d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kczitvgi-ji37-7cim-c9d8-8pmj2gga5ei1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://715baa22-c4b5-4e20-a1ad-03a7e42b0e7e@connection03.evananet.com:19159?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sepanta Communication Development Co. Ltd ┇ 85.133.213.204
-trojan://llp15jij-rhg4-7ffy-auu8-fzxiw3e7145r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://36bd9nk6-swp3-7tcl-pe0y-jsa6moxewc6m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://e281fd41-85fc-465e-9299-356e31ae57a4@connection07.evananet.com:45839?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sepanta Communication Development Co. Ltd ┇ 85.133.213.203
+trojan://419yctqb-a0tj-7ms1-bh5p-t902y60k8lln@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mwfd0gbe-orr0-vmk5-1j5x-y3s6wuo66dzw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

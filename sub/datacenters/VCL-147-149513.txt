@@ -1,17 +1,17 @@
-trojan://vkgwdcle-8llm-4k05-v3vm-4r1t81q2edcx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://pbneuvzp-lbp7-84lb-ev2q-exud6mk21w3v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nxfkgbrs-rgjh-9g1g-443q-jqzezoxftpsn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?sni=wus04.weyaf9sdoh2h.space&peer=wus04.weyaf9sdoh2h.space&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 23.186.200.110
-trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-sg.04z3susick.download:5612?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.229
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?sni=wus05.weyaf9sdoh2h.space&peer=wus05.weyaf9sdoh2h.space&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 23.186.200.111
-trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-other.05vr9nyqg5.download:13036?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.193
-ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12008#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - VCL-147-149513 ┇ 103.181.165.246
-trojan://dce3c42b-f259-4b18-b5c1-a42ebef4e732@naiu-hk.05vr9nyqg5.download:13007?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.242
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?sni=wus02.weyaf9sdoh2h.space&peer=wus02.weyaf9sdoh2h.space&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 23.186.200.108
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVkNMLTE0Ny0xNDk1MTMgXHUyNTA3IDEwMy4xODEuMTY1LjIwMSIsImFkZCI6Im0uY25tamluLm5ldCIsInBvcnQiOjE2NjQ1LCJpZCI6ImVjZmNkZmIwLTJjOGQtNGMxOC05NDJkLTE4MGEyNjVmMzc4ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
+trojan://3bths9xy-xg3m-crg5-c58t-mp1uiiyuzvyy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://ujg5hg4o-zhjf-jmu3-nk2f-pbks68jlop5n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://70bih6rm-038d-v4sa-47m7-3r8wrk0bjyy5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?sni=wus03.weyaf9sdoh2h.space&peer=wus03.weyaf9sdoh2h.space&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 23.186.200.109
-ss://YWVzLTEyOC1nY206MmM4Y2ZjNDgtYzIxMS00OTczLWJjOTUtOWQ1MzJhYzQyYzM1@mdss-sg.04z3susick.download:12022#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - VCL-147-149513 ┇ 103.181.165.238
-trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-tw.04z3susick.download:5624?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.198
+trojan://dce3c42b-f259-4b18-b5c1-a42ebef4e732@naiu-hk.05vr9nyqg5.download:13007?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.193
+trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-other.05vr9nyqg5.download:13036?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.242
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?sni=wus02.weyaf9sdoh2h.space&peer=wus02.weyaf9sdoh2h.space&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 23.186.200.108
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?sni=wus01.weyaf9sdoh2h.space&peer=wus01.weyaf9sdoh2h.space&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 23.186.200.107
-trojan://c3ubd95e-4xgn-g7hb-5rde-6mz9jafn18qm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://83jm9yzp-7q6g-tlec-yluh-brlbrphsmbyx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-us.04z3susick.download:5627?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.229
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?sni=wus05.weyaf9sdoh2h.space&peer=wus05.weyaf9sdoh2h.space&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 23.186.200.111
+trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-jp.04z3susick.download:5618?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.198
+ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12008#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - VCL-147-149513 ┇ 103.181.165.246
+trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-tw.04z3susick.download:5623?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 103.181.165.199
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?sni=wus04.weyaf9sdoh2h.space&peer=wus04.weyaf9sdoh2h.space&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VCL-147-149513 ┇ 23.186.200.110
+ss://YWVzLTEyOC1nY206MmM4Y2ZjNDgtYzIxMS00OTczLWJjOTUtOWQ1MzJhYzQyYzM1@mdss-sg.04z3susick.download:12022#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - VCL-147-149513 ┇ 103.181.165.238
+trojan://8gjkml02-ybe7-qpos-eiyd-q6w5nua8dqtj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://474q2zey-mdpj-3ath-errn-x6iolpg5oco1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,8 +1,8 @@
-trojan://8me589z8-768b-9jgm-dytc-bhwsu8bjloew@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://275mv9l2-mdwe-g07n-ulzg-ef0wjcdhnbkc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lk8896vr-ajpz-a330-k53u-hr1mbeq4avuh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tz5c2019-graj-ieed-wopp-h0r8p1vowh55@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://x77erqgr-fa55-lzj3-cxw8-xzzltdgc0j1f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nmu5bqew-s9we-eyrg-xwy8-k1ox98blcbgs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://16b4fc8a-db23-4e3f-a610-1dccfe5d85d3@night-tr2.leperfume.ir:26985?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Muhammed Fatih ASAN ┇ 45.144.214.37
-vless://500d402b-648f-4d3b-a3ff-030519ddfc10@45.144.214.189:4286?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Muhammed Fatih ASAN ┇ 45.144.214.189
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBNdWhhbW1lZCBGYXRpaCBBU0FOIFx1MjUwNyA0NS4xMzguMTgzLjMyIiwiYWRkIjoib3JvdHJ1c3RibS5ydHB4Yy5jb20iLCJwb3J0Ijo1MTAzLCJpZCI6IjMyNjFlNjY1LTEyMzktNDlhMi05ZWRlLTk3OWY2NjQzMTNhZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwicGF0aCI6IjUxMDN2bWVzcyJ9
-trojan://ejm4sdfn-sr5d-i0pf-xh3h-bxf8ce66ptzp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://79vr8kss-1b4f-8zx3-unbm-wyqgseq6f6qh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://500d402b-648f-4d3b-a3ff-030519ddfc10@45.144.214.189:4286?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Muhammed Fatih ASAN ┇ 45.144.214.189
+trojan://2sgy2iz0-b7tb-5n6t-sfno-70zs3zaiflva@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6f1q94hz-5s19-zlgn-92pj-o76wmdwfl01v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

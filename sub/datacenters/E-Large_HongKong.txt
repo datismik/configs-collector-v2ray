@@ -1,6 +1,6 @@
-trojan://tlg4uk77-exx4-ytqx-k0x5-bwdi3d7l28do@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://xm1bykxc-habf-udz7-qs64-tzrpeolra3t9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7hdh9s6l-wfel-681g-qyug-ur7e4eegkajl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pwiiyb00-o1mi-tz35-xpye-kcc6zjgt9weu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://zftp0hch-kjhy-izjf-t75e-6uj1vmrfpjd2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rd2qgj8q-zh9j-w4fu-6d3m-dc858o09w9gy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@fin.monkeyisland.life:443?type=tcp&security=reality&sni=fin.monkeyisland.life&fp=chrome&flow=xtls-rprx-vision&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&sid=08aa0813199a4c38#IR 🇮🇷 ┇ VLESS-TCP-RLT - E-Large HongKong ┇ 213.176.17.153
-trojan://bom6f398-v09j-2d5z-rout-71w549878kdf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qg2a295w-6ier-kfs0-vn24-b96ohmsuqoek@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://0875g2p9-na9n-hd63-8sna-g3f38gd8ytp3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://czpe3va1-iuc3-l3jv-kuov-175pxtettspc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

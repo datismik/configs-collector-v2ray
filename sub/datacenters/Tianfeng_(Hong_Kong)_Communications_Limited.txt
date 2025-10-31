@@ -1,6 +1,6 @@
-trojan://u13adtfu-m3h7-zqqf-jzrt-0g3vlp18ct8c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://kqv5tz65-hhwe-b30j-f28d-fgt1pd9v71vd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rbyx1280-1zyx-1q16-pmbd-b7ar1k9hbbq6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://a8caba8p-lnm6-twbf-7lku-u1uwp8vzdpnz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://qoknykqp-lz9g-k95p-pkil-9w7z3kow2vop@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lvh9ctc0-ebgq-pjv3-1tu2-vrbduj6j5i6n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@sg2.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Tianfeng (Hong Kong) Communications Limited ┇ 128.241.229.59
-trojan://3s2g8lf2-xtbq-tkm5-fs8l-dd0n933szumk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sw3fflo3-wnb2-cb0y-asep-py8tnft8ue9i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://ttj6rngw-8j3i-o2y3-xujw-9tyo9yj0ye47@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2e4qky68-r5q4-nvow-3pen-kqo06erhsfyy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

@@ -1,25 +1,25 @@
-trojan://07sid8qa-drhr-shao-vfiq-w6kqb11tvv1g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://5itth891-h4ij-942v-p6xs-5thcjh5s6azg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hpxv399o-fim7-ivvl-4jq3-33yok0p0366j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3yr9zer7-t5g8-3cqc-laa0-om3rpx17jkd4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://yl0pwtpx-w0p7-k64c-c3d7-vb2r650os7ei@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9vkye4cs-mu8d-jeua-4lb5-sgytl6bs5dkh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://68bb20ad-d1e3-9b9e-09d6-a323da7a2128@45.159.148.79:6005?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.79
 vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?type=ws&security=none&path=/path#IR 🇮🇷 ┇ VLESS-WS-NTLS - Arshia Asadi ┇ 45.159.148.180
-vless://e4dc51a4-19ef-4efd-a335-7d317d59acd2@45.135.195.105:443?type=tcp&security=reality&sni=miro.com&fp=firefox&flow=xtls-rprx-vision&pbk=cZkE9fLafjDMmCYuzEtJc3BrO4gD2Hptj7H-UHWugwc&sid=58e7a9#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 45.135.195.105
-vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.172
-vless://9e284c20-d147-48f4-a4cd-dd72903d7407@tst.cyberteamapi.com:443?type=tcp&security=reality&sni=mdundo.com&fp=chrome&flow=xtls-rprx-vision&pbk=mg27CNAYLf_Ur6787uTVq_RVfKuiM5MVwbReFVDg5ks&sid=190d32b118caf07f#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 45.135.195.56
-vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.153:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.153
-vless://48505638-a27f-4d0c-bb1c-1b52adea0f83@free2026.niceserver.sbs:142?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.106
-vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.105:42157?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&sid=cd4457b1#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 195.254.165.105
-vless://41dcee5c-775d-4fa9-ba78-a17316ed3b54@45.159.148.84:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.84
-vless://0f636673-93b1-4289-b21d-4444227adf25@46.249.110.251:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386#AU 🇦🇺 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 46.249.110.251
-vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.104:42157?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&sid=cd4457b1#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 195.254.165.104
-vless://0f6b3594-b287-41cf-b21e-0a36915419d0@46.249.110.239:1626?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=W00lFZIKlJIvB72gsQ_VcnIfojArIGTwpcasNJnuwEE&sid=c827e82862a03011#AU 🇦🇺 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 46.249.110.239
-vless://18aeed6c-33c2-4be2-880e-a03c55daec37@client.kvm.iranpaydar.com:49810?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 195.254.165.253
-vless://0d828131-9220-4d1%65-f%657%61-495dc6b15b%65d@195.254.165.163:2052?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Arshia Asadi ┇ 195.254.165.163
-vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.76
 vless://1FuseVPN----------ProxyPJ@pj.bestirstorei.top:62000?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=BiugAGWpcH4kTwIsUDeRh83FPxapxYfLuh4Gpi1Qb3s&sid=116440bf#AU 🇦🇺 ┇ VLESS-GRPC-RLT - Arshia Asadi ┇ 46.249.110.171
-vless://41ccc2f6-e2ed-48b6-bb9f-bce8cbfc4f0d@45.135.195.227:8032?type=tcp&security=tls&sni=asanaf.ir#DE 🇩🇪 ┇ VLESS-TCP-TLS - Arshia Asadi ┇ 45.135.195.227
-vless://14380599-47c8-4cbc-b46f-ac2cd5f220ca@fast.dissertationhelpspecialist.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU&sid=44a3ef0168e834#AU 🇦🇺 ┇ VLESS-GRPC-RLT - Arshia Asadi ┇ 46.249.110.200
-vless://32d9e8d6-4cce-426a-a3f1-e2de37a0019a@45.135.195.3:44411?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.135.195.3
+vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.105:42157?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&sid=cd4457b1#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 195.254.165.105
 vless://b1dbfe09-108c-485f-aede-3e9b101d23cf@46.249.110.254:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386#AU 🇦🇺 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 46.249.110.254
-trojan://kilht00g-fpig-8j55-fiip-x021lgy47t90@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lw0idvjm-ozid-jerx-m31a-v8jos3o5j3bv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.76
+vless://9e284c20-d147-48f4-a4cd-dd72903d7407@tst.cyberteamapi.com:443?type=tcp&security=reality&sni=mdundo.com&fp=chrome&flow=xtls-rprx-vision&pbk=mg27CNAYLf_Ur6787uTVq_RVfKuiM5MVwbReFVDg5ks&sid=190d32b118caf07f#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 45.135.195.56
+vless://0d828131-9220-4d1%65-f%657%61-495dc6b15b%65d@195.254.165.163:2052?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Arshia Asadi ┇ 195.254.165.163
+vless://41dcee5c-775d-4fa9-ba78-a17316ed3b54@45.159.148.84:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.84
+vless://41ccc2f6-e2ed-48b6-bb9f-bce8cbfc4f0d@45.135.195.227:8032?type=tcp&security=tls&sni=asanaf.ir#DE 🇩🇪 ┇ VLESS-TCP-TLS - Arshia Asadi ┇ 45.135.195.227
+vless://0f636673-93b1-4289-b21d-4444227adf25@46.249.110.251:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386#AU 🇦🇺 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 46.249.110.251
+vless://18aeed6c-33c2-4be2-880e-a03c55daec37@client.kvm.iranpaydar.com:49810?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 195.254.165.253
+vless://48505638-a27f-4d0c-bb1c-1b52adea0f83@free2026.niceserver.sbs:142?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.106
+vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.104:42157?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&sid=cd4457b1#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 195.254.165.104
+vless://e4dc51a4-19ef-4efd-a335-7d317d59acd2@45.135.195.105:443?type=tcp&security=reality&sni=miro.com&fp=firefox&flow=xtls-rprx-vision&pbk=cZkE9fLafjDMmCYuzEtJc3BrO4gD2Hptj7H-UHWugwc&sid=58e7a9#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 45.135.195.105
+vless://14380599-47c8-4cbc-b46f-ac2cd5f220ca@fast.dissertationhelpspecialist.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU&sid=44a3ef0168e834#AU 🇦🇺 ┇ VLESS-GRPC-RLT - Arshia Asadi ┇ 46.249.110.200
+vless://0f6b3594-b287-41cf-b21e-0a36915419d0@46.249.110.239:1626?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=W00lFZIKlJIvB72gsQ_VcnIfojArIGTwpcasNJnuwEE&sid=c827e82862a03011#AU 🇦🇺 ┇ VLESS-TCP-RLT - Arshia Asadi ┇ 46.249.110.239
+vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.153:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.153
+vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.172
+vless://32d9e8d6-4cce-426a-a3f1-e2de37a0019a@45.135.195.3:44411?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.135.195.3
+trojan://yxzrplok-rvtl-rf3h-ih03-o4t4elmne0q5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t5gzz0cx-553c-t930-wdj1-zu04gmf04pz5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

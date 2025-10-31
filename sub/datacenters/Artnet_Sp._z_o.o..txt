@@ -1,11 +1,11 @@
-trojan://tx7vskma-1h1n-fghw-863o-5nl6g38jcbi6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://nbrqll7n-6ofx-q9ps-l6fm-u45i6xr5vp89@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://63ciysi5-2u4z-jilf-z7fk-xuo6aqo7sons@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@38.180.51.120:443?type=ws&security=tls&path=/snippets?ip=proxyip:port(443)&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn#PL 🇵🇱 ┇ VLESS-WS-TLS - Artnet Sp. z o.o. ┇ 38.180.51.120
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@194.15.196.66:5004#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 194.15.196.66
+trojan://200x8c4l-6rsv-3r6t-gp3u-jptz2h8p3idn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://pkb4a5b5-f0lg-f5uc-nsb7-9q5ns6mvx9yu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8v85rfqs-2pp5-8j1u-htzt-t6qf2i87i1h2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://3723507166611775488@91.206.179.73:443?sni=perfect-beagle.boa152.lol&peer=perfect-beagle.boa152.lol&security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - Artnet Sp. z o.o. ┇ 91.206.179.73
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@5.187.51.212:40030#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 5.187.51.212
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@194.15.196.66:5004#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 194.15.196.66
+vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@38.180.51.120:443?type=ws&security=tls&path=/snippets?ip=proxyip:port(443)&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn#PL 🇵🇱 ┇ VLESS-WS-TLS - Artnet Sp. z o.o. ┇ 38.180.51.120
 trojan://3648425794742788096@91.206.179.250:443?security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - Artnet Sp. z o.o. ┇ 91.206.179.250
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@178.255.45.189:43893#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 178.255.45.189
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@5.187.51.212:40030#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Artnet Sp. z o.o. ┇ 5.187.51.212
-trojan://htazpiq8-vm24-0ld0-ruwf-asszzusdtthv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8q57jsnb-dcrp-cyxo-rwy1-tbbbp6t9hfzd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://2zwgd9p1-4fcy-7no2-jjhw-zrz7jnoe5m61@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://08vwgbpi-040c-3j4k-jlg5-utgw80kp7r73@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

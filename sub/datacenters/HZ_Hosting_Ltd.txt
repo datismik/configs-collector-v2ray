@@ -1,13 +1,13 @@
-trojan://cjc4kx5p-6ln4-g72n-z7cv-rizurt555vcp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://58xff1zm-hz5e-ozwe-2aa1-kfxr3fwv5r82@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dmcrwvha-fvtu-0uju-suyf-xdjb3oecpyu0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e580d4d5-c6b8-48d9-8690-cf36de8a5a76@89.150.40.53:2052?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS - HZ Hosting Ltd ┇ 89.150.40.53
-vless://bd2eca28-6b79-4e31-9df8-2735b0ad016d@universal.vzletvpn.me:443?type=tcp&security=reality&sni=www.wikipedia.org&fp=chrome&flow=xtls-rprx-vision&pbk=e4-nfRK_7GEo-n5XKJS8B30p5o-GsPJSuLmN20r37wI&sid=1975f663#PL 🇵🇱 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 91.193.18.109
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncVBseTZzMUJOYU1sRm5oOVV4Y2F1@193.42.36.207:1125#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HZ Hosting Ltd ┇ 193.42.36.207
-vless://6927fce6-5837-4e22-bbab-f159cb6573ad@ultra.speedx3.info:8880?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.116.45
-vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?type=ws&security=none&path=/&fp=firefox#AE 🇦🇪 ┇ VLESS-WS-NTLS - HZ Hosting Ltd ┇ 185.253.116.79
-vless://4f614742-6ba2-4aa1-a69f-339aad2406ff@185.253.117.63:3037?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#BH 🇧🇭 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.117.63
+trojan://g3awq1u9-touc-82um-gjqf-x27b4f05fjum@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://nnp5mf17-u7sq-gozk-9ldi-167c671pqp6n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fh2p28wx-6b37-3b87-x31w-ommg9l9pehwp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://414df689-dc19-418b-849c-f0f15967d71e@uae.kitten-tube.com:443?type=tcp&security=reality&sni=adobe.com&fp=chrome&flow=xtls-rprx-vision&pbk=ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k&sid=4048A3da#AE 🇦🇪 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.116.178
+vless://bd2eca28-6b79-4e31-9df8-2735b0ad016d@universal.vzletvpn.me:443?type=tcp&security=reality&sni=www.wikipedia.org&fp=chrome&flow=xtls-rprx-vision&pbk=e4-nfRK_7GEo-n5XKJS8B30p5o-GsPJSuLmN20r37wI&sid=1975f663#PL 🇵🇱 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 85.158.109.70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncVBseTZzMUJOYU1sRm5oOVV4Y2F1@193.42.36.207:1125#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - HZ Hosting Ltd ┇ 193.42.36.207
+vless://4f614742-6ba2-4aa1-a69f-339aad2406ff@185.253.117.63:3037?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#BH 🇧🇭 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.117.63
+vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?type=ws&security=none&path=/&fp=firefox#AE 🇦🇪 ┇ VLESS-WS-NTLS - HZ Hosting Ltd ┇ 185.253.116.79
+vless://e580d4d5-c6b8-48d9-8690-cf36de8a5a76@89.150.40.53:2052?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS - HZ Hosting Ltd ┇ 89.150.40.53
 vless://2bc1eaaf-90ea-482c-8344-9b2d5baa260b@85.158.110.62:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 85.158.110.62
-trojan://gnj55y4u-d21g-vppq-bcf6-03gnhwpej5a8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lx1ol5tw-i053-1t9l-aash-39nj1ocn418k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://6927fce6-5837-4e22-bbab-f159cb6573ad@ultra.speedx3.info:8880?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 185.253.116.45
+trojan://57m0aifw-3e3l-g5hf-qwws-ndar3ziic8mr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j0880qls-awy3-f6v1-7tw6-5b8m8slxlqd5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

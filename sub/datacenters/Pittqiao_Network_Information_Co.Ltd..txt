@@ -1,13 +1,13 @@
-trojan://8ns8bfy5-lzjt-alae-2346-1vqsqigz7wjt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://f8v9tvab-acjg-beil-x51f-hl5u9nkt90ef@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8iqmzktq-ao1c-6v03-arw4-7t6mgqvhe0wm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@103.137.63.3:443?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Pittqiao Network Information Co.,Ltd. ┇ 103.137.63.3
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.170:443?type=tcp&security=reality&sni=github.githubassets.com&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#HK 🇭🇰 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.148.73.170
-vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUGl0dHFpYW8gTmV0d29yayBJbmZvcm1hdGlvbiBDby4sTHRkLiBcdTI1MDcgMTAzLjEyNy4yMTguOTEiLCJhZGQiOiIxMDMuMTI3LjIxOC45MSIsInBvcnQiOjU0NjkzLCJpZCI6IjFjZWYwM2FkLTYzNDMtNDA4Yy04MTIxLWNiZDFmZGEyZWU5ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzdmNmI2MTY4YjY@103.137.62.194:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Pittqiao Network Information Co.,Ltd. ┇ 103.137.62.194
-trojan://2edab136-f116-48d1-8c11-a01f98b71d8d@v3.nmcf.me:443?sni=v3.nmcf.me&peer=v3.nmcf.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Pittqiao Network Information Co.,Ltd. ┇ 103.127.219.165
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.137.247.92:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#TW 🇹🇼 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.137.247.92
+trojan://dnynt9s0-dizb-xlb1-oyhn-rz6r1pj3fvju@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://937g0hx8-4jya-9ehc-asnz-yo93oge6x6v8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://chjpksjz-v5yo-g8bx-9rsp-qnjydioki7zu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@103.148.72.147:1443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Pittqiao Network Information Co.,Ltd. ┇ 103.148.72.147
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.177:443?type=tcp&security=reality&sni=cdn77.api.userway.org&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#HK 🇭🇰 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.148.73.177
-trojan://mu0koetr-6n5q-tx4r-whai-xb9lzvjsqm6a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://akm1cune-c4xd-bvva-z3s4-hocmf3vvzri7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://Aimer@103.137.63.3:443?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Pittqiao Network Information Co.,Ltd. ┇ 103.137.63.3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzdmNmI2MTY4YjY@103.137.62.194:443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Pittqiao Network Information Co.,Ltd. ┇ 103.137.62.194
+vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUGl0dHFpYW8gTmV0d29yayBJbmZvcm1hdGlvbiBDby4sTHRkLiBcdTI1MDcgMTAzLjEyNy4yMTguOTEiLCJhZGQiOiIxMDMuMTI3LjIxOC45MSIsInBvcnQiOjU0NjkzLCJpZCI6IjFjZWYwM2FkLTYzNDMtNDA4Yy04MTIxLWNiZDFmZGEyZWU5ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.137.247.92:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#TW 🇹🇼 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.137.247.92
+trojan://2edab136-f116-48d1-8c11-a01f98b71d8d@v3.nmcf.me:443?sni=v3.nmcf.me&peer=v3.nmcf.me&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Pittqiao Network Information Co.,Ltd. ┇ 103.127.219.165
+vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.170:443?type=tcp&security=reality&sni=github.githubassets.com&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#HK 🇭🇰 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.148.73.170
+trojan://fhlf6a5n-74ve-pg3d-tj3d-4slxii7z1dyh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t65reurk-c07h-33m3-g17j-uzguzuqyubk8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

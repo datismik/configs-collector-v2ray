@@ -1,9 +1,9 @@
-trojan://0t2vbaiy-8906-cocz-6kin-xut05kos2hjd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://vbsl95hu-uhpk-re6y-2e3a-ruv22zy0fwkx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6jeyck6l-okpc-cte1-8enb-jfjmtv1ok92n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://w8x38ndg-gdsj-92si-nsds-1zjaie9hm3nw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://7qzavsvz-zmu5-6fgh-t9mi-6c7pot8chh6e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://43ya560v-57pr-wc3s-4exw-uo61m7fqrep7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://41467dbf-b496-4b28-93a1-425ef36084b7@37.32.43.27:5110?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.27
 vless://7ee9482b-18d1-478f-8208-1395c80048c4@entekhabat.iran.asiatech.numfour.iranvatanam.com:999?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.154
-vless://28389a75-ec06-412c-8d88-8a217b28b88d@entekhabat.iran.asiatech.numthree.iranvatanam.com:310?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.151
 vless://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.209
-trojan://q1fancig-4z82-c2gb-70f9-g95ctme4n7c1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kwfz3due-5bdm-t4dr-qoxc-hjgk2vvgjjdu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://28389a75-ec06-412c-8d88-8a217b28b88d@entekhabat.iran.asiatech.numthree.iranvatanam.com:310?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.151
+trojan://ldx8fs7o-ezvr-yutg-rg7k-1ogz78rw13wx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://595rrpr8-744y-hpx1-vz5g-4c8y8j98uhy8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0

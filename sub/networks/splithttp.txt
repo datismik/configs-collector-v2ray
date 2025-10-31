@@ -1,8 +1,7 @@
-trojan://rjetwbc1-alzm-vrzs-mgcg-womb3373ct7j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 16:21 ]
-trojan://92l1nc28-5c76-n0ze-sqee-lqs72xnvy1o8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1infvojj-nmzy-f1sj-8434-67valwftzm9l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1TUExJVEhUVFAtTlRMUyAtIEZBU1RMWSBcdTI1MDcgMTUxLjEwMS42Ny44IiwiYWRkIjoiZnJlZS5mYXN0bHk4MC5ob3N0aW5nLWlwLmNvbSIsInBvcnQiOjgwLCJpZCI6IjI2NTVmMDY3LTI0MDItNDE1YS05NzQyLTRjMzYxOTJlNTM2ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InNwbGl0aHR0cCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8/ZWQ9MjA0OCJ9
-vless://60c245ce-18c0-429b-9653-1bb5efe105c1@87.248.133.220:23079?type=splithttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-SPLITHTTP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.133.220
+trojan://tmnvb0st-e9ky-imlb-4wka-zub2104q8ryk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-10-31 | 17:11 ]
+trojan://ti1ezqoh-vs3e-smma-j1c0-cx0pix2ihjtq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fmnfqe74-r5vy-a94f-x64c-aoffevn1gh20@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5931f598-e766-4829-9e3b-89406b6b3606@89.187.183.14:443?type=splithttp&security=tls&sni=client.cdn77.com&fp=randomized#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 89.187.183.14
-trojan://eyl1l443-0cye-xhgs-wl8n-xf0m8hbsqikx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://me56v3f2-a1gg-vbsu-l71s-8isogv2hrl5v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+vless://60c245ce-18c0-429b-9653-1bb5efe105c1@87.248.133.220:23079?type=splithttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-SPLITHTTP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.133.220
+trojan://b9n5vwwu-fpt6-bwfq-p1fm-1d4cod65hpew@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nwuhoj33-pcoo-wsx6-4wjw-axrkwxu6h652@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
